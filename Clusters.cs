@@ -11,7 +11,7 @@ namespace LumeAI
 {
     class Clusters
     {
-        public static void GetClusters(string datasetPath, string outputFilePath)
+        public static void GetClusters(string datasetPath, string outputFilePath, string modelPath)
         {
             // Inicializa o contexto, seed serve para os resultados serem reprodutíveis sempre, sempre são os mesmos
             var mlContext = new MLContext(seed: 1);
@@ -174,6 +174,10 @@ namespace LumeAI
 
             // Aplica o modelo treinado nos dados transformados, em essência, atribui um ClusterId para cada filme
             var predictionsDataView = model.Transform(transformedData);
+
+            // Salva o modelo treinado em um arquivo .zip
+            mlContext.Model.Save(model, transformedData.Schema, modelPath);
+
 
             // 
             var predictions = mlContext.Data.CreateEnumerable<MovieClusterPrediction>(predictionsDataView, reuseRowObject: false)
