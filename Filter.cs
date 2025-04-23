@@ -80,7 +80,11 @@ namespace LumeAI
                 {
                     // Remove espaços após vírgulas para ele não tratar "Gênero" e " Gênero" diferente
                     m.Genres = m.Genres?.Replace(", ", ",");
+                    m.ProductionCompanies = m.ProductionCompanies?.Replace(", ", ",");
+                    m.ProductionCountries = m.ProductionCountries?.Replace(", ", ",");
+                    m.SpokenLanguages = m.SpokenLanguages?.Replace(", ", ",");
                     m.Keywords = m.Keywords?.Replace(", ", ",");
+
 
                     // Remove todas as palavras-chave que estão na lista cinza
                     // OBS: Repensar se vale a pena de fato remover elas, pois talvez sejam úteis de exibir na tela depois
@@ -121,7 +125,12 @@ namespace LumeAI
                     };
                 });
 
-            using var newCsv = new CsvWriter(writer, new CsvConfiguration(CultureInfo.InvariantCulture));
+
+
+            using var newCsv = new CsvWriter(writer, new CsvConfiguration(CultureInfo.InvariantCulture)
+            {
+                ShouldQuote = args => true,
+            });
 
             newCsv.WriteHeader<MovieData>();
             newCsv.NextRecord();
