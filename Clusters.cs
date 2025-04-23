@@ -27,7 +27,6 @@ namespace LumeAI
                 allowSparse: false // Não permite dados esparsos 
                 );
 
-
             // Pipeline de conversão dos dados brutos em dados vetorizados, o tipo de dado que a IA entende
             // Essa parte vai ter vários Appends, que são como se fossem "passos" de transformação
             // Aqui, a gente vai transformar cada coluna relevante em um vetor de números para a IA entender
@@ -38,41 +37,18 @@ namespace LumeAI
                 .Text.FeaturizeText("GenreFeatures", nameof(MovieData.Genres))
                 // 1.2 Transforma as palavras-chaves em texto vetorizado
                 .Append(mlContext.Transforms.Text.FeaturizeText("KeywordFeatures", nameof(MovieData.Keywords)))
-                // 1.3 Transforma os países de produção em texto vetorizado
-                .Append(mlContext.Transforms.Text.FeaturizeText("CountryFeatures", nameof(MovieData.ProductionCountries)))
-                // 1.4 Transforma o idioma original em texto vetorizado
-                .Append(mlContext.Transforms.Text.FeaturizeText("LanguageFeatures", nameof(MovieData.OriginalLanguage)))
 
-                // 2. Etapas numéricas
-                // 2.1 Converte a quantidade de votos de int para Single, tipo aceito pelo KMeans
-                .Append(mlContext.Transforms.Conversion.ConvertType(
-                    outputColumnName: "VoteCountFloat",
-                    inputColumnName: nameof(MovieData.VoteCount),
-                    outputKind: DataKind.Single))
-
-                // 2.2 Junta as variáveis numéricas numa só
-                .Append(mlContext.Transforms.Concatenate("NumericFeatures",
-                    nameof(MovieData.VoteAverage), // Nota
-                    "VoteCountFloat", // Quantidade de votos (já convertida para Single)
-                    nameof(MovieData.ReleaseYear), // Ano de lançamento mais vezes para ter mais peso
-                    nameof(MovieData.ReleaseYear), // OBS: Talvez seja melhor avaliar na etapa pós escolha de clusters
-                    nameof(MovieData.ReleaseYear),
-                    nameof(MovieData.ReleaseYear),
-                    nameof(MovieData.ReleaseYear))
-                // 2.3 Normaliza os dados numéricos, convertendo para o intervalo [0, 1] que a IA entende
-                .Append(mlContext.Transforms.NormalizeMinMax("NumericFeatures"))
-
-                // 3. Aplicação de peso para as etapas textuais
-                // 3.1 Aplicação de peso nos gêneros
+                // 2. Aplicação de peso para as etapas textuais ( 3 de gêneros para 2 de palavras-chave)
+                // 2.1 Aplicação de peso nos gêneros
                 .Append(mlContext.Transforms.Concatenate("WeightedGenreFeatures",
-                    "GenreFeatures", "GenreFeatures", "GenreFeatures", "GenreFeatures", "GenreFeatures", "GenreFeatures", "GenreFeatures", "GenreFeatures", "GenreFeatures"))
-                // 3.2 Aplicação de peso nas palavras-chave
+                    "GenreFeatures", "GenreFeatures", "GenreFeatures"))
+                // 2.2 Aplicação de peso nas palavras-chave
                 .Append(mlContext.Transforms.Concatenate("WeightedKeywordFeatures",
-                    "KeywordFeatures", "KeywordFeatures", "KeywordFeatures", "KeywordFeatures", "KeywordFeatures", "KeywordFeatures"))
+                    "KeywordFeatures", "KeywordFeatures"))
 
-                // 4. Junção de todos os dados vetorizados em um só vetor final chamado "Features"
+                // 3. Junção de todos os dados vetorizados em um só vetor final chamado "Features"
                 .Append(mlContext.Transforms.Concatenate("Features",
-                    "WeightedGenreFeatures", "KeywordFeatures", "NumericFeatures", "CountryFeatures", "LanguageFeatures")));
+                    "WeightedGenreFeatures", "WeightedKeywordFeatures"));
 
 
             // Aplica a transformação anterior no DataView
@@ -83,7 +59,7 @@ namespace LumeAI
             {
                 FeatureColumnName = "Features", // Nome da coluna que vai ser usada, resultante do pipeline
                 NumberOfClusters = 90, // Número de clusters desejados, fórmula: x ~= sqrt(n/2)
-                MaximumNumberOfIterations = 100, // Número máximo de iterações, ou seja, a quantidade de vezes que o K-means vai tentar ajustar os centróides dos clusters
+                MaximumNumberOfIterations = 150, // Número máximo de iterações, ou seja, a quantidade de vezes que o K-means vai tentar ajustar os centróides dos clusters
             };
 
             // Instanciamos o treinador da IA, passando as opções
