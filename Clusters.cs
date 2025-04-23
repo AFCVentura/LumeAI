@@ -16,97 +16,16 @@ namespace LumeAI
             // Inicializa o contexto, seed serve para os resultados serem reprodutíveis sempre, sempre são os mesmos
             var mlContext = new MLContext(seed: 1);
 
-            // Caminho do seu arquivo CSV
-            string dataPath = datasetPath;
 
             // Carregar os dados do csv para uma estrutura chamada dataView
             // Note que é passado um tipo MovieData, que é uma classe que representa a estrutura dos dados
-            var rawDataView = mlContext.Data.LoadFromTextFile<RawMovieData>(
-                path: dataPath, // caminho do csv
+            var dataView = mlContext.Data.LoadFromTextFile<MovieData>(
+                path: datasetPath, // caminho do csv
                 hasHeader: true, // tem cabeçalho no csv?
                 separatorChar: ',', // separador de colunas
                 allowQuoting: true, // permite campos entre aspas? (essêncial, nosso csv tem aspas)
                 allowSparse: false // Não permite dados esparsos 
                 );
-
-            // lista negra: palavras-chave que definem obras que devem ser removidas na filtragem
-            HashSet<string> blacklistedKeywords = new HashSet<string>
-            {
-                "stand-up comedy", "concert", "reality show", "live performance", "concert film"
-            };
-
-            // Lista cinza: palavras-chave que devem ser ignoradas pelo k-means
-            HashSet<string> greylistedKeywords = new HashSet<string>(StringComparer.OrdinalIgnoreCase)
-            {
-                "based on true story",
-                "biography",
-                "based on novel",
-                "based on novel or book",
-                "based on young adult novel",
-                "based on children's book",
-                "based on short story",
-                "based on video game",
-                "based on tv series",
-                "based on myths",
-                "based on comic",
-                "based on play or musical",
-                "based on memoir or autobiography",
-                "woman director",
-                "aftercreditsstinger",
-                "duringcreditsstinger",
-                "sequel"
-            };
-
-            // Filtragem dos principais dados
-            var filteredEnumerable = mlContext.Data
-            .CreateEnumerable<RawMovieData>(rawDataView, reuseRowObject: false)
-            // Filtros do filme
-            .Where(m => m.VoteAverage >= 5.5f && // Tem que ter a nota acima de 5.5
-                        m.VoteCount >= 150 && // Tem que ter pelo menos 150 avaliações
-                        m.Adult == false && // Não pode ser filme adulto
-                        m.Status == "Released" && // Tem que ter sido lançado
-                        m.PosterPath is not null && // Tem que ter um poster
-                        !string.IsNullOrWhiteSpace(m.Keywords) && // Não pode ter o campo keywords vazio
-                        !m.Keywords
-                            .Replace(", ", ",") // normaliza os separadores
-                            .Split(',')
-                            .Any(k => blacklistedKeywords.Contains(k.Trim()))) // Ñão pode ter alguma keyword que esteja na lista negra
-            // Tratamentos extras dos filmes
-            .Select(m =>
-            {
-                // Remove espaços após vírgulas para ele não tratar "Gênero" e " Gênero" diferente
-                m.Genres = m.Genres?.Replace(", ", ",");
-                m.Keywords = m.Keywords?.Replace(", ", ",");
-
-                // Remove todas as palavras-chave que estão na lista cinza
-                // OBS: Repensar se vale a pena de fato remover elas, pois talvez sejam úteis de exibir na tela depois
-                var keywords = m.Keywords.Split(',', StringSplitOptions.RemoveEmptyEntries)
-                                             .Select(k => k.Trim())
-                                             .Where(k => !greylistedKeywords.Contains(k));
-
-                // Junta as palavras chaves depois de ter separado para tirar as da lista cinza
-                m.Keywords = string.Join(",", keywords);
-
-                // Retorna o filme passado pela filtragem
-                return new MovieData
-                {
-                    Title = m.Title,
-                    VoteAverage = m.VoteAverage,
-                    VoteCount = m.VoteCount,
-                    Status = m.Status,
-                    ReleaseDate = m.ReleaseDate,
-                    Adult = m.Adult,
-                    OriginalLanguage = m.OriginalLanguage,
-                    PosterPath = m.PosterPath,
-                    Genres = m.Genres,
-                    ProductionCountries = m.ProductionCountries,
-                    Keywords = m.Keywords,
-                    ReleaseYear = DateTime.TryParse(m.ReleaseDate, out var date) ? date.Year : 0
-                };
-            });
-
-            // Carregar os dados filtrados em um DataView
-            var filteredDataView = mlContext.Data.LoadFromEnumerable(filteredEnumerable);
 
 
             // Pipeline de conversão dos dados brutos em dados vetorizados, o tipo de dado que a IA entende
@@ -156,8 +75,8 @@ namespace LumeAI
                     "WeightedGenreFeatures", "KeywordFeatures", "NumericFeatures", "CountryFeatures", "LanguageFeatures")));
 
 
-            // Aplica a transformação anterior no DataView filtrado
-            var transformedData = pipeline.Fit(filteredDataView).Transform(filteredDataView);
+            // Aplica a transformação anterior no DataView
+            var transformedData = pipeline.Fit(dataView).Transform(dataView);
 
             // Configurando as variáveis do treinamento via K-means
             var options = new KMeansTrainer.Options
@@ -169,6 +88,7 @@ namespace LumeAI
 
             // Instanciamos o treinador da IA, passando as opções
             var trainer = mlContext.Clustering.Trainers.KMeans(options);
+
             // Mandamos o treinador treinar o modelo, passando os dados transformados
             var model = trainer.Fit(transformedData);
 
@@ -179,7 +99,10 @@ namespace LumeAI
             mlContext.Model.Save(model, transformedData.Schema, modelPath);
 
 
-            // 
+            // Cria enumerable a partir do DataView
+            var filteredEnumerable = mlContext.Data.CreateEnumerable<MovieData>(dataView, reuseRowObject: false);
+
+            //
             var predictions = mlContext.Data.CreateEnumerable<MovieClusterPrediction>(predictionsDataView, reuseRowObject: false)
                 .Zip(filteredEnumerable, (prediction, movie) => new
                 {
