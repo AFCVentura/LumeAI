@@ -15,7 +15,7 @@ namespace LumeAI
         [LoadColumn(2)] public float VoteAverage { get; set; }
         [LoadColumn(3)] public int VoteCount { get; set; }
         [LoadColumn(4)] public string Status { get; set; }
-        [LoadColumn(5)] public float ReleaseYear { get; set; }
+        [LoadColumn(5)] public int ReleaseYear { get; set; }
         [LoadColumn(6)] public long Revenue { get; set; }
         [LoadColumn(7)] public float Runtime { get; set; }
         [LoadColumn(8)] public bool Adult { get; set; }

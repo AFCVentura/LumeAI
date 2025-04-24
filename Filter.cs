@@ -2,6 +2,10 @@
 using System.Globalization;
 using Microsoft.ML;
 using CsvHelper.Configuration;
+using static System.Net.Mime.MediaTypeNames;
+using System.Reflection.PortableExecutable;
+using System.Runtime.CompilerServices;
+using System.Xml.Linq;
 
 namespace LumeAI
 {
@@ -21,12 +25,16 @@ namespace LumeAI
             using var reader = new StreamReader(inputPath);
             using var writer = new StreamWriter(outputPath);
 
+            // Dica: Você pode minimizar a região, aí esconde esse monte de código e fica mais fácil de ler
+            #region Lista Negra
             // lista negra: Palavras-chave que definem obras que devem ser removidas na filtragem
             HashSet<string> blacklistedKeywords = new HashSet<string>
             {
                 "stand-up comedy", "concert", "reality show", "live performance", "concert film"
             };
-
+            #endregion
+            // Dica: Você pode minimizar a região, aí esconde esse monte de código e fica mais fácil de ler
+            #region Lista Cinza
             // Lista cinza: palavras-chave que devem ser ignoradas pelo k-means (no momento estão sendo removidas)
             HashSet<string> greylistedKeywords = new HashSet<string>(StringComparer.OrdinalIgnoreCase)
             {
@@ -46,8 +54,75 @@ namespace LumeAI
                 "woman director",
                 "aftercreditsstinger",
                 "duringcreditsstinger",
-                "sequel"
+                "sequel",
+                // USA
+                "new york city",
+                "los angeles",
+                "chicago",
+                "louisiana",
+                "florida",
+                "usa",
+                "illinois",
+                "san francisco",
+                "alabama",
+                "alaska",
+                "arizona",
+                "arkansas",
+                "california",
+                "colorado",
+                "connecticut",
+                "delaware",
+                "florida",
+                "georgia",
+                "hawaii",
+                "idaho",
+                "illinois",
+                "indiana",
+                "iowa",
+                "kansas",
+                "kentucky",
+                "louisiana",
+                "maine",
+                "maryland",
+                "massachusetts",
+                "michigan",
+                "minnesota",
+                "mississippi",
+                "missouri",
+                "montana",
+                "nebraska",
+                "nevada",
+                "new hampshire",
+                "new jersey",
+                "new mexico",
+                "new york",
+                "north carolina",
+                "north dakota",
+                "ohio",
+                "oklahoma",
+                "oregon",
+                "pennsylvania",
+                "rhode island",
+                "south carolina",
+                "south dakota",
+                "tennessee",
+                "texas",
+                "utah",
+                "vermont",
+                "virginia",
+                "washington",
+                "west virginia",
+                "wisconsin",
+                "wyoming",
+                // UK
+                "london",
+                "england",
+                // Outros
+                "france",
+                "paris",
+
             };
+            #endregion
 
             // Configura a leitura do CSV 
             using var csv = new CsvReader(reader, new CsvConfiguration(CultureInfo.InvariantCulture)

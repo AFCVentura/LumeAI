@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 using Microsoft.ML;
 using Microsoft.ML.Data;
@@ -11,11 +12,10 @@ namespace LumeAI
 {
     class Clusters
     {
-        public static void GetClusters(string datasetPath, string outputFilePath, string modelPath)
+        public static void GetClusters(string datasetPath, string outputDataPath, string modelPath)
         {
             // Inicializa o contexto, seed serve para os resultados serem reprodutíveis sempre, sempre são os mesmos
             var mlContext = new MLContext(seed: 1);
-
 
             // Carregar os dados do csv para uma estrutura chamada dataView
             // Note que é passado um tipo MovieData, que é uma classe que representa a estrutura dos dados
@@ -78,33 +78,138 @@ namespace LumeAI
             // Cria enumerable a partir do DataView
             var filteredEnumerable = mlContext.Data.CreateEnumerable<MovieData>(dataView, reuseRowObject: false);
 
-            //
-            var predictions = mlContext.Data.CreateEnumerable<MovieClusterPrediction>(predictionsDataView, reuseRowObject: false)
-                .Zip(filteredEnumerable, (prediction, movie) => new
-                {
-                    movie.Title,
-                    movie.PosterPath,
-                    movie.VoteAverage,
-                    movie.Genres,
-                    movie.Keywords,
-                    movie.VoteCount,
-                    movie.ReleaseYear,
-                    prediction.ClusterId
-                })
-                .GroupBy(x => x.ClusterId);
-
-            foreach (var cluster in predictions)
+            // Cria uma lista de itens que é uma mistura de alguns dados dos filmes (apenas os relevantes pro relatório) e o ClusterId desses filmes
+            var predictionList = mlContext.Data.CreateEnumerable<MovieClusterPrediction>(predictionsDataView, reuseRowObject: false)
+            .Zip(filteredEnumerable, (prediction, movie) => new Predictions
             {
-                Console.WriteLine($"\nCluster {cluster.Key}:");
-                foreach (var item in cluster.Take(10)) // Mostra os 10 primeiros do cluster
-                    Console.WriteLine($" - {item.Title}");
+                Title = movie.Title,
+                PosterPath = movie.PosterPath,
+                VoteAverage = movie.VoteAverage,
+                Genres = movie.Genres,
+                Keywords = movie.Keywords,
+                VoteCount = movie.VoteCount,
+                ReleaseYear = movie.ReleaseYear,
+                ClusterId = prediction.ClusterId
+            })
+            .ToList();
+
+            // Salva os dados dos filmes em JSON
+            var json = JsonSerializer.Serialize(predictionList, new JsonSerializerOptions { WriteIndented = true });
+            File.WriteAllText(outputDataPath, json);
+        }
+
+        public static void GenerateReport(string inputDataPath, string outputReportPath)
+        {
+            // Acessa o JSON e deserializa
+            var json = File.ReadAllText(inputDataPath);
+            var clusteredMovies = JsonSerializer.Deserialize<List<Predictions>>(json);
+            var groupedClusters = clusteredMovies.GroupBy(m => m.ClusterId);
+
+
+            // Imprime os clusters e a quantidade de filmes no console
+            Console.WriteLine();
+            foreach (var cluster in groupedClusters.OrderBy(c => c.Key))
+            {
+                Console.WriteLine($"Cluster {cluster.Key}: {cluster.ToList().Count}");
             }
 
-            var clusterReportPath = outputFilePath;
+            // Cria o caminho do relatório
+            var clusterReportPath = outputReportPath;
 
+            // Começa a escrever o relatório em markdown
             using (var writer = new StreamWriter(clusterReportPath, false))
             {
-                foreach (var cluster in predictions.OrderBy(c => c.Key))
+
+                IDictionary<uint, int> biggestCLuster;
+                IDictionary<uint, int> smallestCLuster;
+                IDictionary<uint, int> bestCLuster;
+                IDictionary<uint, int> worstCLuster;
+
+                IDictionary<string, int> amountOfClustersWithEachGenre = new Dictionary<string, int>
+                {
+                    { "drama", 0 },
+                    { "documentary", 0 },
+                    { "comedy", 0 },
+                    { "animation", 0 },
+                    { "horror", 0 },
+                    { "romance", 0 },
+                    { "music", 0 },
+                    { "thriller", 0 },
+                    { "action", 0 },
+                    { "crime", 0 },
+                    { "family", 0 },
+                    { "tv movie", 0 },
+                    { "adventure", 0 },
+                    { "fantasy", 0 },
+                    { "science fiction", 0 },
+                    { "mystery", 0 },
+                    { "history", 0 },
+                    { "war", 0 },
+                    { "western", 0 }
+                };
+
+                foreach (var cluster in groupedClusters.OrderBy(c => c.Key))
+                {
+                    var filmes = cluster.ToList();
+                    var total = filmes.Count;
+
+
+                    // Gêneros mais comuns
+                    var topGeneros = filmes
+                    .SelectMany(f => f.Genres.Split(',')) // troque para f.Genres se você tiver esse campo no objeto
+                    .GroupBy(g => g)
+                    .OrderByDescending(g => g.Count())
+                    .Select(g => g.Key.ToLower());
+
+                    foreach (var genre in topGeneros)
+                    {
+                        if (amountOfClustersWithEachGenre.ContainsKey(genre))
+                        {
+                            amountOfClustersWithEachGenre[genre]++;
+                        }
+                    }
+
+                    var topKeywords = filmes
+                        .SelectMany(f => f.Keywords.Split(','))
+                        .GroupBy(k => k)
+                        .OrderByDescending(k => k.Count())
+                        .Take(15)
+                        .Select(k => $"{k.Key} ({k.Count()})");
+
+                }
+                writer.WriteLine("Gêneros mais comuns (número de aparições nos clusters)\r\n");
+
+                foreach (var genre in amountOfClustersWithEachGenre.OrderByDescending(g => g.Value))
+                {
+                    writer.WriteLine($"* {genre.Key}: {genre.Value}");
+                }
+
+                writer.WriteLine("\nVersão resumida dos clusters");
+                foreach (var cluster in groupedClusters.OrderBy(c => c.Key))
+                {
+                    var filmes = cluster.ToList();
+                    var total = filmes.Count;
+
+                    // Gêneros mais comuns
+                    var topGeneros = filmes
+                        .SelectMany(f => f.Genres.Split(',')) // troque para f.Genres se você tiver esse campo no objeto
+                        .GroupBy(g => g)
+                        .Where(g => g.Count() > total / 5)
+                        .OrderByDescending(g => g.Count())
+                        .Select(g => $"{g.Key} ({g.Count() * 100 / total}%)");
+
+                    var topKeywords = filmes
+                        .SelectMany(f => f.Keywords.Split(','))
+                        .GroupBy(k => k)
+                        .Where(k => k.Count() > total / 5)
+                        .OrderByDescending(k => k.Count())
+                        .Select(k => $"{k.Key} ({k.Count() * 100 / total}%)");
+
+                    writer.WriteLine($"* Cluster {cluster.Key}. Total: {total}");
+                    writer.WriteLine($"\t* {string.Join(", ", topGeneros)}");
+                    writer.WriteLine($"\t* {(topKeywords.Count() != 0 ? string.Join(", ", topKeywords) : "nenhuma palavra-chave relevante")} \n");
+                }
+                foreach (var cluster in groupedClusters.OrderBy(c => c.Key))
                 {
                     var filmes = cluster.ToList();
                     var total = filmes.Count;
@@ -114,7 +219,6 @@ namespace LumeAI
                         .SelectMany(f => f.Genres.Split(',')) // troque para f.Genres se você tiver esse campo no objeto
                         .GroupBy(g => g)
                         .OrderByDescending(g => g.Count())
-                        .Take(5)
                         .Select(g => $"{g.Key} ({g.Count()})");
 
                     var topKeywords = filmes

@@ -6,17 +6,30 @@
         {
             var filter = new Filter();
 
-            // Caminho do arquivo CSV
-            string datasetFilePath = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\dataset.csv";
-            string filteredDatasetFilePath = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\datasetFiltered.csv";
+            // Caminho da base original
+            string caminhoDatasetOriginal = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\dataset.csv";
 
-            //filter.FiltrarEExportarCsv(datasetFilePath, filteredDatasetFilePath);
+            // Caminho da base depois de filtrada
+            string caminhoDatasetFiltrado = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\datasetFiltrado.csv";
 
-            string outputFilePath = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\outputClustersFile.md";
-            string modelPath = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\modeloTreinado.zip";
+            // Caminho do modelo da IA
+            string caminhoModeloIA = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\modeloTreinado.zip";
+
+            // Caminho do json para gerar relatório
+            string caminhoJsonRelatorio = "c:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\dadosParaRelatorio.json";
+
+            // Caminho do Relatório
+            string caminhoRelatorio = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\relatorio.md";
 
 
-            Clusters.GetClusters(filteredDatasetFilePath, outputFilePath, modelPath);
+            // Filtrando...
+            //filter.FiltrarEExportarCsv(caminhoDatasetOriginal, caminhoDatasetFiltrado);
+
+            // Treinando...
+            //Clusters.GetClusters(caminhoDatasetFiltrado, caminhoJsonRelatorio, caminhoModeloIA);
+
+            // Gerando Relatório...
+            Clusters.GenerateReport(caminhoJsonRelatorio, caminhoRelatorio);
         }
     }
 }
