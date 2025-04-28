@@ -3,7 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-Resources/
+Resources/dadosParaRelatorio.json
+Resources/dataset.csv
+Resources/datasetFiltrado.csv
+Resources/modeloTreinado.zip
 appsettings.Development.json
 
 # User-specific files
