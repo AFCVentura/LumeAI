@@ -1,4 +1,5 @@
 ﻿using LumeAI.Data;
+using LumeAI.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
@@ -41,13 +42,13 @@ namespace LumeAI
 
 
             // Filtrando...
-            FiltersAlgorithm.FiltrarEExportarCsv(caminhoDatasetOriginal, caminhoDatasetFiltrado);
+            MovieFilterService.FiltrarEExportarCsv(caminhoDatasetOriginal, caminhoDatasetFiltrado);
 
             // Treinando...
             //Clusters.GetClusters(caminhoDatasetFiltrado, caminhoJsonRelatorio, caminhoModeloIA);
 
             // Gerando Relatório...
-            ClusterizationAI.GenerateReport(caminhoJsonRelatorio, caminhoRelatorio);
+            MovieClusterService.GenerateReport(caminhoJsonRelatorio, caminhoRelatorio);
         }
     }
 }

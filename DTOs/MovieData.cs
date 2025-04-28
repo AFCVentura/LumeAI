@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LumeAI
+namespace LumeAI.DTOs
 {
     // Essa classe serve para gerar o csv filtrado e como mapeador desse csv filtrado para treinar a IA
     class MovieData

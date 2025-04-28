@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
+using LumeAI.DTOs;
 using Microsoft.ML;
 using Microsoft.ML.Data;
 using Microsoft.ML.Trainers;
 
-namespace LumeAI
+namespace LumeAI.Services
 {
-    class ClusterizationAI
+    class MovieClusterService
     {
         public static void GetClusters(string datasetPath, string outputDataPath, string modelPath)
         {

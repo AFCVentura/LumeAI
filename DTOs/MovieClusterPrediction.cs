@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LumeAI
+namespace LumeAI.DTOs
 {
     // Essa classe serve para agrupar os itens resultantes do treinamento da IA para gerar o relatório
     class MovieClusterPrediction

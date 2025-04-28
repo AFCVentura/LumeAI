@@ -6,10 +6,11 @@ using static System.Net.Mime.MediaTypeNames;
 using System.Reflection.PortableExecutable;
 using System.Runtime.CompilerServices;
 using System.Xml.Linq;
+using LumeAI.DTOs;
 
-namespace LumeAI
+namespace LumeAI.Services
 {
-    public static class FiltersAlgorithm
+    public static class MovieFilterService
     {
 
         // Este método filtra os dados do arquivo original e exporta para um novo CSV.
