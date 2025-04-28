@@ -10,7 +10,7 @@ using Microsoft.ML.Trainers;
 
 namespace LumeAI
 {
-    class Clusters
+    class ClusterizationAI
     {
         public static void GetClusters(string datasetPath, string outputDataPath, string modelPath)
         {

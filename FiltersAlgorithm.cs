@@ -9,11 +9,11 @@ using System.Xml.Linq;
 
 namespace LumeAI
 {
-    class Filter
+    public static class FiltersAlgorithm
     {
 
         // Este método filtra os dados do arquivo original e exporta para um novo CSV.
-        public void FiltrarEExportarCsv(string oldDatasetFilePath, string newDatasetFilePath)
+        public static void FiltrarEExportarCsv(string oldDatasetFilePath, string newDatasetFilePath)
         {
             // Caminho para o csv puro
             string inputPath = oldDatasetFilePath;

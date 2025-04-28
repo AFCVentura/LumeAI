@@ -1,10 +1,28 @@
-﻿namespace LumeAI
+﻿using LumeAI.Data;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+
+namespace LumeAI
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            var filter = new Filter();
+            #region Configuração do banco de dados e do DbContext
+            var config = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                .AddEnvironmentVariables()
+                .Build();
+
+            var connectionString = config.GetConnectionString("CONNECTION_STRING");
+
+            // Cria o options manualmente
+            var optionsBuilder = new DbContextOptionsBuilder<LumeAIDataContext>();
+            optionsBuilder.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
+
+            using var db = new LumeAIDataContext(optionsBuilder.Options);
+            #endregion
 
             // Caminho da base original
             string caminhoDatasetOriginal = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\dataset.csv";
@@ -23,13 +41,13 @@
 
 
             // Filtrando...
-            //filter.FiltrarEExportarCsv(caminhoDatasetOriginal, caminhoDatasetFiltrado);
+            FiltersAlgorithm.FiltrarEExportarCsv(caminhoDatasetOriginal, caminhoDatasetFiltrado);
 
             // Treinando...
             //Clusters.GetClusters(caminhoDatasetFiltrado, caminhoJsonRelatorio, caminhoModeloIA);
 
             // Gerando Relatório...
-            Clusters.GenerateReport(caminhoJsonRelatorio, caminhoRelatorio);
+            ClusterizationAI.GenerateReport(caminhoJsonRelatorio, caminhoRelatorio);
         }
     }
 }
