@@ -3,6 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+Resources/dadosParaRelatorio.json
+Resources/dataset.csv
+Resources/datasetFiltrado.csv
+Resources/dadosFilmesCompletos.json
+Resources/modeloTreinado.zip
+appsettings.Development.json
+
 # User-specific files
 *.rsuser
 *.suo
@@ -13,8 +20,7 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-# Mono auto generated files
-mono_crash.*
+# Mono auto generated files'
 
 # Build results
 [Dd]ebug/
