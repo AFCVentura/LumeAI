@@ -12,7 +12,7 @@ namespace LumeAI
             #region Configuração do banco de dados e do DbContext
             var config = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                .AddJsonFile("appsettings.Development.json", optional: false, reloadOnChange: true)
                 .AddEnvironmentVariables()
                 .Build();
 
@@ -34,6 +34,9 @@ namespace LumeAI
             // Caminho do modelo da IA
             string caminhoModeloIA = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\modeloTreinado.zip";
 
+            // Caminho do json com todos os dados dos filmes e clusters
+            string caminhoJsonCompleto = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\dadosFilmesCompletos.json";
+
             // Caminho do json para gerar relatório
             string caminhoJsonRelatorio = "c:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\dadosParaRelatorio.json";
 
@@ -42,13 +45,17 @@ namespace LumeAI
 
 
             // Filtrando...
-            MovieFilterService.FiltrarEExportarCsv(caminhoDatasetOriginal, caminhoDatasetFiltrado);
+            //MovieFilterService.FiltrarEExportarCsv(caminhoDatasetOriginal, caminhoDatasetFiltrado);
 
             // Treinando...
-            //Clusters.GetClusters(caminhoDatasetFiltrado, caminhoJsonRelatorio, caminhoModeloIA);
+            //MovieClusterService.GetClusters(caminhoDatasetFiltrado, caminhoJsonRelatorio, caminhoJsonCompleto, caminhoModeloIA);
 
             // Gerando Relatório...
-            MovieClusterService.GenerateReport(caminhoJsonRelatorio, caminhoRelatorio);
+            //MovieClusterService.GenerateReport(caminhoJsonRelatorio, caminhoRelatorio);
+
+            // Aplicando JSON no banco de dados...
+            MovieJsonToRelational movieToDatabase = new MovieJsonToRelational(db);
+            movieToDatabase.ConvertJsonToRelational(caminhoJsonCompleto);
         }
     }
 }

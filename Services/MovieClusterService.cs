@@ -13,8 +13,9 @@ namespace LumeAI.Services
 {
     class MovieClusterService
     {
-        public static void GetClusters(string datasetPath, string outputDataPath, string modelPath)
+        public static void GetClusters(string datasetPath, string outputReportDataPath, string outputDataPath, string modelPath)
         {
+            Console.WriteLine("Iniciando configuração do treinamento.");
             // Inicializa o contexto, seed serve para os resultados serem reprodutíveis sempre, sempre são os mesmos
             var mlContext = new MLContext(seed: 1);
 
@@ -66,19 +67,40 @@ namespace LumeAI.Services
             // Instanciamos o treinador da IA, passando as opções
             var trainer = mlContext.Clustering.Trainers.KMeans(options);
 
+            Console.WriteLine("Iniciando treinamento.");
+
             // Mandamos o treinador treinar o modelo, passando os dados transformados
             var model = trainer.Fit(transformedData);
 
             // Aplica o modelo treinado nos dados transformados, em essência, atribui um ClusterId para cada filme
             var predictionsDataView = model.Transform(transformedData);
 
+            Console.WriteLine("Treinamento Concluido. Iniciando definição dos centróides");
+
+            var kMeansModel = model as ClusteringPredictionTransformer<KMeansModelParameters>;
+            var kMeans = kMeansModel?.Model;
+
+            // Cria array de centróides (inicialmente null, será preenchido pelo método)
+            VBuffer<float>[] centroids = null!;
+            int numberOfClusters;
+
+            // Chama o método corretamente
+            kMeans.GetClusterCentroids(ref centroids, out numberOfClusters);
+
+            if (centroids == null)
+                throw new InvalidOperationException("Não foi possível obter os centróides do modelo.");
+
             // Salva o modelo treinado em um arquivo .zip
             mlContext.Model.Save(model, transformedData.Schema, modelPath);
+            Console.WriteLine("Definição dos centróides concluida.");
+            Console.WriteLine($"Modelo Salvo em {modelPath}");
 
+            Console.WriteLine("Iniciando mapeamento dos dados para JSON do relatório");
 
             // Cria enumerable a partir do DataView
             var filteredEnumerable = mlContext.Data.CreateEnumerable<MovieData>(dataView, reuseRowObject: false);
 
+            #region Json para o relatório
             // Cria uma lista de itens que é uma mistura de alguns dados dos filmes (apenas os relevantes pro relatório) e o ClusterId desses filmes
             var predictionList = mlContext.Data.CreateEnumerable<MovieClusterPrediction>(predictionsDataView, reuseRowObject: false)
             .Zip(filteredEnumerable, (prediction, movie) => new Predictions
@@ -96,11 +118,72 @@ namespace LumeAI.Services
 
             // Salva os dados dos filmes em JSON
             var json = JsonSerializer.Serialize(predictionList, new JsonSerializerOptions { WriteIndented = true });
-            File.WriteAllText(outputDataPath, json);
+            File.WriteAllText(outputReportDataPath, json);
+            #endregion
+
+            Console.WriteLine("Iniciando mapeamento dos dados para JSON completo");
+            #region Json com todos os dados (backup e salvar no banco de dados)
+            Console.WriteLine("Mapeando centróides");
+            var centroidList = centroids
+                .Select((v, i) => new ClusterExportJson
+                {
+                    Id = i,
+                    Centroid = v.DenseValues().ToArray()
+                })
+                .ToList();
+
+            Console.WriteLine("Mapeando filmes");
+            var fullPredictionList = mlContext.Data.CreateEnumerable<MovieClusterPrediction>(predictionsDataView, reuseRowObject: false)
+                .Zip(filteredEnumerable, (prediction, movie) => new MovieExportJson
+                {
+                    Id = movie.Id,
+                    Title = movie.Title,
+                    PosterPath = movie.PosterPath,
+                    VoteAverage = movie.VoteAverage,
+                    VoteCount = movie.VoteCount,
+                    Status = movie.Status,
+                    ReleaseYear = movie.ReleaseYear,
+                    Revenue = movie.Revenue,
+                    Runtime = movie.Runtime,
+                    Adult = movie.Adult,
+                    BackdropPath = movie.BackdropPath,
+                    Budget = movie.Budget,
+                    Homepage = movie.Homepage,
+                    ImdbId = movie.ImdbId,
+                    OriginalLanguage = movie.OriginalLanguage,
+                    OriginalTitle = movie.OriginalTitle,
+                    Overview = movie.Overview,
+                    Popularity = movie.Popularity,
+                    Tagline = movie.Tagline,
+                    Genres = movie.Genres?.Split(',', StringSplitOptions.RemoveEmptyEntries).Select(g => g.Trim()).ToList() ?? new List<string>(),
+                    ProductionCompanies = movie.ProductionCompanies?.Split(',', StringSplitOptions.RemoveEmptyEntries).Select(pc => pc.Trim()).ToList() ?? new List<string>(),
+                    ProductionCountries = movie.ProductionCountries?.Split(',', StringSplitOptions.RemoveEmptyEntries).Select(pc => pc.Trim()).ToList() ?? new List<string>(),
+                    SpokenLanguages = movie.SpokenLanguages?.Split(',', StringSplitOptions.RemoveEmptyEntries).Select(sl => sl.Trim()).ToList() ?? new List<string>(),
+                    Keywords = movie.Keywords?.Split(',', StringSplitOptions.RemoveEmptyEntries).Select(k => k.Trim()).ToList() ?? new List<string>(),
+                    ClusterId = prediction.ClusterId,
+                })
+                .ToList();
+
+            Console.WriteLine("Unindo filmes e centróides");
+            var finalExport = new
+            {
+                Centroids = centroidList,
+                Movies = fullPredictionList
+            };
+
+            Console.WriteLine("Salvando no JSON completo");
+
+            // Salva em JSON
+            var fullJson = JsonSerializer.Serialize(finalExport, new JsonSerializerOptions { WriteIndented = true });
+            File.WriteAllText(outputDataPath, fullJson);
+            #endregion
+            Console.WriteLine("Etapa de clusterização concluida");
         }
 
         public static void GenerateReport(string inputDataPath, string outputReportPath)
         {
+            Console.WriteLine("Iniciando etapa de geração de relatório");
+            Console.WriteLine("Desserealizando JSON");
             // Acessa o JSON e deserializa
             var json = File.ReadAllText(inputDataPath);
             var clusteredMovies = JsonSerializer.Deserialize<List<Predictions>>(json);
@@ -114,9 +197,13 @@ namespace LumeAI.Services
                 Console.WriteLine($"Cluster {cluster.Key}: {cluster.ToList().Count}");
             }
 
+            Console.WriteLine("Imprimindo clusters no console:");
+
             // Cria o caminho do relatório
             var clusterReportPath = outputReportPath;
 
+
+            Console.WriteLine("Gerando relatório...");
             // Começa a escrever o relatório em markdown
             using (var writer = new StreamWriter(clusterReportPath, false))
             {
@@ -316,7 +403,9 @@ namespace LumeAI.Services
                     }
 
                     writer.WriteLine();
+
                 }
+                Console.WriteLine($"Relatório concluido em {outputReportPath}");
             }
         }
     }

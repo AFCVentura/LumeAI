@@ -47,7 +47,7 @@ namespace LumeAI.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            options.LogTo(Console.WriteLine);
+            options.EnableSensitiveDataLogging();
         }
 
     }

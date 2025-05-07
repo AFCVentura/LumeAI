@@ -6,6 +6,7 @@
 Resources/dadosParaRelatorio.json
 Resources/dataset.csv
 Resources/datasetFiltrado.csv
+Resources/dadosFilmesCompletos.json
 Resources/modeloTreinado.zip
 appsettings.Development.json
 
