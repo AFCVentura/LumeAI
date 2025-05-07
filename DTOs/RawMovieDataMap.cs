@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LumeAI
+namespace LumeAI.DTOs
 {
     // classe para mapear os dados do CSV antigo
     class RawMovieDataMap : ClassMap<RawMovieData>

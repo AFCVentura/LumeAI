@@ -3,9 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-dataset.csv
-datasetFiltered.csv
-modeloTreinado.zip
+Resources/dadosParaRelatorio.json
+Resources/dataset.csv
+Resources/datasetFiltrado.csv
+Resources/dadosFilmesCompletos.json
+Resources/modeloTreinado.zip
+appsettings.Development.json
 
 # User-specific files
 *.rsuser

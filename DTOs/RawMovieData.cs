@@ -1,7 +1,7 @@
 ﻿using Microsoft.ML.Data;
 
 
-namespace LumeAI
+namespace LumeAI.DTOs
 {
     // Essa classe serve apenas para mapear os dados do csv puro, o csv filtrado é gerado com base nos dados da classe MovieData
     class RawMovieData

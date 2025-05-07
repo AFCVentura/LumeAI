@@ -1,22 +1,61 @@
-﻿namespace LumeAI
+﻿using LumeAI.Data;
+using LumeAI.Services;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+
+namespace LumeAI
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            var filter = new Filter();
+            #region Configuração do banco de dados e do DbContext
+            var config = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.Development.json", optional: false, reloadOnChange: true)
+                .AddEnvironmentVariables()
+                .Build();
 
-            // Caminho do arquivo CSV
-            string datasetFilePath = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\dataset.csv";
-            string filteredDatasetFilePath = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\datasetFiltered.csv";
+            var connectionString = config.GetConnectionString("CONNECTION_STRING");
 
-            //filter.FiltrarEExportarCsv(datasetFilePath, filteredDatasetFilePath);
+            // Cria o options manualmente
+            var optionsBuilder = new DbContextOptionsBuilder<LumeAIDataContext>();
+            optionsBuilder.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
 
-            string outputFilePath = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\outputClustersFile.md";
-            string modelPath = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\modeloTreinado.zip";
+            using var db = new LumeAIDataContext(optionsBuilder.Options);
+            #endregion
+
+            // Caminho da base original
+            string caminhoDatasetOriginal = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\dataset.csv";
+
+            // Caminho da base depois de filtrada
+            string caminhoDatasetFiltrado = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\datasetFiltrado.csv";
+
+            // Caminho do modelo da IA
+            string caminhoModeloIA = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\modeloTreinado.zip";
+
+            // Caminho do json com todos os dados dos filmes e clusters
+            string caminhoJsonCompleto = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\dadosFilmesCompletos.json";
+
+            // Caminho do json para gerar relatório
+            string caminhoJsonRelatorio = "c:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\dadosParaRelatorio.json";
+
+            // Caminho do Relatório
+            string caminhoRelatorio = "C:\\dev\\ASPNET Core\\Lume\\LumeAI\\Resources\\relatorio.md";
 
 
-            Clusters.GetClusters(filteredDatasetFilePath, outputFilePath, modelPath);
+            // Filtrando...
+            //MovieFilterService.FiltrarEExportarCsv(caminhoDatasetOriginal, caminhoDatasetFiltrado);
+
+            // Treinando...
+            //MovieClusterService.GetClusters(caminhoDatasetFiltrado, caminhoJsonRelatorio, caminhoJsonCompleto, caminhoModeloIA);
+
+            // Gerando Relatório...
+            //MovieClusterService.GenerateReport(caminhoJsonRelatorio, caminhoRelatorio);
+
+            // Aplicando JSON no banco de dados...
+            MovieJsonToRelational movieToDatabase = new MovieJsonToRelational(db);
+            movieToDatabase.ConvertJsonToRelational(caminhoJsonCompleto);
         }
     }
 }
