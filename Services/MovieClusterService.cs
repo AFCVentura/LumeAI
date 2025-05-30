@@ -22,83 +22,88 @@ namespace LumeAI.Services
             // Carregar os dados do csv para uma estrutura chamada dataView
             // Note que é passado um tipo MovieData, que é uma classe que representa a estrutura dos dados
             var dataView = mlContext.Data.LoadFromTextFile<MovieData>(
-                path: datasetPath, // caminho do csv
-                hasHeader: true, // tem cabeçalho no csv?
-                separatorChar: ',', // separador de colunas
-                allowQuoting: true, // permite campos entre aspas? (essêncial, nosso csv tem aspas)
-                allowSparse: false // Não permite dados esparsos 
-                );
+                path: datasetPath,            // caminho do csv
+                hasHeader: true,              // tem cabeçalho no csv?
+                separatorChar: ',',           // separador de colunas
+                allowQuoting: true,           // permite campos entre aspas? (essencial, nosso csv tem aspas)
+                allowSparse: false            // não permite dados esparsos 
+            );
 
             // Pipeline de conversão dos dados brutos em dados vetorizados, o tipo de dado que a IA entende
             // Essa parte vai ter vários Appends, que são como se fossem "passos" de transformação
             // Aqui, a gente vai transformar cada coluna relevante em um vetor de números para a IA entender
-            var pipeline = mlContext.Transforms
-
+            var textPipeline = mlContext.Transforms
                 // 1. Etapas textuais
                 // 1.1 Transforma os gêneros em texto vetorizado
                 .Text.FeaturizeText("GenreFeatures", nameof(MovieData.Genres))
-                // 1.2 Transforma as palavras-chaves em texto vetorizado
+                // 1.2 Transforma as palavras-chave em texto vetorizado
                 .Append(mlContext.Transforms.Text.FeaturizeText("KeywordFeatures", nameof(MovieData.Keywords)))
 
-                // 2. Aplicação de peso para as etapas textuais ( 3 de gêneros para 2 de palavras-chave)
+                // 2. Aplicação de peso para as etapas textuais (3 de gêneros para 2 de palavras-chave)
                 // 2.1 Aplicação de peso nos gêneros
-                .Append(mlContext.Transforms.Concatenate("WeightedGenreFeatures",
+                .Append(mlContext.Transforms.Concatenate(
+                    "WeightedGenreFeatures",
                     "GenreFeatures", "GenreFeatures", "GenreFeatures"))
                 // 2.2 Aplicação de peso nas palavras-chave
-                .Append(mlContext.Transforms.Concatenate("WeightedKeywordFeatures",
+                .Append(mlContext.Transforms.Concatenate(
+                    "WeightedKeywordFeatures",
                     "KeywordFeatures", "KeywordFeatures"))
 
                 // 3. Junção de todos os dados vetorizados em um só vetor final chamado "Features"
-                .Append(mlContext.Transforms.Concatenate("Features",
+                .Append(mlContext.Transforms.Concatenate(
+                    "Features",
                     "WeightedGenreFeatures", "WeightedKeywordFeatures"));
 
-
-            // Aplica a transformação anterior no DataView
-            var transformedData = pipeline.Fit(dataView).Transform(dataView);
+            // --- A partir daqui vamos criar o pipeline completo, com o KMeans já incluso ---
 
             // Configurando as variáveis do treinamento via K-means
             var options = new KMeansTrainer.Options
             {
-                FeatureColumnName = "Features", // Nome da coluna que vai ser usada, resultante do pipeline
-                NumberOfClusters = 90, // Número de clusters desejados, fórmula: x ~= sqrt(n/2)
-                MaximumNumberOfIterations = 150, // Número máximo de iterações, ou seja, a quantidade de vezes que o K-means vai tentar ajustar os centróides dos clusters
+                FeatureColumnName = "Features",         // Nome da coluna que vai ser usada, resultante do pipeline
+                NumberOfClusters = 90,                 // Número de clusters desejados (≈ sqrt(n/2))
+                MaximumNumberOfIterations = 150,        // Máximo de iterações para ajustar os centróides
             };
 
-            // Instanciamos o treinador da IA, passando as opções
+            // Instancia o treinador da IA, passando as opções
             var trainer = mlContext.Clustering.Trainers.KMeans(options);
 
+            // **Encadeia** pipeline de texto + treinador de k-means num único fluxo
+            var trainingPipeline = textPipeline.Append(trainer);
+
             Console.WriteLine("Iniciando treinamento.");
+            // Treina **tudo de uma vez** a partir dos dados crus
+            var model = trainingPipeline.Fit(dataView);
 
-            // Mandamos o treinador treinar o modelo, passando os dados transformados
-            var model = trainer.Fit(transformedData);
+            // Aplica o modelo treinado nos dados transformados para obter as previsões de cluster
+            var predictionsDataView = model.Transform(dataView);
 
-            // Aplica o modelo treinado nos dados transformados, em essência, atribui um ClusterId para cada filme
-            var predictionsDataView = model.Transform(transformedData);
+            Console.WriteLine("Treinamento concluído. Iniciando definição dos centróides.");
+            // Extrai o objeto interno do KMeans para obter os centróides
+            var chain = model as TransformerChain<ClusteringPredictionTransformer<KMeansModelParameters>>;
+            if (chain == null)
+                throw new InvalidOperationException("Pipeline retornou um tipo inesperado");
 
-            Console.WriteLine("Treinamento Concluido. Iniciando definição dos centróides");
+            // O KMeansPredictionTransformer fica sempre como o último
+            var kMeansTransformer = chain.LastTransformer;
+            var kMeans = kMeansTransformer.Model;
 
-            var kMeansModel = model as ClusteringPredictionTransformer<KMeansModelParameters>;
-            var kMeans = kMeansModel?.Model;
-
-            // Cria array de centróides (inicialmente null, será preenchido pelo método)
+            // Cria array de centróides (será preenchido pelo método GetClusterCentroids)
             VBuffer<float>[] centroids = null!;
             int numberOfClusters;
-
-            // Chama o método corretamente
             kMeans.GetClusterCentroids(ref centroids, out numberOfClusters);
 
             if (centroids == null)
                 throw new InvalidOperationException("Não foi possível obter os centróides do modelo.");
 
-            // Salva o modelo treinado em um arquivo .zip
-            mlContext.Model.Save(model, transformedData.Schema, modelPath);
-            Console.WriteLine("Definição dos centróides concluida.");
-            Console.WriteLine($"Modelo Salvo em {modelPath}");
+            // Salva o pipeline completo (featurização + k-means) num .zip
+            mlContext.Model.Save(model, dataView.Schema, modelPath);
+            Console.WriteLine("Definição dos centróides concluída.");
+            Console.WriteLine($"Modelo salvo em: {modelPath}");
 
             Console.WriteLine("Iniciando mapeamento dos dados para JSON do relatório");
-
-            // Cria enumerable a partir do DataView
-            var filteredEnumerable = mlContext.Data.CreateEnumerable<MovieData>(dataView, reuseRowObject: false);
+            // Cria enumerable a partir do DataView original
+            var filteredEnumerable = mlContext.Data
+                .CreateEnumerable<MovieData>(dataView, reuseRowObject: false);
 
             #region Json para o relatório
             // Cria uma lista de itens que é uma mistura de alguns dados dos filmes (apenas os relevantes pro relatório) e o ClusterId desses filmes
@@ -272,6 +277,47 @@ namespace LumeAI.Services
                     writer.WriteLine($"* {genre.Key}: {genre.Value}");
                 }
 
+                writer.WriteLine("\n# Palavras-chave mais comuns por gênero\n");
+
+                foreach (var genreEntry in amountOfClustersWithEachGenre.OrderByDescending(g => g.Value))
+                {
+                    var genre = genreEntry.Key;
+
+                    // clusters que têm pelo menos um filme com esse gênero
+                    var clustersWithGenre = groupedClusters
+                        .Where(c => c.Any(f => f.Genres.ToLower().Split(',').Contains(genre)));
+
+                    // palavras-chave que aparecem em clusters com esse gênero
+                    var keywordCounts = new Dictionary<string, int>();
+
+                    foreach (var cluster in clustersWithGenre)
+                    {
+                        var filmesComGenero = cluster.Where(f => f.Genres.ToLower().Split(',').Contains(genre)).ToList();
+                        var keywords = filmesComGenero
+                            .SelectMany(f => f.Keywords.Split(',').Select(k => k.Trim().ToLower()))
+                            .Distinct(); // apenas 1 contagem por cluster por palavra-chave
+
+                        foreach (var keyword in keywords)
+                        {
+                            if (!keywordCounts.ContainsKey(keyword))
+                                keywordCounts[keyword] = 0;
+
+                            keywordCounts[keyword]++;
+                        }
+                    }
+
+                    writer.WriteLine($"## Gênero: {genre} ({clustersWithGenre.Count()} clusters)");
+                    writer.WriteLine("**Palavras-chave mais comuns nesse contexto:**");
+
+                    foreach (var keywordEntry in keywordCounts.OrderByDescending(k => k.Value).Take(30))
+                    {
+                        var percentageOfKeywordInGenreClusters = keywordEntry.Value * 100 / clustersWithGenre.Count();
+                        writer.WriteLine($"* {keywordEntry.Key} ({percentageOfKeywordInGenreClusters}%)");
+                    }
+
+                    writer.WriteLine();
+                }
+
                 writer.WriteLine("\nVersão resumida dos clusters");
                 foreach (var cluster in groupedClusters.OrderBy(c => c.Key))
                 {
@@ -289,7 +335,7 @@ namespace LumeAI.Services
                     var topKeywords = filmes
                         .SelectMany(f => f.Keywords.Split(','))
                         .GroupBy(k => k)
-                        .Where(k => k.Count() > total / 5)
+                        .Where(k => k.Count() > total / 10)
                         .OrderByDescending(k => k.Count())
                         .Select(k => $"{k.Key} ({k.Count() * 100 / total}%)");
 

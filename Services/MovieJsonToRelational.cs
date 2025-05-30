@@ -19,6 +19,13 @@ namespace LumeAI.Services
             var jsonContent = File.ReadAllText(jsonFilePath);
             var root = JsonSerializer.Deserialize<MovieExportRelational>(jsonContent);
 
+
+            var genresCache = new Dictionary<string, Genre>();
+            var keywordsCache = new Dictionary<string, Keyword>();
+            var companiesCache = new Dictionary<string, ProductionCompany>();
+            var countriesCache = new Dictionary<string, ProductionCountry>();
+            var languagesCache = new Dictionary<string, SpokenLanguage>();
+
             try
             {
 
@@ -32,16 +39,6 @@ namespace LumeAI.Services
                     // já criamos esse cluster nesta execução
                     if (clusterMap.ContainsKey(clusterId))
                         continue;
-
-                    //// já está rastreado no contexto
-                    //var existingCluster = _context.Clusters.Local
-                    //    .FirstOrDefault(c => c.Id == clusterId);
-
-                    //if (existingCluster is null)
-                    //{
-                    //    existingCluster = _context.Clusters
-                    //        .FirstOrDefault(c => c.Id == clusterId);
-                    //}
 
                     // não existe ainda no contexto, criar e adicionar
                     var newCluster = new Cluster
@@ -113,51 +110,86 @@ namespace LumeAI.Services
                     Console.WriteLine("Iniciando mapeamento dos gêneros");
                     foreach (var genreName in movie.Genres ?? [])
                     {
-                        var genre = _context.Genres.FirstOrDefault(g => g.Name == genreName)
+                        if (!genresCache.TryGetValue(genreName, out var genre))
+                        {
+                            genre = _context.Genres.FirstOrDefault(g => g.Name == genreName)
                                     ?? new Genre { Name = genreName };
 
-                        if (genre.Id == 0) _context.Genres.Add(genre);
-                        movieEntity.MovieGenres.Add(new MovieGenre { Genre = genre });
+                            if (genre.Id == 0) _context.Genres.Add(genre);
+                            genresCache[genreName] = genre;
+                        }
+                        if (!movieEntity.MovieGenres.Any(mk => mk.Genre.Id == genre.Id))
+                        {
+                            movieEntity.MovieGenres.Add(new MovieGenre { Genre = genre });
+                        }
                     }
 
                     Console.WriteLine("Iniciando mapeamento das palavras-chave");
                     foreach (var keywordName in movie.Keywords ?? [])
                     {
-                        var keyword = _context.Keywords.FirstOrDefault(k => k.Name == keywordName)
+                        if (!keywordsCache.TryGetValue(keywordName, out var keyword))
+                        {
+                            keyword = _context.Keywords.FirstOrDefault(k => k.Name == keywordName)
                                       ?? new Keyword { Name = keywordName };
 
-                        if (keyword.Id == 0) _context.Keywords.Add(keyword);
-                        movieEntity.MovieKeywords.Add(new MovieKeyword { Keyword = keyword });
+                            if (keyword.Id == 0) _context.Keywords.Add(keyword);
+                            keywordsCache[keywordName] = keyword;
+                        }
+                        if (!movieEntity.MovieKeywords.Any(mk => mk.Keyword.Id == keyword.Id))
+                        {
+                            movieEntity.MovieKeywords.Add(new MovieKeyword { Keyword = keyword });
+                        }
                     }
 
                     Console.WriteLine("Iniciando mapeamento das companhias");
                     foreach (var companyName in movie.ProductionCompanies ?? [])
                     {
-                        var company = _context.ProductionCompanies.FirstOrDefault(c => c.Name == companyName)
+                        if (!companiesCache.TryGetValue(companyName, out var company))
+                        {
+                            company = _context.ProductionCompanies.FirstOrDefault(c => c.Name == companyName)
                                       ?? new ProductionCompany { Name = companyName };
 
-                        if (company.Id == 0) _context.ProductionCompanies.Add(company);
-                        movieEntity.MovieProductionCompanies.Add(new MovieProductionCompany { ProductionCompany = company });
+                            if (company.Id == 0) _context.ProductionCompanies.Add(company);
+                            companiesCache[companyName] = company;
+                        }
+                        if (!movieEntity.MovieProductionCompanies.Any(mk => mk.ProductionCompany.Id == company.Id))
+                        {
+                            movieEntity.MovieProductionCompanies.Add(new MovieProductionCompany { ProductionCompany = company });
+                        }
                     }
 
                     Console.WriteLine("Iniciando mapeamento dos países");
                     foreach (var countryName in movie.ProductionCountries ?? [])
                     {
-                        var country = _context.ProductionCountries.FirstOrDefault(c => c.Name == countryName)
+                        if (!countriesCache.TryGetValue(countryName, out var country))
+                        {
+                            country = _context.ProductionCountries.FirstOrDefault(c => c.Name == countryName)
                                       ?? new ProductionCountry { Name = countryName };
 
-                        if (country.Id == 0) _context.ProductionCountries.Add(country);
-                        movieEntity.MovieProductionCountries.Add(new MovieProductionCountry { ProductionCountry = country });
+                            if (country.Id == 0) _context.ProductionCountries.Add(country);
+                            countriesCache[countryName] = country;
+                        }
+                        if (!movieEntity.MovieProductionCountries.Any(mk => mk.ProductionCountry.Id == country.Id))
+                        {
+                            movieEntity.MovieProductionCountries.Add(new MovieProductionCountry { ProductionCountry = country });
+                        }
                     }
 
                     Console.WriteLine("Iniciando mapeamento dos idiomas");
                     foreach (var languageName in movie.SpokenLanguages ?? [])
                     {
-                        var language = _context.SpokenLanguages.FirstOrDefault(l => l.Name == languageName)
+                        if (!languagesCache.TryGetValue(languageName, out var language))
+                        {
+                            language = _context.SpokenLanguages.FirstOrDefault(l => l.Name == languageName)
                                        ?? new SpokenLanguage { Name = languageName };
 
-                        if (language.Id == 0) _context.SpokenLanguages.Add(language);
-                        movieEntity.MovieSpokenLanguages.Add(new MovieSpokenLanguage { SpokenLanguage = language });
+                            if (language.Id == 0) _context.SpokenLanguages.Add(language);
+                            languagesCache[languageName] = language;
+                        }
+                        if (!movieEntity.MovieSpokenLanguages.Any(mk => mk.SpokenLanguage.Id == language.Id))
+                        {
+                            movieEntity.MovieSpokenLanguages.Add(new MovieSpokenLanguage { SpokenLanguage = language });
+                        }
                     }
 
                     _context.Movies.Add(movieEntity);

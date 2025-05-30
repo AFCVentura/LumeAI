@@ -1,721 +1,1193 @@
 Gêneros mais comuns (número de aparições nos clusters)
 
-* drama: 59
-* comedy: 45
-* thriller: 42
-* crime: 34
-* horror: 32
-* action: 30
-* romance: 29
+* drama: 55
+* comedy: 47
+* thriller: 39
+* horror: 34
+* romance: 32
+* crime: 32
 * mystery: 29
-* family: 28
-* adventure: 25
-* fantasy: 24
-* animation: 21
-* music: 21
-* science fiction: 21
-* war: 21
-* western: 18
-* tv movie: 15
-* history: 15
-* documentary: 5
+* action: 27
+* fantasy: 25
+* family: 24
+* animation: 20
+* adventure: 20
+* war: 19
+* tv movie: 18
+* music: 17
+* science fiction: 16
+* history: 13
+* western: 12
+* documentary: 6
+
+# Palavras-chave mais comuns por gênero
+
+## Gênero: drama (55 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* love (72%)
+* murder (70%)
+* friendship (69%)
+* drugs (69%)
+* high school (67%)
+* loss of loved one (65%)
+* parent child relationship (65%)
+* japan (65%)
+* suicide (65%)
+* husband wife relationship (61%)
+* doctor (61%)
+* 1970s (60%)
+* family (60%)
+* sports (60%)
+* small town (60%)
+* lgbt (60%)
+* fight (58%)
+* italy (58%)
+* death (58%)
+* teenage girl (58%)
+* 1960s (58%)
+* teacher (58%)
+* gay theme (56%)
+* 1950s (56%)
+* coming of age (56%)
+* revenge (54%)
+* flashback (54%)
+* jealousy (54%)
+* rape (54%)
+* pregnancy (54%)
+
+## Gênero: comedy (47 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* friendship (68%)
+* dark comedy (63%)
+* high school (63%)
+* family (59%)
+* christmas (59%)
+* love (57%)
+* sibling relationship (55%)
+* musical (55%)
+* holiday (53%)
+* parent child relationship (53%)
+* dog (53%)
+* murder (53%)
+* small town (53%)
+* drugs (53%)
+* parody (51%)
+* fight (51%)
+* satire (51%)
+* short film (48%)
+* 1970s (48%)
+* revenge (48%)
+* competition (48%)
+* remake (48%)
+* wedding (48%)
+* hollywood (48%)
+* best friend (46%)
+* police (46%)
+* italy (46%)
+* sports (46%)
+* road trip (46%)
+* slapstick comedy (46%)
+
+## Gênero: thriller (39 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* murder (84%)
+* remake (66%)
+* revenge (64%)
+* detective (61%)
+* small town (61%)
+* survival (58%)
+* police (58%)
+* serial killer (56%)
+* conspiracy (56%)
+* kidnapping (56%)
+* husband wife relationship (56%)
+* suicide (56%)
+* loss of loved one (53%)
+* escape (53%)
+* psychopath (53%)
+* flashback (53%)
+* hospital (53%)
+* neo-noir (51%)
+* investigation (51%)
+* fbi (51%)
+* drugs (51%)
+* death (51%)
+* pregnancy (51%)
+* supernatural (48%)
+* doctor (48%)
+* high school (48%)
+* obsession (48%)
+* daughter (46%)
+* dystopia (46%)
+* island (46%)
+
+## Gênero: horror (34 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* monster (79%)
+* murder (76%)
+* zombie (70%)
+* demon (67%)
+* gore (67%)
+* creature (64%)
+* vampire (64%)
+* remake (61%)
+* supernatural (61%)
+* survival (58%)
+* island (58%)
+* forest (58%)
+* found footage (58%)
+* kidnapping (58%)
+* small town (58%)
+* death (55%)
+* dog (55%)
+* surrealism (55%)
+* woods (55%)
+* experiment (55%)
+* survival horror (52%)
+* black and white (52%)
+* revenge (52%)
+* suicide (52%)
+* nightmare (52%)
+* virus (52%)
+* ghost (52%)
+* animal attack (50%)
+* torture (50%)
+* psychopath (50%)
+
+## Gênero: romance (32 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* love (78%)
+* musical (56%)
+* love of one's life (53%)
+* romance (50%)
+* jealousy (50%)
+* marriage (50%)
+* lgbt (46%)
+* doctor (46%)
+* black and white (46%)
+* family (43%)
+* italy (43%)
+* high school (43%)
+* japan (43%)
+* coming of age (43%)
+* new love (43%)
+* sibling relationship (40%)
+* murder (40%)
+* fight (40%)
+* sports (40%)
+* marriage proposal (40%)
+* love triangle (40%)
+* 19th century (40%)
+* husband wife relationship (40%)
+* germany (37%)
+* parent child relationship (37%)
+* forbidden love (37%)
+* love at first sight (37%)
+* secret love (37%)
+* extramarital affair (37%)
+* infidelity (37%)
+
+## Gênero: crime (32 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* murder (78%)
+* police (71%)
+* detective (71%)
+* revenge (65%)
+* drugs (65%)
+* criminal (62%)
+* prison (59%)
+* gangster (59%)
+* organized crime (56%)
+* neo-noir (56%)
+* robbery (56%)
+* corruption (56%)
+* kidnapping (56%)
+* undercover (53%)
+* hostage (53%)
+* investigation (53%)
+* serial killer (53%)
+* fbi (53%)
+* money (53%)
+* mafia (53%)
+* dark comedy (50%)
+* mobster (50%)
+* husband wife relationship (50%)
+* fight (46%)
+* casino (46%)
+* gang (46%)
+* police corruption (46%)
+* lawyer (46%)
+* street gang (43%)
+* psychopath (43%)
+
+## Gênero: mystery (29 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* murder (65%)
+* detective (62%)
+* investigation (48%)
+* neo-noir (44%)
+* remake (44%)
+* police (41%)
+* conspiracy (41%)
+* flashback (41%)
+* murder mystery (41%)
+* surrealism (41%)
+* paranoia (41%)
+* doctor (41%)
+* japan (41%)
+* monster (37%)
+* kidnapping (37%)
+* whodunit (37%)
+* 1950s (37%)
+* dog (37%)
+* missing person (37%)
+* hospital (37%)
+* death (37%)
+* high school (37%)
+* black and white (37%)
+* private detective (37%)
+* survival (37%)
+* amnesia (34%)
+* supernatural (34%)
+* disappearance (34%)
+* drugs (34%)
+* suicide (34%)
+
+## Gênero: action (27 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* martial arts (81%)
+* fight (77%)
+* revenge (74%)
+* murder (74%)
+* escape (70%)
+* spy (66%)
+* chase (66%)
+* remake (66%)
+* kidnapping (62%)
+* superhero (62%)
+* action hero (62%)
+* police (62%)
+* hero (59%)
+* explosion (59%)
+* drugs (59%)
+* mercenary (59%)
+* assassin (59%)
+* secret agent (59%)
+* japan (59%)
+* on the run (55%)
+* scientist (55%)
+* military (55%)
+* creature (55%)
+* disaster (55%)
+* survival (55%)
+* desert (55%)
+* soldier (55%)
+* conspiracy (55%)
+* sibling relationship (55%)
+* kung fu (55%)
+
+## Gênero: fantasy (25 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* monster (72%)
+* time travel (64%)
+* surrealism (64%)
+* dream (56%)
+* superhero (52%)
+* demon (52%)
+* love (52%)
+* supernatural (52%)
+* friendship (48%)
+* super power (48%)
+* loss of loved one (48%)
+* silent film (48%)
+* remake (48%)
+* witch (48%)
+* vampire (48%)
+* murder (48%)
+* creature (44%)
+* future (44%)
+* good versus evil (44%)
+* transformation (44%)
+* magic (44%)
+* revenge (44%)
+* school (44%)
+* short film (44%)
+* death (44%)
+* fairy tale (44%)
+* werewolf (44%)
+* family (44%)
+* high school (44%)
+* giant monster (40%)
+
+## Gênero: family (24 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* musical (66%)
+* dog (62%)
+* parent child relationship (58%)
+* friendship (58%)
+* family (54%)
+* short film (54%)
+* pets (50%)
+* high school (50%)
+* loss of loved one (50%)
+* sports (50%)
+* christmas (50%)
+* cartoon (45%)
+* sibling relationship (45%)
+* holiday (45%)
+* best friend (45%)
+* love (45%)
+* coming of age (45%)
+* school (45%)
+* alien (41%)
+* time travel (41%)
+* spy (41%)
+* live action and animation (41%)
+* rescue (41%)
+* remake (41%)
+* family relationships (41%)
+* robot (37%)
+* villain (37%)
+* martial arts (37%)
+* anthropomorphism (37%)
+* hero (37%)
+
+## Gênero: animation (20 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* adult animation (75%)
+* anime (75%)
+* surrealism (60%)
+* cartoon (55%)
+* short film (55%)
+* friendship (55%)
+* superhero (50%)
+* based on manga (50%)
+* stop motion (45%)
+* japan (45%)
+* love (45%)
+* alien (40%)
+* hero (40%)
+* parallel world (40%)
+* robot (40%)
+* monster (40%)
+* rescue (40%)
+* school (40%)
+* cat (40%)
+* musical (40%)
+* future (40%)
+* time travel (40%)
+* high school (40%)
+* slice of life (40%)
+* revenge (35%)
+* martial arts (35%)
+* steampunk (35%)
+* mad scientist (35%)
+* dystopia (35%)
+* live action and animation (35%)
+
+## Gênero: adventure (20 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* survival (60%)
+* friendship (60%)
+* superhero (50%)
+* monster (50%)
+* dystopia (50%)
+* hero (50%)
+* short film (50%)
+* island (50%)
+* rescue (45%)
+* revenge (45%)
+* time travel (45%)
+* martial arts (45%)
+* alien (45%)
+* saving the world (45%)
+* astronaut (45%)
+* escape (45%)
+* experiment (45%)
+* airplane (40%)
+* spy (40%)
+* superhero team (40%)
+* robot (40%)
+* scientist (40%)
+* army (40%)
+* creature (40%)
+* desert (40%)
+* alternate reality (40%)
+* based on manga (40%)
+* super power (40%)
+* disaster (40%)
+* space travel (40%)
+
+## Gênero: war (19 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* world war ii (73%)
+* nazi (57%)
+* 1940s (57%)
+* vietnam war (57%)
+* soldier (52%)
+* army (52%)
+* prisoner of war (52%)
+* escape (47%)
+* war crimes (47%)
+* germany (47%)
+* vietnam (47%)
+* pacific war (47%)
+* world war i (47%)
+* u.s. navy (42%)
+* combat (42%)
+* military (42%)
+* general (42%)
+* 19th century (42%)
+* 1910s (42%)
+* afghanistan (36%)
+* explosion (36%)
+* black and white (36%)
+* israel (36%)
+* historical fiction (36%)
+* desert (36%)
+* 1960s (36%)
+* massacre (36%)
+* vietnam veteran (36%)
+* us army (36%)
+* naval warfare (36%)
+
+## Gênero: tv movie (18 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* time travel (44%)
+* high school (38%)
+* superhero (38%)
+* christmas (38%)
+* holiday (33%)
+* parent child relationship (33%)
+* short film (33%)
+* monster (27%)
+* anime (27%)
+* super power (27%)
+* remake (27%)
+* musical (27%)
+* werewolf (27%)
+* friendship (27%)
+* tv movie (27%)
+* sibling relationship (22%)
+* space (22%)
+* future (22%)
+* revenge (22%)
+* murder (22%)
+* magic (22%)
+* teen movie (22%)
+* family (22%)
+* halloween (22%)
+* vampire (22%)
+* babysitter (22%)
+* prom (22%)
+* spy (22%)
+* europe (22%)
+*  (22%)
+
+## Gênero: music (17 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* musical (70%)
+* rock 'n' roll (58%)
+* rock band (52%)
+* musician (52%)
+* singer (52%)
+* pop star (47%)
+* jazz (47%)
+* guitar (41%)
+* friendship (41%)
+* high school (41%)
+* fame (41%)
+* celebrity (41%)
+* dance (41%)
+* 1980s (35%)
+* hollywood (35%)
+* pop (35%)
+* coming of age (35%)
+* italy (35%)
+* hip-hop (35%)
+* music movie (35%)
+* 1960s (35%)
+* singing (35%)
+* recording studio (35%)
+* rock star (35%)
+* career (35%)
+* drugs (35%)
+* 1970s (35%)
+* short film (35%)
+* teenage girl (35%)
+* black and white (35%)
+
+## Gênero: science fiction (16 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* space (81%)
+* monster (81%)
+* dystopia (81%)
+* robot (81%)
+* scientist (81%)
+* military (81%)
+* future (81%)
+* creature (81%)
+* desert (81%)
+* alien (81%)
+* artificial intelligence (a.i.) (81%)
+* survival (81%)
+* experiment (81%)
+* post-apocalyptic future (81%)
+* alien life-form (81%)
+* virus (81%)
+* virtual reality (75%)
+* alien invasion (75%)
+* spacecraft (75%)
+* apocalypse (75%)
+* revenge (75%)
+* end of the world (75%)
+* astronaut (75%)
+* android (75%)
+* escape (75%)
+* space travel (75%)
+* mutation (75%)
+* explosion (75%)
+* zombie (75%)
+* murder (75%)
+
+## Gênero: history (13 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* world war ii (61%)
+* 19th century (53%)
+* politics (46%)
+* period drama (46%)
+* 1920s (46%)
+* battle (46%)
+* 1940s (46%)
+* world war i (46%)
+* civil war (46%)
+* 17th century (46%)
+* israel (38%)
+* germany (38%)
+* italy (38%)
+* nazi (38%)
+* 1980s (38%)
+* egypt (38%)
+* historical (38%)
+* sword fight (38%)
+* historical fiction (38%)
+* death (38%)
+* gay theme (38%)
+* love (38%)
+* soldier (38%)
+* victorian england (38%)
+* 1910s (38%)
+* 1960s (38%)
+* terrorism (30%)
+* 1970s (30%)
+* airplane (30%)
+* war on terror (30%)
+
+## Gênero: western (12 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* native american (75%)
+* cowboy (75%)
+* outlaw (66%)
+* 19th century (66%)
+* mexico (58%)
+* horse (58%)
+* frontier (58%)
+* shootout (58%)
+* gold (58%)
+* saloon (58%)
+* gunslinger (58%)
+* ranch (58%)
+* revenge (50%)
+* bandit (50%)
+* murder (50%)
+* gunfight (50%)
+* desert (50%)
+* sheriff (50%)
+* apache nation (50%)
+* gold rush (50%)
+* bounty hunter (41%)
+* horseback riding (41%)
+* robbery (41%)
+* posse (41%)
+* australia (41%)
+* small town (41%)
+* rape (41%)
+* remake (41%)
+* survival (41%)
+* wild west (41%)
+
+## Gênero: documentary (6 clusters)
+**Palavras-chave mais comuns nesse contexto:**
+* sports (83%)
+* interview (83%)
+* hollywood (66%)
+* filmmaking (66%)
+* film history (66%)
+* fraud (66%)
+* capitalism (66%)
+* money (66%)
+* silent film (66%)
+* ocean (66%)
+* politics (66%)
+* lgbt (66%)
+* 1980s (66%)
+* biographical (66%)
+* conspiracy theory (66%)
+* scientist (66%)
+* murder (66%)
+* poverty (66%)
+* technology (66%)
+* behind the scenes (50%)
+* rescue (50%)
+* snow (50%)
+* mountaineering (50%)
+* super power (50%)
+* space opera (50%)
+* experiment (50%)
+* war on terror (50%)
+* nature (50%)
+* making of (50%)
+* corruption (50%)
+
 
 Versão resumida dos clusters
-* Cluster 1. Total: 18
-	* Thriller (100%), Action (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 2. Total: 18
-	* Drama (100%), Thriller (100%), Mystery (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 3. Total: 10
-	* Comedy (100%), Drama (100%), War (100%)
-	* world war ii (40%) 
-
-* Cluster 4. Total: 84
-	* Drama (100%)
-	* parent child relationship (39%) 
-
-* Cluster 5. Total: 380
-	* Drama (100%), Romance (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 6. Total: 437
-	* Comedy (100%), Crime (41%), Drama (36%), Romance (27%), Family (23%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 7. Total: 130
-	* TV Movie (100%), Comedy (48%), Family (40%), Drama (36%), Romance (20%), Animation (20%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 8. Total: 278
-	* Comedy (100%), Romance (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 9. Total: 157
-	* Horror (100%), Thriller (100%)
-	* murder (26%), slasher (22%) 
-
-* Cluster 10. Total: 26
-	* Adventure (100%), Drama (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 11. Total: 116
-	* Drama (100%), Thriller (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 12. Total: 7
-	* Action (100%), Animation (100%), Fantasy (100%)
-	* anime (85%), based on manga (57%), shounen (57%), fighter (42%), mythology (42%), greek mythology (42%), suit of armor (42%), deity (42%), edited from tv series (28%) 
-
-* Cluster 13. Total: 23
-	* Comedy (100%), Music (100%)
-	* musical (30%) 
-
-* Cluster 14. Total: 95
-	* Drama (100%)
-	* coming of age (28%), loss of loved one (24%) 
-
-* Cluster 15. Total: 53
-	* Action (100%)
-	* martial arts (26%) 
-
-* Cluster 16. Total: 48
-	* Comedy (100%), Horror (100%)
-	* zombie (22%) 
-
-* Cluster 17. Total: 116
-	* Crime (100%), Drama (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 18. Total: 9
-	* Comedy (100%), Horror (100%), Science Fiction (100%)
-	* mad scientist (44%), murder (22%), spacecraft (22%), small town (22%), bounty hunter (22%), alien (22%), creature (22%), explosion (22%), alien invasion (22%), zombie (22%) 
-
-* Cluster 19. Total: 29
-	* Family (100%), Comedy (100%)
-	* dog (20%) 
-
-* Cluster 20. Total: 34
-	* Music (100%), Documentary (91%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 21. Total: 226
-	* Comedy (100%), Fantasy (82%), Horror (30%), Romance (29%), Drama (21%), Family (20%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 22. Total: 22
-	* Drama (100%), Horror (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 23. Total: 74
-	* Thriller (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 24. Total: 12
-	* Drama (100%), Adventure (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 25. Total: 68
-	* Drama (100%), Crime (100%)
-	* gangster (20%) 
-
-* Cluster 26. Total: 22
-	* Action (100%), Thriller (100%), Science Fiction (100%)
-	* dystopia (72%), cyborg (27%), time travel (27%), action hero (27%), future (22%) 
-
-* Cluster 27. Total: 71
-	* Horror (100%), Mystery (100%), Thriller (100%)
-	* murder (32%) 
-
-* Cluster 28. Total: 100
-	* Action (99%), Science Fiction (87%), Adventure (68%), Animation (55%)
-	* superhero (70%), super power (41%) 
-
-* Cluster 29. Total: 581
-	* Science Fiction (100%), Action (48%), Adventure (30%), Comedy (22%), Horror (22%), Animation (22%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 30. Total: 29
-	* Comedy (100%), Crime (100%), Drama (100%)
-	* dark comedy (24%) 
-
-* Cluster 31. Total: 14
-	* Family (100%), Animation (100%)
-	* based on toy (28%) 
-
-* Cluster 32. Total: 84
-	* Animation (100%), Comedy (100%), Family (84%)
-	* short film (35%) 
-
-* Cluster 33. Total: 894
-	* Thriller (82%), Drama (65%), Crime (47%), Action (34%), Comedy (25%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 34. Total: 5
-	* Horror (100%), Comedy (100%), Thriller (100%)
-	* killer (40%) 
-
-* Cluster 35. Total: 69
-	* Drama (100%), Comedy (100%), Romance (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 36. Total: 5
-	* Adventure (100%), Action (100%), Comedy (100%)
-	* fistfight (40%) 
-
-* Cluster 37. Total: 19
-	* Crime (100%), Mystery (100%), Thriller (100%)
-	* murder (63%), serial killer (36%), detective (31%), neo-noir (31%), police (26%) 
-
-* Cluster 38. Total: 57
-	* Horror (100%), Mystery (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 39. Total: 88
-	* Romance (100%), Comedy (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 40. Total: 24
-	* Drama (100%), Crime (100%), Thriller (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 41. Total: 481
-	* Drama (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 42. Total: 10
-	* Fantasy (100%), Comedy (100%), Family (100%)
-	* halloween (30%), magic (30%) 
-
-* Cluster 43. Total: 2
-	* Romance (100%), Drama (100%), War (100%)
-	* nurse (50%), world war i (50%), lieutenant (50%), 1910s (50%), ottoman empire (50%), venice (50%), italy (50%), italian (50%), betrayal (50%), countess (50%), austrian officer (50%), 19th century (50%) 
-
-* Cluster 44. Total: 232
-	* Thriller (100%), Action (77%), Science Fiction (45%), Horror (22%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 45. Total: 17
-	* Animation (100%), Action (76%), Adventure (76%), Fantasy (41%), Family (29%), Comedy (23%)
-	* anime (100%) 
-
-* Cluster 46. Total: 315
+* Cluster 1. Total: 82
 	* Comedy (100%), Drama (100%)
+	* parent child relationship (29%), sibling relationship (17%), husband wife relationship (14%), family relationships (14%) 
+
+* Cluster 2. Total: 43
+	* Horror (100%)
+	* haunted house (58%), ghost (32%), supernatural (13%) 
+
+* Cluster 3. Total: 618
+	* Drama (100%), Romance (100%)
+	* love (14%) 
+
+* Cluster 4. Total: 1064
+	* Adventure (97%), Family (62%), Comedy (49%), Fantasy (42%), Animation (40%)
 	* nenhuma palavra-chave relevante 
 
-* Cluster 47. Total: 145
-	* Action (89%), Animation (88%), Fantasy (48%), Adventure (38%), Science Fiction (29%)
-	* anime (53%), adult animation (20%) 
+* Cluster 5. Total: 241
+	* Science Fiction (100%), Action (56%), Adventure (40%), Fantasy (36%), Animation (34%), Comedy (33%), Family (26%)
+	* anime (12%), alien (12%), time travel (10%) 
 
-* Cluster 48. Total: 184
-	* Comedy (100%), Drama (100%), Romance (100%)
-	* nenhuma palavra-chave relevante 
+* Cluster 6. Total: 1291
+	* Crime (75%), Thriller (75%), Action (71%), Drama (37%)
+	* murder (14%), revenge (10%) 
 
-* Cluster 49. Total: 591
+* Cluster 7. Total: 34
+	* Crime (100%), Drama (100%), Mystery (100%)
+	* murder (14%), neo-noir (14%), detective (11%) 
+
+* Cluster 8. Total: 198
+	* Horror (100%), Science Fiction (100%)
+	* alien (12%), zombie (12%), murder (12%), monster (10%), experiment (10%) 
+
+* Cluster 9. Total: 245
+	* Science Fiction (100%), Action (75%), Animation (66%)
+	* anime (26%), superhero (15%), adult animation (14%), dystopia (13%), super power (10%) 
+
+* Cluster 10. Total: 47
+	* Horror (100%), Science Fiction (100%), Thriller (100%)
+	* experiment (14%), scientist (14%), alien (12%), creature (12%) 
+
+* Cluster 11. Total: 1048
 	* Comedy (100%)
 	* nenhuma palavra-chave relevante 
 
-* Cluster 50. Total: 153
-	* Drama (100%), History (100%)
-	* nenhuma palavra-chave relevante 
+* Cluster 12. Total: 659
+	* History (100%), Drama (98%), War (24%)
+	* world war ii (12%) 
 
-* Cluster 51. Total: 10
-	* Crime (100%), Drama (100%), Romance (100%), Thriller (100%)
-	* gangster (30%), neo-noir (30%), film noir (30%) 
+* Cluster 13. Total: 54
+	* Animation (100%), Comedy (100%), Family (100%)
+	* short film (33%), cartoon (24%), dog (12%) 
 
-* Cluster 52. Total: 46
-	* Comedy (100%), Romance (100%), Drama (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 53. Total: 29
-	* Drama (100%)
-	* sports (93%), american football (37%), football (soccer) (20%) 
-
-* Cluster 54. Total: 359
-	* Drama (97%), Romance (90%), Music (23%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 55. Total: 106
-	* Crime (100%), Drama (100%), Thriller (100%)
-	* murder (20%) 
-
-* Cluster 56. Total: 44
-	* Crime (100%), Drama (100%), Mystery (100%), Thriller (50%)
-	* murder (34%) 
-
-* Cluster 57. Total: 90
-	* Action (100%), Crime (100%), Thriller (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 58. Total: 18
-	* Drama (100%), Mystery (100%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 59. Total: 9
-	* Mystery (100%), Crime (100%), Thriller (77%)
-	* detective (44%), murder (33%), whodunit (33%), loss of loved one (22%), private eye (22%), infidelity (22%) 
-
-* Cluster 60. Total: 157
-	* Horror (100%)
-	* murder (21%) 
-
-* Cluster 61. Total: 277
-	* Fantasy (89%), Drama (55%), Horror (50%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 62. Total: 6
+* Cluster 14. Total: 136
 	* Thriller (100%)
-	* italy (66%) 
-
-* Cluster 63. Total: 17
-	* Comedy (100%), Drama (100%), Family (100%)
 	* nenhuma palavra-chave relevante 
 
-* Cluster 64. Total: 5
-	* Comedy (100%), Drama (100%), Crime (100%)
-	* dark comedy (40%), jealousy (40%) 
+* Cluster 15. Total: 59
+	* Action (100%), Drama (100%)
+	* martial arts (22%), sports (18%) 
 
-* Cluster 65. Total: 107
+* Cluster 16. Total: 103
+	* Action (100%)
+	* martial arts (24%), revenge (17%) 
+
+* Cluster 17. Total: 20
+	* Comedy (100%), Fantasy (100%), Romance (100%)
+	* romantic comedy (15%), body-swap (15%), screwball comedy (15%) 
+
+* Cluster 18. Total: 166
+	* Science Fiction (100%), Comedy (46%), Drama (25%)
+	* alien (12%) 
+
+* Cluster 19. Total: 40
+	* Comedy (100%), Music (100%)
+	* musical (30%), rock 'n' roll (12%) 
+
+* Cluster 20. Total: 691
+	* Adventure (100%), Action (94%), Thriller (31%), Drama (27%)
+	* martial arts (10%) 
+
+* Cluster 21. Total: 58
+	* Drama (100%), Science Fiction (100%), Thriller (29%)
+	* dystopia (34%), future (13%) 
+
+* Cluster 22. Total: 161
+	* Comedy (100%), Drama (100%)
+	* nenhuma palavra-chave relevante 
+
+* Cluster 23. Total: 98
+	* Drama (100%), Comedy (100%), Romance (100%)
+	* nenhuma palavra-chave relevante 
+
+* Cluster 24. Total: 1082
+	* Comedy (83%), Horror (35%), Drama (28%), Fantasy (20%)
+	* nenhuma palavra-chave relevante 
+
+* Cluster 25. Total: 166
+	* Comedy (100%), Drama (100%)
+	* nenhuma palavra-chave relevante 
+
+* Cluster 26. Total: 146
+	* Romance (100%), Drama (100%)
+	* love (15%), lgbt (10%) 
+
+* Cluster 27. Total: 241
 	* Drama (100%)
 	* nenhuma palavra-chave relevante 
 
-* Cluster 66. Total: 53
-	* Western (100%)
+* Cluster 28. Total: 51
+	* Family (100%), Comedy (100%)
+	* dog (25%), sports (15%), pets (13%), st. bernard (11%) 
+
+* Cluster 29. Total: 46
+	* Romance (100%), Comedy (100%), Drama (100%)
+	* love (21%), high school (10%), romantic comedy (10%) 
+
+* Cluster 30. Total: 89
+	* Science Fiction (100%), Horror (75%), Drama (31%), Action (23%)
+	* alien (19%), japan (13%), monster (13%), dystopia (12%), kaiju (11%), scientist (10%), giant monster (10%) 
+
+* Cluster 31. Total: 211
+	* Adventure (100%), Science Fiction (100%), Action (66%), Comedy (20%)
+	* superhero (17%), dystopia (11%), alien (11%) 
+
+* Cluster 32. Total: 24
+	* Fantasy (100%), Horror (100%)
+	* silent film (16%), loss of loved one (12%), supernatural (12%), black and white (12%), woods (12%), gore (12%) 
+
+* Cluster 33. Total: 65
+	* Crime (100%), Drama (100%)
+	* prison (26%), murder (13%), revenge (10%) 
+
+* Cluster 34. Total: 111
+	* Horror (100%), Thriller (100%)
+	* murder (50%), slasher (47%), serial killer (39%), psychopath (25%), killer (14%), halloween (12%), gore (12%), revenge (10%), sadism (10%), torture (10%) 
+
+* Cluster 35. Total: 35
+	* Drama (100%), Crime (100%)
+	* organized crime (14%), gambling (14%), friendship (11%), drug dealing (11%) 
+
+* Cluster 36. Total: 149
+	* Action (100%), Thriller (100%)
+	* martial arts (14%), terrorism (13%), revenge (10%), action hero (10%) 
+
+* Cluster 37. Total: 290
+	* Comedy (100%), Drama (100%), Romance (100%)
 	* nenhuma palavra-chave relevante 
 
-* Cluster 67. Total: 63
-	* Animation (100%), Family (100%)
-	* based on toy (23%) 
+* Cluster 38. Total: 143
+	* Horror (100%)
+	* murder (25%), slasher (21%), found footage (12%), serial killer (11%) 
 
-* Cluster 68. Total: 244
-	* Adventure (100%), Comedy (63%), Family (46%), Drama (33%), Romance (20%)
+* Cluster 39. Total: 274
+	* Drama (100%)
+	* parent child relationship (20%), sibling relationship (16%), family relationships (12%), husband wife relationship (10%), mother daughter relationship (10%) 
+
+* Cluster 40. Total: 985
+	* Romance (100%), Comedy (59%), Drama (56%)
 	* nenhuma palavra-chave relevante 
 
-* Cluster 69. Total: 240
-	* Fantasy (100%), Adventure (96%), Action (54%), Family (27%)
-	* magic (21%) 
+* Cluster 41. Total: 38
+	* Drama (100%), Thriller (100%), Crime (100%)
+	* revenge (21%), police (18%), neo-noir (18%), murder (18%), organized crime (13%), kidnapping (13%), brutality (10%), investigation (10%) 
 
-* Cluster 70. Total: 60
-	* Action (100%), Comedy (100%)
+* Cluster 42. Total: 171
+	* Mystery (100%), Horror (98%), Thriller (33%)
+	* murder (19%), supernatural (10%) 
+
+* Cluster 43. Total: 151
+	* Science Fiction (100%), Action (76%), Adventure (54%), Animation (25%)
+	* superhero (19%), dystopia (17%), space opera (11%), spacecraft (10%), alien (10%), super power (10%) 
+
+* Cluster 44. Total: 72
+	* Drama (100%), Crime (100%)
+	* gangster (18%), murder (15%) 
+
+* Cluster 45. Total: 145
+	* Mystery (100%), Thriller (100%), Horror (78%)
+	* murder (28%), serial killer (16%), slasher (11%) 
+
+* Cluster 46. Total: 63
+	* Documentary (100%)
+	* sports documentary (25%), social documentary (19%), nature documentary (17%), social & cultural documentary (15%), poetic documentary (14%), nature (12%), political documentary (11%), sports (11%), documentary (11%) 
+
+* Cluster 47. Total: 11
+	* Adventure (100%), Animation (100%), Family (100%)
+	* friendship (18%), cartoon (18%), transformation (18%), grizzly bear (18%), bear (18%), unlikely friendship (18%), animal lead (18%) 
+
+* Cluster 48. Total: 1418
+	* Drama (91%), Thriller (61%), Mystery (33%), Horror (32%)
+	* murder (13%) 
+
+* Cluster 49. Total: 109
+	* Comedy (100%), Romance (100%)
+	* wedding (18%), romantic comedy (17%), parent child relationship (13%), relationship (11%) 
+
+* Cluster 50. Total: 525
+	* Action (85%), Animation (52%), Fantasy (50%), Drama (26%)
+	* anime (30%), superhero (12%) 
+
+* Cluster 51. Total: 146
+	* Crime (100%), Drama (100%), Thriller (100%)
+	* murder (19%), revenge (11%), neo-noir (10%), film noir (10%) 
+
+* Cluster 52. Total: 47
+	* Drama (100%)
+	* high school (44%), sports (21%), teacher (17%), school (14%), american football (12%), private school (10%), violence in schools (10%), high school teacher (10%) 
+
+* Cluster 53. Total: 243
+	* Drama (100%), Thriller (100%)
 	* nenhuma palavra-chave relevante 
 
-* Cluster 71. Total: 44
-	* Science Fiction (100%), Adventure (100%), Action (50%)
-	* dystopia (20%), alien (20%) 
+* Cluster 54. Total: 19
+	* Drama (100%), Romance (100%), Thriller (100%)
+	* murder (36%), love (21%), mental illness (10%), lgbt (10%), gay theme (10%), jealousy (10%), obsession (10%), girlfriend (10%), detective (10%), marriage (10%), erotic movie (10%) 
 
-* Cluster 72. Total: 255
-	* Animation (98%), Family (67%), Fantasy (51%), Comedy (45%), Drama (27%)
-	* nenhuma palavra-chave relevante 
+* Cluster 55. Total: 49
+	* Drama (100%)
+	* sports (93%), football (soccer) (12%), basketball (12%), boxer (10%), american football (10%) 
 
-* Cluster 73. Total: 179
-	* Crime (100%), Action (89%), Drama (36%), Comedy (29%)
-	* nenhuma palavra-chave relevante 
+* Cluster 56. Total: 5
+	* Horror (100%), Comedy (100%), Thriller (100%)
+	* killer (40%), small town (20%), street gang (20%), parent child relationship (20%), vampire (20%), boardwalk (20%), gay interest (20%), single (20%), murder (20%), amusement park (20%), blood sucking (20%), seaside town (20%), pets (20%), 1980s (20%), brother brother relationship (20%), vampires (20%), beach town (20%), gay subtext (20%), superstition (20%), haunted house (20%), father-in-law (20%), basement (20%), house arrest (20%), exploding head (20%), security guard (20%), garden shears (20%), dentures (20%), home detention (20%), forced retirement (20%), defence company (20%), jump the shark (20%), team building (20%), prostitute (20%), key (20%), chosen one (20%), god (20%), demon (20%), crypt keeper (20%), swamp (20%), ax (20%) 
 
-* Cluster 74. Total: 174
-	* Action (100%), Comedy (99%), Crime (37%)
-	* nenhuma palavra-chave relevante 
+* Cluster 57. Total: 137
+	* Documentary (100%)
+	* short film (10%) 
 
-* Cluster 75. Total: 165
+* Cluster 58. Total: 33
+	* Comedy (100%), Fantasy (100%)
+	* ghost (12%) 
+
+* Cluster 59. Total: 183
 	* Documentary (100%)
 	* nenhuma palavra-chave relevante 
 
-* Cluster 76. Total: 18
-	* Drama (100%), Family (100%)
-	* family relationships (27%), parent child relationship (27%) 
+* Cluster 60. Total: 24
+	* Drama (100%), Music (100%), Romance (100%)
+	* musical (33%), remake (12%), alcoholism (12%), singer (12%) 
 
-* Cluster 77. Total: 28
-	* Adventure (100%), Action (100%), Thriller (100%)
-	* british secret service (42%), spy (39%), secret mission (28%), secret identity (28%), secret intelligence service (28%), secret agent (25%) 
-
-* Cluster 78. Total: 39
-	* Drama (100%), Horror (100%), Thriller (100%)
+* Cluster 61. Total: 208
+	* Documentary (100%), Music (28%)
 	* nenhuma palavra-chave relevante 
 
-* Cluster 79. Total: 25
-	* Thriller (100%), Crime (100%), Drama (100%)
+* Cluster 62. Total: 112
+	* Horror (100%)
+	* demon (14%), gore (13%), murder (11%) 
+
+* Cluster 63. Total: 8
+	* Drama (100%), Family (100%), Romance (100%)
+	* sibling relationship (25%), high school (25%), daughter (12%), new love (12%), romance (12%), summer vacation (12%), mountain lake (12%), loss of loved one (12%), author (12%), rabbit (12%), 19th century (12%), 1900s (12%), female writer (12%), children's author (12%), cancer (12%), teenage romance (12%), coming of age (12%), skinny dipping (12%), first love (12%), tractor accident (12%), 1950s (12%), sister sister relationship (12%), hip-hop (12%), musical (12%), ballet (12%), circus (12%), clown (12%), traveling circus (12%), trapeze artist (12%), cruise (12%), dysfunctional family (12%), family relationships (12%), anthropomorphism (12%), dysfunctional marriage (12%), family vacation (12%), dog (12%), wedding anniversary (12%), mediterranean sea (12%), husband wife relationship (12%), marriage (12%), motorcycle crash (12%), india (12%), kerala (12%), bangalore (12%), bike racing (12%) 
+
+* Cluster 64. Total: 128
+	* Science Fiction (100%), Thriller (100%), Action (47%), Horror (21%)
+	* dystopia (21%), future (11%), scientist (10%), time travel (10%) 
+
+* Cluster 65. Total: 26
+	* Thriller (100%), Mystery (100%), Horror (100%)
+	* murder (23%), hallucination (11%), serial killer (11%), ghost (11%), whodunit (11%) 
+
+* Cluster 66. Total: 93
+	* Action (100%), Comedy (100%)
+	* martial arts (10%) 
+
+* Cluster 67. Total: 92
+	* Science Fiction (100%), Adventure (100%), Action (68%)
+	* superhero (20%), alien (17%), space (15%), dystopia (15%), time travel (11%), robot (10%) 
+
+* Cluster 68. Total: 85
+	* Comedy (100%), Family (100%)
+	* christmas (15%), sports (12%), holiday (11%), dog (10%) 
+
+* Cluster 69. Total: 126
+	* Comedy (100%), Crime (100%)
 	* nenhuma palavra-chave relevante 
 
-* Cluster 80. Total: 47
-	* TV Movie (100%), Comedy (68%), Family (57%), Romance (40%), Drama (25%), Fantasy (23%)
-	* christmas (27%) 
+* Cluster 70. Total: 115
+	* Action (100%), Crime (100%), Thriller (100%)
+	* police (16%), murder (14%), revenge (13%), martial arts (13%), kidnapping (10%), gangster (10%) 
 
-* Cluster 81. Total: 45
+* Cluster 71. Total: 20
+	* Drama (100%), Romance (100%), History (100%)
+	* 19th century (30%), period drama (20%) 
+
+* Cluster 72. Total: 153
+	* Science Fiction (100%), Thriller (74%), Drama (43%), Mystery (36%), Action (21%), Horror (20%)
+	* dystopia (16%), alien (15%) 
+
+* Cluster 73. Total: 65
+	* Crime (100%), Thriller (100%)
+	* murder (23%), film noir (16%), neo-noir (13%), heist (12%), gangster (12%), serial killer (12%) 
+
+* Cluster 74. Total: 53
+	* Comedy (100%), Drama (100%)
+	* friendship (54%), male friendship (18%), female friendship (15%), friends (15%), best friend (13%) 
+
+* Cluster 75. Total: 85
+	* Science Fiction (100%), Action (95%), Thriller (64%), Horror (48%)
+	* dystopia (32%), zombie (12%), future (11%), post-apocalyptic future (10%) 
+
+* Cluster 76. Total: 496
+	* Animation (99%), Family (77%), Comedy (48%), Fantasy (26%)
+	* short film (28%), musical (10%) 
+
+* Cluster 77. Total: 91
+	* Thriller (100%), Mystery (100%), Drama (30%)
+	* murder (18%) 
+
+* Cluster 78. Total: 496
+	* Drama (100%)
+	* nenhuma palavra-chave relevante 
+
+* Cluster 79. Total: 326
+	* Comedy (100%), Romance (100%)
+	* romantic comedy (12%), love (10%) 
+
+* Cluster 80. Total: 29
+	* Animation (100%), Drama (100%), Family (41%)
+	* short film (34%), anime (24%), adult animation (20%), loss of loved one (13%), coming of age (13%), friendship (13%), parent child relationship (13%) 
+
+* Cluster 81. Total: 90
+	* Horror (100%)
+	* supernatural (26%), vampire (24%), anthology (14%), supernatural horror (11%), sadism (11%), gothic horror (11%) 
+
+* Cluster 82. Total: 79
 	* Drama (100%), War (100%)
-	* world war ii (26%) 
+	* world war ii (31%), soldier (13%), nazi (11%), anti war (10%), italy (10%) 
 
-* Cluster 82. Total: 465
-	* Drama (96%), History (79%), War (39%), Action (26%)
+* Cluster 83. Total: 65
+	* Comedy (100%), Drama (100%)
+	* coming of age (26%), small town (18%) 
+
+* Cluster 84. Total: 21
+	* Crime (100%), Comedy (100%)
+	* murder (19%), gangster (14%), dark comedy (14%) 
+
+* Cluster 85. Total: 215
+	* Horror (100%), Thriller (100%)
+	* supernatural (10%) 
+
+* Cluster 86. Total: 210
+	* Drama (100%), Comedy (100%)
 	* nenhuma palavra-chave relevante 
 
-* Cluster 83. Total: 34
-	* Drama (100%), Music (100%)
+* Cluster 87. Total: 24
+	* Comedy (100%), Crime (100%), Mystery (100%)
+	* detective (29%), black and white (20%), investigation (16%), murder (16%), thin man (16%), whodunit (12%), disguise (12%), police (12%), private detective (12%) 
+
+* Cluster 88. Total: 200
+	* Drama (100%)
 	* nenhuma palavra-chave relevante 
 
-* Cluster 84. Total: 9
-	* Adventure (100%), Comedy (100%), Drama (100%)
-	* parent child relationship (22%), escape (22%) 
+* Cluster 89. Total: 90
+	* Thriller (100%), Horror (100%)
+	* murder (23%), found footage (11%) 
 
-* Cluster 85. Total: 277
-	* Science Fiction (100%), Thriller (43%), Action (38%), Drama (27%), Adventure (23%)
-	* dystopia (22%) 
-
-* Cluster 86. Total: 391
-	* Action (91%), Adventure (87%), Drama (40%), Thriller (37%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 87. Total: 357
-	* Adventure (100%), Animation (98%), Family (88%), Comedy (60%), Fantasy (42%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 88. Total: 73
-	* Documentary (100%), Crime (26%), Comedy (23%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 89. Total: 535
-	* Mystery (99%), Thriller (87%), Drama (45%), Horror (34%), Crime (28%)
-	* nenhuma palavra-chave relevante 
-
-* Cluster 90. Total: 48
-	* Drama (100%), Thriller (100%)
-	* murder (22%) 
+* Cluster 90. Total: 117
+	* Crime (100%), Drama (100%)
+	* murder (14%), gangster (11%), film noir (10%) 
 
 # Cluster 1
-**Total de filmes:** 18
-**Média de ano de lançamento:** 2014
-**Menor ano:** 1981 (Southern Comfort)
-**Maior ano:** 2023 (Heart of Stone)
+**Total de filmes:** 82
+**Média de ano de lançamento:** 2004
+**Menor ano:** 1939 (The Women)
+**Maior ano:** 2023 (Asteroid City)
 
 ## 5 Mais Velhos 
 
-**Southern Comfort** | **Crimson Tide** | **The Fan** | **Tower Block** | **Taken 3**
+**The Women** | **The Three Huastecos** | **Hobson's Choice** | **Pocketful of Miracles** | **War of the Buttons**
  -- | -- | -- | -- | -- 
-*1981* | *1995* | *1996* | *2012* | *2014*
- ![](https://image.tmdb.org/t/p/w200/3tE2tnk3iSXftJkRN5fkwqcRAiV.jpg) |  ![](https://image.tmdb.org/t/p/w200/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg) |  ![](https://image.tmdb.org/t/p/w200/lu7CjP8YES5dJMCFg5O9o9jCkjl.jpg) |  ![](https://image.tmdb.org/t/p/w200/aXnHnjeMlkxDz6CUpoRcL7Sr2nI.jpg) |  ![](https://image.tmdb.org/t/p/w200/vzvMXMypMq7ieDofKThsxjHj9hn.jpg)
+*1939* | *1948* | *1954* | *1961* | *1962*
+ ![](https://image.tmdb.org/t/p/w200/wMTbDI60uvt7ecLZ301XEE8mAOo.jpg) |  ![](https://image.tmdb.org/t/p/w200/ywY6JAinPvcD8RF7DQIbaGvrDot.jpg) |  ![](https://image.tmdb.org/t/p/w200/kbP7EgoiOw2bIypai50JWRsqP7p.jpg) |  ![](https://image.tmdb.org/t/p/w200/xjXwcGJjT5tE22wazQUYH32HwU8.jpg) |  ![](https://image.tmdb.org/t/p/w200/tg3RwUclgnW3hM1ExHkMd71YQ0n.jpg)
 
 ## 5 mais novos
 
-**Heart of Stone** | **Ambulance** | **All the Old Knives** | **Those Who Wish Me Dead** | **Endangered Species**
+**Asteroid City** | **Are You There God? It's Me, Margaret.** | **Sage homme** | **French Exit** | **Another Round**
  -- | -- | -- | -- | -- 
-*2023* | *2022* | *2022* | *2021* | *2021*
-![](https://image.tmdb.org/t/p/w200/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg) | ![](https://image.tmdb.org/t/p/w200/kuxjMVuc3VTD7p42TZpJNsSrM1V.jpg) | ![](https://image.tmdb.org/t/p/w200/g4tMniKxol1TBJrHlAtiDjjlx4Q.jpg) | ![](https://image.tmdb.org/t/p/w200/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg) | ![](https://image.tmdb.org/t/p/w200/ccsSqbpEqr2KK9eMvoeF8ERFCd5.jpg)
+*2023* | *2023* | *2023* | *2021* | *2020*
+![](https://image.tmdb.org/t/p/w200/tcKBclNUdkas4Jis8RYYZnPdTIm.jpg) | ![](https://image.tmdb.org/t/p/w200/yb6UB4WC3znlwU0L4AqMnjR9G9S.jpg) | ![](https://image.tmdb.org/t/p/w200/fkqircM2kwdNyG4Gm911u1AtlpD.jpg) | ![](https://image.tmdb.org/t/p/w200/9fyG5y5czwDVOSRsrkSjaob1Hsc.jpg) | ![](https://image.tmdb.org/t/p/w200/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg)
 
-**Média da nota:** 6,36
-**Menor nota:** 5,53 (Collide)
-**Maior nota:** 7,55 (The Wolf's Call)
+**Média da nota:** 6,62
+**Menor nota:** 5,04 (The Summer House)
+**Maior nota:** 8,22 (The Three Huastecos)
 
 ## 5 mais bem avaliados
 
-**The Wolf's Call** | **Crimson Tide** | **Southern Comfort** | **Heart of Stone** | **Those Who Wish Me Dead**
+**The Three Huastecos** | **Kabhi Khushi Kabhie Gham** | **Little Miss Sunshine** | **Another Round** | **Good Bye, Lenin!**
  -- | -- | -- | -- | -- 
-*7,55* | *7,16* | *6,93* | *6,90* | *6,70*
-![](https://image.tmdb.org/t/p/w200/8bxIzp9w9l9ZzGVwNaIKOaem05A.jpg) | ![](https://image.tmdb.org/t/p/w200/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg) | ![](https://image.tmdb.org/t/p/w200/3tE2tnk3iSXftJkRN5fkwqcRAiV.jpg) | ![](https://image.tmdb.org/t/p/w200/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg) | ![](https://image.tmdb.org/t/p/w200/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg)
+*8,22* | *7,76* | *7,68* | *7,66* | *7,56*
+![](https://image.tmdb.org/t/p/w200/ywY6JAinPvcD8RF7DQIbaGvrDot.jpg) | ![](https://image.tmdb.org/t/p/w200/lRl7wrJmkOzMTDVYFSIpUcsIjPQ.jpg) | ![](https://image.tmdb.org/t/p/w200/tFnTds88mCuLcLPBseK1kF2E3qv.jpg) | ![](https://image.tmdb.org/t/p/w200/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg) | ![](https://image.tmdb.org/t/p/w200/2QlsdRwkug30lw6DAWG8pxmMuFQ.jpg)
 
 ## 5 menos bem avaliados
 
-**Collide** | **Renegades** | **Tower Block** | **Endangered Species** | **Sniper: Legacy**
+**The Summer House** | **Sexual Chronicles of a French Family** | **Breakfast of Champions** | **Straight A's** | **Father of Invention**
  -- | -- | -- | -- | -- 
-*5,53* | *5,61* | *5,85* | *5,90* | *5,95*
-![](https://image.tmdb.org/t/p/w200/mmRizqT81KfcY91hndIt0TReqtB.jpg) | ![](https://image.tmdb.org/t/p/w200/hx4nxhesaagsvJNhRw2fTobg8o.jpg) | ![](https://image.tmdb.org/t/p/w200/aXnHnjeMlkxDz6CUpoRcL7Sr2nI.jpg) | ![](https://image.tmdb.org/t/p/w200/ccsSqbpEqr2KK9eMvoeF8ERFCd5.jpg) | ![](https://image.tmdb.org/t/p/w200/a9L1t3vRaZRU1Fa0kolfQGiTCnQ.jpg)
+*5,04* | *5,07* | *5,20* | *5,21* | *5,40*
+![](https://image.tmdb.org/t/p/w200/srneCbN2ymaYo6DYEcFLBkrb9ev.jpg) | ![](https://image.tmdb.org/t/p/w200/qNc91oPy8ffEXOqLVwpegITC7Yd.jpg) | ![](https://image.tmdb.org/t/p/w200/4f6NGYIzxFFnpuZmHoT79hm2jlo.jpg) | ![](https://image.tmdb.org/t/p/w200/92bkt0yTztGrNy44bOIHkxpkcDn.jpg) | ![](https://image.tmdb.org/t/p/w200/7ZPJQpl6dRgTYQ1krbSBptZQjMI.jpg)
 
-**Média de votos:** 1101,0
-**Menor votos:** 155 (Endangered Species)
-**Maior votos:** 5360 (Taken 3)
+**Média de votos:** 571,0
+**Menor votos:** 76 (Suntan)
+**Maior votos:** 6508 (Little Miss Sunshine)
 
 ## 5 mais avaliados
 
-**Taken 3** | **Anna** | **The Wolf's Call** | **Ambulance** | **Crimson Tide**
+**Little Miss Sunshine** | **50/50** | **Another Round** | **Good Bye, Lenin!** | **My Girl**
  -- | -- | -- | -- | -- 
-*5360* | *2408* | *1814* | *1714* | *1571*
-![](https://image.tmdb.org/t/p/w200/vzvMXMypMq7ieDofKThsxjHj9hn.jpg) | ![](https://image.tmdb.org/t/p/w200/2U0oAVAE0lDRhNmJPPYhDW9kQ8t.jpg) | ![](https://image.tmdb.org/t/p/w200/8bxIzp9w9l9ZzGVwNaIKOaem05A.jpg) | ![](https://image.tmdb.org/t/p/w200/kuxjMVuc3VTD7p42TZpJNsSrM1V.jpg) | ![](https://image.tmdb.org/t/p/w200/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg)
+*6508* | *3498* | *2786* | *2206* | *1897*
+![](https://image.tmdb.org/t/p/w200/tFnTds88mCuLcLPBseK1kF2E3qv.jpg) | ![](https://image.tmdb.org/t/p/w200/8f9tM9JVB4ETBhxlQcXIjLckArl.jpg) | ![](https://image.tmdb.org/t/p/w200/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg) | ![](https://image.tmdb.org/t/p/w200/2QlsdRwkug30lw6DAWG8pxmMuFQ.jpg) | ![](https://image.tmdb.org/t/p/w200/qyJJNHteA7BUwQSey05t7qP4vRV.jpg)
 
 ## 5 menos avaliados
 
-**Endangered Species** | **Tower Block** | **Sniper: Legacy** | **Southern Comfort** | **Renegades**
+**Suntan** | **Peppermint Soda** | **The Summer House** | **The Best Job in the World** | **The Three Huastecos**
  -- | -- | -- | -- | -- 
-*155* | *171* | *209* | *267* | *297*
-![](https://image.tmdb.org/t/p/w200/ccsSqbpEqr2KK9eMvoeF8ERFCd5.jpg) | ![](https://image.tmdb.org/t/p/w200/aXnHnjeMlkxDz6CUpoRcL7Sr2nI.jpg) | ![](https://image.tmdb.org/t/p/w200/a9L1t3vRaZRU1Fa0kolfQGiTCnQ.jpg) | ![](https://image.tmdb.org/t/p/w200/3tE2tnk3iSXftJkRN5fkwqcRAiV.jpg) | ![](https://image.tmdb.org/t/p/w200/hx4nxhesaagsvJNhRw2fTobg8o.jpg)
+*76* | *81* | *82* | *86* | *88*
+![](https://image.tmdb.org/t/p/w200/8hg1vOBISfPrS8fYohGarAUmmDV.jpg) | ![](https://image.tmdb.org/t/p/w200/zM7055A3Ld9kXrG3dhG1FOdKMFP.jpg) | ![](https://image.tmdb.org/t/p/w200/srneCbN2ymaYo6DYEcFLBkrb9ev.jpg) | ![](https://image.tmdb.org/t/p/w200/wiO6LZ6FyHkqTBklR011vlkEZyK.jpg) | ![](https://image.tmdb.org/t/p/w200/ywY6JAinPvcD8RF7DQIbaGvrDot.jpg)
 
 **Gêneros mais comuns:**
-* Thriller (18)
-* Action (18)
+* Comedy (82)
+* Drama (82)
 
 
 **Palavras-chave mais comuns:**
-* murder (3)
-* escape (2)
-* car crash (2)
-* on the run (2)
-* cia (2)
-* nuclear missile (2)
-* chain of command (2)
-* sonar (2)
-* nuclear submarine (2)
-* terrorism (2)
-* assassin (2)
-* espionage (2)
-* spy (2)
-* police (2)
-* conspiracy (2)
+* parent child relationship (24)
+* sibling relationship (14)
+* husband wife relationship (12)
+* family relationships (12)
+* dysfunctional family (8)
+* mother daughter relationship (8)
+* grandparent grandchild relationship (8)
+* father daughter relationship (6)
+* death (5)
+* dark comedy (5)
+* coming of age (5)
+* friendship (4)
+* cancer (4)
+* teacher student relationship (4)
+* marriage (4)
 
 # Cluster 2
-**Total de filmes:** 18
-**Média de ano de lançamento:** 2006
-**Menor ano:** 1974 (Murder on the Orient Express)
-**Maior ano:** 2019 (Angel of Mine)
+**Total de filmes:** 43
+**Média de ano de lançamento:** 2003
+**Menor ano:** 1960 (13 Ghosts)
+**Maior ano:** 2023 (Unwelcome)
 
 ## 5 Mais Velhos 
 
-**Murder on the Orient Express** | **The Name of the Rose** | **Before and After** | **The Game** | **Lost Highway**
+**13 Ghosts** | **The Haunting** | **The Reptile** | **The Amityville Horror** | **The Changeling**
  -- | -- | -- | -- | -- 
-*1974* | *1986* | *1996* | *1997* | *1997*
- ![](https://image.tmdb.org/t/p/w200/6tHXXo9kciCKGp3kF0ffY9mjuOA.jpg) |  ![](https://image.tmdb.org/t/p/w200/2BuVu0j6v2kNY2gGxtO3sDGyob2.jpg) |  ![](https://image.tmdb.org/t/p/w200/oK8UKDrjFS14OFoihaQPfmmMOyI.jpg) |  ![](https://image.tmdb.org/t/p/w200/4UOa079915QjiTA2u5hT2yKVgUu.jpg) |  ![](https://image.tmdb.org/t/p/w200/5POhfNeFPIi4VUNwCTaK85sh98r.jpg)
+*1960* | *1963* | *1966* | *1979* | *1980*
+ ![](https://image.tmdb.org/t/p/w200/8CyQj2VIfmGzjvdoLwYLyT8h4YS.jpg) |  ![](https://image.tmdb.org/t/p/w200/fmpTnUKTcrpuxLSY23gQMUf9qu7.jpg) |  ![](https://image.tmdb.org/t/p/w200/pyDCGewLquVYjXSL0SifoCtlyeZ.jpg) |  ![](https://image.tmdb.org/t/p/w200/7VMscq0659xKmcXzd86de1DGV4W.jpg) |  ![](https://image.tmdb.org/t/p/w200/1UCSvFg739Ma2jVaM0R9cTZrqA.jpg)
 
 ## 5 mais novos
 
-**Angel of Mine** | **The Killing of a Sacred Deer** | **The Place** | **My Son** | **Come and Find Me**
+**Unwelcome** | **Bed Rest** | **The Deep House** | **Things Heard & Seen** | **The Banishing**
  -- | -- | -- | -- | -- 
-*2019* | *2017* | *2017* | *2017* | *2016*
-![](https://image.tmdb.org/t/p/w200/q8IxjDRqJ7jFtt5Fn0jcXjiRVoF.jpg) | ![](https://image.tmdb.org/t/p/w200/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg) | ![](https://image.tmdb.org/t/p/w200/doGGzqZOJ7VZWVZdstRAs0i3de1.jpg) | ![](https://image.tmdb.org/t/p/w200/hKaaJ59TCJjvqChvyChcU8LktPM.jpg) | ![](https://image.tmdb.org/t/p/w200/iU5HQB70sL5nsa4JJuPplgqsFjk.jpg)
+*2023* | *2022* | *2021* | *2021* | *2021*
+![](https://image.tmdb.org/t/p/w200/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg) | ![](https://image.tmdb.org/t/p/w200/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg) | ![](https://image.tmdb.org/t/p/w200/52E0LGcMKHOO91P4j6hdHKVwITP.jpg) | ![](https://image.tmdb.org/t/p/w200/9tSkNmGt1K5Lgf0L0BTHHYJNz0W.jpg) | ![](https://image.tmdb.org/t/p/w200/wBvubEmOBRwA0HolPanqjMaMjfk.jpg)
 
-**Média da nota:** 6,85
-**Menor nota:** 5,58 (Come and Find Me)
-**Maior nota:** 8,20 (Shutter Island)
+**Média da nota:** 5,80
+**Menor nota:** 4,50 (Amityville 1992: It's About Time)
+**Maior nota:** 7,14 (Poltergeist)
 
 ## 5 mais bem avaliados
 
-**Shutter Island** | **Confessions** | **Lost Highway** | **The Game** | **Eyes Wide Shut**
+**Poltergeist** | **The Haunting** | **The Changeling** | **Morgue** | **Dumplings**
  -- | -- | -- | -- | -- 
-*8,20* | *7,60* | *7,58* | *7,56* | *7,47*
-![](https://image.tmdb.org/t/p/w200/4GDy0PHYX3VRXUtwK5ysFbg3kEx.jpg) | ![](https://image.tmdb.org/t/p/w200/xn98VCLMcF6TulxsKJq2EQ8WYL2.jpg) | ![](https://image.tmdb.org/t/p/w200/5POhfNeFPIi4VUNwCTaK85sh98r.jpg) | ![](https://image.tmdb.org/t/p/w200/4UOa079915QjiTA2u5hT2yKVgUu.jpg) | ![](https://image.tmdb.org/t/p/w200/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg)
+*7,14* | *7,13* | *7,02* | *6,97* | *6,70*
+![](https://image.tmdb.org/t/p/w200/xPazCcKp62IshnLVf9BLAjf9vgC.jpg) | ![](https://image.tmdb.org/t/p/w200/fmpTnUKTcrpuxLSY23gQMUf9qu7.jpg) | ![](https://image.tmdb.org/t/p/w200/1UCSvFg739Ma2jVaM0R9cTZrqA.jpg) | ![](https://image.tmdb.org/t/p/w200/m0u2fBIPwAi9gM693QaXhV2aoHq.jpg) | ![](https://image.tmdb.org/t/p/w200/97Rb3JJl343B1AVdhQdHohsFBT4.jpg)
 
 ## 5 menos bem avaliados
 
-**Come and Find Me** | **My Son** | **Before and After** | **Chloe** | **Angel of Mine**
+**Amityville 1992: It's About Time** | **Howling V: The Rebirth** | **The Axe Murders of Villisca** | **Spookies** | **Ghosthouse**
  -- | -- | -- | -- | -- 
-*5,58* | *5,86* | *5,93* | *6,07* | *6,24*
-![](https://image.tmdb.org/t/p/w200/iU5HQB70sL5nsa4JJuPplgqsFjk.jpg) | ![](https://image.tmdb.org/t/p/w200/hKaaJ59TCJjvqChvyChcU8LktPM.jpg) | ![](https://image.tmdb.org/t/p/w200/oK8UKDrjFS14OFoihaQPfmmMOyI.jpg) | ![](https://image.tmdb.org/t/p/w200/7VC7Q7GvIhEECIU3fiaRf71mxV6.jpg) | ![](https://image.tmdb.org/t/p/w200/q8IxjDRqJ7jFtt5Fn0jcXjiRVoF.jpg)
+*4,50* | *4,71* | *4,83* | *4,89* | *4,90*
+![](https://image.tmdb.org/t/p/w200/4seZ7wJsRHUK3m7I18bnnir594Q.jpg) | ![](https://image.tmdb.org/t/p/w200/irbRWCwIB1AONKlA4VzsYRkGmrK.jpg) | ![](https://image.tmdb.org/t/p/w200/69BB2Bp4i0LdOqtAtH5hIZiUFb3.jpg) | ![](https://image.tmdb.org/t/p/w200/mmJN1NvMIVQaWvO3iWvdSppfFy3.jpg) | ![](https://image.tmdb.org/t/p/w200/gtwxQJvHPfoB0IaRHJjfSa5KB4F.jpg)
 
-**Média de votos:** 3063,0
-**Menor votos:** 166 (Before and After)
-**Maior votos:** 22318 (Shutter Island)
+**Média de votos:** 490,0
+**Menor votos:** 75 (Night of the Demons III)
+**Maior votos:** 3896 (Mama)
 
 ## 5 mais avaliados
 
-**Shutter Island** | **The Game** | **Eyes Wide Shut** | **The Killing of a Sacred Deer** | **The Name of the Rose**
+**Mama** | **Poltergeist** | **Poltergeist** | **Sinister 2** | **Eli**
  -- | -- | -- | -- | -- 
-*22318* | *5975* | *5552* | *3407* | *2709*
-![](https://image.tmdb.org/t/p/w200/4GDy0PHYX3VRXUtwK5ysFbg3kEx.jpg) | ![](https://image.tmdb.org/t/p/w200/4UOa079915QjiTA2u5hT2yKVgUu.jpg) | ![](https://image.tmdb.org/t/p/w200/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg) | ![](https://image.tmdb.org/t/p/w200/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg) | ![](https://image.tmdb.org/t/p/w200/2BuVu0j6v2kNY2gGxtO3sDGyob2.jpg)
+*3896* | *2686* | *2133* | *1977* | *1288*
+![](https://image.tmdb.org/t/p/w200/eo8BhR8Q5STmWE9sMLsEPagxmy6.jpg) | ![](https://image.tmdb.org/t/p/w200/xPazCcKp62IshnLVf9BLAjf9vgC.jpg) | ![](https://image.tmdb.org/t/p/w200/A1ymtbzatZp94Z49ZOBb8JGXOBB.jpg) | ![](https://image.tmdb.org/t/p/w200/jLNUo05tEYaPMTmEoYTld8XYmOt.jpg) | ![](https://image.tmdb.org/t/p/w200/bIID8uZTYNnSMfWwaIluRTzaZQL.jpg)
 
 ## 5 menos avaliados
 
-**Before and After** | **My Son** | **Come and Find Me** | **Angel of Mine** | **Tom at the Farm**
+**Night of the Demons III** | **Stay Out of the Attic** | **Morgue** | **Howling V: The Rebirth** | **Spookies**
  -- | -- | -- | -- | -- 
-*166* | *229* | *243* | *244* | *777*
-![](https://image.tmdb.org/t/p/w200/oK8UKDrjFS14OFoihaQPfmmMOyI.jpg) | ![](https://image.tmdb.org/t/p/w200/hKaaJ59TCJjvqChvyChcU8LktPM.jpg) | ![](https://image.tmdb.org/t/p/w200/iU5HQB70sL5nsa4JJuPplgqsFjk.jpg) | ![](https://image.tmdb.org/t/p/w200/q8IxjDRqJ7jFtt5Fn0jcXjiRVoF.jpg) | ![](https://image.tmdb.org/t/p/w200/df7pp0jSs4wRxfWHtdgCaDPelmm.jpg)
+*75* | *76* | *76* | *77* | *78*
+![](https://image.tmdb.org/t/p/w200/dQ8ope8HVjLrO5G3WXAEgrFvAd.jpg) | ![](https://image.tmdb.org/t/p/w200/kEKQjLYZiIy78eEiMrtBfqSm3LU.jpg) | ![](https://image.tmdb.org/t/p/w200/m0u2fBIPwAi9gM693QaXhV2aoHq.jpg) | ![](https://image.tmdb.org/t/p/w200/irbRWCwIB1AONKlA4VzsYRkGmrK.jpg) | ![](https://image.tmdb.org/t/p/w200/mmJN1NvMIVQaWvO3iWvdSppfFy3.jpg)
 
 **Gêneros mais comuns:**
-* Drama (18)
-* Thriller (18)
-* Mystery (18)
+* Horror (43)
 
 
 **Palavras-chave mais comuns:**
-* investigation (2)
-* whodunit (2)
-* eroticism (2)
-* conspiracy (2)
-* psychopath (2)
-* insanity (2)
-* murder mystery (2)
-* remake (2)
-* detective (2)
-* snow (2)
-* divorced couple (2)
-* island (1)
-* hurricane (1)
-* u.s. marshal (1)
-* conspiracy theory (1)
+* haunted house (25)
+* ghost (14)
+* supernatural (6)
+* murder (3)
+* halloween (3)
+* werewolf (3)
+* medium (2)
+* poltergeist (2)
+* suburbia (2)
+* haunted (2)
+* police (2)
+* disappearance (2)
+* possession (2)
+* revenge (2)
+* séance (2)
 
 # Cluster 3
-**Total de filmes:** 10
-**Média de ano de lançamento:** 1997
-**Menor ano:** 1966 (Closely Watched Trains)
-**Maior ano:** 2017 (War Machine)
-
-## 5 Mais Velhos 
-
-**Closely Watched Trains** | **M*A*S*H** | **Good Morning, Vietnam** | **Biloxi Blues** | **Underground**
- -- | -- | -- | -- | -- 
-*1966* | *1970* | *1987* | *1988* | *1995*
- ![](https://image.tmdb.org/t/p/w200/1FMBXil0P8Xyl1KRWbXbUGn6JCC.jpg) |  ![](https://image.tmdb.org/t/p/w200/xZHNAcCVd5gUy68MBc4CmDqmely.jpg) |  ![](https://image.tmdb.org/t/p/w200/rcod81d34X1avhRIKBOQ4BsHtYZ.jpg) |  ![](https://image.tmdb.org/t/p/w200/vAhQegSNb0OYwBN2KbSr8GRSUsI.jpg) |  ![](https://image.tmdb.org/t/p/w200/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg)
-
-## 5 mais novos
-
-**War Machine** | **Whiskey Tango Foxtrot** | **A Perfect Day** | **Little Boy** | **Welcome to Dongmakgol**
- -- | -- | -- | -- | -- 
-*2017* | *2016* | *2015* | *2015* | *2005*
-![](https://image.tmdb.org/t/p/w200/bU2Q2rCH5VFrJNKSyx6wSmQZFsX.jpg) | ![](https://image.tmdb.org/t/p/w200/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg) | ![](https://image.tmdb.org/t/p/w200/musAGdMpfvxhNvEnxXgmzcjBxWL.jpg) | ![](https://image.tmdb.org/t/p/w200/lAU9pgq3niI6sFemcKm4FGGmrnW.jpg) | ![](https://image.tmdb.org/t/p/w200/5iGVw8AdnUJ3xNaZ5iipfsv2e5.jpg)
-
-**Média da nota:** 6,87
-**Menor nota:** 5,58 (War Machine)
-**Maior nota:** 7,76 (Underground)
-
-## 5 mais bem avaliados
-
-**Underground** | **Welcome to Dongmakgol** | **Good Morning, Vietnam** | **Closely Watched Trains** | **Little Boy**
- -- | -- | -- | -- | -- 
-*7,76* | *7,44* | *7,32* | *7,30* | *7,19*
-![](https://image.tmdb.org/t/p/w200/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg) | ![](https://image.tmdb.org/t/p/w200/5iGVw8AdnUJ3xNaZ5iipfsv2e5.jpg) | ![](https://image.tmdb.org/t/p/w200/rcod81d34X1avhRIKBOQ4BsHtYZ.jpg) | ![](https://image.tmdb.org/t/p/w200/1FMBXil0P8Xyl1KRWbXbUGn6JCC.jpg) | ![](https://image.tmdb.org/t/p/w200/lAU9pgq3niI6sFemcKm4FGGmrnW.jpg)
-
-## 5 menos bem avaliados
-
-**War Machine** | **Biloxi Blues** | **Whiskey Tango Foxtrot** | **A Perfect Day** | **M*A*S*H**
- -- | -- | -- | -- | -- 
-*5,58* | *6,26* | *6,28* | *6,66* | *6,96*
-![](https://image.tmdb.org/t/p/w200/bU2Q2rCH5VFrJNKSyx6wSmQZFsX.jpg) | ![](https://image.tmdb.org/t/p/w200/vAhQegSNb0OYwBN2KbSr8GRSUsI.jpg) | ![](https://image.tmdb.org/t/p/w200/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg) | ![](https://image.tmdb.org/t/p/w200/musAGdMpfvxhNvEnxXgmzcjBxWL.jpg) | ![](https://image.tmdb.org/t/p/w200/xZHNAcCVd5gUy68MBc4CmDqmely.jpg)
-
-**Média de votos:** 748,0
-**Menor votos:** 169 (Welcome to Dongmakgol)
-**Maior votos:** 2434 (Good Morning, Vietnam)
-
-## 5 mais avaliados
-
-**Good Morning, Vietnam** | **War Machine** | **M*A*S*H** | **Whiskey Tango Foxtrot** | **Underground**
- -- | -- | -- | -- | -- 
-*2434* | *1039* | *923* | *872* | *585*
-![](https://image.tmdb.org/t/p/w200/rcod81d34X1avhRIKBOQ4BsHtYZ.jpg) | ![](https://image.tmdb.org/t/p/w200/bU2Q2rCH5VFrJNKSyx6wSmQZFsX.jpg) | ![](https://image.tmdb.org/t/p/w200/xZHNAcCVd5gUy68MBc4CmDqmely.jpg) | ![](https://image.tmdb.org/t/p/w200/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg) | ![](https://image.tmdb.org/t/p/w200/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg)
-
-## 5 menos avaliados
-
-**Welcome to Dongmakgol** | **Biloxi Blues** | **Closely Watched Trains** | **Little Boy** | **A Perfect Day**
- -- | -- | -- | -- | -- 
-*169* | *185* | *206* | *491* | *580*
-![](https://image.tmdb.org/t/p/w200/5iGVw8AdnUJ3xNaZ5iipfsv2e5.jpg) | ![](https://image.tmdb.org/t/p/w200/vAhQegSNb0OYwBN2KbSr8GRSUsI.jpg) | ![](https://image.tmdb.org/t/p/w200/1FMBXil0P8Xyl1KRWbXbUGn6JCC.jpg) | ![](https://image.tmdb.org/t/p/w200/lAU9pgq3niI6sFemcKm4FGGmrnW.jpg) | ![](https://image.tmdb.org/t/p/w200/musAGdMpfvxhNvEnxXgmzcjBxWL.jpg)
-
-**Gêneros mais comuns:**
-* Comedy (10)
-* Drama (10)
-* War (10)
-
-
-**Palavras-chave mais comuns:**
-* world war ii (4)
-* journalist (2)
-* afghanistan (2)
-* korean war (2)
-* anti war (2)
-* soldier (2)
-* dying and death (1)
-* vietnam war (1)
-* rock 'n' roll (1)
-* vietcong (1)
-* right and justice (1)
-* explosive (1)
-* war crimes (1)
-* radio station (1)
-* radio presenter (1)
-
-# Cluster 4
-**Total de filmes:** 84
-**Média de ano de lançamento:** 2007
-**Menor ano:** 1957 (Sweet Smell of Success)
-**Maior ano:** 2023 (A Good Person)
-
-## 5 Mais Velhos 
-
-**Sweet Smell of Success** | **Cat on a Hot Tin Roof** | **To Kill a Mockingbird** | **Mamma Roma** | **The Miracle Worker**
- -- | -- | -- | -- | -- 
-*1957* | *1958* | *1962* | *1962* | *1962*
- ![](https://image.tmdb.org/t/p/w200/mFut9uTjcP1fhDeh7srKhTocJRq.jpg) |  ![](https://image.tmdb.org/t/p/w200/vWf1AR8rC6WjGKELlmLv2VAUZJB.jpg) |  ![](https://image.tmdb.org/t/p/w200/gZycFUMLx2110dzK3nBNai7gfpM.jpg) |  ![](https://image.tmdb.org/t/p/w200/gA4TiFDgmKMsorIMIaNwi1FRNOA.jpg) |  ![](https://image.tmdb.org/t/p/w200/3dI6UVM5W1sz3MU9gNK5nVDcAyQ.jpg)
-
-## 5 mais novos
-
-**A Good Person** | **The Eight Mountains** | **Armageddon Time** | **Return to Seoul** | **Palmer**
- -- | -- | -- | -- | -- 
-*2023* | *2022* | *2022* | *2022* | *2021*
-![](https://image.tmdb.org/t/p/w200/6toz74j1OgbQrsZUjgr2Ohs1AsE.jpg) | ![](https://image.tmdb.org/t/p/w200/1oc4AwkfFkLsRQ96t1erFXzPUhU.jpg) | ![](https://image.tmdb.org/t/p/w200/d0fkTMTN91f0tehqVKG9D9JMsDR.jpg) | ![](https://image.tmdb.org/t/p/w200/x0bOXCGMxHc4RHeeZQFFLIM6fZJ.jpg) | ![](https://image.tmdb.org/t/p/w200/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg)
-
-**Média da nota:** 7,22
-**Menor nota:** 5,65 (The Show)
-**Maior nota:** 8,28 (Miracle in Cell No. 7)
-
-## 5 mais bem avaliados
-
-**Miracle in Cell No. 7** | **Mommy** | **Palmer** | **Silenced** | **The Hunt**
- -- | -- | -- | -- | -- 
-*8,28* | *8,25* | *8,15* | *8,15* | *8,10*
-![](https://image.tmdb.org/t/p/w200/bOth4QmNyEkalwahfPCfiXjNh1r.jpg) | ![](https://image.tmdb.org/t/p/w200/u5jbTMqze9U2nEhfFJmtDXxc89m.jpg) | ![](https://image.tmdb.org/t/p/w200/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg) | ![](https://image.tmdb.org/t/p/w200/mbMp0oIFmYnw0i5gzRoKt8cH5ve.jpg) | ![](https://image.tmdb.org/t/p/w200/jkixsXzRh28q3PCqFoWcf7unghT.jpg)
-
-## 5 menos bem avaliados
-
-**The Show** | **Rocky V** | **6 Balloons** | **Return to Seoul** | **Fat Girl**
- -- | -- | -- | -- | -- 
-*5,65* | *5,77* | *6,02* | *6,04* | *6,17*
-![](https://image.tmdb.org/t/p/w200/tg3hztSt33hf1OopspKVjVY7jC4.jpg) | ![](https://image.tmdb.org/t/p/w200/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg) | ![](https://image.tmdb.org/t/p/w200/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg) | ![](https://image.tmdb.org/t/p/w200/x0bOXCGMxHc4RHeeZQFFLIM6fZJ.jpg) | ![](https://image.tmdb.org/t/p/w200/afzbY1h7huuxlITigPfcyQSkqLs.jpg)
-
-**Média de votos:** 1079,0
-**Menor votos:** 150 (La Promesse)
-**Maior votos:** 6641 (Moonlight)
-
-## 5 mais avaliados
-
-**Moonlight** | **Lion** | **There Will Be Blood** | **Miracle in Cell No. 7** | **The Hunt**
- -- | -- | -- | -- | -- 
-*6641* | *6199* | *5985* | *4217* | *3741*
-![](https://image.tmdb.org/t/p/w200/4911T5FbJ9eD2Faz5Z8cT3SUhU3.jpg) | ![](https://image.tmdb.org/t/p/w200/iBGRbLvg6kVc7wbS8wDdVHq6otm.jpg) | ![](https://image.tmdb.org/t/p/w200/fa0RDkAlCec0STeMNAhPaF89q6U.jpg) | ![](https://image.tmdb.org/t/p/w200/bOth4QmNyEkalwahfPCfiXjNh1r.jpg) | ![](https://image.tmdb.org/t/p/w200/jkixsXzRh28q3PCqFoWcf7unghT.jpg)
-
-## 5 menos avaliados
-
-**La Promesse** | **Falling** | **Krisha** | **Machuca** | **A Good Person**
- -- | -- | -- | -- | -- 
-*150* | *169* | *170* | *182* | *182*
-![](https://image.tmdb.org/t/p/w200/pmGx73cJ3gVCCli1JAVQOaLbdnY.jpg) | ![](https://image.tmdb.org/t/p/w200/dvPMCVr1ILhf1q4JMGymSB8OQGl.jpg) | ![](https://image.tmdb.org/t/p/w200/xN4xhl5HYhfO9W8Y1ZZEnqmQEip.jpg) | ![](https://image.tmdb.org/t/p/w200/oBDAEhTLWwflrqRZMsrOisqkVSb.jpg) | ![](https://image.tmdb.org/t/p/w200/6toz74j1OgbQrsZUjgr2Ohs1AsE.jpg)
-
-**Gêneros mais comuns:**
-* Drama (84)
-
-
-**Palavras-chave mais comuns:**
-* parent child relationship (33)
-* father son relationship (13)
-* sibling relationship (11)
-* mother son relationship (11)
-* drug addiction (9)
-* single mother (7)
-* adoption (6)
-* suicide (6)
-* lgbt (5)
-* gay theme (5)
-* friendship (5)
-* mental illness (5)
-* child abuse (5)
-* coming of age (4)
-* father (4)
-
-# Cluster 5
-**Total de filmes:** 380
-**Média de ano de lançamento:** 1999
-**Menor ano:** 1919 (Broken Blossoms)
+**Total de filmes:** 618
+**Média de ano de lançamento:** 1996
+**Menor ano:** 1896 (The Kiss)
 **Maior ano:** 2023 (My Fault)
 
 ## 5 Mais Velhos 
 
-**Broken Blossoms** | **Sunrise: A Song of Two Humans** | **The Crowd** | **Grand Hotel** | **A Star Is Born**
+**The Kiss** | **Broken Blossoms** | **A Woman of Paris: A Drama of Fate** | **Sunrise: A Song of Two Humans** | **7th Heaven**
  -- | -- | -- | -- | -- 
-*1919* | *1927* | *1928* | *1932* | *1937*
- ![](https://image.tmdb.org/t/p/w200/l9rHRp7Yb2PVy5Qd5wUR9coXZoy.jpg) |  ![](https://image.tmdb.org/t/p/w200/oj8ZW8jKXBSs8F1e5iWsTUeXSJW.jpg) |  ![](https://image.tmdb.org/t/p/w200/wE7U91kOtLGHPQ8xsRVfYA6HJWp.jpg) |  ![](https://image.tmdb.org/t/p/w200/2j7dxqIlGHdTaaUW9s4Z5zfp9qS.jpg) |  ![](https://image.tmdb.org/t/p/w200/90EfCmXXWOs5dy7rHTNvGT9T8Kz.jpg)
+*1896* | *1919* | *1923* | *1927* | *1927*
+ ![](https://image.tmdb.org/t/p/w200/yv752ef2vvw1pLKxmNEMXQg1Hnq.jpg) |  ![](https://image.tmdb.org/t/p/w200/l9rHRp7Yb2PVy5Qd5wUR9coXZoy.jpg) |  ![](https://image.tmdb.org/t/p/w200/s24VgyvJliT7fUA909ZHJpoBx1D.jpg) |  ![](https://image.tmdb.org/t/p/w200/oj8ZW8jKXBSs8F1e5iWsTUeXSJW.jpg) |  ![](https://image.tmdb.org/t/p/w200/3ETXMu5PrcVMRJpfN2Z3MwcfXzy.jpg)
 
 ## 5 mais novos
 
-**My Fault** | **Past Lives** | **Perfect Addiction** | **My Policeman** | **Empire of Light**
+**My Fault** | **Past Lives** | **Perfect Addiction** | **Royalteen: Princess Margrethe** | **My Policeman**
  -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/w46Vw536HwNnEzOa7J24YH9DPRS.jpg) | ![](https://image.tmdb.org/t/p/w200/rzO71VFu7CpJMfF5TQNMj0d1lSV.jpg) | ![](https://image.tmdb.org/t/p/w200/3wkrRKMFRwCpjp1U27914oRbcqH.jpg) | ![](https://image.tmdb.org/t/p/w200/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg) | ![](https://image.tmdb.org/t/p/w200/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg)
+*2023* | *2023* | *2023* | *2023* | *2022*
+![](https://image.tmdb.org/t/p/w200/w46Vw536HwNnEzOa7J24YH9DPRS.jpg) | ![](https://image.tmdb.org/t/p/w200/rzO71VFu7CpJMfF5TQNMj0d1lSV.jpg) | ![](https://image.tmdb.org/t/p/w200/3wkrRKMFRwCpjp1U27914oRbcqH.jpg) | ![](https://image.tmdb.org/t/p/w200/2gkKRFDiuSvBB57glAMBsdRGeWk.jpg) | ![](https://image.tmdb.org/t/p/w200/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg)
 
-**Média da nota:** 6,94
-**Menor nota:** 5,50 (Random Hearts)
+**Média da nota:** 6,79
+**Menor nota:** 4,71 (Another 9 1/2 Weeks)
 **Maior nota:** 8,45 (Cinema Paradiso)
 
 ## 5 mais bem avaliados
@@ -727,13 +1199,13 @@ Versão resumida dos clusters
 
 ## 5 menos bem avaliados
 
-**Random Hearts** | **Diary of a Nymphomaniac** | **Dirty Dancing** | **By the Sea** | **Lovesong**
+**Another 9 1/2 Weeks** | **Le Divorce** | **Darling Companion** | **The Romantics** | **Mad Love**
  -- | -- | -- | -- | -- 
-*5,50* | *5,51* | *5,54* | *5,60* | *5,61*
-![](https://image.tmdb.org/t/p/w200/k7LoKDWDesvYD7DXDh9Ewlxtcx8.jpg) | ![](https://image.tmdb.org/t/p/w200/yVYTeiFv7oQsSQF9OBRngg7ZqLg.jpg) | ![](https://image.tmdb.org/t/p/w200/itjxxb8I1TfK1H3TGvrs5aJDM9a.jpg) | ![](https://image.tmdb.org/t/p/w200/oEyeG4UyAQvYIJiFpUV57Q3PTDp.jpg) | ![](https://image.tmdb.org/t/p/w200/43yEeZbFeFOah9mZWIIJe57STKS.jpg)
+*4,71* | *4,91* | *4,95* | *4,95* | *5,10*
+![](https://image.tmdb.org/t/p/w200/lbQjiB1KTCX1Tmrby7CV7tP5Yq5.jpg) | ![](https://image.tmdb.org/t/p/w200/ucBJrWKCJ1naTylSFN8jpaEqwwe.jpg) | ![](https://image.tmdb.org/t/p/w200/wqlUsjcu874Ja9iOpWin2APUxCj.jpg) | ![](https://image.tmdb.org/t/p/w200/cgyXubpBzHuXTGu8gnBQ1gUrcNY.jpg) | ![](https://image.tmdb.org/t/p/w200/glhctWoYw1jg8z0FUSwFD4UTNi4.jpg)
 
-**Média de votos:** 1047,0
-**Menor votos:** 150 (The Pillow Book)
+**Média de votos:** 685,0
+**Menor votos:** 75 (A Millionaire's First Love)
 **Maior votos:** 23637 (Titanic)
 
 ## 5 mais avaliados
@@ -745,773 +1217,1070 @@ Versão resumida dos clusters
 
 ## 5 menos avaliados
 
-**The Pillow Book** | **Monday** | **Carnal Knowledge** | **Dil Se..** | **The Blonde One**
+**A Millionaire's First Love** | **Love Is a Many-Splendored Thing** | **Anna Karenina** | **One Wonderful Sunday** | **Imitation of Life**
  -- | -- | -- | -- | -- 
-*150* | *150* | *150* | *151* | *152*
-![](https://image.tmdb.org/t/p/w200/gQlv9t0522IBEOctwJph92amVyG.jpg) | ![](https://image.tmdb.org/t/p/w200/o4Gc5quiCBtiW6mgkPvDWKAiFVs.jpg) | ![](https://image.tmdb.org/t/p/w200/c9UKNj4x5Fak5n2JR8b6YMw7ZjZ.jpg) | ![](https://image.tmdb.org/t/p/w200/rdnkOPYlHf8WaPRllTz3dsuzpp8.jpg) | ![](https://image.tmdb.org/t/p/w200/7qPgZx8J0hhkrZESHNGP2zCHtf1.jpg)
+*75* | *75* | *75* | *75* | *75*
+![](https://image.tmdb.org/t/p/w200/o9swBSiEFgzt41YSc2WOSHMSliu.jpg) | ![](https://image.tmdb.org/t/p/w200/a9aqlitzVeo5fq6UX5Ekl5kopco.jpg) | ![](https://image.tmdb.org/t/p/w200/39bSsAvMGOgN8I5lt2rOQgAXsj7.jpg) | ![](https://image.tmdb.org/t/p/w200/2JADvAzmEiLaYqnw8eZVOp88q5j.jpg) | ![](https://image.tmdb.org/t/p/w200/kqymXLeKSb8YWQdMiv3nfQjfP2v.jpg)
 
 **Gêneros mais comuns:**
-* Drama (380)
-* Romance (380)
+* Drama (618)
+* Romance (618)
 
 
 **Palavras-chave mais comuns:**
-* love (62)
-* lgbt (32)
-* gay theme (25)
-* husband wife relationship (21)
-* marriage (21)
-* friendship (19)
-* extramarital affair (19)
-* infidelity (18)
-* love of one's life (18)
-* adultery (17)
-* parent child relationship (17)
-* forbidden love (16)
-* romance (16)
-* 19th century (16)
-* coming of age (15)
+* love (91)
+* lgbt (59)
+* gay theme (47)
+* infidelity (28)
+* husband wife relationship (28)
+* extramarital affair (27)
+* friendship (26)
+* marriage (26)
+* forbidden love (25)
+* 19th century (25)
+* coming of age (24)
+* romance (23)
+* love triangle (22)
+* italy (21)
+* love of one's life (20)
 
-# Cluster 6
-**Total de filmes:** 437
-**Média de ano de lançamento:** 1996
-**Menor ano:** 1918 (Shoulder Arms)
-**Maior ano:** 2023 (Murder Mystery 2)
+# Cluster 4
+**Total de filmes:** 1064
+**Média de ano de lançamento:** 2001
+**Menor ano:** 1896 (The Cabbage-Patch Fairy)
+**Maior ano:** 2023 (The Super Mario Bros. Movie)
 
 ## 5 Mais Velhos 
 
-**Shoulder Arms** | **Safety Last!** | **L'Âge d'or** | **Monkey Business** | **Trouble in Paradise**
+**The Cabbage-Patch Fairy** | **Dante's Inferno** | **The Adventurer** | **Cops** | **The Thief of Bagdad**
  -- | -- | -- | -- | -- 
-*1918* | *1923* | *1930* | *1931* | *1932*
- ![](https://image.tmdb.org/t/p/w200/pKJD6kpEBrJROFxEAUMGxn59hnS.jpg) |  ![](https://image.tmdb.org/t/p/w200/bG2IFl0pFaisVl7YQuSiuTQBWKZ.jpg) |  ![](https://image.tmdb.org/t/p/w200/q3OH9Yk3hOE5uYEK55ASjEtsPfE.jpg) |  ![](https://image.tmdb.org/t/p/w200/9iZpFKpp6ZaTahbprypM7ek4HVt.jpg) |  ![](https://image.tmdb.org/t/p/w200/FBxuoLRD3Biyul14unT5m3PYNS.jpg)
+*1896* | *1911* | *1917* | *1922* | *1924*
+ ![](https://image.tmdb.org/t/p/w200/2QZGHPgFcOPvPKJew0MQHF45dkj.jpg) |  ![](https://image.tmdb.org/t/p/w200/sL1ovbqIKapcyGeQ3ytBz919uAa.jpg) |  ![](https://image.tmdb.org/t/p/w200/khSBh0dDnPsWel6P2zyZCQ2UnMp.jpg) |  ![](https://image.tmdb.org/t/p/w200/6CX4AcuxBjVjXxthVilYtU942Ad.jpg) |  ![](https://image.tmdb.org/t/p/w200/8t4CJ591N2FATf2yUiQNQk9p0tB.jpg)
 
 ## 5 mais novos
 
-**Murder Mystery 2** | **Mixed by Erry** | **Glass Onion: A Knives Out Mystery** | **Marry Me** | **Falling for Christmas**
+**The Super Mario Bros. Movie** | **Barbie** | **Dungeons & Dragons: Honor Among Thieves** | **The Little Mermaid** | **Asterix & Obelix: The Middle Kingdom**
  -- | -- | -- | -- | -- 
-*2023* | *2023* | *2022* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg) | ![](https://image.tmdb.org/t/p/w200/tCTqW2YLxx6gqrPFTlMswvDunuQ.jpg) | ![](https://image.tmdb.org/t/p/w200/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg) | ![](https://image.tmdb.org/t/p/w200/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg) | ![](https://image.tmdb.org/t/p/w200/zgtkXLJagDMlW4iXTCojL5guDeu.jpg)
+*2023* | *2023* | *2023* | *2023* | *2023*
+![](https://image.tmdb.org/t/p/w200/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg) | ![](https://image.tmdb.org/t/p/w200/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg) | ![](https://image.tmdb.org/t/p/w200/gkiHVcE4ae3BSl1x0K3qaJzpybz.jpg) | ![](https://image.tmdb.org/t/p/w200/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg) | ![](https://image.tmdb.org/t/p/w200/ifOqT5SmA4ANjmyEacLw3KAFKUd.jpg)
 
-**Média da nota:** 6,65
-**Menor nota:** 5,50 (Police Academy 4: Citizens on Patrol)
-**Maior nota:** 8,33 (The Great Dictator)
+**Média da nota:** 6,63
+**Menor nota:** 4,50 (Spirou & Fantasio's Big Adventures)
+**Maior nota:** 8,50 (Scooby-Doo! Haunted Holidays)
 
 ## 5 mais bem avaliados
 
-**The Great Dictator** | **The Art of Racing in the Rain** | **The Great War** | **Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb** | **Lock, Stock and Two Smoking Barrels**
+**Scooby-Doo! Haunted Holidays** | **The Lord of the Rings: The Return of the King** | **The Lord of the Rings: The Fellowship of the Ring** | **Howl's Moving Castle** | **The Boy, the Mole, the Fox and the Horse**
  -- | -- | -- | -- | -- 
-*8,33* | *8,21* | *8,14* | *8,13* | *8,13*
-![](https://image.tmdb.org/t/p/w200/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg) | ![](https://image.tmdb.org/t/p/w200/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg) | ![](https://image.tmdb.org/t/p/w200/aDvKsUb5y7GMNMz2HHNtuGww5t8.jpg) | ![](https://image.tmdb.org/t/p/w200/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg) | ![](https://image.tmdb.org/t/p/w200/8kSerJrhrJWKLk1LViesGcnrUPE.jpg)
+*8,50* | *8,47* | *8,40* | *8,40* | *8,39*
+![](https://image.tmdb.org/t/p/w200/pDKhj7YzzqBr0ZIYtC2eF4i2ZIm.jpg) | ![](https://image.tmdb.org/t/p/w200/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg) | ![](https://image.tmdb.org/t/p/w200/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg) | ![](https://image.tmdb.org/t/p/w200/6pZgH10jhpToPcf0uvyTCPFhWpI.jpg) | ![](https://image.tmdb.org/t/p/w200/oQRgyQCzcyZvE6w5heM9ktVY0LT.jpg)
 
 ## 5 menos bem avaliados
 
-**Police Academy 4: Citizens on Patrol** | **Rebound** | **It Stains the Sands Red** | **L'abbiamo fatta grossa** | **Saving Silverman**
+**Spirou & Fantasio's Big Adventures** | **Safari** | **Happily N'Ever After 2** | **Norm of the North** | **The Isle**
  -- | -- | -- | -- | -- 
-*5,50* | *5,52* | *5,54* | *5,56* | *5,56*
-![](https://image.tmdb.org/t/p/w200/vvk5aWBJE3EqDX2ln6M4J4UiUXr.jpg) | ![](https://image.tmdb.org/t/p/w200/4l0Q1lAf4aV3h1LJQ00EpxVQefr.jpg) | ![](https://image.tmdb.org/t/p/w200/rBCjDBa2Dau9WqEslCpdJni394M.jpg) | ![](https://image.tmdb.org/t/p/w200/addAIA6JTAGxPH6EEHQPMumI4R6.jpg) | ![](https://image.tmdb.org/t/p/w200/5mq8J11266ZL7HCOwDGXoaU6eIO.jpg)
+*4,50* | *4,60* | *4,64* | *4,69* | *4,70*
+![](https://image.tmdb.org/t/p/w200/etvxFMkSvAWtbaCwEwpWcyGK6JZ.jpg) | ![](https://image.tmdb.org/t/p/w200/4AH9tfPHnbBg9a7sdQilCOvpKql.jpg) | ![](https://image.tmdb.org/t/p/w200/qovxyp1QbwN179Ay65zQYDjNsuV.jpg) | ![](https://image.tmdb.org/t/p/w200/ouaoVSV7aOSWTNnQ9iDA1jw0pgg.jpg) | ![](https://image.tmdb.org/t/p/w200/r4XDWsBWMzpoNm5fUMjr9cyY5rI.jpg)
 
-**Média de votos:** 999,0
-**Menor votos:** 150 (That Darn Cat!)
-**Maior votos:** 22222 (The Wolf of Wall Street)
+**Média de votos:** 1841,0
+**Menor votos:** 75 (Last Cannibal World)
+**Maior votos:** 25379 (Harry Potter and the Philosopher's Stone)
 
 ## 5 mais avaliados
 
-**The Wolf of Wall Street** | **Knives Out** | **The Big Lebowski** | **Home Alone** | **Jojo Rabbit**
+**Harry Potter and the Philosopher's Stone** | **The Lord of the Rings: The Fellowship of the Ring** | **The Lord of the Rings: The Return of the King** | **Harry Potter and the Chamber of Secrets** | **The Lord of the Rings: The Two Towers**
  -- | -- | -- | -- | -- 
-*22222* | *11156* | *10390* | *10140* | *8724*
-![](https://image.tmdb.org/t/p/w200/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg) | ![](https://image.tmdb.org/t/p/w200/pThyQovXQrw2m0s9x82twj48Jq4.jpg) | ![](https://image.tmdb.org/t/p/w200/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg) | ![](https://image.tmdb.org/t/p/w200/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg) | ![](https://image.tmdb.org/t/p/w200/7GsM4mtM0worCtIVeiQt28HieeN.jpg)
+*25379* | *23323* | *22334* | *20390* | *20274*
+![](https://image.tmdb.org/t/p/w200/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg) | ![](https://image.tmdb.org/t/p/w200/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg) | ![](https://image.tmdb.org/t/p/w200/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg) | ![](https://image.tmdb.org/t/p/w200/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg) | ![](https://image.tmdb.org/t/p/w200/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg)
 
 ## 5 menos avaliados
 
-**That Darn Cat!** | **Rob the Bank** | **10,000 Saints** | **Female Trouble** | **Torrente 2: Mission in Marbella**
+**Last Cannibal World** | **Bibi Blocksberg and the Secret of Blue Owls** | **Three Heroes and the Shamakhan Queen** | **Robinson Crusoe** | **Kaena: The Prophecy**
  -- | -- | -- | -- | -- 
-*150* | *151* | *153* | *154* | *155*
-![](https://image.tmdb.org/t/p/w200/by92HEWg2d4WrkgbUIPEA0ufsHI.jpg) | ![](https://image.tmdb.org/t/p/w200/r6cGdysyGhJ1ytCb9sLHkEfCUpe.jpg) | ![](https://image.tmdb.org/t/p/w200/hYIntlx1Dm44aJFAWVqE8ArQcDm.jpg) | ![](https://image.tmdb.org/t/p/w200/cqhIufhoORDMuFKEinV1IIYUBxD.jpg) | ![](https://image.tmdb.org/t/p/w200/yJyBsGqQow7vGTD8FbntQOzwJP4.jpg)
+*75* | *75* | *76* | *76* | *76*
+![](https://image.tmdb.org/t/p/w200/q5MEqvaBLueVEEnetKdhax0DXhy.jpg) | ![](https://image.tmdb.org/t/p/w200/lg7veUKM3VqSnu0bl8otEnDs7M4.jpg) | ![](https://image.tmdb.org/t/p/w200/sSQizNjb4DlMtMW0zdVojrpQq3j.jpg) | ![](https://image.tmdb.org/t/p/w200/1loBnQ2Bl1qzGNvUdtGTmVo8GnV.jpg) | ![](https://image.tmdb.org/t/p/w200/ihIIh8BR9YwtG2noVZ3enkiiozb.jpg)
 
 **Gêneros mais comuns:**
-* Comedy (437)
-* Crime (180)
-* Drama (160)
-* Romance (122)
-* Family (103)
-* Music (74)
-* Mystery (44)
-* War (19)
-* Western (15)
-* Horror (11)
-* History (8)
-* Thriller (3)
+* Adventure (1040)
+* Family (665)
+* Comedy (527)
+* Fantasy (450)
+* Animation (430)
+* Drama (200)
+* Action (104)
+* Romance (69)
+* Mystery (50)
+* Music (36)
+* Horror (34)
+* TV Movie (33)
+* Crime (26)
+* Western (20)
+* War (16)
+* History (12)
+* Thriller (6)
+
+
+**Palavras-chave mais comuns:**
+* magic (92)
+* friendship (59)
+* dog (58)
+* musical (52)
+* anthropomorphism (51)
+* anime (51)
+* christmas (45)
+* animal (40)
+* witch (38)
+* fairy tale (38)
+* pets (35)
+* live action and animation (34)
+* cartoon (33)
+* dragon (32)
+* wizard (30)
+
+# Cluster 5
+**Total de filmes:** 241
+**Média de ano de lançamento:** 2004
+**Menor ano:** 1929 (Woman in the Moon)
+**Maior ano:** 2023 (They Cloned Tyrone)
+
+## 5 Mais Velhos 
+
+**Woman in the Moon** | **Abbott and Costello Meet the Invisible Man** | **The Time Machine** | **King Kong vs. Godzilla** | **Our Man Flint**
+ -- | -- | -- | -- | -- 
+*1929* | *1951* | *1960* | *1962* | *1966*
+ ![](https://image.tmdb.org/t/p/w200/2W9cX6c2Lrro32KqinjrcCkuhaR.jpg) |  ![](https://image.tmdb.org/t/p/w200/sGFnr4dCUm1Ro1bZHR5TXHOolXb.jpg) |  ![](https://image.tmdb.org/t/p/w200/x3BOzx2rUc5c3gG9UCelzSxv8n4.jpg) |  ![](https://image.tmdb.org/t/p/w200/dmCfyzUl0Ylk8Rpi6dYyWuBrnNr.jpg) |  ![](https://image.tmdb.org/t/p/w200/rd2jKIqFfJ8LgZEaBpAvLL44G10.jpg)
+
+## 5 mais novos
+
+**They Cloned Tyrone** | **Mighty Morphin Power Rangers: Once & Always** | **Robots** | **Morbius** | **Dragon Ball Super: Super Hero**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2023* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/omSa3oafsV7i5776FLFoOBI2Ho9.jpg) | ![](https://image.tmdb.org/t/p/w200/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg) | ![](https://image.tmdb.org/t/p/w200/yf7aXA3qC3MA5fqnBmnFsrdZDDN.jpg) | ![](https://image.tmdb.org/t/p/w200/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg) | ![](https://image.tmdb.org/t/p/w200/pi0iZOEHeA3ih4p1IwAG4x2DZNH.jpg)
+
+**Média da nota:** 6,51
+**Menor nota:** 4,63 (Sharknado 3: Oh Hell No!)
+**Maior nota:** 8,34 (Neon Genesis Evangelion: The End of Evangelion)
+
+## 5 mais bem avaliados
+
+**Neon Genesis Evangelion: The End of Evangelion** | **Evangelion: 3.0+1.0 Thrice Upon a Time** | **Avengers: Endgame** | **Steven Universe: The Movie** | **Ron's Gone Wrong**
+ -- | -- | -- | -- | -- 
+*8,34* | *8,30* | *8,26* | *8,25* | *7,97*
+![](https://image.tmdb.org/t/p/w200/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg) | ![](https://image.tmdb.org/t/p/w200/md5wZRRj8biHrGtyitgBZo7674t.jpg) | ![](https://image.tmdb.org/t/p/w200/or06FN3Dka5tukK1e9sl16pB3iy.jpg) | ![](https://image.tmdb.org/t/p/w200/8mRgpubxHqnqvENK4Bei30xMDvy.jpg) | ![](https://image.tmdb.org/t/p/w200/2gq9sEE2iDRqKx8OiZP6mYSTq4.jpg)
+
+## 5 menos bem avaliados
+
+**Sharknado 3: Oh Hell No!** | **Starship Troopers 3: Marauder** | **Tentacles** | **A Sound of Thunder** | **A Kid in King Arthur's Court**
+ -- | -- | -- | -- | -- 
+*4,63* | *4,70* | *4,72* | *4,77* | *4,80*
+![](https://image.tmdb.org/t/p/w200/r8qy2CgaSjJYusWy3XkbZieK5aG.jpg) | ![](https://image.tmdb.org/t/p/w200/vh5nospDpMOxZhyhRiXWWMmSFQe.jpg) | ![](https://image.tmdb.org/t/p/w200/aNRqx0Kikz4ve6PP2sjWMjGPIJv.jpg) | ![](https://image.tmdb.org/t/p/w200/xJ1BVHMOywEF55nCZC6g57CIJho.jpg) | ![](https://image.tmdb.org/t/p/w200/nzkCh60LNLTaAl8YCCVFM5OASUS.jpg)
+
+**Média de votos:** 1206,0
+**Menor votos:** 75 (6-Headed Shark Attack)
+**Maior votos:** 23857 (Avengers: Endgame)
+
+## 5 mais avaliados
+
+**Avengers: Endgame** | **Spider-Man: Homecoming** | **Her** | **X-Men: Apocalypse** | **Transformers**
+ -- | -- | -- | -- | -- 
+*23857* | *20507* | *13407* | *12215* | *10477*
+![](https://image.tmdb.org/t/p/w200/or06FN3Dka5tukK1e9sl16pB3iy.jpg) | ![](https://image.tmdb.org/t/p/w200/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg) | ![](https://image.tmdb.org/t/p/w200/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg) | ![](https://image.tmdb.org/t/p/w200/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg) | ![](https://image.tmdb.org/t/p/w200/phAFhKOEhOGLIuH0brr5EenAckY.jpg)
+
+## 5 menos avaliados
+
+**6-Headed Shark Attack** | **Dollman vs. Demonic Toys** | **Macross: Do You Remember Love?** | **Ice Twisters** | **Mr. India**
+ -- | -- | -- | -- | -- 
+*75* | *75* | *75* | *75* | *76*
+![](https://image.tmdb.org/t/p/w200/fS37m9pRBG0QYTeCEtzNBVVVL3H.jpg) | ![](https://image.tmdb.org/t/p/w200/mzd0S30LWCdK5y2pMrObCfGXocN.jpg) | ![](https://image.tmdb.org/t/p/w200/oxGCI4H0ANXD8YoXnt3ZmjTjNIM.jpg) | ![](https://image.tmdb.org/t/p/w200/yaKcjBXIOnzOki4438QIsjxt3oD.jpg) | ![](https://image.tmdb.org/t/p/w200/x7n1K9xyCwCXyMutVKPre4raJy8.jpg)
+
+**Gêneros mais comuns:**
+* Science Fiction (241)
+* Action (135)
+* Adventure (97)
+* Fantasy (88)
+* Animation (82)
+* Comedy (80)
+* Family (65)
+* Drama (46)
+* TV Movie (42)
+* Thriller (34)
+* Romance (26)
+* Horror (24)
+* Mystery (18)
+* Music (10)
+* Crime (9)
+* War (5)
+* Western (4)
+
+
+**Palavras-chave mais comuns:**
+* anime (31)
+* alien (29)
+* time travel (26)
+* superhero (24)
+* robot (15)
+* adult animation (15)
+* future (14)
+* super power (14)
+* dystopia (13)
+* monster (13)
+* scientist (12)
+* japan (11)
+* space travel (10)
+* alien invasion (9)
+* spacecraft (9)
+
+# Cluster 6
+**Total de filmes:** 1291
+**Média de ano de lançamento:** 2003
+**Menor ano:** 1903 (The Great Train Robbery)
+**Maior ano:** 2023 (John Wick: Chapter 4)
+
+## 5 Mais Velhos 
+
+**The Great Train Robbery** | **Murder!** | **Number Seventeen** | **The Testament of Dr. Mabuse** | **The Adventures of Sherlock Holmes**
+ -- | -- | -- | -- | -- 
+*1903* | *1930* | *1932* | *1933* | *1939*
+ ![](https://image.tmdb.org/t/p/w200/vEYr1sJR1dOFGXwXawpBN6hDRGF.jpg) |  ![](https://image.tmdb.org/t/p/w200/8VJdYKQkXYQFNncXfbveBL97Cx4.jpg) |  ![](https://image.tmdb.org/t/p/w200/oNJ8Bl2RyC7e77VtUhx4WQ3IxKz.jpg) |  ![](https://image.tmdb.org/t/p/w200/tc2ET7j6X066VCjdHblSwLr8sEz.jpg) |  ![](https://image.tmdb.org/t/p/w200/oNE3GyeA9ZUCzI9jYTgNy7vYTfO.jpg)
+
+## 5 mais novos
+
+**John Wick: Chapter 4** | **Scream VI** | **Guy Ritchie's The Covenant** | **Cocaine Bear** | **Heart of Stone**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2023* | *2023* | *2023*
+![](https://image.tmdb.org/t/p/w200/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg) | ![](https://image.tmdb.org/t/p/w200/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg) | ![](https://image.tmdb.org/t/p/w200/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg) | ![](https://image.tmdb.org/t/p/w200/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg) | ![](https://image.tmdb.org/t/p/w200/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg)
+
+**Média da nota:** 6,40
+**Menor nota:** 4,50 (The Outsider)
+**Maior nota:** 8,51 (The Dark Knight)
+
+## 5 mais bem avaliados
+
+**The Dark Knight** | **Pulp Fiction** | **Se7en** | **Léon: The Professional** | **Perfect Blue**
+ -- | -- | -- | -- | -- 
+*8,51* | *8,49* | *8,37* | *8,32* | *8,29*
+![](https://image.tmdb.org/t/p/w200/qJ2tW6WMUDux911r6m7haRef0WH.jpg) | ![](https://image.tmdb.org/t/p/w200/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg) | ![](https://image.tmdb.org/t/p/w200/6yoghtyTpznpBik8EngEmJskVUO.jpg) | ![](https://image.tmdb.org/t/p/w200/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg) | ![](https://image.tmdb.org/t/p/w200/bee6ZQVaSAUhlBinsP9In8x8vO1.jpg)
+
+## 5 menos bem avaliados
+
+**The Outsider** | **Samurai Cop** | **From Dusk Till Dawn 2: Texas Blood Money** | **The Poison Rose** | **Christmas Crossfire**
+ -- | -- | -- | -- | -- 
+*4,50* | *4,57* | *4,59* | *4,64* | *4,66*
+![](https://image.tmdb.org/t/p/w200/yzCyzP0FwzprnbFxWapmoL2MLO7.jpg) | ![](https://image.tmdb.org/t/p/w200/4M2FSwfTvhmP4ubF47UKS86BKYO.jpg) | ![](https://image.tmdb.org/t/p/w200/in11KZuaVuJnxVBipxYocDqMQbW.jpg) | ![](https://image.tmdb.org/t/p/w200/gSzyUmg719TgAxarFZYWjLLMqvS.jpg) | ![](https://image.tmdb.org/t/p/w200/ajKpYK7XdzIYjy9Uy8nkgRboKyv.jpg)
+
+**Média de votos:** 1065,0
+**Menor votos:** 75 (The Net 2.0)
+**Maior votos:** 30619 (The Dark Knight)
+
+## 5 mais avaliados
+
+**The Dark Knight** | **Pulp Fiction** | **Joker** | **The Dark Knight Rises** | **Batman Begins**
+ -- | -- | -- | -- | -- 
+*30619* | *25893* | *23425* | *21335* | *19561*
+![](https://image.tmdb.org/t/p/w200/qJ2tW6WMUDux911r6m7haRef0WH.jpg) | ![](https://image.tmdb.org/t/p/w200/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg) | ![](https://image.tmdb.org/t/p/w200/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg) | ![](https://image.tmdb.org/t/p/w200/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg) | ![](https://image.tmdb.org/t/p/w200/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg)
+
+## 5 menos avaliados
+
+**The Net 2.0** | **Nicotina** | **Blast of Silence** | **The Big Sleep** | **A Prayer for the Dying**
+ -- | -- | -- | -- | -- 
+*75* | *75* | *75* | *75* | *75*
+![](https://image.tmdb.org/t/p/w200/7ofTl14cmpu5hCeD2HWh2T5QFH5.jpg) | ![](https://image.tmdb.org/t/p/w200/Y5O3hU5DpH4Kz1wcPDumGjTkxb.jpg) | ![](https://image.tmdb.org/t/p/w200/53vcxT6Ptz5uR9T64IwIudZqcuK.jpg) | ![](https://image.tmdb.org/t/p/w200/moBuoPdT2ow7OVkzibWJcrGnkOX.jpg) | ![](https://image.tmdb.org/t/p/w200/2WyzgwWhVx1PjgZCvibQ3HO23p.jpg)
+
+**Gêneros mais comuns:**
+* Crime (981)
+* Thriller (979)
+* Action (929)
+* Drama (489)
+* Comedy (250)
+* Mystery (207)
+* Horror (112)
+* Romance (46)
+* War (28)
+* History (15)
+* Western (12)
+* Adventure (10)
+* Animation (10)
+* TV Movie (10)
+* Fantasy (8)
+* Music (3)
+* Family (2)
 * Science Fiction (1)
 
 
 **Palavras-chave mais comuns:**
-* musical (28)
-* christmas (23)
-* dark comedy (22)
-* holiday (17)
-* black and white (17)
-* police (16)
-* high school (15)
-* murder (15)
-* love (14)
-* kidnapping (13)
-* satire (13)
-* italy (13)
-* detective (12)
-* robbery (12)
-* friendship (12)
+* murder (183)
+* revenge (132)
+* police (114)
+* serial killer (79)
+* martial arts (76)
+* detective (72)
+* gangster (67)
+* neo-noir (66)
+* kidnapping (65)
+* investigation (62)
+* hitman (62)
+* drugs (57)
+* shootout (55)
+* robbery (51)
+* assassin (51)
 
 # Cluster 7
-**Total de filmes:** 130
-**Média de ano de lançamento:** 2008
-**Menor ano:** 1964 (Rudolph the Red-Nosed Reindeer)
-**Maior ano:** 2023 (Teen Wolf: The Movie)
+**Total de filmes:** 34
+**Média de ano de lançamento:** 1990
+**Menor ano:** 1945 (And Then There Were None)
+**Maior ano:** 2021 (No Sudden Move)
 
 ## 5 Mais Velhos 
 
-**Rudolph the Red-Nosed Reindeer** | **A Charlie Brown Christmas** | **It's the Great Pumpkin, Charlie Brown** | **Frosty the Snowman** | **Santa Claus Is Comin' to Town**
+**And Then There Were None** | **Dead Reckoning** | **D.O.A.** | **Rashomon** | **Maigret Sets a Trap**
  -- | -- | -- | -- | -- 
-*1964* | *1965* | *1966* | *1969* | *1970*
- ![](https://image.tmdb.org/t/p/w200/xjAElUhXuc7zFJPj3qUHjcySNsE.jpg) |  ![](https://image.tmdb.org/t/p/w200/vtaufTzJBMJAeziQA1eP4BLU24C.jpg) |  ![](https://image.tmdb.org/t/p/w200/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg) |  ![](https://image.tmdb.org/t/p/w200/gw7ie4W3iW8nefnZ4kuw8dgYNM2.jpg) |  ![](https://image.tmdb.org/t/p/w200/8BYZEKB0BQkbniS1WRzPaU38cmp.jpg)
+*1945* | *1947* | *1949* | *1950* | *1958*
+ ![](https://image.tmdb.org/t/p/w200/maV1jQZ58NZIjwRbdtmRcaW3fZo.jpg) |  ![](https://image.tmdb.org/t/p/w200/A4r6KXgL6Z1ecV2nXiLd4yOAqXs.jpg) |  ![](https://image.tmdb.org/t/p/w200/m7wZXWOt9XQKJT8r9pbAFo7jB46.jpg) |  ![](https://image.tmdb.org/t/p/w200/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg) |  ![](https://image.tmdb.org/t/p/w200/71pYPAf00xoaQ5cmH7lSbWbSOwl.jpg)
 
 ## 5 mais novos
 
-**Teen Wolf: The Movie** | **Z-O-M-B-I-E-S 3** | **Monster High: The Movie** | **Miraculous World: Shanghai – The Legend of Ladydragon** | **Girl in the Basement**
+**No Sudden Move** | **Jai Bhim** | **Badla** | **Under the Silver Lake** | **The Outsider**
  -- | -- | -- | -- | -- 
-*2023* | *2022* | *2022* | *2021* | *2021*
-![](https://image.tmdb.org/t/p/w200/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg) | ![](https://image.tmdb.org/t/p/w200/2QxbpQgzmTQjezu9YOeBk8JFzKg.jpg) | ![](https://image.tmdb.org/t/p/w200/768OBP28OA4mjavOUAIRlVo14Xu.jpg) | ![](https://image.tmdb.org/t/p/w200/qQ0VKsGRQ2ofAmswGNzZnvC1xPE.jpg) | ![](https://image.tmdb.org/t/p/w200/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg)
+*2021* | *2021* | *2019* | *2018* | *2018*
+![](https://image.tmdb.org/t/p/w200/34BmdJkdvRweC3xJJFlOFQ2IbYc.jpg) | ![](https://image.tmdb.org/t/p/w200/zb9QBUn5AZzoKCS2jsnhp6ySSGp.jpg) | ![](https://image.tmdb.org/t/p/w200/eKpzbERuhogYTwI3PwfVsAHXnuO.jpg) | ![](https://image.tmdb.org/t/p/w200/cJ9aKlEgTLYtpYjNqin06YqJRUl.jpg) | ![](https://image.tmdb.org/t/p/w200/m2riQcEzjVrkP8wKHDXwC5EQpHQ.jpg)
 
-**Média da nota:** 6,80
-**Menor nota:** 5,58 (Kim Possible)
-**Maior nota:** 8,42 (Twin Peaks)
+**Média da nota:** 6,72
+**Menor nota:** 4,93 (Wild Things: Diamonds in the Rough)
+**Maior nota:** 8,12 (Rashomon)
 
 ## 5 mais bem avaliados
 
-**Twin Peaks** | **Believe Me: The Abduction of Lisa McVey** | **Office Romance** | **Prayers for Bobby** | **Miraculous World: Shanghai – The Legend of Ladydragon**
+**Rashomon** | **Anatomy of a Murder** | **Changeling** | **The Conversation** | **The Trial**
  -- | -- | -- | -- | -- 
-*8,42* | *8,15* | *8,10* | *8,07* | *7,90*
-![](https://image.tmdb.org/t/p/w200/Apg4fMfr1Wi19Ilu5HXh4nClCv9.jpg) | ![](https://image.tmdb.org/t/p/w200/qbJEzCzEKDHPZDiRvSSBiYEKaAH.jpg) | ![](https://image.tmdb.org/t/p/w200/21TgZRiA5gDlyCwQEyYqZcqwMgN.jpg) | ![](https://image.tmdb.org/t/p/w200/1viFwXluAettogGDsTrSUUg29lZ.jpg) | ![](https://image.tmdb.org/t/p/w200/qQ0VKsGRQ2ofAmswGNzZnvC1xPE.jpg)
+*8,12* | *7,84* | *7,60* | *7,53* | *7,45*
+![](https://image.tmdb.org/t/p/w200/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg) | ![](https://image.tmdb.org/t/p/w200/zMxLbSPpToTCc6yK2Gddhx6nHNN.jpg) | ![](https://image.tmdb.org/t/p/w200/iECXjFF8JkTnNJvik14WbPpc9s9.jpg) | ![](https://image.tmdb.org/t/p/w200/9LGN30PhmzAZhDc23yFBZAHtNST.jpg) | ![](https://image.tmdb.org/t/p/w200/2o1oe54a4doiwB4uJq9Kx1RHal0.jpg)
 
 ## 5 menos bem avaliados
 
-**Kim Possible** | **The Hunters** | **Picture This** | **Megalodon** | **Critters Attack!**
+**Wild Things: Diamonds in the Rough** | **Wild Things 2** | **Wild Things: Foursome** | **And Then There Were None** | **City by the Sea**
  -- | -- | -- | -- | -- 
-*5,58* | *5,64* | *5,64* | *5,66* | *5,72*
-![](https://image.tmdb.org/t/p/w200/t37Xa74GFO1R3kebocqSV4hFrPO.jpg) | ![](https://image.tmdb.org/t/p/w200/ubR6x50z4aLflgzJcw7X7HflKKr.jpg) | ![](https://image.tmdb.org/t/p/w200/f0Mc2OzARakkTmnm8sihEQSoVaI.jpg) | ![](https://image.tmdb.org/t/p/w200/hES2eVAbVt08JJTqgu3jmI34Yxx.jpg) | ![](https://image.tmdb.org/t/p/w200/iQJQNElDQqQ3iXf46pyMmhReoyp.jpg)
+*4,93* | *5,14* | *5,24* | *5,70* | *5,74*
+![](https://image.tmdb.org/t/p/w200/1O01MpwB6eV0ars0Jxk0yh4x5ED.jpg) | ![](https://image.tmdb.org/t/p/w200/3aoRiK4Q36kS4kYWWeF1CG4HhZr.jpg) | ![](https://image.tmdb.org/t/p/w200/jCbVWscuNzqrboYoxVCLfmQQ2Yi.jpg) | ![](https://image.tmdb.org/t/p/w200/JoBZj30v380XBiRrYwIhOoGJ1z.jpg) | ![](https://image.tmdb.org/t/p/w200/vpjKtnE5SGTfmdw4YtJsnrfFJs0.jpg)
 
-**Média de votos:** 441,0
-**Menor votos:** 150 (Death of a Salesman)
-**Maior votos:** 4342 (High School Musical)
+**Média de votos:** 644,0
+**Menor votos:** 80 (Maigret Sets a Trap)
+**Maior votos:** 3877 (Changeling)
 
 ## 5 mais avaliados
 
-**High School Musical** | **High School Musical 2** | **Descendants** | **Sherlock: The Abominable Bride** | **Duel**
+**Changeling** | **Gone Baby Gone** | **Rashomon** | **The Conversation** | **Cop Land**
  -- | -- | -- | -- | -- 
-*4342* | *3540* | *2158* | *2143* | *1666*
-![](https://image.tmdb.org/t/p/w200/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg) | ![](https://image.tmdb.org/t/p/w200/la2kiVWDm2vuB4APZDgCCmuBh4K.jpg) | ![](https://image.tmdb.org/t/p/w200/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg) | ![](https://image.tmdb.org/t/p/w200/hibE8cyZs2Bm0o4WaWd1pppvjO2.jpg) | ![](https://image.tmdb.org/t/p/w200/4GNz3kF86KpgghLq578Asy3ObPw.jpg)
+*3877* | *3388* | *1956* | *1505* | *1399*
+![](https://image.tmdb.org/t/p/w200/iECXjFF8JkTnNJvik14WbPpc9s9.jpg) | ![](https://image.tmdb.org/t/p/w200/rm3Dl8DWYGO3UQ3w2kju62L9rkn.jpg) | ![](https://image.tmdb.org/t/p/w200/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg) | ![](https://image.tmdb.org/t/p/w200/9LGN30PhmzAZhDc23yFBZAHtNST.jpg) | ![](https://image.tmdb.org/t/p/w200/qzR7m6kUhsbdid3xRK2jTXjyNmG.jpg)
 
 ## 5 menos avaliados
 
-**Death of a Salesman** | **Mickey and Minnie Wish Upon a Christmas** | **Paterno** | **Best Player** | **Big Time Movie**
+**Maigret Sets a Trap** | **Wild Things: Foursome** | **The Pariah** | **And Then There Were None** | **The Reckoning**
  -- | -- | -- | -- | -- 
-*150* | *152* | *156* | *156* | *157*
-![](https://image.tmdb.org/t/p/w200/tIRmjfaLmVHjGFaIcNGD3hggvbO.jpg) | ![](https://image.tmdb.org/t/p/w200/viZ3SvvQi7CRHJxnSKAG2lHU4AK.jpg) | ![](https://image.tmdb.org/t/p/w200/Ad4y2Cc2FcY1wOk3DH7HVWlrgEM.jpg) | ![](https://image.tmdb.org/t/p/w200/hIVXQM0X4rawgKa6VFPb84NBqKX.jpg) | ![](https://image.tmdb.org/t/p/w200/tIFqLhlK8fhYnBCrrYedKHTzlhg.jpg)
+*80* | *87* | *90* | *90* | *94*
+![](https://image.tmdb.org/t/p/w200/71pYPAf00xoaQ5cmH7lSbWbSOwl.jpg) | ![](https://image.tmdb.org/t/p/w200/jCbVWscuNzqrboYoxVCLfmQQ2Yi.jpg) | ![](https://image.tmdb.org/t/p/w200/eKPBQ5Yijep3jOpZWwIil9dtgqe.jpg) | ![](https://image.tmdb.org/t/p/w200/JoBZj30v380XBiRrYwIhOoGJ1z.jpg) | ![](https://image.tmdb.org/t/p/w200/nb5Lc8hm0tPsa9GfLoyLadGm6k9.jpg)
 
 **Gêneros mais comuns:**
-* TV Movie (130)
-* Comedy (63)
-* Family (53)
-* Drama (47)
-* Romance (27)
-* Animation (27)
-* Fantasy (23)
-* Adventure (22)
-* Science Fiction (17)
-* Music (13)
-* Crime (9)
-* Action (9)
-* Mystery (8)
-* Thriller (8)
-* Horror (8)
-* History (6)
+* Crime (34)
+* Drama (34)
+* Mystery (34)
+
+
+**Palavras-chave mais comuns:**
+* murder (5)
+* neo-noir (5)
+* detective (4)
+* police (3)
+* japan (3)
+* court case (3)
+* money (3)
+* investigation (3)
+* police corruption (2)
+* robbery (2)
+* corruption (2)
+* drug addiction (2)
+* conspiracy (2)
+* gang (2)
+* rape (2)
+
+# Cluster 8
+**Total de filmes:** 198
+**Média de ano de lançamento:** 1990
+**Menor ano:** 1910 (Frankenstein)
+**Maior ano:** 2022 (Nope)
+
+## 5 Mais Velhos 
+
+**Frankenstein** | **Dr. Jekyll and Mr. Hyde** | **Frankenstein** | **Dr. Jekyll and Mr. Hyde** | **The Invisible Man**
+ -- | -- | -- | -- | -- 
+*1910* | *1920* | *1931* | *1931* | *1933*
+ ![](https://image.tmdb.org/t/p/w200/xPzF7qW6FFZEzfsnsKqNOncxJNU.jpg) |  ![](https://image.tmdb.org/t/p/w200/u8OL0RbTNzqqB1WmkxroTBXohnv.jpg) |  ![](https://image.tmdb.org/t/p/w200/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg) |  ![](https://image.tmdb.org/t/p/w200/mZtQORzQWkCSqeeHApH6vJDA1D2.jpg) |  ![](https://image.tmdb.org/t/p/w200/a8WoUk92OLHnU5sODmdGaOi5iaH.jpg)
+
+## 5 mais novos
+
+**Nope** | **Crimes of the Future** | **Choose or Die** | **Margaux** | **Resident Evil: Welcome to Raccoon City**
+ -- | -- | -- | -- | -- 
+*2022* | *2022* | *2022* | *2022* | *2021*
+![](https://image.tmdb.org/t/p/w200/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg) | ![](https://image.tmdb.org/t/p/w200/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg) | ![](https://image.tmdb.org/t/p/w200/jEYE5BPFd5FuPa1judcjpW6xqKp.jpg) | ![](https://image.tmdb.org/t/p/w200/uNzgeMetu9l4q9NDw7gtiUFwPOJ.jpg) | ![](https://image.tmdb.org/t/p/w200/bArhvjRHl535XMaSh9VjInF2mSZ.jpg)
+
+**Média da nota:** 5,92
+**Menor nota:** 4,50 (Scanners III: The Takeover)
+**Maior nota:** 8,15 (Alien)
+
+## 5 mais bem avaliados
+
+**Alien** | **The Thing** | **Godzilla** | **The Bride of Frankenstein** | **The Invisible Man**
+ -- | -- | -- | -- | -- 
+*8,15* | *8,05* | *7,60* | *7,53* | *7,52*
+![](https://image.tmdb.org/t/p/w200/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg) | ![](https://image.tmdb.org/t/p/w200/tzGY49kseSE9QAKk47uuDGwnSCu.jpg) | ![](https://image.tmdb.org/t/p/w200/fg635r7DxfmbQpnIh7vLCOsGoOG.jpg) | ![](https://image.tmdb.org/t/p/w200/5241zUwe7rC17MNc2QpCBKKdp1N.jpg) | ![](https://image.tmdb.org/t/p/w200/a8WoUk92OLHnU5sODmdGaOi5iaH.jpg)
+
+## 5 menos bem avaliados
+
+**Scanners III: The Takeover** | **Harbinger Down** | **The Crawling Eye** | **The Brain That Wouldn't Die** | **Almost Human**
+ -- | -- | -- | -- | -- 
+*4,50* | *4,52* | *4,60* | *4,62* | *4,66*
+![](https://image.tmdb.org/t/p/w200/qrgsczCSUfbaeYJnvMSEmKcGV4X.jpg) | ![](https://image.tmdb.org/t/p/w200/9vmjC5lfEdb26H8hjt73TWTvyNN.jpg) | ![](https://image.tmdb.org/t/p/w200/9z9VnJrIbwX0AT5kJda6EPuJMvv.jpg) | ![](https://image.tmdb.org/t/p/w200/b5qf9urOMFXAKkxQcTacGy1bI8O.jpg) | ![](https://image.tmdb.org/t/p/w200/1SxL9zFvBbeNe2A39eTqLOrDmrh.jpg)
+
+**Média de votos:** 661,0
+**Menor votos:** 77 (Scanners III: The Takeover)
+**Maior votos:** 13206 (Alien)
+
+## 5 mais avaliados
+
+**Alien** | **A Quiet Place** | **The Thing** | **28 Days Later** | **The Fly**
+ -- | -- | -- | -- | -- 
+*13206* | *13079* | *6232* | *6104* | *3952*
+![](https://image.tmdb.org/t/p/w200/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg) | ![](https://image.tmdb.org/t/p/w200/nAU74GmpUk7t5iklEp3bufwDq4n.jpg) | ![](https://image.tmdb.org/t/p/w200/tzGY49kseSE9QAKk47uuDGwnSCu.jpg) | ![](https://image.tmdb.org/t/p/w200/sQckQRt17VaWbo39GIu0TMOiszq.jpg) | ![](https://image.tmdb.org/t/p/w200/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg)
+
+## 5 menos avaliados
+
+**Scanners III: The Takeover** | **Scarecrow** | **Sssssss** | **The Crawling Eye** | **The Mind's Eye**
+ -- | -- | -- | -- | -- 
+*77* | *78* | *80* | *80* | *82*
+![](https://image.tmdb.org/t/p/w200/qrgsczCSUfbaeYJnvMSEmKcGV4X.jpg) | ![](https://image.tmdb.org/t/p/w200/mBaGppPfda1eOlnfLE7tM9yOB0Y.jpg) | ![](https://image.tmdb.org/t/p/w200/fIKiHta0LrDpb2f80u7ybPFesoy.jpg) | ![](https://image.tmdb.org/t/p/w200/9z9VnJrIbwX0AT5kJda6EPuJMvv.jpg) | ![](https://image.tmdb.org/t/p/w200/ksi1HcjmOh4fptxtv4sekvScQam.jpg)
+
+**Gêneros mais comuns:**
+* Horror (198)
+* Science Fiction (198)
+* Comedy (33)
+* Mystery (25)
+* Drama (24)
+* Thriller (22)
+* Action (10)
+* Fantasy (9)
 * War (2)
-* Documentary (2)
+* Music (1)
+* Crime (1)
+
+
+**Palavras-chave mais comuns:**
+* alien (25)
+* zombie (25)
+* murder (25)
+* monster (21)
+* experiment (20)
+* creature (18)
+* mutant (18)
+* black and white (18)
+* mad scientist (15)
+* transformation (13)
+* dystopia (12)
+* scientist (12)
+* gore (12)
+* alien life-form (11)
+* animal horror (11)
+
+# Cluster 9
+**Total de filmes:** 245
+**Média de ano de lançamento:** 2006
+**Menor ano:** 1953 (Duck Dodgers in the 24½th Century)
+**Maior ano:** 2023 (Shin Kamen Rider)
+
+## 5 Mais Velhos 
+
+**Duck Dodgers in the 24½th Century** | **Earth vs. the Flying Saucers** | **Mothra vs. Godzilla** | **Escape from the Planet of the Apes** | **Godzilla vs. Hedorah**
+ -- | -- | -- | -- | -- 
+*1953* | *1956* | *1964* | *1971* | *1971*
+ ![](https://image.tmdb.org/t/p/w200/qbQFFgse1SPiUIqe8bnhAYjbhPR.jpg) |  ![](https://image.tmdb.org/t/p/w200/qCOLglZvQgQAyWMCZodBo3wmgqp.jpg) |  ![](https://image.tmdb.org/t/p/w200/y49vvM03gpuyhpyMc1f55VrNkP3.jpg) |  ![](https://image.tmdb.org/t/p/w200/AnbLVdUEroTfHTUVAJCxkL4R0IH.jpg) |  ![](https://image.tmdb.org/t/p/w200/mWVRlVwWK3sUCGd9lzMMWUa7CBu.jpg)
+
+## 5 mais novos
+
+**Shin Kamen Rider** | **Legion of Super-Heroes** | **Samaritan** | **DC League of Super-Pets** | **Warriors of Future**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/9dTO2RygcDT0cQkawABw4QkDegN.jpg) | ![](https://image.tmdb.org/t/p/w200/8M6bA5t2q5u1nWDTEIXuGDwvboW.jpg) | ![](https://image.tmdb.org/t/p/w200/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg) | ![](https://image.tmdb.org/t/p/w200/qpPMewlugFaejXjz4YNDnpTniFX.jpg) | ![](https://image.tmdb.org/t/p/w200/2l9LbxBSkJseoxYcIJjclnmxyq.jpg)
+
+**Média da nota:** 6,66
+**Menor nota:** 4,51 (Mortal Kombat: Annihilation)
+**Maior nota:** 8,40 (Spider-Man: Into the Spider-Verse)
+
+## 5 mais bem avaliados
+
+**Spider-Man: Into the Spider-Verse** | **Justice League Dark: Apokolips War** | **The Matrix** | **Transformers Prime Beast Hunters: Predacons Rising** | **WALL·E**
+ -- | -- | -- | -- | -- 
+*8,40* | *8,26* | *8,21* | *8,16* | *8,08*
+![](https://image.tmdb.org/t/p/w200/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg) | ![](https://image.tmdb.org/t/p/w200/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg) | ![](https://image.tmdb.org/t/p/w200/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg) | ![](https://image.tmdb.org/t/p/w200/aCbEcwlS7Nb3xtogQS4No956Zb7.jpg) | ![](https://image.tmdb.org/t/p/w200/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg)
+
+## 5 menos bem avaliados
+
+**Mortal Kombat: Annihilation** | **Mafia: Survival Game** | **Oceans Rising** | **Paradox** | **Suburban Commando**
+ -- | -- | -- | -- | -- 
+*4,51* | *4,52* | *4,64* | *4,65* | *4,72*
+![](https://image.tmdb.org/t/p/w200/ttryglcY2osWZE3sRYBf3ewTZsW.jpg) | ![](https://image.tmdb.org/t/p/w200/fApl3x5biYZ9dE16wXCPlArj7R9.jpg) | ![](https://image.tmdb.org/t/p/w200/3PzeV1qxvSQnu5BdG5tbTmEszDz.jpg) | ![](https://image.tmdb.org/t/p/w200/nkjDIxzRwFMDvANnpdEIcT4whQe.jpg) | ![](https://image.tmdb.org/t/p/w200/hXAIGWdfxCQ1d5XFGcwudNdgagN.jpg)
+
+**Média de votos:** 1230,0
+**Menor votos:** 75 (Riddick: Blindsided)
+**Maior votos:** 23815 (The Matrix)
+
+## 5 mais avaliados
+
+**The Matrix** | **Logan** | **WALL·E** | **Lucy** | **Spider-Man: Into the Spider-Verse**
+ -- | -- | -- | -- | -- 
+*23815* | *18116* | *17446* | *15181* | *14024*
+![](https://image.tmdb.org/t/p/w200/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg) | ![](https://image.tmdb.org/t/p/w200/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg) | ![](https://image.tmdb.org/t/p/w200/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg) | ![](https://image.tmdb.org/t/p/w200/dhjyfcwEoW6jJ4Q7DpZTp6E58GA.jpg) | ![](https://image.tmdb.org/t/p/w200/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg)
+
+## 5 menos avaliados
+
+**Riddick: Blindsided** | **The Gene Generation** | **Lady Death** | **2019: After the Fall of New York** | **Spriggan**
+ -- | -- | -- | -- | -- 
+*75* | *75* | *76* | *77* | *78*
+![](https://image.tmdb.org/t/p/w200/8c4JUt0YJPw6Z6pIQyNnx0kf27l.jpg) | ![](https://image.tmdb.org/t/p/w200/7zoOytPe2KkWJZxIXS525cscSod.jpg) | ![](https://image.tmdb.org/t/p/w200/xVK9NOhb2jhkVqzTOjjnrQ3BUxk.jpg) | ![](https://image.tmdb.org/t/p/w200/nAGrOGYNZYReZFE5CGvCvvK30Ax.jpg) | ![](https://image.tmdb.org/t/p/w200/nX2sgumjpBkEMzGFSMdBZMCiVgX.jpg)
+
+**Gêneros mais comuns:**
+* Science Fiction (245)
+* Action (184)
+* Animation (163)
+* Comedy (46)
+* Fantasy (43)
+* Family (41)
+* Adventure (30)
+* Drama (18)
+* Crime (12)
+* Horror (9)
+* Thriller (6)
+* War (6)
+* Mystery (4)
+* Romance (3)
+* TV Movie (3)
 * Western (1)
 
 
 **Palavras-chave mais comuns:**
-* high school (16)
-* christmas (15)
-* holiday (12)
-* musical (11)
-* magic (9)
-* witch (6)
-* parent child relationship (6)
-* teen movie (5)
-* friendship (5)
-* love (5)
-* halloween (5)
-* monster (5)
-* fairy tale (4)
-* werewolf (4)
-* saving the world (4)
-
-# Cluster 8
-**Total de filmes:** 278
-**Média de ano de lançamento:** 1998
-**Menor ano:** 1917 (The Immigrant)
-**Maior ano:** 2023 (No Hard Feelings)
-
-## 5 Mais Velhos 
-
-**The Immigrant** | **Our Hospitality** | **The Navigator** | **Seven Chances** | **The Circus**
- -- | -- | -- | -- | -- 
-*1917* | *1923* | *1924* | *1925* | *1928*
- ![](https://image.tmdb.org/t/p/w200/f4xP9DvXKqpYKo0Fth5tKyZY8ej.jpg) |  ![](https://image.tmdb.org/t/p/w200/cAEdL6RzfDSbPO51izl01Njzikx.jpg) |  ![](https://image.tmdb.org/t/p/w200/eFIbnDnBnIi1qnz15UUiMFmjRmL.jpg) |  ![](https://image.tmdb.org/t/p/w200/fH9woIxzqVtyv6S711vSVlS12eA.jpg) |  ![](https://image.tmdb.org/t/p/w200/3FywbVq2qGqbYHPCy2NJcOf0gmp.jpg)
-
-## 5 mais novos
-
-**No Hard Feelings** | **Red, White & Royal Blue** | **Ticket to Paradise** | **A Perfect Pairing** | **The Valet**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2022* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg) | ![](https://image.tmdb.org/t/p/w200/uffOY4W354o9RTRmercFyVvl56Z.jpg) | ![](https://image.tmdb.org/t/p/w200/1tzERH50P5c2mFWtLbgixzLZS1L.jpg) | ![](https://image.tmdb.org/t/p/w200/h65lLhYEfRGOWVZzwX9n7vYOixf.jpg) | ![](https://image.tmdb.org/t/p/w200/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg)
-
-**Média da nota:** 6,46
-**Menor nota:** 5,50 (I Give It a Year)
-**Maior nota:** 8,17 (Red, White & Royal Blue)
-
-## 5 mais bem avaliados
-
-**Red, White & Royal Blue** | **Singin' in the Rain** | **Misfit** | **The Circus** | **Amélie**
- -- | -- | -- | -- | -- 
-*8,17* | *8,17* | *8,07* | *8,01* | *7,91*
-![](https://image.tmdb.org/t/p/w200/uffOY4W354o9RTRmercFyVvl56Z.jpg) | ![](https://image.tmdb.org/t/p/w200/w03EiJVHP8Un77boQeE7hg9DVdU.jpg) | ![](https://image.tmdb.org/t/p/w200/yDwDiovi6qLcluB4EI3bJp1zOwa.jpg) | ![](https://image.tmdb.org/t/p/w200/3FywbVq2qGqbYHPCy2NJcOf0gmp.jpg) | ![](https://image.tmdb.org/t/p/w200/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg)
-
-## 5 menos bem avaliados
-
-**I Give It a Year** | **Miss March** | **Sex, Love & Therapy** | **Honeymoon in Vegas** | **Who's That Girl**
- -- | -- | -- | -- | -- 
-*5,50* | *5,50* | *5,50* | *5,50* | *5,50*
-![](https://image.tmdb.org/t/p/w200/hCSqxrM5Sw6AhDIRfxQ4BenPd9y.jpg) | ![](https://image.tmdb.org/t/p/w200/cWjaFmJ2pjMcWeKh00PJ3zOBMOq.jpg) | ![](https://image.tmdb.org/t/p/w200/AcYKnGq1TxNhoAVdr2ME9CzWyNp.jpg) | ![](https://image.tmdb.org/t/p/w200/b2HyG1tgaYxavfvjw1BG3PLr8Sk.jpg) | ![](https://image.tmdb.org/t/p/w200/2Yu6ciKKgSWIZAzUg4IrrifO23z.jpg)
-
-**Média de votos:** 1218,0
-**Menor votos:** 151 (The Taming of the Shrew)
-**Maior votos:** 10750 (Amélie)
-
-## 5 mais avaliados
-
-**Amélie** | **To All the Boys I've Loved Before** | **Pretty Woman** | **American Pie** | **50 First Dates**
- -- | -- | -- | -- | -- 
-*10750* | *8045* | *7371* | *7125* | *6705*
-![](https://image.tmdb.org/t/p/w200/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg) | ![](https://image.tmdb.org/t/p/w200/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg) | ![](https://image.tmdb.org/t/p/w200/hVHUfT801LQATGd26VPzhorIYza.jpg) | ![](https://image.tmdb.org/t/p/w200/5P68by2Thn8wHAziyWGEw2O7hco.jpg) | ![](https://image.tmdb.org/t/p/w200/lzUI2Cg7OMfcUNv3f7MywYNBjs6.jpg)
-
-## 5 menos avaliados
-
-**The Taming of the Shrew** | **A Countess from Hong Kong** | **Indiscreet** | **The Other End of the Line** | **Me, Myself and Her**
- -- | -- | -- | -- | -- 
-*151* | *152* | *153* | *158* | *159*
-![](https://image.tmdb.org/t/p/w200/2LpU3kyg1PowiQoEHf7oUXOUmVa.jpg) | ![](https://image.tmdb.org/t/p/w200/8pgXTi0pTbJ2PXLn3c7SPWlWbse.jpg) | ![](https://image.tmdb.org/t/p/w200/o3ciMvsFg8vrNaUx5DCoWEUdugl.jpg) | ![](https://image.tmdb.org/t/p/w200/uiLgARBzUiE7PPRiJILXSh4zOIW.jpg) | ![](https://image.tmdb.org/t/p/w200/z7pOEKuLGWqVz1ppJJ1nopYO0fa.jpg)
-
-**Gêneros mais comuns:**
-* Comedy (278)
-* Romance (278)
-
-
-**Palavras-chave mais comuns:**
-* romantic comedy (49)
-* wedding (26)
-* love (24)
-* screwball comedy (18)
-* falling in love (17)
-* romance (16)
-* high school (15)
-* parent child relationship (12)
-* relationship (11)
-* infidelity (11)
-* marriage (11)
-* musical (10)
-* black and white (10)
-* love triangle (9)
-* friendship (9)
-
-# Cluster 9
-**Total de filmes:** 157
-**Média de ano de lançamento:** 2007
-**Menor ano:** 1945 (Dead of Night)
-**Maior ano:** 2023 (The Pope's Exorcist)
-
-## 5 Mais Velhos 
-
-**Dead of Night** | **The Body Snatcher** | **A Bay of Blood** | **Carrie** | **The Omen**
- -- | -- | -- | -- | -- 
-*1945* | *1945* | *1971* | *1976* | *1976*
- ![](https://image.tmdb.org/t/p/w200/oVAlugIkLCkyyXufNDhtr5kl3yB.jpg) |  ![](https://image.tmdb.org/t/p/w200/1dOCP2ahMVlA95SivxhEdVvcXZE.jpg) |  ![](https://image.tmdb.org/t/p/w200/i0FKCvEypCO8ZUkIeHQhuUMvARN.jpg) |  ![](https://image.tmdb.org/t/p/w200/uc3OvgmbnYaS5Y0BOjSmC1EmSz1.jpg) |  ![](https://image.tmdb.org/t/p/w200/p0LcWxOIoBx0MEZMn8tFcrvDXR1.jpg)
-
-## 5 mais novos
-
-**The Pope's Exorcist** | **Talk to Me** | **The Black Demon** | **Killer Book Club** | **The Black Phone**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2023* | *2022*
-![](https://image.tmdb.org/t/p/w200/jFC4LS5qTAT3PinzdEzINfu1CV9.jpg) | ![](https://image.tmdb.org/t/p/w200/kdPMUMJzyYAc4roD52qavX0nLIC.jpg) | ![](https://image.tmdb.org/t/p/w200/6ecSjKSjgIULyHfrfyyg9vgAI33.jpg) | ![](https://image.tmdb.org/t/p/w200/zZH0sAUV0nfEEDBUdWBMLjs2XnN.jpg) | ![](https://image.tmdb.org/t/p/w200/lr11mCT85T1JanlgjMuhs9nMht4.jpg)
-
-**Média da nota:** 6,29
-**Menor nota:** 5,51 (Return to House on Haunted Hill)
-**Maior nota:** 8,22 (The Shining)
-
-## 5 mais bem avaliados
-
-**The Shining** | **The Black Phone** | **Halloween** | **The Conjuring** | **Thesis**
- -- | -- | -- | -- | -- 
-*8,22* | *7,70* | *7,56* | *7,54* | *7,44*
-![](https://image.tmdb.org/t/p/w200/xazWoLealQwEgqZ89MLZklLZD3k.jpg) | ![](https://image.tmdb.org/t/p/w200/lr11mCT85T1JanlgjMuhs9nMht4.jpg) | ![](https://image.tmdb.org/t/p/w200/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg) | ![](https://image.tmdb.org/t/p/w200/wVYREutTvI2tmxr6ujrHT704wGF.jpg) | ![](https://image.tmdb.org/t/p/w200/m9o1oQrCBgL3EnvCqBr7xQ2Haco.jpg)
-
-## 5 menos bem avaliados
-
-**Return to House on Haunted Hill** | **100 Feet** | **The Hills Have Eyes 2** | **Friend Request** | **Shocker**
- -- | -- | -- | -- | -- 
-*5,51* | *5,51* | *5,53* | *5,55* | *5,55*
-![](https://image.tmdb.org/t/p/w200/ipBiyifbFqY0ZduO3R9OPBjc2pH.jpg) | ![](https://image.tmdb.org/t/p/w200/ryocnetNNLWs0Oefkqkea6HccqV.jpg) | ![](https://image.tmdb.org/t/p/w200/3SX2UGSmAjIZsVACpshPpKtjbDr.jpg) | ![](https://image.tmdb.org/t/p/w200/8sc2FXCczMd4lb8j5YiT0S6aQiO.jpg) | ![](https://image.tmdb.org/t/p/w200/8e6L3fkhO5Lg4APDMd8ZGHMGgdu.jpg)
-
-**Média de votos:** 1432,0
-**Menor votos:** 151 (Alone)
-**Maior votos:** 16345 (Split)
-
-## 5 mais avaliados
-
-**Split** | **The Shining** | **The Conjuring** | **The Conjuring 2** | **Insidious**
- -- | -- | -- | -- | -- 
-*16345* | *16205* | *10683* | *7769* | *6298*
-![](https://image.tmdb.org/t/p/w200/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg) | ![](https://image.tmdb.org/t/p/w200/xazWoLealQwEgqZ89MLZklLZD3k.jpg) | ![](https://image.tmdb.org/t/p/w200/wVYREutTvI2tmxr6ujrHT704wGF.jpg) | ![](https://image.tmdb.org/t/p/w200/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg) | ![](https://image.tmdb.org/t/p/w200/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg)
-
-## 5 menos avaliados
-
-**Alone** | **The Closet** | **The Body Snatcher** | **Atrocious** | **Sick**
- -- | -- | -- | -- | -- 
-*151* | *154* | *159* | *164* | *166*
-![](https://image.tmdb.org/t/p/w200/lkXD1W3pC64KXfZjHhHydd7DvNy.jpg) | ![](https://image.tmdb.org/t/p/w200/W2tus8EwEagKCCCPqqocHEM9F2.jpg) | ![](https://image.tmdb.org/t/p/w200/1dOCP2ahMVlA95SivxhEdVvcXZE.jpg) | ![](https://image.tmdb.org/t/p/w200/lVzWJ0xV6AJxsHwL2KcdIbaNNeV.jpg) | ![](https://image.tmdb.org/t/p/w200/bshCGAHZRldAfdxXDX3637PW9cR.jpg)
-
-**Gêneros mais comuns:**
-* Horror (157)
-* Thriller (157)
-
-
-**Palavras-chave mais comuns:**
-* murder (42)
-* slasher (36)
-* serial killer (29)
-* psychopath (20)
-* gore (16)
-* supernatural (13)
-* halloween (12)
-* revenge (11)
-* ghost (10)
-* found footage (10)
-* torture (10)
-* kidnapping (9)
-* death (9)
-* evil (9)
-* killer (9)
+* anime (65)
+* superhero (38)
+* adult animation (36)
+* dystopia (33)
+* super power (26)
+* based on manga (22)
+* martial arts (21)
+* future (20)
+* cyberpunk (19)
+* robot (19)
+* alien (18)
+* time travel (18)
+* short film (18)
+* cyborg (14)
+* cartoon (13)
 
 # Cluster 10
-**Total de filmes:** 26
-**Média de ano de lançamento:** 1998
-**Menor ano:** 1956 (Moby Dick)
-**Maior ano:** 2018 (Alpha)
+**Total de filmes:** 47
+**Média de ano de lançamento:** 2004
+**Menor ano:** 1962 (The Day of the Triffids)
+**Maior ano:** 2023 (Infinity Pool)
 
 ## 5 Mais Velhos 
 
-**Moby Dick** | **The Flight of the Phoenix** | **Easy Rider** | **Walkabout** | **The Man Who Would Be King**
+**The Day of the Triffids** | **X: The Man with the X-Ray Eyes** | **Matango** | **The Fury** | **Patrick**
  -- | -- | -- | -- | -- 
-*1956* | *1965* | *1969* | *1971* | *1975*
- ![](https://image.tmdb.org/t/p/w200/7JXcm3RyWlGsRCZ0YlOliWr6TNv.jpg) |  ![](https://image.tmdb.org/t/p/w200/zrzLl7NWdjwGhVE7bqpOAxMVtF.jpg) |  ![](https://image.tmdb.org/t/p/w200/mmGEB6ly9OG8SYVfvAoa6QqHNvN.jpg) |  ![](https://image.tmdb.org/t/p/w200/24vooYt5StgtgcQObVr1GHuM5gy.jpg) |  ![](https://image.tmdb.org/t/p/w200/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg)
+*1962* | *1963* | *1963* | *1978* | *1978*
+ ![](https://image.tmdb.org/t/p/w200/x6LYwbOzBl606vMXZtd6apxhcaY.jpg) |  ![](https://image.tmdb.org/t/p/w200/7YMk1mtTsGYPBC8zj2Kd3K6h3g3.jpg) |  ![](https://image.tmdb.org/t/p/w200/vtRYYfydanqeiDpZIycvAHKRuME.jpg) |  ![](https://image.tmdb.org/t/p/w200/cQCxG3TDaFi34HdKgaa1lhv8wXJ.jpg) |  ![](https://image.tmdb.org/t/p/w200/qxydnHE4D5ArBRNtihlVs5rhhO2.jpg)
 
 ## 5 mais novos
 
-**Alpha** | **Mowgli: Legend of the Jungle** | **Captain Fantastic** | **The Odyssey** | **Wolf Totem**
+**Infinity Pool** | **No One Will Save You** | **In the Earth** | **The Superdeep** | **Brightburn**
  -- | -- | -- | -- | -- 
-*2018* | *2018* | *2016* | *2016* | *2015*
-![](https://image.tmdb.org/t/p/w200/afdZAIcAQscziqVtsEoh2PwsYTW.jpg) | ![](https://image.tmdb.org/t/p/w200/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg) | ![](https://image.tmdb.org/t/p/w200/2sFME73GaD8UsUxPUKe60cPdLif.jpg) | ![](https://image.tmdb.org/t/p/w200/oerzjTh9x226CJUJluIVqgYcOH9.jpg) | ![](https://image.tmdb.org/t/p/w200/WHE5b5pO3lLyStt5cA2vMLYPI4.jpg)
+*2023* | *2023* | *2021* | *2020* | *2019*
+![](https://image.tmdb.org/t/p/w200/kHLm4E0jSGnDRqo2ZFgEQQeQK6M.jpg) | ![](https://image.tmdb.org/t/p/w200/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg) | ![](https://image.tmdb.org/t/p/w200/lzzUkcZyHbXJayCw8yNAPezdBhq.jpg) | ![](https://image.tmdb.org/t/p/w200/qjUzknf87fLILSCfVf28xcqrJJN.jpg) | ![](https://image.tmdb.org/t/p/w200/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg)
 
-**Média da nota:** 6,81
-**Menor nota:** 5,61 (On the Road)
-**Maior nota:** 7,91 (Captain Fantastic)
+**Média da nota:** 5,78
+**Menor nota:** 4,69 (Cell)
+**Maior nota:** 6,90 (The Mist)
 
 ## 5 mais bem avaliados
 
-**Captain Fantastic** | **Into the Wild** | **Cast Away** | **The Man Who Would Be King** | **Life of Pi**
+**The Mist** | **The Hidden** | **No One Will Save You** | **Matango** | **Altered States**
  -- | -- | -- | -- | -- 
-*7,91* | *7,81* | *7,66* | *7,49* | *7,40*
-![](https://image.tmdb.org/t/p/w200/2sFME73GaD8UsUxPUKe60cPdLif.jpg) | ![](https://image.tmdb.org/t/p/w200/2MSGZEE6XZd2r4ODNziwAw7Hpw0.jpg) | ![](https://image.tmdb.org/t/p/w200/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg) | ![](https://image.tmdb.org/t/p/w200/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg) | ![](https://image.tmdb.org/t/p/w200/iLgRu4hhSr6V1uManX6ukDriiSc.jpg)
+*6,90* | *6,90* | *6,90* | *6,80* | *6,68*
+![](https://image.tmdb.org/t/p/w200/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg) | ![](https://image.tmdb.org/t/p/w200/pCoFtULUIebq13EU9glcZjfdC1a.jpg) | ![](https://image.tmdb.org/t/p/w200/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg) | ![](https://image.tmdb.org/t/p/w200/vtRYYfydanqeiDpZIycvAHKRuME.jpg) | ![](https://image.tmdb.org/t/p/w200/1iZBJcFJFupnxrSCwQIrtVgsrkA.jpg)
 
 ## 5 menos bem avaliados
 
-**On the Road** | **Amelia** | **Medicine Man** | **The Eagle** | **Turning Tide**
+**Cell** | **Species: The Awakening** | **Crawlspace** | **Mimic: Sentinel** | **Patrick**
  -- | -- | -- | -- | -- 
-*5,61* | *5,63* | *5,97* | *6,22* | *6,23*
-![](https://image.tmdb.org/t/p/w200/k7LQteD02p3VHixbS6NXHkFdFwT.jpg) | ![](https://image.tmdb.org/t/p/w200/4c7QMp7JZl70K8x5oJuY40mckWx.jpg) | ![](https://image.tmdb.org/t/p/w200/9Qa1pgBSMPq6KIWmkZFbzP0DpD4.jpg) | ![](https://image.tmdb.org/t/p/w200/e7rcJQWplGZWz57yGlP87rlPmI.jpg) | ![](https://image.tmdb.org/t/p/w200/kPzDsCuYmwOmIoZw9CbFFutWYoF.jpg)
+*4,69* | *4,72* | *4,81* | *4,89* | *4,99*
+![](https://image.tmdb.org/t/p/w200/c5N6Pw3P6TqQnGcqiVkhO9u85KB.jpg) | ![](https://image.tmdb.org/t/p/w200/wPsu2NM0eUpoqycgjjnRJIwxK13.jpg) | ![](https://image.tmdb.org/t/p/w200/vb8hYUd3Db9HxGOt6LQBO1ea9w1.jpg) | ![](https://image.tmdb.org/t/p/w200/vNAwfgBPZXprxfgx7cF5Cji4be1.jpg) | ![](https://image.tmdb.org/t/p/w200/7qBKs8ziqHEYydJJnRyTo6IGpFC.jpg)
 
-**Média de votos:** 2155,0
-**Menor votos:** 153 (Nicholas Nickleby)
-**Maior votos:** 12426 (Life of Pi)
+**Média de votos:** 782,0
+**Menor votos:** 76 (Patrick)
+**Maior votos:** 6811 (Life)
 
 ## 5 mais avaliados
 
-**Life of Pi** | **Cast Away** | **Into the Wild** | **Captain Fantastic** | **The Road**
+**Life** | **The Mist** | **The Cloverfield Paradox** | **Brightburn** | **The Thing**
  -- | -- | -- | -- | -- 
-*12426* | *10531* | *9026* | *6017* | *3460*
-![](https://image.tmdb.org/t/p/w200/iLgRu4hhSr6V1uManX6ukDriiSc.jpg) | ![](https://image.tmdb.org/t/p/w200/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg) | ![](https://image.tmdb.org/t/p/w200/2MSGZEE6XZd2r4ODNziwAw7Hpw0.jpg) | ![](https://image.tmdb.org/t/p/w200/2sFME73GaD8UsUxPUKe60cPdLif.jpg) | ![](https://image.tmdb.org/t/p/w200/qLaXnLzqleBWQtjvZ6JGVSaKoC3.jpg)
+*6811* | *4634* | *2993* | *2857* | *2663*
+![](https://image.tmdb.org/t/p/w200/wztfli5NgYDgurVgShNflvnyA3Z.jpg) | ![](https://image.tmdb.org/t/p/w200/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg) | ![](https://image.tmdb.org/t/p/w200/vJi2ExTcWdJR3150VPKqqtdGxsT.jpg) | ![](https://image.tmdb.org/t/p/w200/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg) | ![](https://image.tmdb.org/t/p/w200/dmn2nVo8h7LMnk694JxCRIwK06p.jpg)
 
 ## 5 menos avaliados
 
-**Nicholas Nickleby** | **Turning Tide** | **Amelia** | **White Hunter, Black Heart** | **My Father's Glory**
+**Patrick** | **The Dark Hours** | **Growth** | **The Hive** | **Matango**
  -- | -- | -- | -- | -- 
-*153* | *211* | *213* | *235* | *265*
-![](https://image.tmdb.org/t/p/w200/41AJ3hIEIuJ8ltlzZ0ZfHoSvYbe.jpg) | ![](https://image.tmdb.org/t/p/w200/kPzDsCuYmwOmIoZw9CbFFutWYoF.jpg) | ![](https://image.tmdb.org/t/p/w200/4c7QMp7JZl70K8x5oJuY40mckWx.jpg) | ![](https://image.tmdb.org/t/p/w200/6nGnHhGyaAfhkSH39gBHlFj3O4q.jpg) | ![](https://image.tmdb.org/t/p/w200/4zwgcaKqIJ5GB6kCPpyMLZuNyoi.jpg)
+*76* | *78* | *78* | *86* | *87*
+![](https://image.tmdb.org/t/p/w200/qxydnHE4D5ArBRNtihlVs5rhhO2.jpg) | ![](https://image.tmdb.org/t/p/w200/zKk3uHSlP5rlNYkZuxBlxmhEFuy.jpg) | ![](https://image.tmdb.org/t/p/w200/6iI5OYyjCI6Hmy7Uz1W3t1Uhz78.jpg) | ![](https://image.tmdb.org/t/p/w200/1yBrxFKQUfCoUkCCKWwqsEQpj5W.jpg) | ![](https://image.tmdb.org/t/p/w200/vtRYYfydanqeiDpZIycvAHKRuME.jpg)
 
 **Gêneros mais comuns:**
-* Adventure (26)
-* Drama (26)
+* Horror (47)
+* Science Fiction (47)
+* Thriller (47)
+* Mystery (7)
+* Fantasy (2)
+* Action (1)
+* Comedy (1)
 
 
 **Palavras-chave mais comuns:**
-* survival (5)
-* wilderness (4)
-* parent child relationship (3)
-* road trip (3)
-* wolf (3)
-* sea (2)
-* airplane crash (2)
-* deserted island (2)
-* tropical island (2)
-* journey (2)
-* on the road (2)
-* prehistory (2)
-* snow (2)
-* saber-toothed tiger (2)
-* hunter (2)
+* experiment (7)
+* scientist (7)
+* alien (6)
+* creature (6)
+* alien life-form (4)
+* gore (4)
+* surrealism (4)
+* found footage (4)
+* virus (4)
+* mind control (4)
+* space (3)
+* monster (3)
+* mutation (3)
+* cabin (3)
+* alien invasion (3)
 
 # Cluster 11
-**Total de filmes:** 116
-**Média de ano de lançamento:** 2003
-**Menor ano:** 1929 (Blackmail)
-**Maior ano:** 2023 (Reality)
+**Total de filmes:** 1048
+**Média de ano de lançamento:** 1999
+**Menor ano:** 1895 (The Sprinkler Sprinkled)
+**Maior ano:** 2023 (Alibi.com 2)
 
 ## 5 Mais Velhos 
 
-**Blackmail** | **Detour** | **The Fallen Idol** | **Sorry, Wrong Number** | **Yojimbo**
+**The Sprinkler Sprinkled** | **The Big Swallow** | **Kid Auto Races at Venice** | **Making a Living** | **Mabel's Strange Predicament**
  -- | -- | -- | -- | -- 
-*1929* | *1945* | *1948* | *1948* | *1961*
- ![](https://image.tmdb.org/t/p/w200/7ioNEKouUkkWyv5tUDwVUd7BDRR.jpg) |  ![](https://image.tmdb.org/t/p/w200/gJb9HRAs1V4bA0VKsWpT6mhv2RT.jpg) |  ![](https://image.tmdb.org/t/p/w200/sCcjmsYVgh0urTbLqQgEeskkmPt.jpg) |  ![](https://image.tmdb.org/t/p/w200/A39p8fEvucMFQXFmjp5Z8WepdsQ.jpg) |  ![](https://image.tmdb.org/t/p/w200/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg)
+*1895* | *1901* | *1914* | *1914* | *1914*
+ ![](https://image.tmdb.org/t/p/w200/rSZghvrFWTGqi4UecyG9jimzpEO.jpg) |  ![](https://image.tmdb.org/t/p/w200/xBcai37vavGLEYQ8B1TSvO6pl9m.jpg) |  ![](https://image.tmdb.org/t/p/w200/k2CuWmAMbOgQZCDTg1RfkZs976e.jpg) |  ![](https://image.tmdb.org/t/p/w200/htkmTcnLAin498pWF0un22pBf0F.jpg) |  ![](https://image.tmdb.org/t/p/w200/mynq8Tv90uUUVIVDy91tlW5FyWd.jpg)
 
 ## 5 mais novos
 
-**Reality** | **Thirteen Lives** | **Notre-Dame on Fire** | **The Guilty** | **The Mauritanian**
+**Alibi.com 2** | **You Are So Not Invited to My Bat Mitzvah** | **Champions** | **Joy Ride** | **A Brighter Tomorrow**
  -- | -- | -- | -- | -- 
-*2023* | *2022* | *2022* | *2021* | *2021*
-![](https://image.tmdb.org/t/p/w200/rTEYxSDo9aJTTbM0zuMMLgzJcUJ.jpg) | ![](https://image.tmdb.org/t/p/w200/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg) | ![](https://image.tmdb.org/t/p/w200/kXj3FqzQABWsElUuT9y3WhfGPdT.jpg) | ![](https://image.tmdb.org/t/p/w200/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg) | ![](https://image.tmdb.org/t/p/w200/lIADEa6oH74uUapjsPbNRzxus8M.jpg)
+*2023* | *2023* | *2023* | *2023* | *2023*
+![](https://image.tmdb.org/t/p/w200/9gteYoeW0wOvYHnnvXJpq0RiGV8.jpg) | ![](https://image.tmdb.org/t/p/w200/ukpifWBW2xEmMtJX4bCpoNpWEr2.jpg) | ![](https://image.tmdb.org/t/p/w200/yVgtsoXyTZBww7SWE4JE1U4Wcel.jpg) | ![](https://image.tmdb.org/t/p/w200/lTZ3r9NBdbrR6NA90v3hFYqd6TC.jpg) | ![](https://image.tmdb.org/t/p/w200/2Czy6vvebDFCKiYygaU72DLdf6P.jpg)
 
-**Média da nota:** 6,69
-**Menor nota:** 5,64 (Twin Murders: The Silence of the White City)
-**Maior nota:** 8,28 (Woman in the Dunes)
+**Média da nota:** 6,17
+**Menor nota:** 4,50 (Les Gorilles)
+**Maior nota:** 8,15 (My Friends)
 
 ## 5 mais bem avaliados
 
-**Woman in the Dunes** | **Investigation of a Citizen Above Suspicion** | **Yojimbo** | **The Lives of Others** | **Room**
+**My Friends** | **Waiting for the Hearse** | **You’re Missing the Point** | **Teddy Bear** | **Tosun Pasha**
  -- | -- | -- | -- | -- 
-*8,28* | *8,19* | *8,12* | *8,03* | *8,03*
-![](https://image.tmdb.org/t/p/w200/f0JpsMQ9oEjKBD66Ky3qK3z7LGT.jpg) | ![](https://image.tmdb.org/t/p/w200/vPTZwlq1IC4o1DCsEZEl2uGljzm.jpg) | ![](https://image.tmdb.org/t/p/w200/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg) | ![](https://image.tmdb.org/t/p/w200/bCywq0RkrdI2qzhPNuuJ9PvGuzd.jpg) | ![](https://image.tmdb.org/t/p/w200/dIxoYFcj6EqD5KScuU8lWCftnvH.jpg)
+*8,15* | *8,14* | *8,14* | *8,10* | *8,08*
+![](https://image.tmdb.org/t/p/w200/8Pm8SLjq2UHCwisd56ipHtzvZI1.jpg) | ![](https://image.tmdb.org/t/p/w200/qkSThbNiC6kimvLlWrgeTNYLCeq.jpg) | ![](https://image.tmdb.org/t/p/w200/aUnA8Vs2VddZwbbJs9drNQ7GG2c.jpg) | ![](https://image.tmdb.org/t/p/w200/mvPR52hepNXBNBezFeLtEorbruo.jpg) | ![](https://image.tmdb.org/t/p/w200/hbGtcn3zYzDhS6xdqT56JJ9vI26.jpg)
 
 ## 5 menos bem avaliados
 
-**Twin Murders: The Silence of the White City** | **Hush** | **Lavender** | **Disorder** | **Möbius**
+**Les Gorilles** | **Killing Hasselhoff** | **Johnny Be Good** | **Kickin' It Old Skool** | **Bio-Dome**
  -- | -- | -- | -- | -- 
-*5,64* | *5,66* | *5,68* | *5,70* | *5,71*
-![](https://image.tmdb.org/t/p/w200/xOA4MbyJZVJHGZ38wC4LPpruBBX.jpg) | ![](https://image.tmdb.org/t/p/w200/8MYep3CqMoPZPbuISXPqzIEpuPv.jpg) | ![](https://image.tmdb.org/t/p/w200/tAPvkv0XTeLFqlvMgtlFB8mqk3L.jpg) | ![](https://image.tmdb.org/t/p/w200/rbyzFoeLnxAs3mdSrVnRllt7U9w.jpg) | ![](https://image.tmdb.org/t/p/w200/8OA7xqy0mvq62DYVloqnRvmUkmM.jpg)
+*4,50* | *4,53* | *4,53* | *4,54* | *4,54*
+![](https://image.tmdb.org/t/p/w200/qq0WSx3HfXLvd4vjUe21K3osoD7.jpg) | ![](https://image.tmdb.org/t/p/w200/9BQqALg8ffCn5ZkYZKEtAgR29HF.jpg) | ![](https://image.tmdb.org/t/p/w200/xYHplg2N28n4z4WW0VeoZMRI58X.jpg) | ![](https://image.tmdb.org/t/p/w200/yigEC20RnNqaXPeItmEO3RpdFdB.jpg) | ![](https://image.tmdb.org/t/p/w200/pkL8rqpO0EryTV1DLJJdrhOZ7sL.jpg)
 
-**Média de votos:** 812,0
-**Menor votos:** 150 (Punishment Park)
-**Maior votos:** 8684 (Room)
+**Média de votos:** 621,0
+**Menor votos:** 75 (Let It Ride)
+**Maior votos:** 15812 (The Hangover)
 
 ## 5 mais avaliados
 
-**Room** | **Argo** | **Nocturnal Animals** | **The Lives of Others** | **Escape from Alcatraz**
+**The Hangover** | **The Hangover Part II** | **The Hangover Part III** | **Mean Girls** | **Superbad**
  -- | -- | -- | -- | -- 
-*8684* | *7750* | *7196* | *3319* | *2529*
-![](https://image.tmdb.org/t/p/w200/dIxoYFcj6EqD5KScuU8lWCftnvH.jpg) | ![](https://image.tmdb.org/t/p/w200/9LcnmIeKUfKeAxeCY82W9Jug416.jpg) | ![](https://image.tmdb.org/t/p/w200/mdLDgQBD0va09npSQX5Zgo2evXM.jpg) | ![](https://image.tmdb.org/t/p/w200/bCywq0RkrdI2qzhPNuuJ9PvGuzd.jpg) | ![](https://image.tmdb.org/t/p/w200/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg)
+*15812* | *9789* | *8097* | *7931* | *6620*
+![](https://image.tmdb.org/t/p/w200/uluhlXubGu1VxU63X9VHCLWDAYP.jpg) | ![](https://image.tmdb.org/t/p/w200/jrP9zmdSUpOzzUXpEqPqg3dryUr.jpg) | ![](https://image.tmdb.org/t/p/w200/vtxuPWkdllLNLVyGjKYa267ntuH.jpg) | ![](https://image.tmdb.org/t/p/w200/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg) | ![](https://image.tmdb.org/t/p/w200/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg)
 
 ## 5 menos avaliados
 
-**Punishment Park** | **The Fallen Idol** | **Sorry, Wrong Number** | **Edge of Winter** | **Made in France**
+**Let It Ride** | **Bottoms** | **Big Business** | **Slap Her... She's French** | **Christmas in Wonderland**
  -- | -- | -- | -- | -- 
-*150* | *153* | *153* | *156* | *159*
-![](https://image.tmdb.org/t/p/w200/fPGnMnp80ycqUHdgP1T3nzCyYKe.jpg) | ![](https://image.tmdb.org/t/p/w200/sCcjmsYVgh0urTbLqQgEeskkmPt.jpg) | ![](https://image.tmdb.org/t/p/w200/A39p8fEvucMFQXFmjp5Z8WepdsQ.jpg) | ![](https://image.tmdb.org/t/p/w200/1WE00bHU3Y4mrzyEqZsUIWtYyCf.jpg) | ![](https://image.tmdb.org/t/p/w200/6fNi8CXqoiaLzqhj8BxErE4XgR9.jpg)
+*75* | *75* | *75* | *75* | *75*
+![](https://image.tmdb.org/t/p/w200/puLIpL9LZEw0CmPO9Y1GYbexazJ.jpg) | ![](https://image.tmdb.org/t/p/w200/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg) | ![](https://image.tmdb.org/t/p/w200/u8if5uYKwnnSmGek683oWti4tVk.jpg) | ![](https://image.tmdb.org/t/p/w200/5We0C9RVyPxbUxBF4FFdPGlS1fu.jpg) | ![](https://image.tmdb.org/t/p/w200/o1zsNUlDJFQOP8RtPgPaKjVHgUf.jpg)
 
 **Gêneros mais comuns:**
-* Drama (116)
-* Thriller (116)
+* Comedy (1048)
 
 
 **Palavras-chave mais comuns:**
-* husband wife relationship (11)
-* revenge (10)
-* prison (7)
-* rape (7)
-* journalist (7)
-* lawyer (6)
-* murder (6)
-* kidnapping (5)
-* cia (5)
-* flashback (5)
-* cold war (5)
-* torture (5)
-* escape (4)
-* hospital (4)
-* parent child relationship (4)
+* high school (53)
+* sports (45)
+* satire (36)
+*  (35)
+* family (30)
+* short film (30)
+* friendship (26)
+* wedding (26)
+* italy (26)
+* christmas (25)
+* parody (25)
+* silent film (25)
+* sex comedy (24)
+* gay theme (23)
+* cinepanettone (23)
 
 # Cluster 12
-**Total de filmes:** 7
-**Média de ano de lançamento:** 2005
-**Menor ano:** 1987 (Saint Seiya: Evil Goddess Eris)
-**Maior ano:** 2023 (Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village-)
+**Total de filmes:** 659
+**Média de ano de lançamento:** 2001
+**Menor ano:** 1895 (The Execution of Mary, Queen of Scots)
+**Maior ano:** 2023 (Oppenheimer)
 
 ## 5 Mais Velhos 
 
-**Saint Seiya: Evil Goddess Eris** | **Saint Seiya: Legend of Crimson Youth** | **Saint Seiya: Warriors of the Final Holy Battle** | **Saint Seiya: Legend of Sanctuary** | **Justice League: Gods and Monsters**
+**The Execution of Mary, Queen of Scots** | **Cabiria** | **The Birth of a Nation** | **Intolerance: Love's Struggle Throughout the Ages** | **Battleship Potemkin**
  -- | -- | -- | -- | -- 
-*1987* | *1988* | *1989* | *2014* | *2015*
- ![](https://image.tmdb.org/t/p/w200/44Ni4sNvXkyRAh2ayuE07CV0lE5.jpg) |  ![](https://image.tmdb.org/t/p/w200/qDqk23o8qOljUetnCkQCQk7kElk.jpg) |  ![](https://image.tmdb.org/t/p/w200/a1ftT2mM219UvZ86jgF19mBoUT1.jpg) |  ![](https://image.tmdb.org/t/p/w200/gxKfP9278RK4t3J8vLXoFfB8ihl.jpg) |  ![](https://image.tmdb.org/t/p/w200/9EoqQuEZKmQIYjexoUbkxMcMCVr.jpg)
+*1895* | *1914* | *1915* | *1916* | *1925*
+ ![](https://image.tmdb.org/t/p/w200/gfofUsszXObBAvH9FLXfO3mwaXJ.jpg) |  ![](https://image.tmdb.org/t/p/w200/oZhgcHHapkzYmB0OhQcRfZ7LdLM.jpg) |  ![](https://image.tmdb.org/t/p/w200/pNpOXpQI5GSUfiWypubYtMh9928.jpg) |  ![](https://image.tmdb.org/t/p/w200/lJCabs4TMOsKfnl0BmA5Hf16Ezb.jpg) |  ![](https://image.tmdb.org/t/p/w200/tjnaRiHUsxBADaOwrQpnTnjHVwi.jpg)
 
 ## 5 mais novos
 
-**Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village-** | **Demon Slayer: Kimetsu no Yaiba Sibling's Bond** | **Justice League: Gods and Monsters** | **Saint Seiya: Legend of Sanctuary** | **Saint Seiya: Warriors of the Final Holy Battle**
+**Oppenheimer** | **Air** | **BlackBerry** | **Jeanne du Barry** | **A Million Miles Away**
  -- | -- | -- | -- | -- 
-*2023* | *2019* | *2015* | *2014* | *1989*
-![](https://image.tmdb.org/t/p/w200/hEhGrcST85vMd63PBDgPBqih2tR.jpg) | ![](https://image.tmdb.org/t/p/w200/vJUDoYNNKvBqbEPUskgvzPXGEFz.jpg) | ![](https://image.tmdb.org/t/p/w200/9EoqQuEZKmQIYjexoUbkxMcMCVr.jpg) | ![](https://image.tmdb.org/t/p/w200/gxKfP9278RK4t3J8vLXoFfB8ihl.jpg) | ![](https://image.tmdb.org/t/p/w200/a1ftT2mM219UvZ86jgF19mBoUT1.jpg)
+*2023* | *2023* | *2023* | *2023* | *2023*
+![](https://image.tmdb.org/t/p/w200/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg) | ![](https://image.tmdb.org/t/p/w200/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg) | ![](https://image.tmdb.org/t/p/w200/neV35lK7em4rIY9QIoH1cruErPA.jpg) | ![](https://image.tmdb.org/t/p/w200/6AXHh9H7XeUqxl8Ijp9ADkpxfM0.jpg) | ![](https://image.tmdb.org/t/p/w200/kMI3tgxLAZbzGOVlorUBva0kriS.jpg)
 
-**Média da nota:** 7,27
-**Menor nota:** 6,55 (Saint Seiya: Legend of Sanctuary)
-**Maior nota:** 7,91 (Demon Slayer: Kimetsu no Yaiba Sibling's Bond)
+**Média da nota:** 6,97
+**Menor nota:** 4,84 (Sword of Vengeance)
+**Maior nota:** 8,57 (Schindler's List)
 
 ## 5 mais bem avaliados
 
-**Demon Slayer: Kimetsu no Yaiba Sibling's Bond** | **Saint Seiya: Legend of Crimson Youth** | **Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village-** | **Saint Seiya: Warriors of the Final Holy Battle** | **Justice League: Gods and Monsters**
+**Schindler's List** | **Harakiri** | **The Human Condition III: A Soldier's Prayer** | **Jesus** | **Oppenheimer**
  -- | -- | -- | -- | -- 
-*7,91* | *7,62* | *7,38* | *7,31* | *7,12*
-![](https://image.tmdb.org/t/p/w200/vJUDoYNNKvBqbEPUskgvzPXGEFz.jpg) | ![](https://image.tmdb.org/t/p/w200/qDqk23o8qOljUetnCkQCQk7kElk.jpg) | ![](https://image.tmdb.org/t/p/w200/hEhGrcST85vMd63PBDgPBqih2tR.jpg) | ![](https://image.tmdb.org/t/p/w200/a1ftT2mM219UvZ86jgF19mBoUT1.jpg) | ![](https://image.tmdb.org/t/p/w200/9EoqQuEZKmQIYjexoUbkxMcMCVr.jpg)
+*8,57* | *8,40* | *8,40* | *8,27* | *8,26*
+![](https://image.tmdb.org/t/p/w200/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg) | ![](https://image.tmdb.org/t/p/w200/w7pWcLaYQkbtRUn99K6ome0DblL.jpg) | ![](https://image.tmdb.org/t/p/w200/wZG5gTZj6YKOcm653v6BHK8FWXs.jpg) | ![](https://image.tmdb.org/t/p/w200/gJpN9q139yF1vaQftCSe1TmqUVt.jpg) | ![](https://image.tmdb.org/t/p/w200/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg)
 
 ## 5 menos bem avaliados
 
-**Saint Seiya: Legend of Sanctuary** | **Saint Seiya: Evil Goddess Eris** | **Justice League: Gods and Monsters** | **Saint Seiya: Warriors of the Final Holy Battle** | **Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village-**
+**Sword of Vengeance** | **Viking** | **There Be Dragons** | **Marie Curie** | **Robert the Bruce**
  -- | -- | -- | -- | -- 
-*6,55* | *7,03* | *7,12* | *7,31* | *7,38*
-![](https://image.tmdb.org/t/p/w200/gxKfP9278RK4t3J8vLXoFfB8ihl.jpg) | ![](https://image.tmdb.org/t/p/w200/44Ni4sNvXkyRAh2ayuE07CV0lE5.jpg) | ![](https://image.tmdb.org/t/p/w200/9EoqQuEZKmQIYjexoUbkxMcMCVr.jpg) | ![](https://image.tmdb.org/t/p/w200/a1ftT2mM219UvZ86jgF19mBoUT1.jpg) | ![](https://image.tmdb.org/t/p/w200/hEhGrcST85vMd63PBDgPBqih2tR.jpg)
+*4,84* | *4,90* | *5,02* | *5,06* | *5,27*
+![](https://image.tmdb.org/t/p/w200/Amiy63LurXkazLZAjz57ivPvioJ.jpg) | ![](https://image.tmdb.org/t/p/w200/xxl0YHkYHHCetgnG2fgezUaQiHc.jpg) | ![](https://image.tmdb.org/t/p/w200/7y6ehxTLB1ZJl3xFVFbhcnoJx1m.jpg) | ![](https://image.tmdb.org/t/p/w200/aeGnFJbIyWdfrxKiOKOCk69UWHW.jpg) | ![](https://image.tmdb.org/t/p/w200/e6eNN4EpGtbXAbsR97QgjnjHs6s.jpg)
 
-**Média de votos:** 311,0
-**Menor votos:** 165 (Demon Slayer: Kimetsu no Yaiba Sibling's Bond)
-**Maior votos:** 628 (Saint Seiya: Legend of Sanctuary)
+**Média de votos:** 837,0
+**Menor votos:** 75 (Oslo)
+**Maior votos:** 15965 (Bohemian Rhapsody)
 
 ## 5 mais avaliados
 
-**Saint Seiya: Legend of Sanctuary** | **Justice League: Gods and Monsters** | **Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village-** | **Saint Seiya: Evil Goddess Eris** | **Saint Seiya: Warriors of the Final Holy Battle**
+**Bohemian Rhapsody** | **Saving Private Ryan** | **Schindler's List** | **Hacksaw Ridge** | **12 Years a Slave**
  -- | -- | -- | -- | -- 
-*628* | *530* | *310* | *189* | *187*
-![](https://image.tmdb.org/t/p/w200/gxKfP9278RK4t3J8vLXoFfB8ihl.jpg) | ![](https://image.tmdb.org/t/p/w200/9EoqQuEZKmQIYjexoUbkxMcMCVr.jpg) | ![](https://image.tmdb.org/t/p/w200/hEhGrcST85vMd63PBDgPBqih2tR.jpg) | ![](https://image.tmdb.org/t/p/w200/44Ni4sNvXkyRAh2ayuE07CV0lE5.jpg) | ![](https://image.tmdb.org/t/p/w200/a1ftT2mM219UvZ86jgF19mBoUT1.jpg)
+*15965* | *14658* | *14594* | *12668* | *10603*
+![](https://image.tmdb.org/t/p/w200/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg) | ![](https://image.tmdb.org/t/p/w200/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg) | ![](https://image.tmdb.org/t/p/w200/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg) | ![](https://image.tmdb.org/t/p/w200/jcStBvbQt78tPeId5hC7a9jcDOK.jpg) | ![](https://image.tmdb.org/t/p/w200/xdANQijuNrJaw1HA61rDccME4Tm.jpg)
 
 ## 5 menos avaliados
 
-**Demon Slayer: Kimetsu no Yaiba Sibling's Bond** | **Saint Seiya: Legend of Crimson Youth** | **Saint Seiya: Warriors of the Final Holy Battle** | **Saint Seiya: Evil Goddess Eris** | **Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village-**
+**Oslo** | **Jesus Revolution** | **One Second** | **Stones for the Rampart** | **And Starring Pancho Villa as Himself**
  -- | -- | -- | -- | -- 
-*165* | *169* | *187* | *189* | *310*
-![](https://image.tmdb.org/t/p/w200/vJUDoYNNKvBqbEPUskgvzPXGEFz.jpg) | ![](https://image.tmdb.org/t/p/w200/qDqk23o8qOljUetnCkQCQk7kElk.jpg) | ![](https://image.tmdb.org/t/p/w200/a1ftT2mM219UvZ86jgF19mBoUT1.jpg) | ![](https://image.tmdb.org/t/p/w200/44Ni4sNvXkyRAh2ayuE07CV0lE5.jpg) | ![](https://image.tmdb.org/t/p/w200/hEhGrcST85vMd63PBDgPBqih2tR.jpg)
+*75* | *75* | *76* | *76* | *76*
+![](https://image.tmdb.org/t/p/w200/j40H5hbbdOMrkbgyMZbOa1oijwj.jpg) | ![](https://image.tmdb.org/t/p/w200/A3qqrl8lJvlpRCwkbUEADXzVaDC.jpg) | ![](https://image.tmdb.org/t/p/w200/psxsB6mYC5TVufKejGjTaeLDyEp.jpg) | ![](https://image.tmdb.org/t/p/w200/lQ06u4MiQx3EIN4T6S3M8CeeRSD.jpg) | ![](https://image.tmdb.org/t/p/w200/aPXm56o3tEQdk0QTR6sZzmyw4f5.jpg)
 
 **Gêneros mais comuns:**
-* Action (7)
-* Animation (7)
-* Fantasy (7)
+* History (659)
+* Drama (648)
+* War (162)
+* Action (74)
+* Romance (60)
+* Adventure (35)
+* Music (31)
+* Comedy (27)
+* Crime (23)
+* Thriller (19)
+* TV Movie (17)
+* Family (9)
+* Western (8)
+* Animation (6)
+* Mystery (6)
+* Horror (5)
+* Fantasy (2)
 
 
 **Palavras-chave mais comuns:**
-* anime (6)
-* based on manga (4)
-* shounen (4)
-* fighter (3)
-* mythology (3)
-* greek mythology (3)
-* suit of armor (3)
-* deity (3)
-* edited from tv series (2)
-* adult animation (1)
-* superhero (1)
-* super power (1)
-* demon (1)
+* world war ii (83)
+* 19th century (46)
+* 1940s (39)
+* 1960s (35)
+* 1970s (30)
+* nazi (30)
+* historical figure (29)
+* 1930s (24)
+* sports (24)
+* 1950s (23)
+* italy (23)
+* 1980s (22)
+* 17th century (22)
+* japan (21)
+* 18th century (21)
 
 # Cluster 13
-**Total de filmes:** 23
-**Média de ano de lançamento:** 1995
-**Menor ano:** 1930 (Animal Crackers)
-**Maior ano:** 2020 (Eurovision Song Contest: The Story of Fire Saga)
+**Total de filmes:** 54
+**Média de ano de lançamento:** 1996
+**Menor ano:** 1937 (Hawaiian Holiday)
+**Maior ano:** 2022 (Minions: The Rise of Gru)
 
 ## 5 Mais Velhos 
 
-**Animal Crackers** | **A Night at the Opera** | **A Day at the Races** | **The One Man Band** | **Radio Days**
+**Hawaiian Holiday** | **Ferdinand the Bull** | **Hair-Raising Hare** | **Fast and Furry-ous** | **Rabbit of Seville**
  -- | -- | -- | -- | -- 
-*1930* | *1935* | *1937* | *1970* | *1987*
- ![](https://image.tmdb.org/t/p/w200/qj7owFXzCtIbZC51O8NwLe4Kde4.jpg) |  ![](https://image.tmdb.org/t/p/w200/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg) |  ![](https://image.tmdb.org/t/p/w200/atJhISCddr3z8LWCr93yaGGv6YV.jpg) |  ![](https://image.tmdb.org/t/p/w200/b6IYXmSNkWPSrDG8wyUisEP0c8n.jpg) |  ![](https://image.tmdb.org/t/p/w200/ljZ3yyYznAiq1vF6nHITdJn6qXB.jpg)
+*1937* | *1938* | *1946* | *1949* | *1950*
+ ![](https://image.tmdb.org/t/p/w200/et1rPqSp6fBn4qSeREX7I7n3bMf.jpg) |  ![](https://image.tmdb.org/t/p/w200/ey5jRwO4KS7uXQe3a3gAaVAdfJP.jpg) |  ![](https://image.tmdb.org/t/p/w200/vHSuTYqaLiDw6754xQnKTW2OGC9.jpg) |  ![](https://image.tmdb.org/t/p/w200/XinMQ1x8kejVMDl5AAKULonOCB.jpg) |  ![](https://image.tmdb.org/t/p/w200/27VEl23uM1aDxR9if2Ncs8IbSmK.jpg)
 
 ## 5 mais novos
 
-**Eurovision Song Contest: The Story of Fire Saga** | **Work It** | **Heavy Trip** | **Pitch Perfect 3** | **David Brent: Life on the Road**
+**Minions: The Rise of Gru** | **Diary of a Wimpy Kid: Rodrick Rules** | **The Soccer Football Movie** | **King Tweety** | **The Simpsons: The Good, the Bart, and the Loki**
  -- | -- | -- | -- | -- 
-*2020* | *2020* | *2018* | *2017* | *2016*
-![](https://image.tmdb.org/t/p/w200/9zrbgYyFvwH8sy5mv9eT25xsAzL.jpg) | ![](https://image.tmdb.org/t/p/w200/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg) | ![](https://image.tmdb.org/t/p/w200/iemwek3NFkcsEqTXGHg8xsjXzAk.jpg) | ![](https://image.tmdb.org/t/p/w200/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg) | ![](https://image.tmdb.org/t/p/w200/lhUKeZj7VlWAtavAzTLwClDWSpI.jpg)
+*2022* | *2022* | *2022* | *2022* | *2021*
+![](https://image.tmdb.org/t/p/w200/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg) | ![](https://image.tmdb.org/t/p/w200/iW6ixzkrvdrcxk0umiLZMtlSl9L.jpg) | ![](https://image.tmdb.org/t/p/w200/sWoYDNPNZs5MtzPbirXV73tIHrA.jpg) | ![](https://image.tmdb.org/t/p/w200/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg) | ![](https://image.tmdb.org/t/p/w200/rtMdtzywcAGOrF6t8fbxJBqpdcq.jpg)
 
-**Média da nota:** 6,68
-**Menor nota:** 5,91 (Hamlet 2)
-**Maior nota:** 7,61 (Work It)
+**Média da nota:** 6,76
+**Menor nota:** 5,26 (Saving Santa)
+**Maior nota:** 8,10 (Duck Amuck)
 
 ## 5 mais bem avaliados
 
-**Work It** | **A Night at the Opera** | **A Day at the Races** | **School of Rock** | **Waiting for Guffman**
+**Duck Amuck** | **Monsters, Inc.** | **The Wrong Trousers** | **Toy Story 2** | **Rabbit of Seville**
  -- | -- | -- | -- | -- 
-*7,61* | *7,45* | *7,10* | *7,07* | *7,07*
-![](https://image.tmdb.org/t/p/w200/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg) | ![](https://image.tmdb.org/t/p/w200/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg) | ![](https://image.tmdb.org/t/p/w200/atJhISCddr3z8LWCr93yaGGv6YV.jpg) | ![](https://image.tmdb.org/t/p/w200/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg) | ![](https://image.tmdb.org/t/p/w200/zuArI6EBpV6mExrvfnyidoOtzdf.jpg)
+*8,10* | *7,84* | *7,76* | *7,59* | *7,53*
+![](https://image.tmdb.org/t/p/w200/gRZYLCncLa2mzE59qY38McDlFdN.jpg) | ![](https://image.tmdb.org/t/p/w200/sgheSKxZkttIe8ONsf2sWXPgip3.jpg) | ![](https://image.tmdb.org/t/p/w200/mV8SDTjkxrDxu0a0egvFz1lRPU7.jpg) | ![](https://image.tmdb.org/t/p/w200/2MFIhZAW0CVlEQrFyqwa4U6zqJP.jpg) | ![](https://image.tmdb.org/t/p/w200/27VEl23uM1aDxR9if2Ncs8IbSmK.jpg)
 
 ## 5 menos bem avaliados
 
-**Hamlet 2** | **Podium** | **The One Man Band** | **The Rocker** | **David Brent: Life on the Road**
+**Saving Santa** | **Garfield's Pet Force** | **Garfield** | **Hop** | **Barnyard**
  -- | -- | -- | -- | -- 
-*5,91* | *5,92* | *6,03* | *6,03* | *6,08*
-![](https://image.tmdb.org/t/p/w200/ljdmxGNwhuWZBsCgANlZrruFkJj.jpg) | ![](https://image.tmdb.org/t/p/w200/rq2KTyTJXd2p4kwCa1dajdrXimA.jpg) | ![](https://image.tmdb.org/t/p/w200/b6IYXmSNkWPSrDG8wyUisEP0c8n.jpg) | ![](https://image.tmdb.org/t/p/w200/wzgFC7jOEMtf9D6CSdI7ckUMtwU.jpg) | ![](https://image.tmdb.org/t/p/w200/lhUKeZj7VlWAtavAzTLwClDWSpI.jpg)
+*5,26* | *5,53* | *5,67* | *5,73* | *5,83*
+![](https://image.tmdb.org/t/p/w200/aH7XiXYDVPhs4lj4PsrrjTwHdRt.jpg) | ![](https://image.tmdb.org/t/p/w200/ylbBsF1WKI0RrxfX89QFqrBPYKu.jpg) | ![](https://image.tmdb.org/t/p/w200/vqwTSWNLyH55g8kBT61s2DgNYEp.jpg) | ![](https://image.tmdb.org/t/p/w200/hRa9MJTgCbSuL3h2CVPwUdYOWJH.jpg) | ![](https://image.tmdb.org/t/p/w200/qlSCUmrflADYlCMbkviJjfujhTH.jpg)
 
-**Média de votos:** 1149,0
-**Menor votos:** 154 (The One Man Band)
-**Maior votos:** 5173 (School of Rock)
+**Média de votos:** 1848,0
+**Menor votos:** 77 (Hawaiian Holiday)
+**Maior votos:** 17189 (Monsters, Inc.)
 
 ## 5 mais avaliados
 
-**School of Rock** | **Pitch Perfect 2** | **Pitch Perfect 3** | **Wayne's World** | **Another Cinderella Story**
+**Monsters, Inc.** | **Toy Story 2** | **Despicable Me 2** | **The Simpsons Movie** | **The Boss Baby**
  -- | -- | -- | -- | -- 
-*5173* | *5084* | *3124* | *2021* | *1662*
-![](https://image.tmdb.org/t/p/w200/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg) | ![](https://image.tmdb.org/t/p/w200/fQaEGzFmvTYu3G641WV0Tg9auAt.jpg) | ![](https://image.tmdb.org/t/p/w200/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg) | ![](https://image.tmdb.org/t/p/w200/nhQtlLVl2z5ywu2uDnXjVqi08On.jpg) | ![](https://image.tmdb.org/t/p/w200/Acw0Syw7s8QFTCkdJgtGR2Eg0SB.jpg)
+*17189* | *12904* | *10523* | *7430* | *6682*
+![](https://image.tmdb.org/t/p/w200/sgheSKxZkttIe8ONsf2sWXPgip3.jpg) | ![](https://image.tmdb.org/t/p/w200/2MFIhZAW0CVlEQrFyqwa4U6zqJP.jpg) | ![](https://image.tmdb.org/t/p/w200/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg) | ![](https://image.tmdb.org/t/p/w200/s3b8TZWwmkYc2KoJ5zk77qB6PzY.jpg) | ![](https://image.tmdb.org/t/p/w200/unPB1iyEeTBcKiLg8W083rlViFH.jpg)
 
 ## 5 menos avaliados
 
-**The One Man Band** | **Heavy Trip** | **Hamlet 2** | **A Day at the Races** | **Animal Crackers**
+**Hawaiian Holiday** | **King Tweety** | **Fast and Furry-ous** | **Oktapodi** | **Hair-Raising Hare**
  -- | -- | -- | -- | -- 
-*154* | *162* | *164* | *174* | *209*
-![](https://image.tmdb.org/t/p/w200/b6IYXmSNkWPSrDG8wyUisEP0c8n.jpg) | ![](https://image.tmdb.org/t/p/w200/iemwek3NFkcsEqTXGHg8xsjXzAk.jpg) | ![](https://image.tmdb.org/t/p/w200/ljdmxGNwhuWZBsCgANlZrruFkJj.jpg) | ![](https://image.tmdb.org/t/p/w200/atJhISCddr3z8LWCr93yaGGv6YV.jpg) | ![](https://image.tmdb.org/t/p/w200/qj7owFXzCtIbZC51O8NwLe4Kde4.jpg)
+*77* | *78* | *83* | *86* | *87*
+![](https://image.tmdb.org/t/p/w200/et1rPqSp6fBn4qSeREX7I7n3bMf.jpg) | ![](https://image.tmdb.org/t/p/w200/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg) | ![](https://image.tmdb.org/t/p/w200/XinMQ1x8kejVMDl5AAKULonOCB.jpg) | ![](https://image.tmdb.org/t/p/w200/7ijzHC7CvCv12ppvMOAKaUZEY8G.jpg) | ![](https://image.tmdb.org/t/p/w200/vHSuTYqaLiDw6754xQnKTW2OGC9.jpg)
 
 **Gêneros mais comuns:**
-* Comedy (23)
-* Music (23)
+* Animation (54)
+* Comedy (54)
+* Family (54)
 
 
 **Palavras-chave mais comuns:**
-* musical (7)
-* high school (4)
-* rock 'n' roll (3)
-* singer (3)
-* heavy metal (3)
-* music competition (2)
-* teacher (2)
-* singing competition (2)
-* acapella (2)
-* music movie (2)
-* parody (2)
-* celebrity (2)
-* puppetry (2)
-* 1970s (2)
-* mockumentary (2)
+* short film (18)
+* cartoon (13)
+* dog (7)
+* family (5)
+* penguin (5)
+* stop motion (5)
+* anthropomorphism (4)
+* claymation (4)
+* animal (4)
+* holiday (4)
+* christmas (4)
+* cartoon duck (4)
+* monster (3)
+* friendship (3)
+* illumination (3)
 
 # Cluster 14
-**Total de filmes:** 95
-**Média de ano de lançamento:** 2001
-**Menor ano:** 1950 (Sunset Boulevard)
-**Maior ano:** 2022 (Close)
+**Total de filmes:** 136
+**Média de ano de lançamento:** 2009
+**Menor ano:** 1950 (Stage Fright)
+**Maior ano:** 2022 (Fall)
 
 ## 5 Mais Velhos 
 
-**Sunset Boulevard** | **Stromboli** | **Ikiru** | **Rebel Without a Cause** | **Aparajito**
+**Stage Fright** | **Sudden Fear** | **Niagara** | **Cape Fear** | **Funeral in Berlin**
  -- | -- | -- | -- | -- 
-*1950* | *1950* | *1952* | *1955* | *1956*
- ![](https://image.tmdb.org/t/p/w200/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg) |  ![](https://image.tmdb.org/t/p/w200/nGQwqxXyhciDe1oDp7K87D1tRh5.jpg) |  ![](https://image.tmdb.org/t/p/w200/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg) |  ![](https://image.tmdb.org/t/p/w200/n0oJB5fhcUth9ZbHziwsFuR38gT.jpg) |  ![](https://image.tmdb.org/t/p/w200/qvR2Qs42WHwCEcuwhQnterU3gVY.jpg)
+*1950* | *1952* | *1953* | *1962* | *1966*
+ ![](https://image.tmdb.org/t/p/w200/l43OTqhib8do1WwXig8JI8Y68Fd.jpg) |  ![](https://image.tmdb.org/t/p/w200/xDDRhGX99c7smveM3UelCVmi6xi.jpg) |  ![](https://image.tmdb.org/t/p/w200/m9ftjuwaaKHR4iv5SgMpXA5pIGN.jpg) |  ![](https://image.tmdb.org/t/p/w200/9BzUTJMoH1mQUiqI1C9glrWEuxa.jpg) |  ![](https://image.tmdb.org/t/p/w200/tCFERUETB0jBu7OKcerTkptTk8q.jpg)
 
 ## 5 mais novos
 
-**Close** | **The Son** | **Vortex** | **Nomadland** | **The Hand of God**
+**Fall** | **I Came By** | **On the Line** | **Savage Salvation** | **America Latina**
  -- | -- | -- | -- | -- 
-*2022* | *2022* | *2022* | *2021* | *2021*
-![](https://image.tmdb.org/t/p/w200/54FGmbm9kJselaFPLRomXDuuCGK.jpg) | ![](https://image.tmdb.org/t/p/w200/hYR2doH3arnX0Y6WULuBPbtaLjN.jpg) | ![](https://image.tmdb.org/t/p/w200/oQPHMJ0UoBvOdbBV2cXOrSRzVbo.jpg) | ![](https://image.tmdb.org/t/p/w200/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg) | ![](https://image.tmdb.org/t/p/w200/kreVxr5moB7K52IGGV1BGAn6nq1.jpg)
+*2022* | *2022* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/v28T5F1IygM8vXWZIycfNEm3xcL.jpg) | ![](https://image.tmdb.org/t/p/w200/pFB9jZDl52jBNbMPVSlISXD1ggS.jpg) | ![](https://image.tmdb.org/t/p/w200/jVmWI8PqoVTHCnrLYAcyrclzeY0.jpg) | ![](https://image.tmdb.org/t/p/w200/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg) | ![](https://image.tmdb.org/t/p/w200/g8ylOkjXtoHQwDhqNpYmAC1YGDT.jpg)
 
-**Média da nota:** 7,19
-**Menor nota:** 5,61 (Horse Girl)
-**Maior nota:** 8,34 (Sunset Boulevard)
+**Média da nota:** 6,03
+**Menor nota:** 4,72 (Prey)
+**Maior nota:** 7,61 (Who Am I)
 
 ## 5 mais bem avaliados
 
-**Sunset Boulevard** | **Ikiru** | **Dead Poets Society** | **The Father** | **The 400 Blows**
+**Who Am I** | **Cape Fear** | **Wait Until Dark** | **Escaping the Madhouse: The Nellie Bly Story** | **Fracture**
  -- | -- | -- | -- | -- 
-*8,34* | *8,34* | *8,31* | *8,15* | *8,06*
-![](https://image.tmdb.org/t/p/w200/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg) | ![](https://image.tmdb.org/t/p/w200/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg) | ![](https://image.tmdb.org/t/p/w200/ai40gM7SUaGA6fthvsd87o8IQq4.jpg) | ![](https://image.tmdb.org/t/p/w200/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg) | ![](https://image.tmdb.org/t/p/w200/12PuU23kkDLvTd0nb8hMlE3oShB.jpg)
+*7,61* | *7,43* | *7,40* | *7,30* | *7,28*
+![](https://image.tmdb.org/t/p/w200/oR3tbNzJMJmCKS5O5fanU9yxIOk.jpg) | ![](https://image.tmdb.org/t/p/w200/9BzUTJMoH1mQUiqI1C9glrWEuxa.jpg) | ![](https://image.tmdb.org/t/p/w200/8WJOL49WakZcV3JIcIyl8vYq3mw.jpg) | ![](https://image.tmdb.org/t/p/w200/pbGCxfOEbVUoASAvLwcUEcPAhiy.jpg) | ![](https://image.tmdb.org/t/p/w200/qNen8x5gaikjIg9CFihgxYcJwQe.jpg)
 
 ## 5 menos bem avaliados
 
-**Horse Girl** | **The Brave** | **The New Girlfriend** | **The Disappearance of Eleanor Rigby: Them** | **Yes, God, Yes**
+**Prey** | **Rebirth** | **The Boy Next Door** | **Shadow Conspiracy** | **Elevator**
  -- | -- | -- | -- | -- 
-*5,61* | *6,06* | *6,10* | *6,10* | *6,30*
-![](https://image.tmdb.org/t/p/w200/hNQ7st9dFXUXENMcsAuVxcrIBfA.jpg) | ![](https://image.tmdb.org/t/p/w200/Img3pLjIsZQbOzAqei0v5920Vi.jpg) | ![](https://image.tmdb.org/t/p/w200/b4mtntqoAiaf3xm6fElAEcTHo47.jpg) | ![](https://image.tmdb.org/t/p/w200/rFBfW5RJbjgOYufLvu2DP4A71JW.jpg) | ![](https://image.tmdb.org/t/p/w200/69SYznq2mSbgKyQF3QHYwblmqAk.jpg)
+*4,72* | *4,73* | *4,87* | *4,90* | *4,93*
+![](https://image.tmdb.org/t/p/w200/6D7nfhHI7b9ZvW3m7wVMtBSbC9U.jpg) | ![](https://image.tmdb.org/t/p/w200/cNm3lTw9Hyj2g8BJ54bZGaezU5d.jpg) | ![](https://image.tmdb.org/t/p/w200/tM0hpWw3GONam6TKcMMciecHjhT.jpg) | ![](https://image.tmdb.org/t/p/w200/zmkT8yAkuRqAvcWGoNQRewYI2ep.jpg) | ![](https://image.tmdb.org/t/p/w200/1V8G6Lkxhv9ztJuBhXlGxyUp1MF.jpg)
 
-**Média de votos:** 1445,0
-**Menor votos:** 150 (Novitiate)
-**Maior votos:** 11260 (American Beauty)
+**Média de votos:** 504,0
+**Menor votos:** 75 (Numb)
+**Maior votos:** 3599 (Fracture)
 
 ## 5 mais avaliados
 
-**American Beauty** | **Dead Poets Society** | **The Perks of Being a Wallflower** | **Million Dollar Baby** | **Rain Man**
+**Fracture** | **Phone Booth** | **Fall** | **Cape Fear** | **Knock Knock**
  -- | -- | -- | -- | -- 
-*11260* | *10311* | *9844* | *8874* | *5814*
-![](https://image.tmdb.org/t/p/w200/wby9315QzVKdW9BonAefg8jGTTb.jpg) | ![](https://image.tmdb.org/t/p/w200/ai40gM7SUaGA6fthvsd87o8IQq4.jpg) | ![](https://image.tmdb.org/t/p/w200/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg) | ![](https://image.tmdb.org/t/p/w200/2ti3l1OeB8G94yyqfAI7nmMZUbA.jpg) | ![](https://image.tmdb.org/t/p/w200/iTNHwO896WKkaoPtpMMS74d8VNi.jpg)
+*3599* | *3392* | *3217* | *3087* | *2904*
+![](https://image.tmdb.org/t/p/w200/qNen8x5gaikjIg9CFihgxYcJwQe.jpg) | ![](https://image.tmdb.org/t/p/w200/o9b4cA1USAUXz0oxwWVja7sMNFa.jpg) | ![](https://image.tmdb.org/t/p/w200/v28T5F1IygM8vXWZIycfNEm3xcL.jpg) | ![](https://image.tmdb.org/t/p/w200/59bTrfennDfQec2ugRJ3c2z8mE.jpg) | ![](https://image.tmdb.org/t/p/w200/cUC4rUb1Cs2KMaZ6RD4uYUEEwls.jpg)
 
 ## 5 menos avaliados
 
-**Novitiate** | **Hara-Kiri: Death of a Samurai** | **The Passion of Anna** | **Stromboli** | **Live and Become**
+**Numb** | **The MacKintosh Man** | **Mrs. Serial Killer** | **Shadow Conspiracy** | **The Big Ugly**
  -- | -- | -- | -- | -- 
-*150* | *151* | *152* | *167* | *168*
-![](https://image.tmdb.org/t/p/w200/eZ9BbRy4YGFM1yvx6ZDO7qzILJ.jpg) | ![](https://image.tmdb.org/t/p/w200/rqIqSoxbsVTfcr6CgTtSpzJBkYt.jpg) | ![](https://image.tmdb.org/t/p/w200/cr01316AyxUZyZrdLwzz3AXrgJc.jpg) | ![](https://image.tmdb.org/t/p/w200/nGQwqxXyhciDe1oDp7K87D1tRh5.jpg) | ![](https://image.tmdb.org/t/p/w200/kc1GnNnFH99VWoSCQwPQ9ZslU4t.jpg)
+*75* | *77* | *77* | *77* | *79*
+![](https://image.tmdb.org/t/p/w200/1QeDMwG19nc9UNKpomIzI0aCsQU.jpg) | ![](https://image.tmdb.org/t/p/w200/qrdrQkgQoPYhE22ntyY8P3gzwLv.jpg) | ![](https://image.tmdb.org/t/p/w200/4qogeMcCcqilL2PGUUY7KbrpWsj.jpg) | ![](https://image.tmdb.org/t/p/w200/zmkT8yAkuRqAvcWGoNQRewYI2ep.jpg) | ![](https://image.tmdb.org/t/p/w200/iV30anuKJcrEPHe4GtRb6dtw89G.jpg)
 
 **Gêneros mais comuns:**
-* Drama (95)
+* Thriller (136)
 
 
 **Palavras-chave mais comuns:**
-* coming of age (27)
-* loss of loved one (23)
-* lgbt (9)
-* grief (9)
-* suicide (8)
-* teenager (7)
-* dying and death (7)
-* japan (7)
-* parent child relationship (6)
-* friendship (6)
-* trauma (6)
-* family (6)
-* gay theme (4)
-* individual (4)
-* teacher (4)
+* murder (13)
+* revenge (9)
+* psychopath (8)
+* obsession (7)
+* stalker (6)
+* kidnapping (6)
+* lawyer (5)
+* investigation (5)
+* italy (5)
+* legal thriller (4)
+* small town (4)
+* rape (4)
+* remake (4)
+* psychological thriller (4)
+* infidelity (4)
 
 # Cluster 15
-**Total de filmes:** 53
+**Total de filmes:** 59
 **Média de ano de lançamento:** 2004
+**Menor ano:** 1954 (Seven Samurai)
+**Maior ano:** 2023 (Sound of Freedom)
+
+## 5 Mais Velhos 
+
+**Seven Samurai** | **Three Outlaw Samurai** | **The Sword of Doom** | **Grand Prix** | **Vanishing Point**
+ -- | -- | -- | -- | -- 
+*1954* | *1964* | *1966* | *1966* | *1971*
+ ![](https://image.tmdb.org/t/p/w200/8OKmBV5BUFzmozIC3pPWKHy17kx.jpg) |  ![](https://image.tmdb.org/t/p/w200/tLMiKmFpIFPkTwxwi18hxxd2Q8r.jpg) |  ![](https://image.tmdb.org/t/p/w200/yjHbIihqpuAXlZVoPbWdqaukllB.jpg) |  ![](https://image.tmdb.org/t/p/w200/yEXrf09o8wVRFSptYFr6VcqLjPr.jpg) |  ![](https://image.tmdb.org/t/p/w200/1ThnpFx2G2HPhecvODGFEQxfOpO.jpg)
+
+## 5 mais novos
+
+**Sound of Freedom** | **Sakra** | **Top Gun: Maverick** | **RRR** | **Born a Champion**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2022* | *2022* | *2021*
+![](https://image.tmdb.org/t/p/w200/kSf9svfL2WrKeuK8W08xeR5lTn8.jpg) | ![](https://image.tmdb.org/t/p/w200/jGKCpt3zzbGZbgoza6HCvecqElM.jpg) | ![](https://image.tmdb.org/t/p/w200/62HCnUTziyWcpDaBO2i1DX17ljH.jpg) | ![](https://image.tmdb.org/t/p/w200/ljHw5eIMnki3HekwkKwCCHsRSbH.jpg) | ![](https://image.tmdb.org/t/p/w200/ijizwYu2B04gVkrbGlclAAfdN3p.jpg)
+
+**Média da nota:** 6,74
+**Menor nota:** 4,79 (No Holds Barred)
+**Maior nota:** 8,58 (WWE Royal Rumble 2021)
+
+## 5 mais bem avaliados
+
+**WWE Royal Rumble 2021** | **Seven Samurai** | **Fire** | **Top Gun: Maverick** | **WWE WrestleMania XXVIII**
+ -- | -- | -- | -- | -- 
+*8,58* | *8,45* | *8,32* | *8,26* | *8,10*
+![](https://image.tmdb.org/t/p/w200/A5WXA8Y7YegfaThFUISNnOurox1.jpg) | ![](https://image.tmdb.org/t/p/w200/8OKmBV5BUFzmozIC3pPWKHy17kx.jpg) | ![](https://image.tmdb.org/t/p/w200/7uyxpJ0R2UINPpqZGbPk92DhJuT.jpg) | ![](https://image.tmdb.org/t/p/w200/62HCnUTziyWcpDaBO2i1DX17ljH.jpg) | ![](https://image.tmdb.org/t/p/w200/nvjIVVBQR6vo17FBl3AHGc4jtsc.jpg)
+
+## 5 menos bem avaliados
+
+**No Holds Barred** | **Black Eagle** | **Jai Ho** | **Kickboxer: Vengeance** | **Driven**
+ -- | -- | -- | -- | -- 
+*4,79* | *4,94* | *5,00* | *5,01* | *5,12*
+![](https://image.tmdb.org/t/p/w200/6BmhGmMF53mIsJuUYSwyLfCaTfu.jpg) | ![](https://image.tmdb.org/t/p/w200/hMm9hIhErPcgONWknYBgfQP2Z00.jpg) | ![](https://image.tmdb.org/t/p/w200/dZ4x35tDXd6iXvrpuXPP4psERG.jpg) | ![](https://image.tmdb.org/t/p/w200/9suFyXDE1MhZ8I8tuhmTd0fJ7G8.jpg) | ![](https://image.tmdb.org/t/p/w200/8tJ4Ya8yEyxCMihDumEyvwvUuLB.jpg)
+
+**Média de votos:** 699,0
+**Menor votos:** 75 (Jai Ho)
+**Maior votos:** 7546 (Top Gun: Maverick)
+
+## 5 mais avaliados
+
+**Top Gun: Maverick** | **Creed** | **Southpaw** | **Seven Samurai** | **Bloodsport**
+ -- | -- | -- | -- | -- 
+*7546* | *6949* | *5178* | *3230* | *1637*
+![](https://image.tmdb.org/t/p/w200/62HCnUTziyWcpDaBO2i1DX17ljH.jpg) | ![](https://image.tmdb.org/t/p/w200/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg) | ![](https://image.tmdb.org/t/p/w200/kSQ49Fi3NVTqGGXILmxV2T2pdkG.jpg) | ![](https://image.tmdb.org/t/p/w200/8OKmBV5BUFzmozIC3pPWKHy17kx.jpg) | ![](https://image.tmdb.org/t/p/w200/kndxR9TRK0kJ5hxzDprRSS80F2W.jpg)
+
+## 5 menos avaliados
+
+**Jai Ho** | **Kaththi** | **WWE WrestleMania XXV** | **No Holds Barred** | **Three Outlaw Samurai**
+ -- | -- | -- | -- | -- 
+*75* | *75* | *76* | *77* | *77*
+![](https://image.tmdb.org/t/p/w200/dZ4x35tDXd6iXvrpuXPP4psERG.jpg) | ![](https://image.tmdb.org/t/p/w200/y8hvai0Y96Fz1yqyvtAG0hnATuZ.jpg) | ![](https://image.tmdb.org/t/p/w200/qMGerWblVTRDQA8akZanAkGe78C.jpg) | ![](https://image.tmdb.org/t/p/w200/6BmhGmMF53mIsJuUYSwyLfCaTfu.jpg) | ![](https://image.tmdb.org/t/p/w200/tLMiKmFpIFPkTwxwi18hxxd2Q8r.jpg)
+
+**Gêneros mais comuns:**
+* Action (59)
+* Drama (59)
+
+
+**Palavras-chave mais comuns:**
+* martial arts (13)
+* sports (11)
+* pro wrestling (5)
+* samurai (4)
+* jidaigeki (4)
+* kung fu (4)
+* boxing (3)
+* mixed martial arts (3)
+* china (3)
+* police (3)
+* motorcycle (3)
+* south korea (3)
+* spy (3)
+* u.s. navy (2)
+* military (2)
+
+# Cluster 16
+**Total de filmes:** 103
+**Média de ano de lançamento:** 2002
 **Menor ano:** 1971 (The Big Boss)
 **Maior ano:** 2022 (Vendetta)
 
 ## 5 Mais Velhos 
 
-**The Big Boss** | **Enter the Dragon** | **Sholay** | **The Wild Geese** | **Return to the 36th Chamber**
+**The Big Boss** | **Lone Wolf and Cub: Baby Cart in Peril** | **Five Fingers of Death** | **Enter the Dragon** | **McQ**
  -- | -- | -- | -- | -- 
-*1971* | *1973* | *1975* | *1978* | *1980*
- ![](https://image.tmdb.org/t/p/w200/9VFYDWYnAhXAgyqgs94lwNmMBbk.jpg) |  ![](https://image.tmdb.org/t/p/w200/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg) |  ![](https://image.tmdb.org/t/p/w200/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg) |  ![](https://image.tmdb.org/t/p/w200/uMOiXuIdHaqbbtim6XaO1FbDoPo.jpg) |  ![](https://image.tmdb.org/t/p/w200/ggQSPRtULPSWV7KVd7C8UphTUPk.jpg)
+*1971* | *1972* | *1972* | *1973* | *1974*
+ ![](https://image.tmdb.org/t/p/w200/9VFYDWYnAhXAgyqgs94lwNmMBbk.jpg) |  ![](https://image.tmdb.org/t/p/w200/80dPE18baHbnB8mrl6wWtGXEyCP.jpg) |  ![](https://image.tmdb.org/t/p/w200/iAEd4aorPPLwbMNTYsQXLelHclo.jpg) |  ![](https://image.tmdb.org/t/p/w200/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg) |  ![](https://image.tmdb.org/t/p/w200/l2s6ti9dFmqqxd9HvWmegAsC92p.jpg)
 
 ## 5 mais novos
 
@@ -1520,26 +2289,26 @@ Versão resumida dos clusters
 *2022* | *2021* | *2021* | *2021* | *2021*
 ![](https://image.tmdb.org/t/p/w200/bvhmqU6GUkigo6SSYL3ttkBhNER.jpg) | ![](https://image.tmdb.org/t/p/w200/6vcDalR50RWa309vBH1NLmG2rjQ.jpg) | ![](https://image.tmdb.org/t/p/w200/uJgdT1boTSP0dDIjdTgGleg71l4.jpg) | ![](https://image.tmdb.org/t/p/w200/3OXiTjU30gWtqxmx4BU9RVp2OTv.jpg) | ![](https://image.tmdb.org/t/p/w200/kWhXubAiIcHW0xn5GThflqaKZqh.jpg)
 
-**Média da nota:** 6,31
-**Menor nota:** 5,50 (The Man with the Iron Fists 2)
+**Média da nota:** 6,03
+**Menor nota:** 4,58 (Freerunner)
 **Maior nota:** 7,50 (Fist of Legend)
 
 ## 5 mais bem avaliados
 
-**Fist of Legend** | **Enter the Dragon** | **The Big Boss** | **Sholay** | **The Marksman**
+**Fist of Legend** | **Enter the Dragon** | **Lone Wolf and Cub: Baby Cart in Peril** | **The Big Boss** | **Dragon Inn**
  -- | -- | -- | -- | -- 
-*7,50* | *7,43* | *7,15* | *6,97* | *6,91*
-![](https://image.tmdb.org/t/p/w200/Aqa1Yuog2OFrduwSffxZc2w4Tnk.jpg) | ![](https://image.tmdb.org/t/p/w200/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg) | ![](https://image.tmdb.org/t/p/w200/9VFYDWYnAhXAgyqgs94lwNmMBbk.jpg) | ![](https://image.tmdb.org/t/p/w200/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg) | ![](https://image.tmdb.org/t/p/w200/6vcDalR50RWa309vBH1NLmG2rjQ.jpg)
+*7,50* | *7,43* | *7,40* | *7,15* | *7,15*
+![](https://image.tmdb.org/t/p/w200/Aqa1Yuog2OFrduwSffxZc2w4Tnk.jpg) | ![](https://image.tmdb.org/t/p/w200/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg) | ![](https://image.tmdb.org/t/p/w200/80dPE18baHbnB8mrl6wWtGXEyCP.jpg) | ![](https://image.tmdb.org/t/p/w200/9VFYDWYnAhXAgyqgs94lwNmMBbk.jpg) | ![](https://image.tmdb.org/t/p/w200/f1FlppwPRzu15lxRN76iVcWWGkA.jpg)
 
 ## 5 menos bem avaliados
 
-**The Man with the Iron Fists 2** | **Fled** | **The Man with the Iron Fists** | **Army of One** | **Invasion U.S.A.**
+**Freerunner** | **Born to Raise Hell** | **American Heist** | **Deadly Prey** | **Belly of the Beast**
  -- | -- | -- | -- | -- 
-*5,50* | *5,51* | *5,52* | *5,68* | *5,73*
-![](https://image.tmdb.org/t/p/w200/n1U7x2OMsyI28auLY3U9XB3udl7.jpg) | ![](https://image.tmdb.org/t/p/w200/5oGdTgWXCOKerrfdBxJrOlFyifL.jpg) | ![](https://image.tmdb.org/t/p/w200/9dipO9811zpe3P7H26w9X1z1U2y.jpg) | ![](https://image.tmdb.org/t/p/w200/oswZEJav9ymqIc9B1cjA9Pz2tj1.jpg) | ![](https://image.tmdb.org/t/p/w200/v8CiEn1tcg07de1EUwgg39f3CGr.jpg)
+*4,58* | *4,65* | *4,78* | *4,78* | *4,97*
+![](https://image.tmdb.org/t/p/w200/AtnJGzT1GU31KsZGZRW0EVqX1qQ.jpg) | ![](https://image.tmdb.org/t/p/w200/arH52UwfIEKuzUR0qZrm2E1r0Rh.jpg) | ![](https://image.tmdb.org/t/p/w200/526uxanwv4mMK0YTxjVrsmMXXo2.jpg) | ![](https://image.tmdb.org/t/p/w200/aG4hUQ0vw56B1zx0YJJKhaMR1DT.jpg) | ![](https://image.tmdb.org/t/p/w200/tHYEH5axU9tBV9ZNGcm90UWUtU1.jpg)
 
-**Média de votos:** 435,0
-**Menor votos:** 152 (Foolproof)
+**Média de votos:** 299,0
+**Menor votos:** 77 (Singham Returns)
 **Maior votos:** 1689 (Enter the Dragon)
 
 ## 5 mais avaliados
@@ -1551,269 +2320,944 @@ Versão resumida dos clusters
 
 ## 5 menos avaliados
 
-**Foolproof** | **Gridlocked** | **Azumi 2: Death or Love** | **Return to the 36th Chamber** | **Eliminators**
+**Singham Returns** | **Five Fingers of Death** | **Female Fight Squad** | **McQ** | **Men of War**
  -- | -- | -- | -- | -- 
-*152* | *158* | *161* | *163* | *164*
-![](https://image.tmdb.org/t/p/w200/gudhSz8sDzRXxHY5XchllQKxw77.jpg) | ![](https://image.tmdb.org/t/p/w200/ivW43pYgnSbCTExhgb3NAfRS2Lw.jpg) | ![](https://image.tmdb.org/t/p/w200/tHE34tmmoxGzTGURFnyhhad8OOd.jpg) | ![](https://image.tmdb.org/t/p/w200/ggQSPRtULPSWV7KVd7C8UphTUPk.jpg) | ![](https://image.tmdb.org/t/p/w200/pUB91wOMQrmkforP7ntIMy2zkdn.jpg)
+*77* | *79* | *80* | *81* | *87*
+![](https://image.tmdb.org/t/p/w200/k8CDjZLYG8bCIuXWAg4gukxf0BE.jpg) | ![](https://image.tmdb.org/t/p/w200/iAEd4aorPPLwbMNTYsQXLelHclo.jpg) | ![](https://image.tmdb.org/t/p/w200/iI9c8XNdPuwB4RYbHMd62QNhoRK.jpg) | ![](https://image.tmdb.org/t/p/w200/l2s6ti9dFmqqxd9HvWmegAsC92p.jpg) | ![](https://image.tmdb.org/t/p/w200/6WBp0Zp4eggWDbnOgSaDh6Vsby.jpg)
 
 **Gêneros mais comuns:**
-* Action (53)
+* Action (103)
 
 
 **Palavras-chave mais comuns:**
-* martial arts (14)
-* revenge (9)
-* action hero (6)
-* terrorism (5)
-* kung fu (4)
-* assassin (4)
-* kidnapping (4)
-* showdown (4)
-* murder (3)
-* fistfight (3)
-* vigilante (3)
-* vigilante justice (3)
-* mercenary (3)
-* sniper (3)
-* police (3)
-
-# Cluster 16
-**Total de filmes:** 48
-**Média de ano de lançamento:** 2001
-**Menor ano:** 1932 (The Old Dark House)
-**Maior ano:** 2021 (The Trip)
-
-## 5 Mais Velhos 
-
-**The Old Dark House** | **Bud Abbott and Lou Costello Meet Frankenstein** | **Dance of the Vampires** | **Theatre of Blood** | **Motel Hell**
- -- | -- | -- | -- | -- 
-*1932* | *1948* | *1967* | *1973* | *1980*
- ![](https://image.tmdb.org/t/p/w200/gnpXV5KChckAdK7EocNoPuXcLD8.jpg) |  ![](https://image.tmdb.org/t/p/w200/ooeceWULFxBqvny6Plvj7K6bnIp.jpg) |  ![](https://image.tmdb.org/t/p/w200/iH8Ohx97F2eIagrJGzCEraO93MN.jpg) |  ![](https://image.tmdb.org/t/p/w200/lv02OmXxaRkDIGNcPxdITUddOO6.jpg) |  ![](https://image.tmdb.org/t/p/w200/sb63i9ZDqin0Mh37B5sLiZSQY6A.jpg)
-
-## 5 mais novos
-
-**The Trip** | **Some Like It Rare** | **The Babysitter: Killer Queen** | **Spontaneous** | **Vampires vs. the Bronx**
- -- | -- | -- | -- | -- 
-*2021* | *2021* | *2020* | *2020* | *2020*
-![](https://image.tmdb.org/t/p/w200/ygTIsPG7dREi5AlO0S9EMbmvdae.jpg) | ![](https://image.tmdb.org/t/p/w200/p8phJ1JPAe0xSNBRwLyXE6KgKzX.jpg) | ![](https://image.tmdb.org/t/p/w200/imy1OoT1xddt2kqw6hhc4v01e8i.jpg) | ![](https://image.tmdb.org/t/p/w200/2LzYpRuTL3nEos9ZaLfan1u7nbR.jpg) | ![](https://image.tmdb.org/t/p/w200/rcdBUbbYNccz8q9LOuBEKC1avMA.jpg)
-
-**Média da nota:** 6,30
-**Menor nota:** 5,50 (Sleepaway Camp III: Teenage Wasteland)
-**Maior nota:** 7,64 (One Cut of the Dead)
-
-## 5 mais bem avaliados
-
-**One Cut of the Dead** | **What We Do in the Shadows** | **An American Werewolf in London** | **Tucker and Dale vs. Evil** | **Zombieland**
- -- | -- | -- | -- | -- 
-*7,64* | *7,60* | *7,38* | *7,36* | *7,30*
-![](https://image.tmdb.org/t/p/w200/rws34k2bqYVo2B5MkhKAbV8925j.jpg) | ![](https://image.tmdb.org/t/p/w200/ftrq6LsDNfLPQzrlonOaxSq4yMh.jpg) | ![](https://image.tmdb.org/t/p/w200/irEKwh8006t02o41Xw7G5tIUF3r.jpg) | ![](https://image.tmdb.org/t/p/w200/8shwLEDzajJGSfLgbpac8x8xn1U.jpg) | ![](https://image.tmdb.org/t/p/w200/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg)
-
-## 5 menos bem avaliados
-
-**Sleepaway Camp III: Teenage Wasteland** | **Little Evil** | **Murder Party** | **The Texas Chainsaw Massacre 2** | **Cockneys vs Zombies**
- -- | -- | -- | -- | -- 
-*5,50* | *5,62* | *5,64* | *5,65* | *5,65*
-![](https://image.tmdb.org/t/p/w200/sSCTJtzT8bhkZTnEqopXDz0Jkob.jpg) | ![](https://image.tmdb.org/t/p/w200/na7hmXernwsm59rEBwewJ0mf53m.jpg) | ![](https://image.tmdb.org/t/p/w200/gzwNjaoamQ8WMuD62WTfu7NWoA1.jpg) | ![](https://image.tmdb.org/t/p/w200/3HdDJ8ahSRsUiJmf9CHMq4hQDtx.jpg) | ![](https://image.tmdb.org/t/p/w200/xZPIZb81NSlF1zJhWqne4dKwtxC.jpg)
-
-**Média de votos:** 1092,0
-**Menor votos:** 150 (Rape Zombie: Lust of the Dead)
-**Maior votos:** 11466 (Zombieland)
-
-## 5 mais avaliados
-
-**Zombieland** | **Zombieland: Double Tap** | **The Babysitter** | **What We Do in the Shadows** | **Tucker and Dale vs. Evil**
- -- | -- | -- | -- | -- 
-*11466* | *5187* | *3312* | *3241* | *2497*
-![](https://image.tmdb.org/t/p/w200/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg) | ![](https://image.tmdb.org/t/p/w200/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg) | ![](https://image.tmdb.org/t/p/w200/86a7GRVRCwfl7wdI4QadyvKa6Zu.jpg) | ![](https://image.tmdb.org/t/p/w200/ftrq6LsDNfLPQzrlonOaxSq4yMh.jpg) | ![](https://image.tmdb.org/t/p/w200/8shwLEDzajJGSfLgbpac8x8xn1U.jpg)
-
-## 5 menos avaliados
-
-**Rape Zombie: Lust of the Dead** | **Sleepaway Camp III: Teenage Wasteland** | **Dance of the Dead** | **Who Is Afraid Of Dracula?** | **Theatre of Blood**
- -- | -- | -- | -- | -- 
-*150* | *181* | *183* | *188* | *194*
-![](https://image.tmdb.org/t/p/w200/fyiGTyzQV3vcuwEAoOFRmoT2L1m.jpg) | ![](https://image.tmdb.org/t/p/w200/sSCTJtzT8bhkZTnEqopXDz0Jkob.jpg) | ![](https://image.tmdb.org/t/p/w200/bQuGNO5TwgGHENhVLahKcofkZe1.jpg) | ![](https://image.tmdb.org/t/p/w200/dsduOh9R7ocxjyKcvsF2tPdFRLh.jpg) | ![](https://image.tmdb.org/t/p/w200/lv02OmXxaRkDIGNcPxdITUddOO6.jpg)
-
-**Gêneros mais comuns:**
-* Comedy (48)
-* Horror (48)
-
-
-**Palavras-chave mais comuns:**
-* zombie (11)
-* gore (9)
-* slasher (9)
-* murder (8)
-* vampire (7)
-* spoof (5)
-* serial killer (5)
-* parody (4)
-* black humor (4)
-* haunted house (4)
-* horror spoof (4)
-* horror comedy (3)
-* found footage (3)
-* horror parody (3)
-* summer camp (3)
+* martial arts (25)
+* revenge (18)
+* action hero (9)
+* kung fu (8)
+* terrorism (8)
+* mercenary (8)
+* kidnapping (7)
+* assassin (5)
+* showdown (5)
+* rescue (5)
+* sniper (5)
+* japan (4)
+* fistfight (4)
+* vigilante (4)
+* corruption (4)
 
 # Cluster 17
-**Total de filmes:** 116
-**Média de ano de lançamento:** 1991
-**Menor ano:** 1931 (The Public Enemy)
-**Maior ano:** 2022 (End of the Road)
+**Total de filmes:** 20
+**Média de ano de lançamento:** 1983
+**Menor ano:** 1919 (The Doll)
+**Maior ano:** 2019 (Isn't It Romantic)
 
 ## 5 Mais Velhos 
 
-**The Public Enemy** | **Scarface** | **I Am a Fugitive from a Chain Gang** | **Fury** | **Angels with Dirty Faces**
+**The Doll** | **Topper** | **Here Comes Mr. Jordan** | **I Married a Witch** | **The Secret Life of Walter Mitty**
  -- | -- | -- | -- | -- 
-*1931* | *1932* | *1932* | *1936* | *1938*
- ![](https://image.tmdb.org/t/p/w200/vVxdaRMprQO2DM4AFyJ6C4qZSFO.jpg) |  ![](https://image.tmdb.org/t/p/w200/y4E5oRiHMTFkEB12IIcpbKbKzDW.jpg) |  ![](https://image.tmdb.org/t/p/w200/jer6lim61i8V6a5HOZq2i07UQQf.jpg) |  ![](https://image.tmdb.org/t/p/w200/u1kjLTUqmqjDMlRxcwCqWagjf6r.jpg) |  ![](https://image.tmdb.org/t/p/w200/k23E4UAcow8eczLRmVCMdukL4Mx.jpg)
+*1919* | *1937* | *1941* | *1942* | *1947*
+ ![](https://image.tmdb.org/t/p/w200/7SAZwSJg4eocvQUguRUzHNfbQ9k.jpg) |  ![](https://image.tmdb.org/t/p/w200/f7pJvv6Wxnnp4RuU0c7dLV8EZNR.jpg) |  ![](https://image.tmdb.org/t/p/w200/k6gmIV3hTSCG2JBh2zPMLogZ5y3.jpg) |  ![](https://image.tmdb.org/t/p/w200/je47It0cpuFzM7wUReWlUQX0vXY.jpg) |  ![](https://image.tmdb.org/t/p/w200/cctKBFz6VoDDW56PbuWiq4F9Nmr.jpg)
 
 ## 5 mais novos
 
-**End of the Road** | **How I Fell in Love with a Gangster** | **The Beast** | **I'm Your Woman** | **The Ruthless**
+**Isn't It Romantic** | **Little** | **The Mermaid** | **When in Rome** | **The Invention of Lying**
  -- | -- | -- | -- | -- 
-*2022* | *2022* | *2020* | *2020* | *2019*
-![](https://image.tmdb.org/t/p/w200/2mxnDbKCoR1M9e5szzc6Ku3Nfmv.jpg) | ![](https://image.tmdb.org/t/p/w200/e8VV1S1dcFiUBzrbwEZ26uyL40U.jpg) | ![](https://image.tmdb.org/t/p/w200/4zbKISdp5UBgWY2a28dfJY8ouIK.jpg) | ![](https://image.tmdb.org/t/p/w200/uTcJAxIV8BzNXuvcViBSibQSBid.jpg) | ![](https://image.tmdb.org/t/p/w200/tlm4Jtl8WJfoW2jg52f5ewKQWym.jpg)
+*2019* | *2019* | *2016* | *2010* | *2009*
+![](https://image.tmdb.org/t/p/w200/5xNBYXuv8wqiLVDhsfqCOr75DL7.jpg) | ![](https://image.tmdb.org/t/p/w200/4MDB6jJl3U7xK1Gw64zIqt9pQA4.jpg) | ![](https://image.tmdb.org/t/p/w200/8YVB8VxQqx3J1FtOVvoHybBKNPS.jpg) | ![](https://image.tmdb.org/t/p/w200/pteIGpJpgh2aUh3jMqZnomB1rw1.jpg) | ![](https://image.tmdb.org/t/p/w200/clP8tDZeM9jgnqmu4VBClBDpLtS.jpg)
 
-**Média da nota:** 7,02
-**Menor nota:** 5,50 (King of Thieves)
-**Maior nota:** 8,20 (Taxi Driver)
+**Média da nota:** 6,51
+**Menor nota:** 5,04 (Bewitched)
+**Maior nota:** 7,40 (The Doll)
 
 ## 5 mais bem avaliados
 
-**Taxi Driver** | **The Hate U Give** | **Three Billboards Outside Ebbing, Missouri** | **The Young and the Damned** | **Requiem for a Dream**
+**The Doll** | **Here Comes Mr. Jordan** | **Defending Your Life** | **Little** | **I Married a Witch**
  -- | -- | -- | -- | -- 
-*8,20* | *8,16* | *8,08* | *8,07* | *8,03*
-![](https://image.tmdb.org/t/p/w200/ekstpH614fwDX8DUln1a2Opz0N8.jpg) | ![](https://image.tmdb.org/t/p/w200/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg) | ![](https://image.tmdb.org/t/p/w200/pZRhqJj0DBy4ghB7g6pU7MGHsWJ.jpg) | ![](https://image.tmdb.org/t/p/w200/3bdfN2gosYSxpHBAXPkAhxkUJFr.jpg) | ![](https://image.tmdb.org/t/p/w200/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg)
+*7,40* | *7,00* | *6,94* | *6,85* | *6,84*
+![](https://image.tmdb.org/t/p/w200/7SAZwSJg4eocvQUguRUzHNfbQ9k.jpg) | ![](https://image.tmdb.org/t/p/w200/k6gmIV3hTSCG2JBh2zPMLogZ5y3.jpg) | ![](https://image.tmdb.org/t/p/w200/pkNIdL0fOENFBq3DdTb0M8FB26t.jpg) | ![](https://image.tmdb.org/t/p/w200/4MDB6jJl3U7xK1Gw64zIqt9pQA4.jpg) | ![](https://image.tmdb.org/t/p/w200/je47It0cpuFzM7wUReWlUQX0vXY.jpg)
 
 ## 5 menos bem avaliados
 
-**King of Thieves** | **Boxcar Bertha** | **King Cobra** | **Georgetown** | **I'm Your Woman**
+**Bewitched** | **When in Rome** | **Teen Wolf** | **The Invention of Lying** | **Isn't It Romantic**
  -- | -- | -- | -- | -- 
-*5,50* | *5,87* | *5,89* | *5,90* | *5,93*
-![](https://image.tmdb.org/t/p/w200/rtfS7y2XQ0vjTrm6khq508N0Ehk.jpg) | ![](https://image.tmdb.org/t/p/w200/gF5VslUB2xpWbboc735VVnO7DXh.jpg) | ![](https://image.tmdb.org/t/p/w200/sEun5y2q3aIrmpIAAhtS9G2JwH0.jpg) | ![](https://image.tmdb.org/t/p/w200/pfBZObVPRNFA47jU22iaYH19Rdy.jpg) | ![](https://image.tmdb.org/t/p/w200/uTcJAxIV8BzNXuvcViBSibQSBid.jpg)
+*5,04* | *5,98* | *6,17* | *6,18* | *6,22*
+![](https://image.tmdb.org/t/p/w200/bQqHksFAeUdozGGABxHJt3YVIyA.jpg) | ![](https://image.tmdb.org/t/p/w200/pteIGpJpgh2aUh3jMqZnomB1rw1.jpg) | ![](https://image.tmdb.org/t/p/w200/bv9rY9eoue2Hat6tcvrKVQ0ow8v.jpg) | ![](https://image.tmdb.org/t/p/w200/clP8tDZeM9jgnqmu4VBClBDpLtS.jpg) | ![](https://image.tmdb.org/t/p/w200/5xNBYXuv8wqiLVDhsfqCOr75DL7.jpg)
 
-**Média de votos:** 944,0
-**Menor votos:** 150 (The Funeral)
-**Maior votos:** 11081 (Taxi Driver)
+**Média de votos:** 935,0
+**Menor votos:** 75 (The Doll)
+**Maior votos:** 4755 (13 Going on 30)
 
 ## 5 mais avaliados
 
-**Taxi Driver** | **Three Billboards Outside Ebbing, Missouri** | **Requiem for a Dream** | **Stand by Me** | **Casino**
+**13 Going on 30** | **Isn't It Romantic** | **The Invention of Lying** | **Bewitched** | **Splash**
  -- | -- | -- | -- | -- 
-*11081* | *9418* | *9165* | *5317* | *5240*
-![](https://image.tmdb.org/t/p/w200/ekstpH614fwDX8DUln1a2Opz0N8.jpg) | ![](https://image.tmdb.org/t/p/w200/pZRhqJj0DBy4ghB7g6pU7MGHsWJ.jpg) | ![](https://image.tmdb.org/t/p/w200/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg) | ![](https://image.tmdb.org/t/p/w200/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg) | ![](https://image.tmdb.org/t/p/w200/6zEZY1htzRos2w0W3T7o7W1WJhp.jpg)
+*4755* | *3343* | *1900* | *1441* | *1208*
+![](https://image.tmdb.org/t/p/w200/iNZdSIfhSCMtRILDNyhLn8UKeSG.jpg) | ![](https://image.tmdb.org/t/p/w200/5xNBYXuv8wqiLVDhsfqCOr75DL7.jpg) | ![](https://image.tmdb.org/t/p/w200/clP8tDZeM9jgnqmu4VBClBDpLtS.jpg) | ![](https://image.tmdb.org/t/p/w200/bQqHksFAeUdozGGABxHJt3YVIyA.jpg) | ![](https://image.tmdb.org/t/p/w200/f4SXMEcPKFBYg8aBTko1e20Wher.jpg)
 
 ## 5 menos avaliados
 
-**The Funeral** | **The Naked Kiss** | **R** | **Straight Time** | **The Yakuza**
+**The Doll** | **Here Comes Mr. Jordan** | **Topper** | **The Secret Life of Walter Mitty** | **I Married a Witch**
  -- | -- | -- | -- | -- 
-*150* | *151* | *153* | *153* | *157*
-![](https://image.tmdb.org/t/p/w200/sHbJbr6BvVwRJhliiX1PKPERejO.jpg) | ![](https://image.tmdb.org/t/p/w200/vCiyhwDwJGLX9Y1kzdNkgIWEM3l.jpg) | ![](https://image.tmdb.org/t/p/w200/jxMgFBcEkBPhoikocUBqXS3i6TP.jpg) | ![](https://image.tmdb.org/t/p/w200/jFQ5RFiv5xTasWkQzZ7SWWudTCe.jpg) | ![](https://image.tmdb.org/t/p/w200/AgD8nbLXo6YpBxv71A2vdJHs03D.jpg)
+*75* | *84* | *98* | *111* | *166*
+![](https://image.tmdb.org/t/p/w200/7SAZwSJg4eocvQUguRUzHNfbQ9k.jpg) | ![](https://image.tmdb.org/t/p/w200/k6gmIV3hTSCG2JBh2zPMLogZ5y3.jpg) | ![](https://image.tmdb.org/t/p/w200/f7pJvv6Wxnnp4RuU0c7dLV8EZNR.jpg) | ![](https://image.tmdb.org/t/p/w200/cctKBFz6VoDDW56PbuWiq4F9Nmr.jpg) | ![](https://image.tmdb.org/t/p/w200/je47It0cpuFzM7wUReWlUQX0vXY.jpg)
 
 **Gêneros mais comuns:**
-* Crime (116)
-* Drama (116)
+* Comedy (20)
+* Fantasy (20)
+* Romance (20)
 
 
 **Palavras-chave mais comuns:**
-* murder (23)
-* prison (17)
-* mafia (10)
-* rape (9)
-* drug dealer (7)
-* racism (7)
-* police (7)
-* neo-noir (6)
-* small town (6)
-* gay theme (6)
-* 1970s (6)
-* gangster (6)
-* black and white (6)
-* drugs (6)
-* gang (6)
+* romantic comedy (3)
+* body-swap (3)
+* screwball comedy (3)
+* satire (2)
+* romance (2)
+* witch (2)
+* mermaid (2)
+* rome (2)
+* italy (2)
+* love (2)
+* high school (2)
+* school (2)
+* body switch (2)
+* reincarnation (2)
+* car accident (2)
 
 # Cluster 18
-**Total de filmes:** 9
-**Média de ano de lançamento:** 1992
-**Menor ano:** 1984 (The Toxic Avenger)
-**Maior ano:** 2019 (Happy Death Day 2U)
+**Total de filmes:** 166
+**Média de ano de lançamento:** 2001
+**Menor ano:** 1951 (The Man in the White Suit)
+**Maior ano:** 2023 (Hypnotic)
 
 ## 5 Mais Velhos 
 
-**The Toxic Avenger** | **Night of the Comet** | **Critters** | **Killer Klowns from Outer Space** | **Critters 2**
+**The Man in the White Suit** | **When Worlds Collide** | **The Absent-Minded Professor** | **La Jetée** | **The Nutty Professor**
  -- | -- | -- | -- | -- 
-*1984* | *1984* | *1986* | *1988* | *1988*
- ![](https://image.tmdb.org/t/p/w200/6bA8p6O4s9uhmCYqat2obcpPHXr.jpg) |  ![](https://image.tmdb.org/t/p/w200/xQIBwbwwKVjdkHurv3r82BUdNSq.jpg) |  ![](https://image.tmdb.org/t/p/w200/7tFJqfcmu7sAxwcRwQ0j9qnGrok.jpg) |  ![](https://image.tmdb.org/t/p/w200/gkgqtr2weef0sUM3k1mFe52iola.jpg) |  ![](https://image.tmdb.org/t/p/w200/5rR3dVJXnXskkBBWKbLg5EDKWtT.jpg)
+*1951* | *1951* | *1961* | *1962* | *1963*
+ ![](https://image.tmdb.org/t/p/w200/laTLoNZB7Ar3ZDoQmspBDVa5mbC.jpg) |  ![](https://image.tmdb.org/t/p/w200/xUd6NOABGlU3TSNP42toxWhmMQ3.jpg) |  ![](https://image.tmdb.org/t/p/w200/gCnuDDqoyaBdeeItQ4BjKtYpzF6.jpg) |  ![](https://image.tmdb.org/t/p/w200/sqbvjbJRzTduUj4lVm2FmPkqJkS.jpg) |  ![](https://image.tmdb.org/t/p/w200/a3lzU19j7WGfyXVDfPMdh8DAkru.jpg)
 
 ## 5 mais novos
 
-**Happy Death Day 2U** | **Beyond Re-Animator** | **Frankenhooker** | **Killer Klowns from Outer Space** | **Critters 2**
+**Hypnotic** | **JUNG_E** | **White Noise** | **Meet Cute** | **Moonshot**
  -- | -- | -- | -- | -- 
-*2019* | *2003* | *1990* | *1988* | *1988*
-![](https://image.tmdb.org/t/p/w200/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg) | ![](https://image.tmdb.org/t/p/w200/6R5s28jsY5rdxiYApbMX2bh3VNL.jpg) | ![](https://image.tmdb.org/t/p/w200/s8Oubzkc2pPdOdj4D23ljZSKRbg.jpg) | ![](https://image.tmdb.org/t/p/w200/gkgqtr2weef0sUM3k1mFe52iola.jpg) | ![](https://image.tmdb.org/t/p/w200/5rR3dVJXnXskkBBWKbLg5EDKWtT.jpg)
+*2023* | *2023* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/m0mYmlN9AewOGSOl7Q1ZgZvEeUU.jpg) | ![](https://image.tmdb.org/t/p/w200/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg) | ![](https://image.tmdb.org/t/p/w200/1a48bfLQm57ByADdw05uRMoFCZc.jpg) | ![](https://image.tmdb.org/t/p/w200/9rp4nj7L3V5tPm2pWks4sX8NVKY.jpg) | ![](https://image.tmdb.org/t/p/w200/thqgzBPEDYQX0taszVus5nYMtTZ.jpg)
 
-**Média da nota:** 6,15
-**Menor nota:** 5,70 (Return of the Killer Tomatoes!)
-**Maior nota:** 6,40 (Killer Klowns from Outer Space)
+**Média da nota:** 6,14
+**Menor nota:** 4,57 (Sharknado 4: The 4th Awakens)
+**Maior nota:** 8,20 (The Prestige)
 
 ## 5 mais bem avaliados
 
-**Killer Klowns from Outer Space** | **Critters** | **Happy Death Day 2U** | **The Toxic Avenger** | **Night of the Comet**
+**The Prestige** | **Ivan Vasilyevich Changes His Profession** | **Kin-dza-dza!** | **La Jetée** | **Heart of a Dog**
  -- | -- | -- | -- | -- 
-*6,40* | *6,38* | *6,30* | *6,28* | *6,20*
-![](https://image.tmdb.org/t/p/w200/gkgqtr2weef0sUM3k1mFe52iola.jpg) | ![](https://image.tmdb.org/t/p/w200/7tFJqfcmu7sAxwcRwQ0j9qnGrok.jpg) | ![](https://image.tmdb.org/t/p/w200/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg) | ![](https://image.tmdb.org/t/p/w200/6bA8p6O4s9uhmCYqat2obcpPHXr.jpg) | ![](https://image.tmdb.org/t/p/w200/xQIBwbwwKVjdkHurv3r82BUdNSq.jpg)
+*8,20* | *7,97* | *7,89* | *7,88* | *7,74*
+![](https://image.tmdb.org/t/p/w200/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg) | ![](https://image.tmdb.org/t/p/w200/6f7vhvnma8sbO6821ShE5ViA3r8.jpg) | ![](https://image.tmdb.org/t/p/w200/xp7rAEgkoPUBWk5XZcAai8gDZT1.jpg) | ![](https://image.tmdb.org/t/p/w200/sqbvjbJRzTduUj4lVm2FmPkqJkS.jpg) | ![](https://image.tmdb.org/t/p/w200/1XYwOhbalbXMvSsFhFX163AfPtr.jpg)
 
 ## 5 menos bem avaliados
 
-**Return of the Killer Tomatoes!** | **Critters 2** | **Beyond Re-Animator** | **Frankenhooker** | **Night of the Comet**
+**Sharknado 4: The 4th Awakens** | **Sharknado 2: The Second One** | **Leprechaun 4: In Space** | **Just Visiting** | **Highlander II: The Quickening**
  -- | -- | -- | -- | -- 
-*5,70* | *5,96* | *5,98* | *6,14* | *6,20*
-![](https://image.tmdb.org/t/p/w200/94BVexlI2Ylu8mFKYPHdTPCggBn.jpg) | ![](https://image.tmdb.org/t/p/w200/5rR3dVJXnXskkBBWKbLg5EDKWtT.jpg) | ![](https://image.tmdb.org/t/p/w200/6R5s28jsY5rdxiYApbMX2bh3VNL.jpg) | ![](https://image.tmdb.org/t/p/w200/s8Oubzkc2pPdOdj4D23ljZSKRbg.jpg) | ![](https://image.tmdb.org/t/p/w200/xQIBwbwwKVjdkHurv3r82BUdNSq.jpg)
+*4,57* | *4,59* | *4,60* | *4,70* | *4,72*
+![](https://image.tmdb.org/t/p/w200/xUbN2ww2T3y3kaW6lf3c5DabE5O.jpg) | ![](https://image.tmdb.org/t/p/w200/GgZOBSNIkxz3qA66Jauv6VvIc.jpg) | ![](https://image.tmdb.org/t/p/w200/8uMaa4VnNN2TS42tGYu04we7GOM.jpg) | ![](https://image.tmdb.org/t/p/w200/7KqzbefXjADSUE8j2ZsrudvAArY.jpg) | ![](https://image.tmdb.org/t/p/w200/qxKeykPNGbKAK0DJijMUaZ5cVPo.jpg)
 
-**Média de votos:** 748,0
-**Menor votos:** 203 (Return of the Killer Tomatoes!)
-**Maior votos:** 3118 (Happy Death Day 2U)
+**Média de votos:** 989,0
+**Menor votos:** 75 (Daleks' Invasion Earth: 2150 A.D.)
+**Maior votos:** 14696 (The Prestige)
 
 ## 5 mais avaliados
 
-**Happy Death Day 2U** | **Critters** | **Killer Klowns from Outer Space** | **The Toxic Avenger** | **Critters 2**
+**The Prestige** | **Passengers** | **Limitless** | **District 9** | **Glass**
  -- | -- | -- | -- | -- 
-*3118* | *841* | *832* | *465* | *370*
-![](https://image.tmdb.org/t/p/w200/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg) | ![](https://image.tmdb.org/t/p/w200/7tFJqfcmu7sAxwcRwQ0j9qnGrok.jpg) | ![](https://image.tmdb.org/t/p/w200/gkgqtr2weef0sUM3k1mFe52iola.jpg) | ![](https://image.tmdb.org/t/p/w200/6bA8p6O4s9uhmCYqat2obcpPHXr.jpg) | ![](https://image.tmdb.org/t/p/w200/5rR3dVJXnXskkBBWKbLg5EDKWtT.jpg)
+*14696* | *12429* | *9900* | *8721* | *7793*
+![](https://image.tmdb.org/t/p/w200/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg) | ![](https://image.tmdb.org/t/p/w200/jK9S6HANSf2no64v1x1HxfcpmcA.jpg) | ![](https://image.tmdb.org/t/p/w200/hv5JMCrMVLvV6HKPf9FcBuyk2MG.jpg) | ![](https://image.tmdb.org/t/p/w200/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg) | ![](https://image.tmdb.org/t/p/w200/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg)
 
 ## 5 menos avaliados
 
-**Return of the Killer Tomatoes!** | **Frankenhooker** | **Beyond Re-Animator** | **Night of the Comet** | **Critters 2**
+**Daleks' Invasion Earth: 2150 A.D.** | **Listening** | **The Heart of the World** | **Some Time Later** | **Teleios**
  -- | -- | -- | -- | -- 
-*203* | *259* | *322* | *324* | *370*
-![](https://image.tmdb.org/t/p/w200/94BVexlI2Ylu8mFKYPHdTPCggBn.jpg) | ![](https://image.tmdb.org/t/p/w200/s8Oubzkc2pPdOdj4D23ljZSKRbg.jpg) | ![](https://image.tmdb.org/t/p/w200/6R5s28jsY5rdxiYApbMX2bh3VNL.jpg) | ![](https://image.tmdb.org/t/p/w200/xQIBwbwwKVjdkHurv3r82BUdNSq.jpg) | ![](https://image.tmdb.org/t/p/w200/5rR3dVJXnXskkBBWKbLg5EDKWtT.jpg)
+*75* | *77* | *78* | *78* | *79*
+![](https://image.tmdb.org/t/p/w200/aZgl0V5Fnk4EFW4Kw6HwkXrKloJ.jpg) | ![](https://image.tmdb.org/t/p/w200/yrmNdnf0njvaH5TrX8wuHJdtIis.jpg) | ![](https://image.tmdb.org/t/p/w200/5pbfq5zb6FXDE9GxVjfUpooWLIz.jpg) | ![](https://image.tmdb.org/t/p/w200/IMX8OZzL712HLaTUkDBvvHEsvZ.jpg) | ![](https://image.tmdb.org/t/p/w200/4jDlmsBB9i8vc10SVxgHfcrjE8t.jpg)
 
 **Gêneros mais comuns:**
-* Comedy (9)
-* Horror (9)
-* Science Fiction (9)
+* Science Fiction (166)
+* Comedy (78)
+* Drama (42)
+* Thriller (32)
+* Romance (24)
+* Fantasy (22)
+* Mystery (14)
+* Family (13)
+* Crime (2)
+* Music (2)
+* Horror (2)
+* War (1)
+* TV Movie (1)
+* History (1)
+* Documentary (1)
 
 
 **Palavras-chave mais comuns:**
-* mad scientist (4)
-* murder (2)
-* spacecraft (2)
-* small town (2)
-* bounty hunter (2)
-* alien (2)
-* creature (2)
-* explosion (2)
-* alien invasion (2)
-* zombie (2)
-* psychopath (1)
-* college (1)
-* time loop (1)
-* slasher (1)
-* university (1)
+* alien (20)
+* time travel (16)
+* dystopia (15)
+* future (14)
+* space (10)
+* robot (10)
+* space travel (9)
+* scientist (8)
+* spacecraft (7)
+* alien invasion (7)
+* experiment (7)
+* spoof (6)
+* post-apocalyptic future (6)
+* artificial intelligence (a.i.) (6)
+* satire (5)
 
 # Cluster 19
-**Total de filmes:** 29
+**Total de filmes:** 40
+**Média de ano de lançamento:** 1987
+**Menor ano:** 1903 (The Melomaniac)
+**Maior ano:** 2020 (Eurovision Song Contest: The Story of Fire Saga)
+
+## 5 Mais Velhos 
+
+**The Melomaniac** | **The Cocoanuts** | **Animal Crackers** | **À Nous la Liberté** | **A Night at the Opera**
+ -- | -- | -- | -- | -- 
+*1903* | *1929* | *1930* | *1931* | *1935*
+ ![](https://image.tmdb.org/t/p/w200/1SHxCFEfROhpnfzXm4OBkhehAqM.jpg) |  ![](https://image.tmdb.org/t/p/w200/whj861kMTcvjw7b1ybASIV6YXiO.jpg) |  ![](https://image.tmdb.org/t/p/w200/qj7owFXzCtIbZC51O8NwLe4Kde4.jpg) |  ![](https://image.tmdb.org/t/p/w200/z6XdIxE1CRqSgfOJxX1nGik6CGm.jpg) |  ![](https://image.tmdb.org/t/p/w200/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg)
+
+## 5 mais novos
+
+**Eurovision Song Contest: The Story of Fire Saga** | **Work It** | **The Lonely Island Presents: The Unauthorized Bash Brothers Experience** | **Heavy Trip** | **The Festival**
+ -- | -- | -- | -- | -- 
+*2020* | *2020* | *2019* | *2018* | *2018*
+![](https://image.tmdb.org/t/p/w200/9zrbgYyFvwH8sy5mv9eT25xsAzL.jpg) | ![](https://image.tmdb.org/t/p/w200/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg) | ![](https://image.tmdb.org/t/p/w200/dUrrHBV64W4BwXSzMlGdqjDdWIW.jpg) | ![](https://image.tmdb.org/t/p/w200/iemwek3NFkcsEqTXGHg8xsjXzAk.jpg) | ![](https://image.tmdb.org/t/p/w200/zokQMbuBst9z0dP5UKi9EkCSSnV.jpg)
+
+**Média da nota:** 6,58
+**Menor nota:** 5,49 (Josie and the Pussycats)
+**Maior nota:** 7,61 (Work It)
+
+## 5 mais bem avaliados
+
+**Work It** | **Swing Girls** | **A Night at the Opera** | **A Day at the Races** | **À Nous la Liberté**
+ -- | -- | -- | -- | -- 
+*7,61* | *7,47* | *7,45* | *7,10* | *7,07*
+![](https://image.tmdb.org/t/p/w200/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg) | ![](https://image.tmdb.org/t/p/w200/u7lAziuBxlX4DQQzuPHDRoOwtDx.jpg) | ![](https://image.tmdb.org/t/p/w200/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg) | ![](https://image.tmdb.org/t/p/w200/atJhISCddr3z8LWCr93yaGGv6YV.jpg) | ![](https://image.tmdb.org/t/p/w200/z6XdIxE1CRqSgfOJxX1nGik6CGm.jpg)
+
+## 5 menos bem avaliados
+
+**Josie and the Pussycats** | **Bye Bye Birdie** | **The Festival** | **Hamlet 2** | **Blue Hawaii**
+ -- | -- | -- | -- | -- 
+*5,49* | *5,85* | *5,90* | *5,91* | *5,91*
+![](https://image.tmdb.org/t/p/w200/mHOix87RdBO3YQuyvFFZAZxpt5P.jpg) | ![](https://image.tmdb.org/t/p/w200/u3m2kU5aFj6V6cNYOd9a22Iia7O.jpg) | ![](https://image.tmdb.org/t/p/w200/zokQMbuBst9z0dP5UKi9EkCSSnV.jpg) | ![](https://image.tmdb.org/t/p/w200/ljdmxGNwhuWZBsCgANlZrruFkJj.jpg) | ![](https://image.tmdb.org/t/p/w200/kujIwcrOsgcyRLbs5xfwU1ADwHk.jpg)
+
+**Média de votos:** 709,0
+**Menor votos:** 78 (The Melomaniac)
+**Maior votos:** 5173 (School of Rock)
+
+## 5 mais avaliados
+
+**School of Rock** | **Pitch Perfect 2** | **Pitch Perfect 3** | **Wayne's World** | **Another Cinderella Story**
+ -- | -- | -- | -- | -- 
+*5173* | *5084* | *3124* | *2021* | *1662*
+![](https://image.tmdb.org/t/p/w200/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg) | ![](https://image.tmdb.org/t/p/w200/fQaEGzFmvTYu3G641WV0Tg9auAt.jpg) | ![](https://image.tmdb.org/t/p/w200/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg) | ![](https://image.tmdb.org/t/p/w200/nhQtlLVl2z5ywu2uDnXjVqi08On.jpg) | ![](https://image.tmdb.org/t/p/w200/Acw0Syw7s8QFTCkdJgtGR2Eg0SB.jpg)
+
+## 5 menos avaliados
+
+**The Melomaniac** | **O Lucky Man!** | **À Nous la Liberté** | **Hellzapoppin'** | **Swing Girls**
+ -- | -- | -- | -- | -- 
+*78* | *82* | *83* | *84* | *89*
+![](https://image.tmdb.org/t/p/w200/1SHxCFEfROhpnfzXm4OBkhehAqM.jpg) | ![](https://image.tmdb.org/t/p/w200/2xlzrpQF76OCgcKpQZvP6WtlpJy.jpg) | ![](https://image.tmdb.org/t/p/w200/z6XdIxE1CRqSgfOJxX1nGik6CGm.jpg) | ![](https://image.tmdb.org/t/p/w200/O5Ta3URiRglqt1fPi2APCvnb8x.jpg) | ![](https://image.tmdb.org/t/p/w200/u7lAziuBxlX4DQQzuPHDRoOwtDx.jpg)
+
+**Gêneros mais comuns:**
+* Comedy (40)
+* Music (40)
+
+
+**Palavras-chave mais comuns:**
+* musical (12)
+* rock 'n' roll (5)
+* high school (4)
+* singer (4)
+* rock band (3)
+* heavy metal (3)
+* celebrity (3)
+* 1970s (3)
+* small town (3)
+* musician (2)
+* music competition (2)
+* teacher (2)
+* singing competition (2)
+* acapella (2)
+* music movie (2)
+
+# Cluster 20
+**Total de filmes:** 691
+**Média de ano de lançamento:** 2000
+**Menor ano:** 1926 (The General)
+**Maior ano:** 2023 (Plane)
+
+## 5 Mais Velhos 
+
+**The General** | **The Most Dangerous Game** | **Tarzan the Ape Man** | **The Son of Kong** | **Tarzan and His Mate**
+ -- | -- | -- | -- | -- 
+*1926* | *1932* | *1932* | *1933* | *1934*
+ ![](https://image.tmdb.org/t/p/w200/4NmV1Wei4LxT2lpjViCAScgCZLq.jpg) |  ![](https://image.tmdb.org/t/p/w200/3aNlOIFlGOnIzxqvAWpgm5Sly1H.jpg) |  ![](https://image.tmdb.org/t/p/w200/sqtdNAktAI3p1iXmaEooaHjMmWd.jpg) |  ![](https://image.tmdb.org/t/p/w200/eJ2Qe3tesoKUtWNJRDpHKz1xCJc.jpg) |  ![](https://image.tmdb.org/t/p/w200/cnLZv1qhaJtzqP8q9ofkSnjoAIn.jpg)
+
+## 5 mais novos
+
+**Plane** | **Indiana Jones and the Dial of Destiny** | **Knights of the Zodiac** | **Hidden Strike** | **Gran Turismo**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2023* | *2023* | *2023*
+![](https://image.tmdb.org/t/p/w200/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg) | ![](https://image.tmdb.org/t/p/w200/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg) | ![](https://image.tmdb.org/t/p/w200/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg) | ![](https://image.tmdb.org/t/p/w200/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg) | ![](https://image.tmdb.org/t/p/w200/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg)
+
+**Média da nota:** 6,37
+**Menor nota:** 4,50 (Virgin Territory)
+**Maior nota:** 8,21 (Gladiator)
+
+## 5 mais bem avaliados
+
+**Gladiator** | **Zack Snyder's Justice League** | **Along with the Gods: The Last 49 Days** | **Along with the Gods: The Two Worlds** | **Gran Turismo**
+ -- | -- | -- | -- | -- 
+*8,21* | *8,19* | *8,17* | *8,11* | *8,07*
+![](https://image.tmdb.org/t/p/w200/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg) | ![](https://image.tmdb.org/t/p/w200/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg) | ![](https://image.tmdb.org/t/p/w200/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg) | ![](https://image.tmdb.org/t/p/w200/gJSvIsI6oQfFim0PGyuuiCYfqKs.jpg) | ![](https://image.tmdb.org/t/p/w200/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg)
+
+## 5 menos bem avaliados
+
+**Virgin Territory** | **Dungeons & Dragons: Wrath of the Dragon God** | **Street Fighter** | **Speed 2: Cruise Control** | **The Last Airbender**
+ -- | -- | -- | -- | -- 
+*4,50* | *4,52* | *4,54* | *4,57* | *4,66*
+![](https://image.tmdb.org/t/p/w200/bPdE1CbdP8Bf1NMg9PF4QkPR9oZ.jpg) | ![](https://image.tmdb.org/t/p/w200/m2lMUxyFDi1RXogMffLfQW3CjTE.jpg) | ![](https://image.tmdb.org/t/p/w200/6yh95dD2Y6uWAlPfWCZZygBM1ec.jpg) | ![](https://image.tmdb.org/t/p/w200/gnK1ocpwUTj24zAktzomOJsD2bu.jpg) | ![](https://image.tmdb.org/t/p/w200/zgwRTYWEEPivTwjB9S03HtmMcbM.jpg)
+
+**Média de votos:** 1833,0
+**Menor votos:** 77 (Battleground)
+**Maior votos:** 28894 (Deadpool)
+
+## 5 mais avaliados
+
+**Deadpool** | **Doctor Strange** | **Suicide Squad** | **Wonder Woman** | **The Revenant**
+ -- | -- | -- | -- | -- 
+*28894* | *20935* | *20097* | *18954* | *17114*
+![](https://image.tmdb.org/t/p/w200/zq8Cl3PNIDGU3iWNRoc5nEZ6pCe.jpg) | ![](https://image.tmdb.org/t/p/w200/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg) | ![](https://image.tmdb.org/t/p/w200/xFw9RXKZDvevAGocgBK0zteto4U.jpg) | ![](https://image.tmdb.org/t/p/w200/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg) | ![](https://image.tmdb.org/t/p/w200/ji3ecJphATlVgWNY0B0RVXZizdf.jpg)
+
+## 5 menos avaliados
+
+**Battleground** | **The Swindlers** | **To the Ends of the World** | **Battle of the Warriors** | **Hanover Street**
+ -- | -- | -- | -- | -- 
+*77* | *77* | *77* | *77* | *77*
+![](https://image.tmdb.org/t/p/w200/qSrcs7zmF61aRtzmOVPxeBBowap.jpg) | ![](https://image.tmdb.org/t/p/w200/wzxsCW4chkwXzfJPLXImpEpjtV.jpg) | ![](https://image.tmdb.org/t/p/w200/kBk0cHzLeNBm4UpiIMUzHLugMKU.jpg) | ![](https://image.tmdb.org/t/p/w200/90DnSPn76GJVBlkcqqUR4ssMtH4.jpg) | ![](https://image.tmdb.org/t/p/w200/mCjziHSMygqCWiLBWnJDBxwpcoj.jpg)
+
+**Gêneros mais comuns:**
+* Adventure (691)
+* Action (653)
+* Thriller (221)
+* Drama (189)
+* Comedy (130)
+* Fantasy (117)
+* Crime (81)
+* War (65)
+* History (63)
+* Romance (46)
+* Horror (44)
+* Western (40)
+* Mystery (16)
+* TV Movie (14)
+* Family (13)
+* Animation (8)
+* Documentary (3)
+* Music (1)
+
+
+**Palavras-chave mais comuns:**
+* martial arts (76)
+* revenge (46)
+* spy (38)
+* action hero (34)
+* sword fight (33)
+* superhero (28)
+* secret agent (28)
+* 19th century (25)
+* treasure hunt (24)
+* terrorism (24)
+* survival (23)
+* assassin (23)
+* jungle (23)
+* murder (22)
+* helicopter (21)
+
+# Cluster 21
+**Total de filmes:** 58
+**Média de ano de lançamento:** 2000
+**Menor ano:** 1927 (Metropolis)
+**Maior ano:** 2022 (Executive Order)
+
+## 5 Mais Velhos 
+
+**Metropolis** | **Things to Come** | **The Day the Earth Stood Still** | **Panic in Year Zero!** | **Alphaville**
+ -- | -- | -- | -- | -- 
+*1927* | *1936* | *1951* | *1962* | *1965*
+ ![](https://image.tmdb.org/t/p/w200/pxbGZewX327IbTvrCVRJgcLJTSQ.jpg) |  ![](https://image.tmdb.org/t/p/w200/AqDTWCGOogxtIVKa6RAOhOaHkS.jpg) |  ![](https://image.tmdb.org/t/p/w200/x2DquTpLTq54aPFDnqlwY7apCC3.jpg) |  ![](https://image.tmdb.org/t/p/w200/tqeVkPaRwn0Rt5MF0VvGsBsMJtF.jpg) |  ![](https://image.tmdb.org/t/p/w200/fFJP3D5fJDFxN7ChqSye1DZ0fTL.jpg)
+
+## 5 mais novos
+
+**Executive Order** | **Awake** | **Swan Song** | **Memoria** | **Last and First Men**
+ -- | -- | -- | -- | -- 
+*2022* | *2021* | *2021* | *2021* | *2020*
+![](https://image.tmdb.org/t/p/w200/8wdCvVsQGf76QOWDqcrgobLjWLb.jpg) | ![](https://image.tmdb.org/t/p/w200/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg) | ![](https://image.tmdb.org/t/p/w200/y0WW5vX58oMEg9aRRTB5QtG1Vyn.jpg) | ![](https://image.tmdb.org/t/p/w200/fjHHXOxYZL22UYkUfnQqZzuHMfc.jpg) | ![](https://image.tmdb.org/t/p/w200/7B9t8lTFCJQ6GVvSbhrbrA7nsVu.jpg)
+
+**Média da nota:** 6,51
+**Menor nota:** 4,64 (4:44 Last Day on Earth)
+**Maior nota:** 8,15 (Metropolis)
+
+## 5 mais bem avaliados
+
+**Metropolis** | **Solaris** | **The Face of Another** | **Arrival** | **Ex Machina**
+ -- | -- | -- | -- | -- 
+*8,15* | *7,85* | *7,80* | *7,60* | *7,57*
+![](https://image.tmdb.org/t/p/w200/pxbGZewX327IbTvrCVRJgcLJTSQ.jpg) | ![](https://image.tmdb.org/t/p/w200/uER8n2iitx8Tek6v0wXeF5lMGXp.jpg) | ![](https://image.tmdb.org/t/p/w200/eUnFdf1Mf1b8AD3ChMPOCUfTBDQ.jpg) | ![](https://image.tmdb.org/t/p/w200/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg) | ![](https://image.tmdb.org/t/p/w200/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg)
+
+## 5 menos bem avaliados
+
+**4:44 Last Day on Earth** | **The Butterfly Effect 2** | **Lucy in the Sky** | **Downsizing** | **Love**
+ -- | -- | -- | -- | -- 
+*4,64* | *4,94* | *5,02* | *5,32* | *5,40*
+![](https://image.tmdb.org/t/p/w200/9rnAJ8GXmUagLYLAvwRTqyJZh6v.jpg) | ![](https://image.tmdb.org/t/p/w200/g87nPhHf2xfENBV6PCbkO88sthd.jpg) | ![](https://image.tmdb.org/t/p/w200/ofhOB6EGSBqzGHA0MStMx9zWnML.jpg) | ![](https://image.tmdb.org/t/p/w200/l7iJoJBoP046hWyeeC2CQ6knOeK.jpg) | ![](https://image.tmdb.org/t/p/w200/AlhdDsLxSAb1a54rYLPb7CidAIX.jpg)
+
+**Média de votos:** 1937,0
+**Menor votos:** 88 (Panic in Year Zero!)
+**Maior votos:** 16564 (Arrival)
+
+## 5 mais avaliados
+
+**Arrival** | **I Am Legend** | **Ex Machina** | **War for the Planet of the Apes** | **Cloud Atlas**
+ -- | -- | -- | -- | -- 
+*16564* | *14675* | *12362* | *8030* | *6657*
+![](https://image.tmdb.org/t/p/w200/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg) | ![](https://image.tmdb.org/t/p/w200/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg) | ![](https://image.tmdb.org/t/p/w200/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg) | ![](https://image.tmdb.org/t/p/w200/ijQHiImv16vNSeZQsmih04kwn0C.jpg) | ![](https://image.tmdb.org/t/p/w200/8naVv2Xu3rWI5JKHz0vCujx6GaJ.jpg)
+
+## 5 menos avaliados
+
+**Panic in Year Zero!** | **Executive Order** | **Death Watch** | **Last and First Men** | **Sleep Dealer**
+ -- | -- | -- | -- | -- 
+*88* | *89* | *90* | *99* | *108*
+![](https://image.tmdb.org/t/p/w200/tqeVkPaRwn0Rt5MF0VvGsBsMJtF.jpg) | ![](https://image.tmdb.org/t/p/w200/8wdCvVsQGf76QOWDqcrgobLjWLb.jpg) | ![](https://image.tmdb.org/t/p/w200/wSuvftmbs0fInDe69u8yDUtElsp.jpg) | ![](https://image.tmdb.org/t/p/w200/7B9t8lTFCJQ6GVvSbhrbrA7nsVu.jpg) | ![](https://image.tmdb.org/t/p/w200/kFXQ4oMJkXAWjyo7Tr5GrLjmk61.jpg)
+
+**Gêneros mais comuns:**
+* Drama (58)
+* Science Fiction (58)
+* Thriller (17)
+* Mystery (6)
+* War (2)
+* Romance (2)
+* Animation (2)
+* Comedy (1)
+* Action (1)
+
+
+**Palavras-chave mais comuns:**
+* dystopia (20)
+* future (8)
+* post-apocalyptic future (5)
+* astronaut (5)
+* alien (4)
+* power outage (4)
+* extraterrestrial technology (4)
+* space travel (4)
+* end of the world (4)
+* space (4)
+* husband wife relationship (4)
+* spacecraft (3)
+* scientist (3)
+* friendship (3)
+* suicide (3)
+
+# Cluster 22
+**Total de filmes:** 161
+**Média de ano de lançamento:** 2006
+**Menor ano:** 1941 (Meet John Doe)
+**Maior ano:** 2023 (Flamin' Hot)
+
+## 5 Mais Velhos 
+
+**Meet John Doe** | **Bellissima** | **Auntie Mame** | **Lilies of the Field** | **Death by Hanging**
+ -- | -- | -- | -- | -- 
+*1941* | *1951* | *1958* | *1963* | *1968*
+ ![](https://image.tmdb.org/t/p/w200/dnBZbFE2OGlTGNGBVTn6t83tJtd.jpg) |  ![](https://image.tmdb.org/t/p/w200/d3LmeYvqzeS3oY3zP93jNfYS15O.jpg) |  ![](https://image.tmdb.org/t/p/w200/uH810rwkYEbUaV6IlwTaAExbXUm.jpg) |  ![](https://image.tmdb.org/t/p/w200/24qEwAnz9lKBNhUW7JZ56nU4dIO.jpg) |  ![](https://image.tmdb.org/t/p/w200/tszrnBe8XACsDxLJjt1rKfFHfHi.jpg)
+
+## 5 mais novos
+
+**Flamin' Hot** | **White Men Can't Jump** | **Incredible But True** | **Beautiful Minds** | **Kitchen Brigade**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg) | ![](https://image.tmdb.org/t/p/w200/i83Ykng2HVY5EF043zMmeQdLUQY.jpg) | ![](https://image.tmdb.org/t/p/w200/yBLlwTXweDzBKgEbYz5ZVTRQaZX.jpg) | ![](https://image.tmdb.org/t/p/w200/azEU5AyET4CaH6JX9wUziQYUTxR.jpg) | ![](https://image.tmdb.org/t/p/w200/pymhSBJJWMmzONak9rGcwUcGOH3.jpg)
+
+**Média da nota:** 6,44
+**Menor nota:** 4,70 (Elektra Luxx)
+**Maior nota:** 8,19 (Flamin' Hot)
+
+## 5 mais bem avaliados
+
+**Flamin' Hot** | **Bingo: The King of the Mornings** | **Bellissima** | **Instructions Not Included** | **Philanthropy**
+ -- | -- | -- | -- | -- 
+*8,19* | *8,02* | *7,83* | *7,72* | *7,62*
+![](https://image.tmdb.org/t/p/w200/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg) | ![](https://image.tmdb.org/t/p/w200/1ddIxZW72MjnPA2cls8gCGMPp5d.jpg) | ![](https://image.tmdb.org/t/p/w200/d3LmeYvqzeS3oY3zP93jNfYS15O.jpg) | ![](https://image.tmdb.org/t/p/w200/4f0qaU7cWmO9kYEkr3QGdA7KNFR.jpg) | ![](https://image.tmdb.org/t/p/w200/oUZppMFNUZqA1CqiJJnGXutmsBX.jpg)
+
+## 5 menos bem avaliados
+
+**Elektra Luxx** | **Girlfriend's Day** | **Girl 6** | **Boogie Woogie** | **Zeroville**
+ -- | -- | -- | -- | -- 
+*4,70* | *4,91* | *4,99* | *5,00* | *5,01*
+![](https://image.tmdb.org/t/p/w200/eLv57AjGugpx2shfaq9crEBVioL.jpg) | ![](https://image.tmdb.org/t/p/w200/dC86zUwQXuYS84sNIL5GyjRmD1h.jpg) | ![](https://image.tmdb.org/t/p/w200/un5YpVy7fxb7PxlRlQqLusVM2SM.jpg) | ![](https://image.tmdb.org/t/p/w200/plnHFNGI1ToCFhyyYU3bb0AmDpl.jpg) | ![](https://image.tmdb.org/t/p/w200/9bOynPf8jru9I1k7SHFBUMda7AJ.jpg)
+
+**Média de votos:** 271,0
+**Menor votos:** 76 (Mariages!)
+**Maior votos:** 2986 (Patch Adams)
+
+## 5 mais avaliados
+
+**Patch Adams** | **Youth** | **Man on the Moon** | **Barton Fink** | **Florence Foster Jenkins**
+ -- | -- | -- | -- | -- 
+*2986* | *1911* | *1601* | *1517* | *1379*
+![](https://image.tmdb.org/t/p/w200/xN1aKur5ddWQSXTqvzDPJD2TCxe.jpg) | ![](https://image.tmdb.org/t/p/w200/tSJkgDVgrbUFhPEEnHhIiHzrC66.jpg) | ![](https://image.tmdb.org/t/p/w200/msOZS07xRIFnapwp3fprGbKEAfT.jpg) | ![](https://image.tmdb.org/t/p/w200/s8Jd8T2UktNkECPfaleruDt3zUf.jpg) | ![](https://image.tmdb.org/t/p/w200/1HAdtUchzWEo0LMFHrgD2UBIBS3.jpg)
+
+## 5 menos avaliados
+
+**Mariages!** | **Zeroville** | **Unexpected** | **Tyler Perry's Madea's Family Reunion - The Play** | **Bread and Chocolate**
+ -- | -- | -- | -- | -- 
+*76* | *76* | *77* | *77* | *78*
+![](https://image.tmdb.org/t/p/w200/wVLOSgZwne7wGUSezBWTU5HCgrq.jpg) | ![](https://image.tmdb.org/t/p/w200/9bOynPf8jru9I1k7SHFBUMda7AJ.jpg) | ![](https://image.tmdb.org/t/p/w200/hTLFVY6egfTRhMNAI71LyT0tVGj.jpg) | ![](https://image.tmdb.org/t/p/w200/7VScbaiRhaISyaWxZuFBri6uKke.jpg) | ![](https://image.tmdb.org/t/p/w200/24D3e6xBPEvqlFoq4tSMVqVQ3TO.jpg)
+
+**Gêneros mais comuns:**
+* Comedy (161)
+* Drama (161)
+
+
+**Palavras-chave mais comuns:**
+* sports (11)
+* italy (10)
+*  (8)
+* neighbor (6)
+* road trip (6)
+* family (6)
+* hospital (5)
+* love (5)
+* football (soccer) (5)
+* lgbt (5)
+* immigrant (5)
+* high school (5)
+* gay theme (5)
+* restaurant (5)
+* money (5)
+
+# Cluster 23
+**Total de filmes:** 98
+**Média de ano de lançamento:** 2002
+**Menor ano:** 1939 (The Rules of the Game)
+**Maior ano:** 2021 (The Worst Person in the World)
+
+## 5 Mais Velhos 
+
+**The Rules of the Game** | **Sissi: The Young Empress** | **Lolita** | **Yesterday, Today and Tomorrow** | **Marriage Italian Style**
+ -- | -- | -- | -- | -- 
+*1939* | *1956* | *1962* | *1963* | *1964*
+ ![](https://image.tmdb.org/t/p/w200/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg) |  ![](https://image.tmdb.org/t/p/w200/fuEBUAwK754IZRgyib2Xe6ZyDYt.jpg) |  ![](https://image.tmdb.org/t/p/w200/8Puqbeh0D95DpXFWep1rmH78btu.jpg) |  ![](https://image.tmdb.org/t/p/w200/dTYi1VK6ROM9tBiyIijFTHjuRnL.jpg) |  ![](https://image.tmdb.org/t/p/w200/1VVQFXwr4i6QSAoPnCs9UmGTUVw.jpg)
+
+## 5 mais novos
+
+**The Worst Person in the World** | **Babyteeth** | **Holiday Rush** | **The Other Woman** | **In a Relationship**
+ -- | -- | -- | -- | -- 
+*2021* | *2020* | *2019* | *2018* | *2018*
+![](https://image.tmdb.org/t/p/w200/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg) | ![](https://image.tmdb.org/t/p/w200/aINpljdt3VVMrCLtJW4BektwYOp.jpg) | ![](https://image.tmdb.org/t/p/w200/ccL8XtMJSAl5VRoOdyKn7Cd0QA2.jpg) | ![](https://image.tmdb.org/t/p/w200/5WcVbQA1lT3iOroeLzRhlRpVo9N.jpg) | ![](https://image.tmdb.org/t/p/w200/qPe2GD2PJAcjjJdfC7Y1pVnqtP1.jpg)
+
+**Média da nota:** 6,66
+**Menor nota:** 5,00 (The Other Woman)
+**Maior nota:** 8,00 (Chungking Express)
+
+## 5 mais bem avaliados
+
+**Chungking Express** | **Castaway on the Moon** | **Moscow Does Not Believe in Tears** | **Marriage Italian Style** | **The Rules of the Game**
+ -- | -- | -- | -- | -- 
+*8,00* | *7,99* | *7,79* | *7,77* | *7,60*
+![](https://image.tmdb.org/t/p/w200/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg) | ![](https://image.tmdb.org/t/p/w200/gGzovvmOEyNVUu4WEHtw9wfDsqI.jpg) | ![](https://image.tmdb.org/t/p/w200/m6nWRLCaKsGErs7x8rDj9XuTVEG.jpg) | ![](https://image.tmdb.org/t/p/w200/1VVQFXwr4i6QSAoPnCs9UmGTUVw.jpg) | ![](https://image.tmdb.org/t/p/w200/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg)
+
+## 5 menos bem avaliados
+
+**The Other Woman** | **Every Day** | **The Lifeguard** | **How to Deal** | **Aloha**
+ -- | -- | -- | -- | -- 
+*5,00* | *5,11* | *5,40* | *5,45* | *5,50*
+![](https://image.tmdb.org/t/p/w200/5WcVbQA1lT3iOroeLzRhlRpVo9N.jpg) | ![](https://image.tmdb.org/t/p/w200/yEW8ALVxeZRWCLZEJIvejkL5TM0.jpg) | ![](https://image.tmdb.org/t/p/w200/ecArdkI6uDNBZ59482pv7lDqVzY.jpg) | ![](https://image.tmdb.org/t/p/w200/pD87iTm4MP7JNcxIUssAbpri8nF.jpg) | ![](https://image.tmdb.org/t/p/w200/58Y4CjcRX8AtMNtI0AXu9H7iebP.jpg)
+
+**Média de votos:** 703,0
+**Menor votos:** 77 (Elsa & Fred)
+**Maior votos:** 11327 (Silver Linings Playbook)
+
+## 5 mais avaliados
+
+**Silver Linings Playbook** | **Love & Other Drugs** | **As Good as It Gets** | **The Artist** | **LOL**
+ -- | -- | -- | -- | -- 
+*11327* | *4717* | *3449* | *3030* | *2551*
+![](https://image.tmdb.org/t/p/w200/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg) | ![](https://image.tmdb.org/t/p/w200/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg) | ![](https://image.tmdb.org/t/p/w200/xXxuJPNUDZ0vjsAXca0O5p3leVB.jpg) | ![](https://image.tmdb.org/t/p/w200/z68py0ZqPgeacGPG54AGVRbNBS7.jpg) | ![](https://image.tmdb.org/t/p/w200/AlnBUoKzzPnczrzzxuh0SYwDa3Z.jpg)
+
+## 5 menos avaliados
+
+**Elsa & Fred** | **Every Day** | **Tadpole** | **Under the Rainbow** | **The Together Project**
+ -- | -- | -- | -- | -- 
+*77* | *82* | *82* | *84* | *85*
+![](https://image.tmdb.org/t/p/w200/yNzVwtlqOmPLVKD5zZIzAME9vYc.jpg) | ![](https://image.tmdb.org/t/p/w200/yEW8ALVxeZRWCLZEJIvejkL5TM0.jpg) | ![](https://image.tmdb.org/t/p/w200/wGwYycW8hI1GxG9HyQSfThetaPO.jpg) | ![](https://image.tmdb.org/t/p/w200/lB1kVizjYAT1x44JdDZMWCR9Kkb.jpg) | ![](https://image.tmdb.org/t/p/w200/boN4R7vdMzfs6QYV9CWI2ZEOV3f.jpg)
+
+**Gêneros mais comuns:**
+* Drama (98)
+* Comedy (98)
+* Romance (98)
+
+
+**Palavras-chave mais comuns:**
+* friendship (8)
+* love (5)
+* italy (5)
+* depression (4)
+* mother son relationship (4)
+* lgbt interest (4)
+* coming of age (4)
+* high school (4)
+* older man younger woman relationship (4)
+* romance (4)
+* break-up (4)
+* relationship (4)
+* pregnancy (4)
+* parent child relationship (4)
+* widow (3)
+
+# Cluster 24
+**Total de filmes:** 1082
+**Média de ano de lançamento:** 1997
+**Menor ano:** 1900 (The One-Man Band)
+**Maior ano:** 2023 (Renfield)
+
+## 5 Mais Velhos 
+
+**The One-Man Band** | **Easy Street** | **Shoulder Arms** | **The Haunted House** | **The Paleface**
+ -- | -- | -- | -- | -- 
+*1900* | *1917* | *1918* | *1921* | *1922*
+ ![](https://image.tmdb.org/t/p/w200/tZbhkqZK9xKKlNDzJ1xFmFgUI2C.jpg) |  ![](https://image.tmdb.org/t/p/w200/aGnx73mmAFP6ssWYpMIV7yekg7g.jpg) |  ![](https://image.tmdb.org/t/p/w200/pKJD6kpEBrJROFxEAUMGxn59hnS.jpg) |  ![](https://image.tmdb.org/t/p/w200/yKAgNQhI55Ennhd3SmU1UxvXiQ3.jpg) |  ![](https://image.tmdb.org/t/p/w200/psFOVcpTJRv0lYGirE5HEa26ZXd.jpg)
+
+## 5 mais novos
+
+**Renfield** | **Zom 100: Bucket List of the Dead** | **Mixed by Erry** | **Haunted Mansion** | **The Old Way**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2023* | *2023* | *2023*
+![](https://image.tmdb.org/t/p/w200/jG83l0tDwoQj3hBAioIsJ5rTPHw.jpg) | ![](https://image.tmdb.org/t/p/w200/kD35dB3KOHrLo1Y3RU5xXJ1hI7.jpg) | ![](https://image.tmdb.org/t/p/w200/tCTqW2YLxx6gqrPFTlMswvDunuQ.jpg) | ![](https://image.tmdb.org/t/p/w200/kpLx1gDYolWLBNOmuFVvrqFKQK3.jpg) | ![](https://image.tmdb.org/t/p/w200/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg)
+
+**Média da nota:** 6,35
+**Menor nota:** 4,50 (Creepshow 3)
+**Maior nota:** 8,50 (Lemonade)
+
+## 5 mais bem avaliados
+
+**Lemonade** | **The Good, the Bad and the Ugly** | **The Great Dictator** | **Michael Jackson's Thriller** | **The Great War**
+ -- | -- | -- | -- | -- 
+*8,50* | *8,47* | *8,33* | *8,16* | *8,14*
+![](https://image.tmdb.org/t/p/w200/1eZNaro6rXlh1ao5jqMg6TgVyMO.jpg) | ![](https://image.tmdb.org/t/p/w200/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg) | ![](https://image.tmdb.org/t/p/w200/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg) | ![](https://image.tmdb.org/t/p/w200/djv4LM6uanJriwpsOyJzaaSp4gf.jpg) | ![](https://image.tmdb.org/t/p/w200/aDvKsUb5y7GMNMz2HHNtuGww5t8.jpg)
+
+## 5 menos bem avaliados
+
+**Creepshow 3** | **Cop and ½** | **Wishmaster 4: The Prophecy Fulfilled** | **Bad Kids Go To Hell** | **Problem Child 3**
+ -- | -- | -- | -- | -- 
+*4,50* | *4,51* | *4,53* | *4,58* | *4,58*
+![](https://image.tmdb.org/t/p/w200/qvJSdbruD4e5cUxruoUFUkJrsqt.jpg) | ![](https://image.tmdb.org/t/p/w200/8JJd4j46J7IGRNBd2qC2BKSPsRL.jpg) | ![](https://image.tmdb.org/t/p/w200/vSw6lky9e4jKy0QnzfEKQx5T6FT.jpg) | ![](https://image.tmdb.org/t/p/w200/dVzEumXyiQ13VJOrHxFolGmMyEq.jpg) | ![](https://image.tmdb.org/t/p/w200/adCNPBJPaBjp9ikJAJYGAkqz6CE.jpg)
+
+**Média de votos:** 661,0
+**Menor votos:** 75 (Taking Off)
+**Maior votos:** 22222 (The Wolf of Wall Street)
+
+## 5 mais avaliados
+
+**The Wolf of Wall Street** | **It** | **Zombieland** | **Bruce Almighty** | **Jojo Rabbit**
+ -- | -- | -- | -- | -- 
+*22222* | *18018* | *11466* | *10010* | *8724*
+![](https://image.tmdb.org/t/p/w200/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg) | ![](https://image.tmdb.org/t/p/w200/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg) | ![](https://image.tmdb.org/t/p/w200/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg) | ![](https://image.tmdb.org/t/p/w200/f0QqG14SZYYZcV4VWykVc5w13dz.jpg) | ![](https://image.tmdb.org/t/p/w200/7GsM4mtM0worCtIVeiQt28HieeN.jpg)
+
+## 5 menos avaliados
+
+**Taking Off** | **Babes in Toyland** | **The Crime of Monsieur Lange** | **Bimbo's Initiation** | **The Jack Bull**
+ -- | -- | -- | -- | -- 
+*75* | *75* | *75* | *75* | *75*
+![](https://image.tmdb.org/t/p/w200/2UXNQy39AqER8Y5LjuZcA1pliwq.jpg) | ![](https://image.tmdb.org/t/p/w200/pPNVXVQTCgdUiIiyxxYlTTqkgiZ.jpg) | ![](https://image.tmdb.org/t/p/w200/60hxomQqqzJTxo64QFEvvesOQCl.jpg) | ![](https://image.tmdb.org/t/p/w200/vpM8gdlzdZlwpRdIUF5iUWLFUZ4.jpg) | ![](https://image.tmdb.org/t/p/w200/yPbvb9cHQxcg9GzXG8DCb0yMSJI.jpg)
+
+**Gêneros mais comuns:**
+* Comedy (901)
+* Horror (380)
+* Drama (305)
+* Fantasy (219)
+* Family (203)
+* Western (140)
+* Crime (119)
+* Music (114)
+* Action (107)
+* TV Movie (103)
+* Mystery (81)
+* Thriller (59)
+* War (55)
+* History (12)
+* Animation (4)
+* Romance (3)
+*  (1)
+
+
+**Palavras-chave mais comuns:**
+* murder (73)
+* zombie (56)
+* musical (56)
+* dark comedy (50)
+* high school (46)
+* christmas (46)
+* revenge (37)
+* vampire (36)
+* gore (35)
+* holiday (35)
+* slasher (33)
+* parody (30)
+* serial killer (30)
+* satire (29)
+* black and white (27)
+
+# Cluster 25
+**Total de filmes:** 166
+**Média de ano de lançamento:** 1999
+**Menor ano:** 1921 (The Kid)
+**Maior ano:** 2023 (Paint)
+
+## 5 Mais Velhos 
+
+**The Kid** | **I Was Born, But...** | **Zero for Conduct** | **Gold Diggers of 1933** | **Dinner at Eight**
+ -- | -- | -- | -- | -- 
+*1921* | *1932* | *1933* | *1933* | *1933*
+ ![](https://image.tmdb.org/t/p/w200/drgMcyTsySQBnUPGaBThCHGdlWT.jpg) |  ![](https://image.tmdb.org/t/p/w200/dD3Do5OQj23RJd4thYyUW2AqsCc.jpg) |  ![](https://image.tmdb.org/t/p/w200/oQcGB9BGj9LPTWcEdij47McotKY.jpg) |  ![](https://image.tmdb.org/t/p/w200/sXsUJsW9fcVT15hfBu9LyU22qmG.jpg) |  ![](https://image.tmdb.org/t/p/w200/p9V2dIMqC1g1S9bDgvxqUOJDfp6.jpg)
+
+## 5 mais novos
+
+**Paint** | **Triangle of Sadness** | **Not Okay** | **Rise** | **Sick of Myself**
+ -- | -- | -- | -- | -- 
+*2023* | *2022* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg) | ![](https://image.tmdb.org/t/p/w200/k9eLozCgCed5FGTSdHu0bBElAV8.jpg) | ![](https://image.tmdb.org/t/p/w200/x1q3FkqFHBkMeKnHiS6GYgdLvUs.jpg) | ![](https://image.tmdb.org/t/p/w200/ue6GyiX9dLSpmmAze1pPYcIlUrf.jpg) | ![](https://image.tmdb.org/t/p/w200/kLLrQk8Z5m2TAEOGc81prdIrUpW.jpg)
+
+**Média da nota:** 6,59
+**Menor nota:** 4,70 (Daddy Cool)
+**Maior nota:** 8,29 (Modern Times)
+
+## 5 mais bem avaliados
+
+**Modern Times** | **The Kid** | **The Truman Show** | **The Grand Budapest Hotel** | **Mr. Smith Goes to Washington**
+ -- | -- | -- | -- | -- 
+*8,29* | *8,19* | *8,13* | *8,05* | *7,88*
+![](https://image.tmdb.org/t/p/w200/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg) | ![](https://image.tmdb.org/t/p/w200/drgMcyTsySQBnUPGaBThCHGdlWT.jpg) | ![](https://image.tmdb.org/t/p/w200/vuza0WqY239yBXOadKlGwJsZJFE.jpg) | ![](https://image.tmdb.org/t/p/w200/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg) | ![](https://image.tmdb.org/t/p/w200/nDjg1fbNyq15excNDl3acd2IqAk.jpg)
+
+## 5 menos bem avaliados
+
+**Daddy Cool** | **All Ladies Do It** | **Post Grad** | **American Dreamz** | **White as Snow**
+ -- | -- | -- | -- | -- 
+*4,70* | *4,80* | *4,99* | *5,01* | *5,17*
+![](https://image.tmdb.org/t/p/w200/RtKkbnIsuQQqcAf5Ky1SLYXPZs.jpg) | ![](https://image.tmdb.org/t/p/w200/u4QZQ0QU2jf5H5qaBRRdGrz7dmy.jpg) | ![](https://image.tmdb.org/t/p/w200/yM1QcAtEGkzAM3HFznXj8kvjyDk.jpg) | ![](https://image.tmdb.org/t/p/w200/8d4kXc6jGF078Nsw3qhvnwe5n58.jpg) | ![](https://image.tmdb.org/t/p/w200/vOo0cXSb5c5B4SJFRJwXosuYpJV.jpg)
+
+**Média de votos:** 793,0
+**Menor votos:** 75 (The Marathon)
+**Maior votos:** 16827 (The Truman Show)
+
+## 5 mais avaliados
+
+**The Truman Show** | **The Grand Budapest Hotel** | **The Big Short** | **The Terminal** | **Due Date**
+ -- | -- | -- | -- | -- 
+*16827* | *13787* | *8320* | *7241* | *5042*
+![](https://image.tmdb.org/t/p/w200/vuza0WqY239yBXOadKlGwJsZJFE.jpg) | ![](https://image.tmdb.org/t/p/w200/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg) | ![](https://image.tmdb.org/t/p/w200/isuQWbJPbjybBEWdcCaBUPmU0XO.jpg) | ![](https://image.tmdb.org/t/p/w200/pXNomqKcKXAQbuWxehb2N3XFKfn.jpg) | ![](https://image.tmdb.org/t/p/w200/4dzo4uWmkgp20uwm0jpiduRtvju.jpg)
+
+## 5 menos avaliados
+
+**The Marathon** | **Golden Balls** | **Paint** | **Henry Fool** | **White as Snow**
+ -- | -- | -- | -- | -- 
+*75* | *76* | *76* | *78* | *78*
+![](https://image.tmdb.org/t/p/w200/mLLrbnqXVf1BVyHs5pvcEn7fNum.jpg) | ![](https://image.tmdb.org/t/p/w200/zIuRZZGSYpM2WhP8GExY2FTIdnF.jpg) | ![](https://image.tmdb.org/t/p/w200/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg) | ![](https://image.tmdb.org/t/p/w200/1Uun13GJi5U0gs303e7BnER6SpG.jpg) | ![](https://image.tmdb.org/t/p/w200/vOo0cXSb5c5B4SJFRJwXosuYpJV.jpg)
+
+**Gêneros mais comuns:**
+* Comedy (166)
+* Drama (166)
+
+
+**Palavras-chave mais comuns:**
+* dark comedy (16)
+* teacher (10)
+* politics (8)
+* writer (8)
+* spain (8)
+* infidelity (7)
+* prostitute (7)
+* 1960s (6)
+* dysfunctional family (6)
+* daughter (6)
+* suicide (6)
+* high school (6)
+* extramarital affair (6)
+* washington dc (5)
+* divorce (5)
+
+# Cluster 26
+**Total de filmes:** 146
+**Média de ano de lançamento:** 2006
+**Menor ano:** 1938 (Hôtel du Nord)
+**Maior ano:** 2023 (Love at First Sight)
+
+## 5 Mais Velhos 
+
+**Hôtel du Nord** | **The Story of the Last Chrysanthemum** | **Now, Voyager** | **Random Harvest** | **The Lovers**
+ -- | -- | -- | -- | -- 
+*1938* | *1939* | *1942* | *1942* | *1958*
+ ![](https://image.tmdb.org/t/p/w200/18VMpy9IGsyKM9v7mfG2L7kXkj6.jpg) |  ![](https://image.tmdb.org/t/p/w200/m43EBVmYBiNC2RtcMUAag4IWsZS.jpg) |  ![](https://image.tmdb.org/t/p/w200/kWtJ1C98fQB1fUDSfqb1NGBPPK8.jpg) |  ![](https://image.tmdb.org/t/p/w200/x5W3FOGmifwK3e8IhLDQYvURIw2.jpg) |  ![](https://image.tmdb.org/t/p/w200/5WxZp3XpCnK1EQ6D8XASbpCkrzO.jpg)
+
+## 5 mais novos
+
+**Love at First Sight** | **Tonight You're Sleeping with Me** | **Purple Hearts** | **365 Days: This Day** | **After Ever Happy**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/zTTgI92GGVtYIGunown2oWOUDES.jpg) | ![](https://image.tmdb.org/t/p/w200/sexnKxpAOl0wfixYC3RataZD4pI.jpg) | ![](https://image.tmdb.org/t/p/w200/4JyNWkryifWbWXJyxcWh3pVya6N.jpg) | ![](https://image.tmdb.org/t/p/w200/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg) | ![](https://image.tmdb.org/t/p/w200/moogpu8rNkEjTgFyLXwhPghft5w.jpg)
+
+**Média da nota:** 6,82
+**Menor nota:** 4,91 (Anatomy of a Love Seen)
+**Maior nota:** 8,42 (Gabriel's Inferno: Part II)
+
+## 5 mais bem avaliados
+
+**Gabriel's Inferno: Part II** | **Five Feet Apart** | **20th Century Girl** | **Call Me by Your Name** | **Purple Hearts**
+ -- | -- | -- | -- | -- 
+*8,42* | *8,29* | *8,26* | *8,17* | *8,15*
+![](https://image.tmdb.org/t/p/w200/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg) | ![](https://image.tmdb.org/t/p/w200/kreTuJBkUjVWePRfhHZuYfhNE1T.jpg) | ![](https://image.tmdb.org/t/p/w200/od22ftNnyag0TTxcnJhlsu3aLoU.jpg) | ![](https://image.tmdb.org/t/p/w200/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg) | ![](https://image.tmdb.org/t/p/w200/4JyNWkryifWbWXJyxcWh3pVya6N.jpg)
+
+## 5 menos bem avaliados
+
+**Anatomy of a Love Seen** | **Against the Ropes** | **Wild Mountain Thyme** | **Wild Orchid** | **Bel Ami**
+ -- | -- | -- | -- | -- 
+*4,91* | *5,10* | *5,13* | *5,20* | *5,26*
+![](https://image.tmdb.org/t/p/w200/x3RZlpyRx1Fkn5BjleRADPL98oP.jpg) | ![](https://image.tmdb.org/t/p/w200/9CuODYTA3vvrGluaIl0hMPsEIK8.jpg) | ![](https://image.tmdb.org/t/p/w200/vMW81htT6Kki8x0G4UNb7l48iIr.jpg) | ![](https://image.tmdb.org/t/p/w200/cCKelDaBa9gEzl0E7hmHiQxB76Q.jpg) | ![](https://image.tmdb.org/t/p/w200/59bgVtpX6MPy2d5zberJiRNkDDx.jpg)
+
+**Média de votos:** 910,0
+**Menor votos:** 76 (April Story)
+**Maior votos:** 11367 (Call Me by Your Name)
+
+## 5 mais avaliados
+
+**Call Me by Your Name** | **The Fault in Our Stars** | **The Notebook** | **365 Days** | **After**
+ -- | -- | -- | -- | -- 
+*11367* | *10655* | *10629* | *8429* | *7781*
+![](https://image.tmdb.org/t/p/w200/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg) | ![](https://image.tmdb.org/t/p/w200/ep7dF4QR4Mm39LI958V0XbwE0hK.jpg) | ![](https://image.tmdb.org/t/p/w200/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg) | ![](https://image.tmdb.org/t/p/w200/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg) | ![](https://image.tmdb.org/t/p/w200/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg)
+
+## 5 menos avaliados
+
+**April Story** | **Radiance** | **Tonight You're Sleeping with Me** | **Three Times** | **Hideous Kinky**
+ -- | -- | -- | -- | -- 
+*76* | *78* | *78* | *78* | *82*
+![](https://image.tmdb.org/t/p/w200/ciSSrQt5HjUM8SicA05nZpo4oda.jpg) | ![](https://image.tmdb.org/t/p/w200/l7fR2WW7mnXl0nrZSHeCBxbljeH.jpg) | ![](https://image.tmdb.org/t/p/w200/sexnKxpAOl0wfixYC3RataZD4pI.jpg) | ![](https://image.tmdb.org/t/p/w200/Ajd6uUZchc9AR2PHDaAiI79fFUl.jpg) | ![](https://image.tmdb.org/t/p/w200/qupB9wwFZgjy7DHs9rvvloVZOUw.jpg)
+
+**Gêneros mais comuns:**
+* Romance (146)
+* Drama (146)
+
+
+**Palavras-chave mais comuns:**
+* love (22)
+* lgbt (16)
+* coming of age (11)
+* lesbian relationship (10)
+* lesbian (10)
+* gay theme (9)
+*  (9)
+* romance (9)
+* relationship (7)
+* 1960s (6)
+* 19th century (6)
+* first love (5)
+* 1980s (5)
+* cancer (5)
+* friendship (5)
+
+# Cluster 27
+**Total de filmes:** 241
+**Média de ano de lançamento:** 2001
+**Menor ano:** 1924 (The Last Laugh)
+**Maior ano:** 2022 (Women Talking)
+
+## 5 Mais Velhos 
+
+**The Last Laugh** | **Earth** | **Blonde Venus** | **Boys Town** | **How Green Was My Valley**
+ -- | -- | -- | -- | -- 
+*1924* | *1930* | *1932* | *1938* | *1941*
+ ![](https://image.tmdb.org/t/p/w200/7Y6Dxr3oYt1w7ew70YNdLLDYEjk.jpg) |  ![](https://image.tmdb.org/t/p/w200/zGyLXrIXP1DvlEgCGMDokxjL513.jpg) |  ![](https://image.tmdb.org/t/p/w200/lP9g4NcJpVVXrWTAKzyyNiu7ylB.jpg) |  ![](https://image.tmdb.org/t/p/w200/jGwKOZvPItNSocHFAg1USbhKR6c.jpg) |  ![](https://image.tmdb.org/t/p/w200/8N7OmxBqjRVUrqergUduGgr6exy.jpg)
+
+## 5 mais novos
+
+**Women Talking** | **Alcarràs** | **Brother and Sister** | **Godland** | **Spencer**
+ -- | -- | -- | -- | -- 
+*2022* | *2022* | *2022* | *2022* | *2021*
+![](https://image.tmdb.org/t/p/w200/fIrFR0eTpdNV1AtuZKa0Q7sRAH2.jpg) | ![](https://image.tmdb.org/t/p/w200/sbFVJZAvd7a7n2aHEUtOyrQtAKo.jpg) | ![](https://image.tmdb.org/t/p/w200/uKD8FK85gBcRyqclrsDs4oUfLHt.jpg) | ![](https://image.tmdb.org/t/p/w200/s0cWPhzpKJ4kspaleMcOduHBFBw.jpg) | ![](https://image.tmdb.org/t/p/w200/7GcqdBKaMM9BWXWN07BirBMkcBF.jpg)
+
+**Média da nota:** 6,91
+**Menor nota:** 4,80 (Brother and Sister)
+**Maior nota:** 8,20 (Tokyo Story)
+
+## 5 mais bem avaliados
+
+**Tokyo Story** | **Better Days** | **Palmer** | **Central Station** | **Wild Strawberries**
+ -- | -- | -- | -- | -- 
+*8,20* | *8,18* | *8,15* | *8,14* | *8,13*
+![](https://image.tmdb.org/t/p/w200/g2YbTYKpY7N2yDSk7BfXZ18I5QV.jpg) | ![](https://image.tmdb.org/t/p/w200/csVZ2ZQCj98XdZoCuW1aixMYJ0W.jpg) | ![](https://image.tmdb.org/t/p/w200/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg) | ![](https://image.tmdb.org/t/p/w200/zJvp7XjQ2LhPbDVYhFXyucs40vR.jpg) | ![](https://image.tmdb.org/t/p/w200/iyTD2QnySNMPUPE3IedZQipSWfz.jpg)
+
+## 5 menos bem avaliados
+
+**Brother and Sister** | **The Smell of Us** | **Student Services** | **Test** | **Cuties**
+ -- | -- | -- | -- | -- 
+*4,80* | *4,95* | *5,11* | *5,18* | *5,24*
+![](https://image.tmdb.org/t/p/w200/uKD8FK85gBcRyqclrsDs4oUfLHt.jpg) | ![](https://image.tmdb.org/t/p/w200/vKP9PDKRP9x0sDQWHyHdEPJV7YM.jpg) | ![](https://image.tmdb.org/t/p/w200/s26FysWfxekai5nJwWz8wEpy8th.jpg) | ![](https://image.tmdb.org/t/p/w200/5F6eKWJNHfYgHf2PDsb73fmAdK8.jpg) | ![](https://image.tmdb.org/t/p/w200/ow3OA6OC0rjgbMVaLn2drwjvqZE.jpg)
+
+**Média de votos:** 695,0
+**Menor votos:** 75 (Barren Lives)
+**Maior votos:** 10003 (Gran Torino)
+
+## 5 mais avaliados
+
+**Gran Torino** | **The Pursuit of Happyness** | **Million Dollar Baby** | **The Greatest Showman** | **The Danish Girl**
+ -- | -- | -- | -- | -- 
+*10003* | *9159* | *8874* | *8844* | *5503*
+![](https://image.tmdb.org/t/p/w200/zUybYvxWdAJy5hhYovsXtHSWI1l.jpg) | ![](https://image.tmdb.org/t/p/w200/kTdG9wKnREyjK6nlFDNmpe7wlIK.jpg) | ![](https://image.tmdb.org/t/p/w200/2ti3l1OeB8G94yyqfAI7nmMZUbA.jpg) | ![](https://image.tmdb.org/t/p/w200/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg) | ![](https://image.tmdb.org/t/p/w200/mXZZIacI5FC8thzSC0lgQBQ2uAX.jpg)
+
+## 5 menos avaliados
+
+**Barren Lives** | **Little Birds** | **Le Beau Serge** | **The Prize Winner of Defiance, Ohio** | **Test**
+ -- | -- | -- | -- | -- 
+*75* | *75* | *75* | *75* | *76*
+![](https://image.tmdb.org/t/p/w200/bBb4GiCZul2W6hhV8sbbnBnlhuE.jpg) | ![](https://image.tmdb.org/t/p/w200/ZHGIfi8RZEPrKwHU5Ecbpx9J18.jpg) | ![](https://image.tmdb.org/t/p/w200/dSpzj1q7AIl7SN7Ikd3oHfeD986.jpg) | ![](https://image.tmdb.org/t/p/w200/wBAxyz9LTvyRlQ6wcMA2La2rYgX.jpg) | ![](https://image.tmdb.org/t/p/w200/5F6eKWJNHfYgHf2PDsb73fmAdK8.jpg)
+
+**Gêneros mais comuns:**
+* Drama (241)
+
+
+**Palavras-chave mais comuns:**
+* friendship (15)
+* family (14)
+* teacher (14)
+* single mother (12)
+* rape (10)
+* murder (10)
+* spain (10)
+* writer (9)
+* alcohol (8)
+* daughter (7)
+* love (7)
+* drugs (7)
+* alcoholism (7)
+* alcoholic (7)
+* bullying (7)
+
+# Cluster 28
+**Total de filmes:** 51
 **Média de ano de lançamento:** 2005
 **Menor ano:** 1976 (The Bad News Bears)
 **Maior ano:** 2022 (Home Team)
@@ -1827,1217 +3271,2265 @@ Versão resumida dos clusters
 
 ## 5 mais novos
 
-**Home Team** | **Cheaper by the Dozen** | **8-Bit Christmas** | **10 Days Without Mum** | **Playing with Fire**
+**Home Team** | **Cheaper by the Dozen** | **Le Pupille** | **8-Bit Christmas** | **10 Days Without Mum**
  -- | -- | -- | -- | -- 
-*2022* | *2022* | *2021* | *2020* | *2019*
-![](https://image.tmdb.org/t/p/w200/zTwfMV1hm1DIrMo8BGyZKskhSPr.jpg) | ![](https://image.tmdb.org/t/p/w200/qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg) | ![](https://image.tmdb.org/t/p/w200/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg) | ![](https://image.tmdb.org/t/p/w200/xEbSztKAAwIljX8A537HeZDKXUS.jpg) | ![](https://image.tmdb.org/t/p/w200/nBLPIpReSatt1zcgVzSVzq5e581.jpg)
+*2022* | *2022* | *2022* | *2021* | *2020*
+![](https://image.tmdb.org/t/p/w200/zTwfMV1hm1DIrMo8BGyZKskhSPr.jpg) | ![](https://image.tmdb.org/t/p/w200/qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg) | ![](https://image.tmdb.org/t/p/w200/kpV6clnGWQO57liEp8FffpKOUAS.jpg) | ![](https://image.tmdb.org/t/p/w200/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg) | ![](https://image.tmdb.org/t/p/w200/xEbSztKAAwIljX8A537HeZDKXUS.jpg)
 
-**Média da nota:** 6,31
-**Menor nota:** 5,50 (Beethoven's 2nd)
+**Média da nota:** 5,95
+**Menor nota:** 4,80 (Daddy Day Camp)
 **Maior nota:** 7,52 (The Sandlot)
 
 ## 5 mais bem avaliados
 
-**The Sandlot** | **Chestnut: Hero of Central Park** | **Secondhand Lions** | **The Bad News Bears** | **Middle School: The Worst Years of My Life**
+**The Sandlot** | **Chestnut: Hero of Central Park** | **Secondhand Lions** | **Le Pupille** | **The Bad News Bears**
  -- | -- | -- | -- | -- 
-*7,52* | *7,23* | *7,14* | *6,93* | *6,91*
-![](https://image.tmdb.org/t/p/w200/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg) | ![](https://image.tmdb.org/t/p/w200/quDRdSE0gZ1Q1lpOkZVq4ek2kaQ.jpg) | ![](https://image.tmdb.org/t/p/w200/fy0ICYlfwc0c2FMs3Q1ZHNaorOq.jpg) | ![](https://image.tmdb.org/t/p/w200/kJNXMni0ObOXLth6v9xpUhWbtrp.jpg) | ![](https://image.tmdb.org/t/p/w200/3rlcvuGlLETfGCq0aaVD526Emlc.jpg)
+*7,52* | *7,23* | *7,14* | *6,99* | *6,93*
+![](https://image.tmdb.org/t/p/w200/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg) | ![](https://image.tmdb.org/t/p/w200/quDRdSE0gZ1Q1lpOkZVq4ek2kaQ.jpg) | ![](https://image.tmdb.org/t/p/w200/fy0ICYlfwc0c2FMs3Q1ZHNaorOq.jpg) | ![](https://image.tmdb.org/t/p/w200/kpV6clnGWQO57liEp8FffpKOUAS.jpg) | ![](https://image.tmdb.org/t/p/w200/kJNXMni0ObOXLth6v9xpUhWbtrp.jpg)
 
 ## 5 menos bem avaliados
 
-**Beethoven's 2nd** | **Are We Done Yet?** | **Kicking & Screaming** | **3 Men and a Little Lady** | **Beethoven**
+**Daddy Day Camp** | **Richie Rich's Christmas Wish** | **Sophie's Misfortunes** | **That Darn Cat** | **Beethoven's 4th**
  -- | -- | -- | -- | -- 
-*5,50* | *5,70* | *5,78* | *5,78* | *5,78*
-![](https://image.tmdb.org/t/p/w200/biH5hW1BRfEr13oCizuAzpdBf2l.jpg) | ![](https://image.tmdb.org/t/p/w200/uZ9NZh4zB80phMxo5PucFyWagjG.jpg) | ![](https://image.tmdb.org/t/p/w200/n5Cc91HgRtY2zsWZV6fXcwVWuWl.jpg) | ![](https://image.tmdb.org/t/p/w200/4VWWEnhX0zddRKwZWGtIdDcV5U7.jpg) | ![](https://image.tmdb.org/t/p/w200/mVb3r5ZOeopEbCbx6kuIAjUz20F.jpg)
+*4,80* | *4,80* | *4,81* | *4,90* | *5,10*
+![](https://image.tmdb.org/t/p/w200/fhuhSVb3j8SShe6FhnVUAfSRg6h.jpg) | ![](https://image.tmdb.org/t/p/w200/dELsdRZDsIvMwVkayiYZszk6V3P.jpg) | ![](https://image.tmdb.org/t/p/w200/fO5GugnZ8LNavi6VcATCOWDuaia.jpg) | ![](https://image.tmdb.org/t/p/w200/cLdvl0emqJ4PJaPABsdO5qtxYTS.jpg) | ![](https://image.tmdb.org/t/p/w200/dvw8mJlEjxvBggoiAbiPkXfvbFO.jpg)
 
-**Média de votos:** 823,0
-**Menor votos:** 161 (Firehouse Dog)
+**Média de votos:** 600,0
+**Menor votos:** 75 (Le Pupille)
 **Maior votos:** 3130 (101 Dalmatians)
 
 ## 5 mais avaliados
 
-**101 Dalmatians** | **Mr. Bean's Holiday** | **Beethoven** | **RV** | **Dennis the Menace**
+**101 Dalmatians** | **Mr. Bean's Holiday** | **Beethoven** | **RV** | **Cats & Dogs**
  -- | -- | -- | -- | -- 
-*3130* | *2619* | *1905* | *1563* | *1341*
-![](https://image.tmdb.org/t/p/w200/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg) | ![](https://image.tmdb.org/t/p/w200/zbAlwsJNxfo4VfTy9peDo7itJ0I.jpg) | ![](https://image.tmdb.org/t/p/w200/mVb3r5ZOeopEbCbx6kuIAjUz20F.jpg) | ![](https://image.tmdb.org/t/p/w200/eqV0JjfwcEJuK3JPZ2rsNvS1p30.jpg) | ![](https://image.tmdb.org/t/p/w200/Kl3HTDhJ1wNg9NpJwApE5mXGmo.jpg)
+*3130* | *2619* | *1905* | *1563* | *1503*
+![](https://image.tmdb.org/t/p/w200/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg) | ![](https://image.tmdb.org/t/p/w200/zbAlwsJNxfo4VfTy9peDo7itJ0I.jpg) | ![](https://image.tmdb.org/t/p/w200/mVb3r5ZOeopEbCbx6kuIAjUz20F.jpg) | ![](https://image.tmdb.org/t/p/w200/eqV0JjfwcEJuK3JPZ2rsNvS1p30.jpg) | ![](https://image.tmdb.org/t/p/w200/rM6qLVhApXiXYjMuzSFOESUiVaJ.jpg)
 
 ## 5 menos avaliados
 
-**Firehouse Dog** | **Chestnut: Hero of Central Park** | **Patrick** | **Cheaper by the Dozen** | **10 Days Without Mum**
+**Le Pupille** | **That Darn Cat** | **Bhoothnath** | **Jingle All the Way 2** | **Richie Rich's Christmas Wish**
  -- | -- | -- | -- | -- 
-*161* | *185* | *223* | *226* | *258*
-![](https://image.tmdb.org/t/p/w200/q6wm2pmx8WiYrNa1vbCaabCUDcD.jpg) | ![](https://image.tmdb.org/t/p/w200/quDRdSE0gZ1Q1lpOkZVq4ek2kaQ.jpg) | ![](https://image.tmdb.org/t/p/w200/zzo0rfLxgcbUPfjT3yjBYioFpv9.jpg) | ![](https://image.tmdb.org/t/p/w200/qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg) | ![](https://image.tmdb.org/t/p/w200/xEbSztKAAwIljX8A537HeZDKXUS.jpg)
+*75* | *78* | *89* | *89* | *94*
+![](https://image.tmdb.org/t/p/w200/kpV6clnGWQO57liEp8FffpKOUAS.jpg) | ![](https://image.tmdb.org/t/p/w200/cLdvl0emqJ4PJaPABsdO5qtxYTS.jpg) | ![](https://image.tmdb.org/t/p/w200/2Tvwmsu4ihzDiltXxPWI4RwTF3W.jpg) | ![](https://image.tmdb.org/t/p/w200/x8JinWPxZIZY9HzJvvsC5puYsNu.jpg) | ![](https://image.tmdb.org/t/p/w200/dELsdRZDsIvMwVkayiYZszk6V3P.jpg)
 
 **Gêneros mais comuns:**
-* Family (29)
-* Comedy (29)
+* Family (51)
+* Comedy (51)
 
 
 **Palavras-chave mais comuns:**
-* dog (6)
-* sports (5)
-* pets (4)
-* puppy (3)
+* dog (13)
+* sports (8)
+* pets (7)
+* st. bernard (6)
+* puppy (5)
 * baseball (3)
-* st. bernard (2)
+* holiday (3)
+* christmas (3)
+* remake (3)
+* dalmatian (2)
+* live action remake (2)
+* family (2)
 * parent child relationship (2)
-* kids’ sports team (2)
-* middle school (2)
-* house (2)
-* remake (2)
-* human animal relationship (2)
-* fur (1)
-* fashion designer (1)
-* fur coat (1)
-
-# Cluster 20
-**Total de filmes:** 34
-**Média de ano de lançamento:** 2012
-**Menor ano:** 1975 (Tommy)
-**Maior ano:** 2022 (Selena Gomez: My Mind & Me)
-
-## 5 Mais Velhos 
-
-**Tommy** | **The Last Waltz** | **Bad** | **Buena Vista Social Club** | **Tupac: Resurrection**
- -- | -- | -- | -- | -- 
-*1975* | *1978* | *1987* | *1999* | *2003*
- ![](https://image.tmdb.org/t/p/w200/xyOZI8GHUwkbublxRmtmZp8zJsD.jpg) |  ![](https://image.tmdb.org/t/p/w200/2K7CFH0AIHnGrA4yQjPCoIB5CmQ.jpg) |  ![](https://image.tmdb.org/t/p/w200/871wcm1cluC7iTqhsOZbUUxuWl1.jpg) |  ![](https://image.tmdb.org/t/p/w200/xMEebcZYw8TZl7HZFQQs1EirC7G.jpg) |  ![](https://image.tmdb.org/t/p/w200/dGJxjq8npqFZtuAtGsyjntip7uh.jpg)
-
-## 5 mais novos
-
-**Selena Gomez: My Mind & Me** | **Moonage Daydream** | **Billie Eilish: The World's a Little Blurry** | **Miss Americana** | **BLACKPINK: Light Up the Sky**
- -- | -- | -- | -- | -- 
-*2022* | *2022* | *2021* | *2020* | *2020*
-![](https://image.tmdb.org/t/p/w200/oMpsswJv8x4vnOnIKqs4xJs2Kn3.jpg) | ![](https://image.tmdb.org/t/p/w200/FPir4B7H8a3w63zVYkkod93MRL.jpg) | ![](https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg) | ![](https://image.tmdb.org/t/p/w200/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg) | ![](https://image.tmdb.org/t/p/w200/wwrvjmcgkDyB2RbCbIVLXZf82pl.jpg)
-
-**Média da nota:** 7,61
-**Menor nota:** 6,41 (Tommy)
-**Maior nota:** 8,44 (Bring the Soul: The Movie)
-
-## 5 mais bem avaliados
-
-**Bring the Soul: The Movie** | **Billie Eilish: The World's a Little Blurry** | **Burn the Stage: The Movie** | **BLACKPINK: Light Up the Sky** | **Homecoming: A Film by Beyoncé**
- -- | -- | -- | -- | -- 
-*8,44* | *8,41* | *8,39* | *8,20* | *8,20*
-![](https://image.tmdb.org/t/p/w200/7x5CguA0MxHqbSjhi14UEuK7c95.jpg) | ![](https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg) | ![](https://image.tmdb.org/t/p/w200/pJKy1yvnKh8UjcuYeG3Rt35xHFA.jpg) | ![](https://image.tmdb.org/t/p/w200/wwrvjmcgkDyB2RbCbIVLXZf82pl.jpg) | ![](https://image.tmdb.org/t/p/w200/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg)
-
-## 5 menos bem avaliados
-
-**Tommy** | **Whitney: Can I Be Me** | **Metallica: Some Kind of Monster** | **Katy Perry: Part of Me** | **It Might Get Loud**
- -- | -- | -- | -- | -- 
-*6,41* | *6,47* | *6,99* | *7,10* | *7,14*
-![](https://image.tmdb.org/t/p/w200/xyOZI8GHUwkbublxRmtmZp8zJsD.jpg) | ![](https://image.tmdb.org/t/p/w200/1gDcXT1bNvSpFYeEXwqdCuKC5P1.jpg) | ![](https://image.tmdb.org/t/p/w200/pYms4cvrqlM4I8cjNrQCbSnPxkr.jpg) | ![](https://image.tmdb.org/t/p/w200/yPW5Lmptt7z8rCYtVYjkpyjI3SY.jpg) | ![](https://image.tmdb.org/t/p/w200/86gtHYU7vRnTBcnOu0YxdZuDGhM.jpg)
-
-**Média de votos:** 319,0
-**Menor votos:** 151 (Janis: Little Girl Blue)
-**Maior votos:** 1120 (Amy)
-
-## 5 mais avaliados
-
-**Amy** | **Searching for Sugar Man** | **Cobain: Montage of Heck** | **Gaga: Five Foot Two** | **Miss Americana**
- -- | -- | -- | -- | -- 
-*1120* | *833* | *654* | *566* | *519*
-![](https://image.tmdb.org/t/p/w200/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg) | ![](https://image.tmdb.org/t/p/w200/ucM98HuBHSWmn44oiE83hIDc6VB.jpg) | ![](https://image.tmdb.org/t/p/w200/r16TnsV7xgI6M2hbySzxWbT9zxe.jpg) | ![](https://image.tmdb.org/t/p/w200/g0NONcnzzvWoASFjFoDqXZUW6SV.jpg) | ![](https://image.tmdb.org/t/p/w200/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg)
-
-## 5 menos avaliados
-
-**Janis: Little Girl Blue** | **Moonage Daydream** | **Tupac: Resurrection** | **Whitney: Can I Be Me** | **Shawn Mendes: In Wonder**
- -- | -- | -- | -- | -- 
-*151* | *151* | *151* | *153* | *154*
-![](https://image.tmdb.org/t/p/w200/qosDLnAcHRAUjgmZIU0c1ktEhx2.jpg) | ![](https://image.tmdb.org/t/p/w200/FPir4B7H8a3w63zVYkkod93MRL.jpg) | ![](https://image.tmdb.org/t/p/w200/dGJxjq8npqFZtuAtGsyjntip7uh.jpg) | ![](https://image.tmdb.org/t/p/w200/1gDcXT1bNvSpFYeEXwqdCuKC5P1.jpg) | ![](https://image.tmdb.org/t/p/w200/aSs7V3ryvxCSpcXcxf9NY8YBtGC.jpg)
-
-**Gêneros mais comuns:**
-* Music (34)
-* Documentary (31)
-
-
-**Palavras-chave mais comuns:**
-* music documentary (6)
-* singer (6)
-* musician (5)
-* pop star (3)
-* k-pop (3)
-* family (3)
-* addiction (2)
-* 1970s (2)
-* idol group (2)
-* music video (2)
-* coachella (2)
-* cuba (2)
-* heavy metal (2)
-* rock band (2)
-* fame (2)
-
-# Cluster 21
-**Total de filmes:** 226
-**Média de ano de lançamento:** 1999
-**Menor ano:** 1942 (I Married a Witch)
-**Maior ano:** 2023 (Renfield)
-
-## 5 Mais Velhos 
-
-**I Married a Witch** | **Heaven Can Wait** | **A Matter of Life and Death** | **The Bishop's Wife** | **Harvey**
- -- | -- | -- | -- | -- 
-*1942* | *1943* | *1946* | *1947* | *1950*
- ![](https://image.tmdb.org/t/p/w200/je47It0cpuFzM7wUReWlUQX0vXY.jpg) |  ![](https://image.tmdb.org/t/p/w200/c0jKfLvvggNqvMDhOWxaBMGXkz7.jpg) |  ![](https://image.tmdb.org/t/p/w200/H74LWKnhOeIFSk9gNjBcPjIov3.jpg) |  ![](https://image.tmdb.org/t/p/w200/2sMpffmvoJlW7WBcvyHTPR9DEsj.jpg) |  ![](https://image.tmdb.org/t/p/w200/dgd82hYmpiXDM1G867HqNaWe8wj.jpg)
-
-## 5 mais novos
-
-**Renfield** | **Haunted Mansion** | **Day Shift** | **Disenchanted** | **Roald Dahl's Matilda the Musical**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2022* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/jG83l0tDwoQj3hBAioIsJ5rTPHw.jpg) | ![](https://image.tmdb.org/t/p/w200/kpLx1gDYolWLBNOmuFVvrqFKQK3.jpg) | ![](https://image.tmdb.org/t/p/w200/bI7lGR5HuYlENlp11brKUAaPHuO.jpg) | ![](https://image.tmdb.org/t/p/w200/uyNLq2Dc3s4IOdcYTU8ZtM2lTjb.jpg) | ![](https://image.tmdb.org/t/p/w200/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg)
-
-**Média da nota:** 6,52
-**Menor nota:** 5,50 (Bulletproof Monk)
-**Maior nota:** 7,95 (The Exterminating Angel)
-
-## 5 mais bem avaliados
-
-**The Exterminating Angel** | **The Red Balloon** | **A Matter of Life and Death** | **Time of the Gypsies** | **Harvey**
- -- | -- | -- | -- | -- 
-*7,95* | *7,72* | *7,72* | *7,70* | *7,68*
-![](https://image.tmdb.org/t/p/w200/dqaeUgLOWFbpEkEKzwAZgAcZMMO.jpg) | ![](https://image.tmdb.org/t/p/w200/3XrEggEOEnKGi8hTOau44vcvbmV.jpg) | ![](https://image.tmdb.org/t/p/w200/H74LWKnhOeIFSk9gNjBcPjIov3.jpg) | ![](https://image.tmdb.org/t/p/w200/fF9kWNMjiXC6f4YrdVFA0ScnWgQ.jpg) | ![](https://image.tmdb.org/t/p/w200/dgd82hYmpiXDM1G867HqNaWe8wj.jpg)
-
-## 5 menos bem avaliados
-
-**Bulletproof Monk** | **Joe's Apartment** | **Fatman** | **Seven Dwarfs** | **7 Dwarves: The Forest Is Not Enough**
- -- | -- | -- | -- | -- 
-*5,50* | *5,50* | *5,52* | *5,56* | *5,56*
-![](https://image.tmdb.org/t/p/w200/kHWv16c4uDmiEujICSBdQ52TH55.jpg) | ![](https://image.tmdb.org/t/p/w200/7OBbURUtU37ucxHGUVkD598f6t3.jpg) | ![](https://image.tmdb.org/t/p/w200/4n8QNNdk4BOX9Dslfbz5Dy6j1HK.jpg) | ![](https://image.tmdb.org/t/p/w200/b7cfDQirLJbOryFB0VfpQJHwTIx.jpg) | ![](https://image.tmdb.org/t/p/w200/x9fLyw1ihuyLodGnHvfFoKWq2su.jpg)
-
-**Média de votos:** 1444,0
-**Menor votos:** 150 (Stay Tuned)
-**Maior votos:** 11513 (Ted)
-
-## 5 mais avaliados
-
-**Ted** | **Bruce Almighty** | **The Mask** | **Shazam!** | **Ghostbusters**
- -- | -- | -- | -- | -- 
-*11513* | *10010* | *9401* | *8840* | *8143*
-![](https://image.tmdb.org/t/p/w200/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg) | ![](https://image.tmdb.org/t/p/w200/f0QqG14SZYYZcV4VWykVc5w13dz.jpg) | ![](https://image.tmdb.org/t/p/w200/xbbXp9px4o8Oe7IbGd0yIbla8mZ.jpg) | ![](https://image.tmdb.org/t/p/w200/xnopI5Xtky18MPhK40cZAGAOVeV.jpg) | ![](https://image.tmdb.org/t/p/w200/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg)
-
-## 5 menos avaliados
-
-**Stay Tuned** | **7 Dwarves: The Forest Is Not Enough** | **Tales of Terror** | **Teen Witch** | **Doctor Dolittle**
- -- | -- | -- | -- | -- 
-*150* | *152* | *152* | *154* | *156*
-![](https://image.tmdb.org/t/p/w200/yd2MN9zA30eGjf89DaaNoUXbRNp.jpg) | ![](https://image.tmdb.org/t/p/w200/x9fLyw1ihuyLodGnHvfFoKWq2su.jpg) | ![](https://image.tmdb.org/t/p/w200/rYu4zsDVtLQW9ky564hQHD86nm0.jpg) | ![](https://image.tmdb.org/t/p/w200/51A71crqobviJRX2Ktl7JVROwdv.jpg) | ![](https://image.tmdb.org/t/p/w200/rViuZo27U8wcZHGuRliv9LfmhjV.jpg)
-
-**Gêneros mais comuns:**
-* Comedy (226)
-* Fantasy (186)
-* Horror (68)
-* Romance (66)
-* Drama (49)
-* Family (46)
-* Action (10)
-* Science Fiction (8)
-* Music (7)
-* Crime (4)
-* Thriller (4)
-* Mystery (4)
-* TV Movie (2)
-
-
-**Palavras-chave mais comuns:**
-* christmas (18)
-* magic (16)
-* zombie (15)
-* musical (15)
-* ghost (14)
-* holiday (14)
-* witch (12)
-* time travel (11)
-* love (10)
-* dark comedy (10)
-* family (10)
-* murder (10)
-* afterlife (9)
-* high school (9)
-* dog (8)
-
-# Cluster 22
-**Total de filmes:** 22
-**Média de ano de lançamento:** 1996
-**Menor ano:** 1925 (The Phantom of the Opera)
-**Maior ano:** 2022 (La Abuela (The Grandmother))
-
-## 5 Mais Velhos 
-
-**The Phantom of the Opera** | **Freaks** | **The Masque of the Red Death** | **Hour of the Wolf** | **Salò, or the 120 Days of Sodom**
- -- | -- | -- | -- | -- 
-*1925* | *1932* | *1964* | *1968* | *1976*
- ![](https://image.tmdb.org/t/p/w200/mvaYpAYj957C2tlq3vVJPSzGJXK.jpg) |  ![](https://image.tmdb.org/t/p/w200/idK9v05lDtXm67bylUhQyvVlZM6.jpg) |  ![](https://image.tmdb.org/t/p/w200/x52MGrgytAwkePmGcwrC932hDCF.jpg) |  ![](https://image.tmdb.org/t/p/w200/jSqTnEP1x1OcOglqrInYvGSF1tL.jpg) |  ![](https://image.tmdb.org/t/p/w200/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg)
-
-## 5 mais novos
-
-**La Abuela (The Grandmother)** | **The Offering** | **32 Malasana Street** | **Raw** | **The Eyes of My Mother**
- -- | -- | -- | -- | -- 
-*2022* | *2022* | *2020* | *2016* | *2016*
-![](https://image.tmdb.org/t/p/w200/ri3KIjGp3Ek6iKUsTzMigmxTvdw.jpg) | ![](https://image.tmdb.org/t/p/w200/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg) | ![](https://image.tmdb.org/t/p/w200/neCS8vPAtsj9cJDGNaEH76ImSd7.jpg) | ![](https://image.tmdb.org/t/p/w200/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg) | ![](https://image.tmdb.org/t/p/w200/hoR1TAxIkO1rRHu3F7cWzKZqxq.jpg)
-
-**Média da nota:** 6,60
-**Menor nota:** 5,93 (La Abuela (The Grandmother))
-**Maior nota:** 7,82 (Freaks)
-
-## 5 mais bem avaliados
-
-**Freaks** | **Hour of the Wolf** | **Nosferatu the Vampyre** | **Sweeney Todd: The Demon Barber of Fleet Street** | **The Phantom of the Opera**
- -- | -- | -- | -- | -- 
-*7,82* | *7,40* | *7,32* | *7,20* | *7,10*
-![](https://image.tmdb.org/t/p/w200/idK9v05lDtXm67bylUhQyvVlZM6.jpg) | ![](https://image.tmdb.org/t/p/w200/jSqTnEP1x1OcOglqrInYvGSF1tL.jpg) | ![](https://image.tmdb.org/t/p/w200/g7fEH8uafDHYDHOafRPkoud0Tjy.jpg) | ![](https://image.tmdb.org/t/p/w200/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg) | ![](https://image.tmdb.org/t/p/w200/mvaYpAYj957C2tlq3vVJPSzGJXK.jpg)
-
-## 5 menos bem avaliados
-
-**La Abuela (The Grandmother)** | **The Woman** | **The Offering** | **Carrie** | **The Battery**
- -- | -- | -- | -- | -- 
-*5,93* | *6,03* | *6,03* | *6,03* | *6,18*
-![](https://image.tmdb.org/t/p/w200/ri3KIjGp3Ek6iKUsTzMigmxTvdw.jpg) | ![](https://image.tmdb.org/t/p/w200/kYHKQD3GvZlyhLpjsJLiONslZN4.jpg) | ![](https://image.tmdb.org/t/p/w200/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg) | ![](https://image.tmdb.org/t/p/w200/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg) | ![](https://image.tmdb.org/t/p/w200/nI7lzx2t4UPfuqhunB5bEVymOOV.jpg)
-
-**Média de votos:** 1239,0
-**Menor votos:** 226 (The Offering)
-**Maior votos:** 5604 (The Babadook)
-
-## 5 mais avaliados
-
-**The Babadook** | **Sweeney Todd: The Demon Barber of Fleet Street** | **Carrie** | **Raw** | **Salò, or the 120 Days of Sodom**
- -- | -- | -- | -- | -- 
-*5604* | *5466* | *4193* | *2935* | *1800*
-![](https://image.tmdb.org/t/p/w200/lszpCmmPCKHvzn2OBx7bAgXlfhC.jpg) | ![](https://image.tmdb.org/t/p/w200/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg) | ![](https://image.tmdb.org/t/p/w200/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg) | ![](https://image.tmdb.org/t/p/w200/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg) | ![](https://image.tmdb.org/t/p/w200/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg)
-
-## 5 menos avaliados
-
-**The Offering** | **The Addiction** | **The Strange Thing About the Johnsons** | **The Battery** | **The Masque of the Red Death**
- -- | -- | -- | -- | -- 
-*226* | *232* | *234* | *238* | *271*
-![](https://image.tmdb.org/t/p/w200/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg) | ![](https://image.tmdb.org/t/p/w200/1Yy8H2tKQ16mffLFRfxcBHKBdyF.jpg) | ![](https://image.tmdb.org/t/p/w200/ac2GXs7rJ7eQBKcvjRA3VDSNxA4.jpg) | ![](https://image.tmdb.org/t/p/w200/nI7lzx2t4UPfuqhunB5bEVymOOV.jpg) | ![](https://image.tmdb.org/t/p/w200/x52MGrgytAwkePmGcwrC932hDCF.jpg)
-
-**Gêneros mais comuns:**
-* Drama (22)
-* Horror (22)
-
-
-**Palavras-chave mais comuns:**
-* cannibal (3)
-* revenge (3)
-* murder (3)
-* vampire (3)
-* castle (3)
-* nightmare (2)
-* incest (2)
-* prank (2)
-* sadism (2)
-* philosophy (2)
-* torture (2)
-* abuse (2)
-* small town (2)
-* madrid (2)
-* spain (2)
-
-# Cluster 23
-**Total de filmes:** 74
-**Média de ano de lançamento:** 2008
-**Menor ano:** 1950 (Stage Fright)
-**Maior ano:** 2022 (Fall)
-
-## 5 Mais Velhos 
-
-**Stage Fright** | **Niagara** | **Cape Fear** | **Wait Until Dark** | **Marathon Man**
- -- | -- | -- | -- | -- 
-*1950* | *1953* | *1962* | *1967* | *1976*
- ![](https://image.tmdb.org/t/p/w200/l43OTqhib8do1WwXig8JI8Y68Fd.jpg) |  ![](https://image.tmdb.org/t/p/w200/m9ftjuwaaKHR4iv5SgMpXA5pIGN.jpg) |  ![](https://image.tmdb.org/t/p/w200/9BzUTJMoH1mQUiqI1C9glrWEuxa.jpg) |  ![](https://image.tmdb.org/t/p/w200/8WJOL49WakZcV3JIcIyl8vYq3mw.jpg) |  ![](https://image.tmdb.org/t/p/w200/uPNgubSiri2yvBQRPtP77ViYjN.jpg)
-
-## 5 mais novos
-
-**Fall** | **I Came By** | **On the Line** | **Savage Salvation** | **See for Me**
- -- | -- | -- | -- | -- 
-*2022* | *2022* | *2022* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/v28T5F1IygM8vXWZIycfNEm3xcL.jpg) | ![](https://image.tmdb.org/t/p/w200/pFB9jZDl52jBNbMPVSlISXD1ggS.jpg) | ![](https://image.tmdb.org/t/p/w200/jVmWI8PqoVTHCnrLYAcyrclzeY0.jpg) | ![](https://image.tmdb.org/t/p/w200/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg) | ![](https://image.tmdb.org/t/p/w200/qk1ZERG6yhwAJqTobmDgw8jRL2C.jpg)
-
-**Média da nota:** 6,36
-**Menor nota:** 5,50 (Trespass)
-**Maior nota:** 7,61 (Who Am I)
-
-## 5 mais bem avaliados
-
-**Who Am I** | **Cape Fear** | **Wait Until Dark** | **Fracture** | **Cape Fear**
- -- | -- | -- | -- | -- 
-*7,61* | *7,43* | *7,40* | *7,28* | *7,26*
-![](https://image.tmdb.org/t/p/w200/oR3tbNzJMJmCKS5O5fanU9yxIOk.jpg) | ![](https://image.tmdb.org/t/p/w200/9BzUTJMoH1mQUiqI1C9glrWEuxa.jpg) | ![](https://image.tmdb.org/t/p/w200/8WJOL49WakZcV3JIcIyl8vYq3mw.jpg) | ![](https://image.tmdb.org/t/p/w200/qNen8x5gaikjIg9CFihgxYcJwQe.jpg) | ![](https://image.tmdb.org/t/p/w200/59bTrfennDfQec2ugRJ3c2z8mE.jpg)
-
-## 5 menos bem avaliados
-
-**Trespass** | **The Juror** | **Break** | **Security** | **The Perfect Guy**
- -- | -- | -- | -- | -- 
-*5,50* | *5,53* | *5,56* | *5,62* | *5,68*
-![](https://image.tmdb.org/t/p/w200/yP60huMcPTWOJfplRLi4FQAEQxX.jpg) | ![](https://image.tmdb.org/t/p/w200/i1EXzLNc4c9Xd0xjCmGavb0Hz9k.jpg) | ![](https://image.tmdb.org/t/p/w200/66OBBkqi9v5txzDPLzGULqVeB30.jpg) | ![](https://image.tmdb.org/t/p/w200/wLjN3vIw63GJ6m1J2fhGL3D2VXd.jpg) | ![](https://image.tmdb.org/t/p/w200/k1U3ROFFCVbu9H63lKYMbXEHeJI.jpg)
-
-**Média de votos:** 725,0
-**Menor votos:** 150 (Takedown)
-**Maior votos:** 3599 (Fracture)
-
-## 5 mais avaliados
-
-**Fracture** | **Phone Booth** | **Fall** | **Cape Fear** | **No Escape**
- -- | -- | -- | -- | -- 
-*3599* | *3392* | *3217* | *3087* | *2346*
-![](https://image.tmdb.org/t/p/w200/qNen8x5gaikjIg9CFihgxYcJwQe.jpg) | ![](https://image.tmdb.org/t/p/w200/o9b4cA1USAUXz0oxwWVja7sMNFa.jpg) | ![](https://image.tmdb.org/t/p/w200/v28T5F1IygM8vXWZIycfNEm3xcL.jpg) | ![](https://image.tmdb.org/t/p/w200/59bTrfennDfQec2ugRJ3c2z8mE.jpg) | ![](https://image.tmdb.org/t/p/w200/6WLnzTG4Hz3lFvfZGSsyB8NFGgM.jpg)
-
-## 5 menos avaliados
-
-**Takedown** | **M.F.A.** | **See for Me** | **Break** | **Detour**
- -- | -- | -- | -- | -- 
-*150* | *151* | *157* | *163* | *166*
-![](https://image.tmdb.org/t/p/w200/vQk9GLOjM7gAfqHdWWzt7emGP16.jpg) | ![](https://image.tmdb.org/t/p/w200/ntXFNanjY22rsyXS94FiSYHJFKN.jpg) | ![](https://image.tmdb.org/t/p/w200/qk1ZERG6yhwAJqTobmDgw8jRL2C.jpg) | ![](https://image.tmdb.org/t/p/w200/66OBBkqi9v5txzDPLzGULqVeB30.jpg) | ![](https://image.tmdb.org/t/p/w200/f7KpfESUH0Vy74XP9zYcbp1zCGo.jpg)
-
-**Gêneros mais comuns:**
-* Thriller (74)
-
-
-**Palavras-chave mais comuns:**
-* murder (9)
-* psychopath (6)
-* revenge (6)
-* legal thriller (4)
-* lawyer (4)
-* obsession (4)
-* criminal (4)
-* small town (3)
-* rape (3)
-* psychological thriller (3)
-* family (3)
-* hacker (3)
-* kidnapping (3)
-* home invasion (3)
-* investigation (3)
-
-# Cluster 24
-**Total de filmes:** 12
-**Média de ano de lançamento:** 2006
-**Menor ano:** 1982 (Fitzcarraldo)
-**Maior ano:** 2020 (Joe Bell)
-
-## 5 Mais Velhos 
-
-**Fitzcarraldo** | **The Mosquito Coast** | **Itinerary of a Spoiled Child** | **White Squall** | **Gerry**
- -- | -- | -- | -- | -- 
-*1982* | *1986* | *1988* | *1996* | *2002*
- ![](https://image.tmdb.org/t/p/w200/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg) |  ![](https://image.tmdb.org/t/p/w200/8A1iDYSp8H5WORWZVCV3E3SpkGD.jpg) |  ![](https://image.tmdb.org/t/p/w200/lzE9jHrYbjgT9IEuNMNvDuYVYhl.jpg) |  ![](https://image.tmdb.org/t/p/w200/muhTVa52IufjTaqNseXFQUAEuyG.jpg) |  ![](https://image.tmdb.org/t/p/w200/jzuPVECdfWuHoBIqQEFajbSwwpa.jpg)
-
-## 5 mais novos
-
-**Joe Bell** | **Monos** | **Lean on Pete** | **The Mercy** | **Embrace of the Serpent**
- -- | -- | -- | -- | -- 
-*2020* | *2019* | *2018* | *2018* | *2015*
-![](https://image.tmdb.org/t/p/w200/p0VdrVeRJw2ENFNwZc8PacxYSeo.jpg) | ![](https://image.tmdb.org/t/p/w200/oxxIOWDP6beG37VG3jMxE77pRwC.jpg) | ![](https://image.tmdb.org/t/p/w200/7SuPHSo9Uw8GACkP2oPst512Qhl.jpg) | ![](https://image.tmdb.org/t/p/w200/51qWwl16Mb0hqorgffCtyENwTPP.jpg) | ![](https://image.tmdb.org/t/p/w200/t3Lmw8jvm7tpik0lSkub8hU4oRW.jpg)
-
-**Média da nota:** 6,70
-**Menor nota:** 5,65 (Noah)
-**Maior nota:** 7,67 (Embrace of the Serpent)
-
-## 5 mais bem avaliados
-
-**Embrace of the Serpent** | **Fitzcarraldo** | **Nebraska** | **Itinerary of a Spoiled Child** | **Lean on Pete**
- -- | -- | -- | -- | -- 
-*7,67* | *7,63* | *7,43* | *7,32* | *6,93*
-![](https://image.tmdb.org/t/p/w200/t3Lmw8jvm7tpik0lSkub8hU4oRW.jpg) | ![](https://image.tmdb.org/t/p/w200/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg) | ![](https://image.tmdb.org/t/p/w200/o1t2Mw18EEBnl8v4Nby3PFjxnM1.jpg) | ![](https://image.tmdb.org/t/p/w200/lzE9jHrYbjgT9IEuNMNvDuYVYhl.jpg) | ![](https://image.tmdb.org/t/p/w200/7SuPHSo9Uw8GACkP2oPst512Qhl.jpg)
-
-## 5 menos bem avaliados
-
-**Noah** | **The Mercy** | **Gerry** | **White Squall** | **The Mosquito Coast**
- -- | -- | -- | -- | -- 
-*5,65* | *5,93* | *6,00* | *6,29* | *6,36*
-![](https://image.tmdb.org/t/p/w200/trtD17IqSWV9Nbn4OILztc9GuCX.jpg) | ![](https://image.tmdb.org/t/p/w200/51qWwl16Mb0hqorgffCtyENwTPP.jpg) | ![](https://image.tmdb.org/t/p/w200/jzuPVECdfWuHoBIqQEFajbSwwpa.jpg) | ![](https://image.tmdb.org/t/p/w200/muhTVa52IufjTaqNseXFQUAEuyG.jpg) | ![](https://image.tmdb.org/t/p/w200/8A1iDYSp8H5WORWZVCV3E3SpkGD.jpg)
-
-**Média de votos:** 900,0
-**Menor votos:** 177 (Itinerary of a Spoiled Child)
-**Maior votos:** 5846 (Noah)
-
-## 5 mais avaliados
-
-**Noah** | **Nebraska** | **Fitzcarraldo** | **The Mosquito Coast** | **Embrace of the Serpent**
- -- | -- | -- | -- | -- 
-*5846* | *1612* | *653* | *421* | *421*
-![](https://image.tmdb.org/t/p/w200/trtD17IqSWV9Nbn4OILztc9GuCX.jpg) | ![](https://image.tmdb.org/t/p/w200/o1t2Mw18EEBnl8v4Nby3PFjxnM1.jpg) | ![](https://image.tmdb.org/t/p/w200/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg) | ![](https://image.tmdb.org/t/p/w200/8A1iDYSp8H5WORWZVCV3E3SpkGD.jpg) | ![](https://image.tmdb.org/t/p/w200/t3Lmw8jvm7tpik0lSkub8hU4oRW.jpg)
-
-## 5 menos avaliados
-
-**Itinerary of a Spoiled Child** | **Joe Bell** | **The Mercy** | **Gerry** | **Lean on Pete**
- -- | -- | -- | -- | -- 
-*177* | *179* | *255* | *275* | *297*
-![](https://image.tmdb.org/t/p/w200/lzE9jHrYbjgT9IEuNMNvDuYVYhl.jpg) | ![](https://image.tmdb.org/t/p/w200/p0VdrVeRJw2ENFNwZc8PacxYSeo.jpg) | ![](https://image.tmdb.org/t/p/w200/51qWwl16Mb0hqorgffCtyENwTPP.jpg) | ![](https://image.tmdb.org/t/p/w200/jzuPVECdfWuHoBIqQEFajbSwwpa.jpg) | ![](https://image.tmdb.org/t/p/w200/7SuPHSo9Uw8GACkP2oPst512Qhl.jpg)
-
-**Gêneros mais comuns:**
-* Drama (12)
-* Adventure (12)
-
-
-**Palavras-chave mais comuns:**
-* peru (2)
-* amazon rainforest (2)
-* nature (2)
-* 1960s (2)
-* genesis (1)
-* fairy tale (1)
-* bible (1)
-* god (1)
-* apocalypse (1)
-* flood (1)
-* old testament (1)
-* noah (1)
-* noah's ark (1)
-* small town (1)
-* dementia (1)
-
-# Cluster 25
-**Total de filmes:** 68
-**Média de ano de lançamento:** 1995
-**Menor ano:** 1924 (Greed)
-**Maior ano:** 2021 (The Unforgivable)
-
-## 5 Mais Velhos 
-
-**Greed** | **Little Caesar** | **La Bête Humaine** | **Scarlet Street** | **Bitter Rice**
- -- | -- | -- | -- | -- 
-*1924* | *1931* | *1938* | *1945* | *1949*
- ![](https://image.tmdb.org/t/p/w200/zT8XclM0tX5nVsnU3Idsn2Nzdo5.jpg) |  ![](https://image.tmdb.org/t/p/w200/1K3Q1tAHHA5Sdtja2pPALBQevA7.jpg) |  ![](https://image.tmdb.org/t/p/w200/9i3YbpFnn6pjGdS7uhFmoAuCZgt.jpg) |  ![](https://image.tmdb.org/t/p/w200/eGEDor1BWSQGaLtOntPHUSqNzRC.jpg) |  ![](https://image.tmdb.org/t/p/w200/9vvbZgbkfE7urqQXRNiONmvYTtF.jpg)
-
-## 5 mais novos
-
-**The Unforgivable** | **Cherry** | **The Girl with a Bracelet** | **Richard Jewell** | **Piranhas**
- -- | -- | -- | -- | -- 
-*2021* | *2021* | *2020* | *2019* | *2019*
-![](https://image.tmdb.org/t/p/w200/1b3dNFDuE7i05TJlXrIC571yR01.jpg) | ![](https://image.tmdb.org/t/p/w200/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg) | ![](https://image.tmdb.org/t/p/w200/vnIQq8R50P7rEwi2UivROxYiJv3.jpg) | ![](https://image.tmdb.org/t/p/w200/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg) | ![](https://image.tmdb.org/t/p/w200/pWRGR6xqgXmODBhlLdxSsYJASTR.jpg)
-
-**Média da nota:** 7,24
-**Menor nota:** 5,91 (London Boulevard)
-**Maior nota:** 8,71 (The Godfather)
-
-## 5 mais bem avaliados
-
-**The Godfather** | **The Shawshank Redemption** | **The Godfather Part II** | **GoodFellas** | **City of God**
- -- | -- | -- | -- | -- 
-*8,71* | *8,70* | *8,59* | *8,46* | *8,43*
-![](https://image.tmdb.org/t/p/w200/3bhkrj58Vtu7enYsRolD1fZdja1.jpg) | ![](https://image.tmdb.org/t/p/w200/lyQBXzOQSuE59IsHyhrp0qIiPAz.jpg) | ![](https://image.tmdb.org/t/p/w200/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg) | ![](https://image.tmdb.org/t/p/w200/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg) | ![](https://image.tmdb.org/t/p/w200/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg)
-
-## 5 menos bem avaliados
-
-**London Boulevard** | **Charlie Says** | **Wall Street: Money Never Sleeps** | **Bad Lieutenant: Port of Call - New Orleans** | **Infamous**
- -- | -- | -- | -- | -- 
-*5,91* | *5,92* | *6,09* | *6,13* | *6,45*
-![](https://image.tmdb.org/t/p/w200/naQKmThKMtlur92CDgCP6b9aoQE.jpg) | ![](https://image.tmdb.org/t/p/w200/nwYDXLQpPULdUbwkTc4gWpMJufn.jpg) | ![](https://image.tmdb.org/t/p/w200/i9DFTWbD6mpM6UT3HlzZwlA92l4.jpg) | ![](https://image.tmdb.org/t/p/w200/zRULXsd0rb1lVfnSyQkYPi2nLcB.jpg) | ![](https://image.tmdb.org/t/p/w200/cIQUn20lUQpi70W0Z7ixezQJ7gj.jpg)
-
-**Média de votos:** 2471,0
-**Menor votos:** 151 (Bleeder)
-**Maior votos:** 24649 (The Shawshank Redemption)
-
-## 5 mais avaliados
-
-**The Shawshank Redemption** | **The Godfather** | **Catch Me If You Can** | **GoodFellas** | **The Godfather Part II**
- -- | -- | -- | -- | -- 
-*24649* | *18677* | *14393* | *11726* | *11293*
-![](https://image.tmdb.org/t/p/w200/lyQBXzOQSuE59IsHyhrp0qIiPAz.jpg) | ![](https://image.tmdb.org/t/p/w200/3bhkrj58Vtu7enYsRolD1fZdja1.jpg) | ![](https://image.tmdb.org/t/p/w200/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg) | ![](https://image.tmdb.org/t/p/w200/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg) | ![](https://image.tmdb.org/t/p/w200/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg)
-
-## 5 menos avaliados
-
-**Bleeder** | **Greed** | **The Swindle** | **Funeral Parade of Roses** | **Trial by Fire**
- -- | -- | -- | -- | -- 
-*151* | *162* | *169* | *172* | *179*
-![](https://image.tmdb.org/t/p/w200/sWrGl4s8L1nOYQg49bHhZ2g19ji.jpg) | ![](https://image.tmdb.org/t/p/w200/zT8XclM0tX5nVsnU3Idsn2Nzdo5.jpg) | ![](https://image.tmdb.org/t/p/w200/kpo4sZyeOX3dIY0l8uZ2f214mK8.jpg) | ![](https://image.tmdb.org/t/p/w200/7cRQ6rSGajW2soWDr3voEN2rgYO.jpg) | ![](https://image.tmdb.org/t/p/w200/Aeon31iP17ys9FesAK3bLycXI6v.jpg)
-
-**Gêneros mais comuns:**
-* Drama (68)
-* Crime (68)
-
-
-**Palavras-chave mais comuns:**
-* gangster (14)
-* murder (12)
-* organized crime (8)
-* friendship (7)
-* 1970s (7)
-* 1960s (7)
-* gambling (7)
-* prison (5)
-* mafia (5)
-* heroin (5)
-* ghetto (5)
-* corruption (4)
-* lawyer (4)
-* fbi (4)
-* revenge (4)
-
-# Cluster 26
-**Total de filmes:** 22
-**Média de ano de lançamento:** 2005
-**Menor ano:** 1984 (The Terminator)
-**Maior ano:** 2020 (Tenet)
-
-## 5 Mais Velhos 
-
-**The Terminator** | **Aliens** | **RoboCop** | **Terminator 2: Judgment Day** | **Fortress**
- -- | -- | -- | -- | -- 
-*1984* | *1986* | *1987* | *1991* | *1992*
- ![](https://image.tmdb.org/t/p/w200/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg) |  ![](https://image.tmdb.org/t/p/w200/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg) |  ![](https://image.tmdb.org/t/p/w200/hHtOgGb3NihlyRATHlKPaFApbrd.jpg) |  ![](https://image.tmdb.org/t/p/w200/5M0j0B18abtBI5gi2RhfjjurTqb.jpg) |  ![](https://image.tmdb.org/t/p/w200/whMDDlgY0AmjMdLuaUDg8XsShWi.jpg)
-
-## 5 mais novos
-
-**Tenet** | **Upgrade** | **Death Race: Beyond Anarchy** | **Looper** | **Lockout**
- -- | -- | -- | -- | -- 
-*2020* | *2018* | *2018* | *2012* | *2012*
-![](https://image.tmdb.org/t/p/w200/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg) | ![](https://image.tmdb.org/t/p/w200/5f28TXtvHioXirX2n1XH8EJ314v.jpg) | ![](https://image.tmdb.org/t/p/w200/1PrlKvPUbDQAqFQBCyyt68hLLl.jpg) | ![](https://image.tmdb.org/t/p/w200/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg) | ![](https://image.tmdb.org/t/p/w200/i5QfNIcg6hc327IWUerea0EczP4.jpg)
-
-**Média da nota:** 6,79
-**Menor nota:** 5,70 (Gamer)
-**Maior nota:** 8,10 (Terminator 2: Judgment Day)
-
-## 5 mais bem avaliados
-
-**Terminator 2: Judgment Day** | **Aliens** | **V for Vendetta** | **The Terminator** | **Upgrade**
- -- | -- | -- | -- | -- 
-*8,10* | *7,93* | *7,90* | *7,65* | *7,49*
-![](https://image.tmdb.org/t/p/w200/5M0j0B18abtBI5gi2RhfjjurTqb.jpg) | ![](https://image.tmdb.org/t/p/w200/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg) | ![](https://image.tmdb.org/t/p/w200/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg) | ![](https://image.tmdb.org/t/p/w200/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg) | ![](https://image.tmdb.org/t/p/w200/5f28TXtvHioXirX2n1XH8EJ314v.jpg)
-
-## 5 menos bem avaliados
-
-**Gamer** | **Death Race 2** | **Lockout** | **Doomsday** | **Fortress**
- -- | -- | -- | -- | -- 
-*5,70* | *5,79* | *5,90* | *5,95* | *6,06*
-![](https://image.tmdb.org/t/p/w200/rfQtqLHeisaQ4HlYtNremtUl9oP.jpg) | ![](https://image.tmdb.org/t/p/w200/80mBFNVvak2bA9TJN1MD0yM7Lfi.jpg) | ![](https://image.tmdb.org/t/p/w200/i5QfNIcg6hc327IWUerea0EczP4.jpg) | ![](https://image.tmdb.org/t/p/w200/cKUmTyXgmhv8cMRCY9RYTKcAeTn.jpg) | ![](https://image.tmdb.org/t/p/w200/whMDDlgY0AmjMdLuaUDg8XsShWi.jpg)
-
-**Média de votos:** 5444,0
-**Menor votos:** 295 (Death Race: Beyond Anarchy)
-**Maior votos:** 13556 (V for Vendetta)
-
-## 5 mais avaliados
-
-**V for Vendetta** | **The Terminator** | **Terminator 2: Judgment Day** | **In Time** | **Looper**
- -- | -- | -- | -- | -- 
-*13556* | *11874* | *11744* | *10556* | *9606*
-![](https://image.tmdb.org/t/p/w200/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg) | ![](https://image.tmdb.org/t/p/w200/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg) | ![](https://image.tmdb.org/t/p/w200/5M0j0B18abtBI5gi2RhfjjurTqb.jpg) | ![](https://image.tmdb.org/t/p/w200/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg) | ![](https://image.tmdb.org/t/p/w200/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg)
-
-## 5 menos avaliados
-
-**Death Race: Beyond Anarchy** | **Fortress** | **Death Race 2** | **Doomsday** | **District B13**
- -- | -- | -- | -- | -- 
-*295* | *588* | *1011* | *1174* | *1674*
-![](https://image.tmdb.org/t/p/w200/1PrlKvPUbDQAqFQBCyyt68hLLl.jpg) | ![](https://image.tmdb.org/t/p/w200/whMDDlgY0AmjMdLuaUDg8XsShWi.jpg) | ![](https://image.tmdb.org/t/p/w200/80mBFNVvak2bA9TJN1MD0yM7Lfi.jpg) | ![](https://image.tmdb.org/t/p/w200/cKUmTyXgmhv8cMRCY9RYTKcAeTn.jpg) | ![](https://image.tmdb.org/t/p/w200/u9gOfYelDwmvAmXWC1jgCFIY8RB.jpg)
-
-**Gêneros mais comuns:**
-* Action (22)
-* Thriller (22)
-* Science Fiction (22)
-
-
-**Palavras-chave mais comuns:**
-* dystopia (16)
-* cyborg (6)
-* time travel (6)
-* action hero (6)
-* future (5)
-* death game (4)
-* artificial intelligence (a.i.) (3)
-* villain (3)
-* urban setting (3)
-* good versus evil (3)
-* terminator (3)
-* post-apocalyptic future (3)
-* 2030s (3)
-* prison (3)
-* car race (3)
-
-# Cluster 27
-**Total de filmes:** 71
-**Média de ano de lançamento:** 2005
-**Menor ano:** 1964 (Blood and Black Lace)
-**Maior ano:** 2023 (Insidious: The Red Door)
-
-## 5 Mais Velhos 
-
-**Blood and Black Lace** | **Kill, Baby... Kill!** | **The Bird with the Crystal Plumage** | **The Cat o' Nine Tails** | **Torso**
- -- | -- | -- | -- | -- 
-*1964* | *1966* | *1970* | *1971* | *1973*
- ![](https://image.tmdb.org/t/p/w200/siEti5iNAbN91Q3AR2XRPfJ1E6O.jpg) |  ![](https://image.tmdb.org/t/p/w200/fyGzcMVf8iospgEtBoZkvO9j9Vr.jpg) |  ![](https://image.tmdb.org/t/p/w200/dpALRkwodEIT7TGX9SqTgwVNn0i.jpg) |  ![](https://image.tmdb.org/t/p/w200/vVfylUKX9Lz3Idpu0J3ds7vGXoF.jpg) |  ![](https://image.tmdb.org/t/p/w200/tWwaVVGHkl9FTVRApyAQdBa2ayU.jpg)
-
-## 5 mais novos
-
-**Insidious: The Red Door** | **The Nun II** | **Scream** | **Smile** | **Barbarian**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2022* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/d07phJqCx6z5wILDYqkyraorDPi.jpg) | ![](https://image.tmdb.org/t/p/w200/c9kVD7W8CT5xe4O3hQ7bFWwk68U.jpg) | ![](https://image.tmdb.org/t/p/w200/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg) | ![](https://image.tmdb.org/t/p/w200/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg) | ![](https://image.tmdb.org/t/p/w200/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg)
-
-**Média da nota:** 6,34
-**Menor nota:** 5,50 (Shutter)
-**Maior nota:** 7,77 (Deep Red)
-
-## 5 mais bem avaliados
-
-**Deep Red** | **The Others** | **The Conjuring: The Devil Made Me Do It** | **Blood and Black Lace** | **Ghostland**
- -- | -- | -- | -- | -- 
-*7,77* | *7,61* | *7,49* | *7,40* | *7,35*
-![](https://image.tmdb.org/t/p/w200/wq7RxV5gMvgO0EKeWpNhegnpJBh.jpg) | ![](https://image.tmdb.org/t/p/w200/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg) | ![](https://image.tmdb.org/t/p/w200/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg) | ![](https://image.tmdb.org/t/p/w200/siEti5iNAbN91Q3AR2XRPfJ1E6O.jpg) | ![](https://image.tmdb.org/t/p/w200/rMOEWekwTpsqsdsz1k8HobBNFPq.jpg)
-
-## 5 menos bem avaliados
-
-**Shutter** | **A Nightmare on Elm Street** | **Unfriended** | **All the Boys Love Mandy Lane** | **Regression**
- -- | -- | -- | -- | -- 
-*5,50* | *5,52* | *5,53* | *5,53* | *5,57*
-![](https://image.tmdb.org/t/p/w200/bft6OyITsxSZuTxu2oJipApLran.jpg) | ![](https://image.tmdb.org/t/p/w200/t8YEQvPlvRAt9UamhwRC0zsLkCk.jpg) | ![](https://image.tmdb.org/t/p/w200/8byPxREr3BqBNyyij5WHVSOVtYk.jpg) | ![](https://image.tmdb.org/t/p/w200/9t7n7K0xqw0gMvrxyhdiyqEF3W1.jpg) | ![](https://image.tmdb.org/t/p/w200/luHpMTmU1ygtEgdOTSSj0i9nd8E.jpg)
-
-**Média de votos:** 1458,0
-**Menor votos:** 152 (False Positive)
-**Maior votos:** 6880 (Hereditary)
-
-## 5 mais avaliados
-
-**Hereditary** | **The Nun** | **The Others** | **The Conjuring: The Devil Made Me Do It** | **Annabelle: Creation**
- -- | -- | -- | -- | -- 
-*6880* | *6076* | *5916* | *5407* | *5258*
-![](https://image.tmdb.org/t/p/w200/p9fmuz2Oj3HtEJEqbIwkFGUhVXD.jpg) | ![](https://image.tmdb.org/t/p/w200/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg) | ![](https://image.tmdb.org/t/p/w200/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg) | ![](https://image.tmdb.org/t/p/w200/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg) | ![](https://image.tmdb.org/t/p/w200/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg)
-
-## 5 menos avaliados
-
-**False Positive** | **Long Weekend** | **Torso** | **Witchboard** | **The House on Sorority Row**
- -- | -- | -- | -- | -- 
-*152* | *152* | *157* | *162* | *180*
-![](https://image.tmdb.org/t/p/w200/3HSov8EW2fI3oQbUJxOvnf684ej.jpg) | ![](https://image.tmdb.org/t/p/w200/roZ7DGi30lA1O4zhtPwBh6q8JV6.jpg) | ![](https://image.tmdb.org/t/p/w200/tWwaVVGHkl9FTVRApyAQdBa2ayU.jpg) | ![](https://image.tmdb.org/t/p/w200/d5lDHBzEgBkgAarXpUl56u2vM8c.jpg) | ![](https://image.tmdb.org/t/p/w200/vAyKdAk9RzehtXuKPVjOz9Gpzzj.jpg)
-
-**Gêneros mais comuns:**
-* Horror (71)
-* Mystery (71)
-* Thriller (71)
-
-
-**Palavras-chave mais comuns:**
-* murder (23)
-* serial killer (14)
-* supernatural (12)
-* slasher (10)
-* demon (7)
-* ghost (7)
-* flashback (7)
-* hospital (7)
-* whodunit (7)
-* investigation (7)
-* haunted house (6)
-* revenge (6)
-* psychopath (6)
-* possession (5)
-* the conjuring universe (5)
-
-# Cluster 28
-**Total de filmes:** 100
-**Média de ano de lançamento:** 2010
-**Menor ano:** 1962 (King Kong vs. Godzilla)
-**Maior ano:** 2023 (Guardians of the Galaxy Vol. 3)
-
-## 5 Mais Velhos 
-
-**King Kong vs. Godzilla** | **Superman** | **The Black Hole** | **Superman II** | **The Last Starfighter**
- -- | -- | -- | -- | -- 
-*1962* | *1978* | *1979* | *1980* | *1984*
- ![](https://image.tmdb.org/t/p/w200/dmCfyzUl0Ylk8Rpi6dYyWuBrnNr.jpg) |  ![](https://image.tmdb.org/t/p/w200/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg) |  ![](https://image.tmdb.org/t/p/w200/92fghstMdnJQPxoqWPGtRhbUb8G.jpg) |  ![](https://image.tmdb.org/t/p/w200/jw0tYFCbzjBN8SIhvRC2kdh7pzh.jpg) |  ![](https://image.tmdb.org/t/p/w200/an1H0DPADLDlEsiUy8vE9AWqrhm.jpg)
-
-## 5 mais novos
-
-**Guardians of the Galaxy Vol. 3** | **Spider-Man: Across the Spider-Verse** | **Mighty Morphin Power Rangers: Once & Always** | **Morbius** | **Secret Headquarters**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg) | ![](https://image.tmdb.org/t/p/w200/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg) | ![](https://image.tmdb.org/t/p/w200/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg) | ![](https://image.tmdb.org/t/p/w200/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg) | ![](https://image.tmdb.org/t/p/w200/1vWUX8n6sZ1P0BFpfzwtMgIPdfj.jpg)
-
-**Média da nota:** 6,88
-**Menor nota:** 5,63 (Max Steel)
-**Maior nota:** 8,44 (Spider-Man: Across the Spider-Verse)
-
-## 5 mais bem avaliados
-
-**Spider-Man: Across the Spider-Verse** | **Spider-Man: Into the Spider-Verse** | **Avengers: Endgame** | **Miraculous World: New York, United HeroeZ** | **Guardians of the Galaxy Vol. 3**
- -- | -- | -- | -- | -- 
-*8,44* | *8,40* | *8,26* | *8,17* | *8,02*
-![](https://image.tmdb.org/t/p/w200/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg) | ![](https://image.tmdb.org/t/p/w200/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg) | ![](https://image.tmdb.org/t/p/w200/or06FN3Dka5tukK1e9sl16pB3iy.jpg) | ![](https://image.tmdb.org/t/p/w200/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg) | ![](https://image.tmdb.org/t/p/w200/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg)
-
-## 5 menos bem avaliados
-
-**Max Steel** | **Masters of the Universe** | **Iron Man & Hulk: Heroes United** | **The Meteor Man** | **Planet of the Apes**
- -- | -- | -- | -- | -- 
-*5,63* | *5,66* | *5,70* | *5,72* | *5,73*
-![](https://image.tmdb.org/t/p/w200/AuEzNLF8yvzd169guYEFisqvy5z.jpg) | ![](https://image.tmdb.org/t/p/w200/gaUecXFd31V68yOTJPJYaB9YhAf.jpg) | ![](https://image.tmdb.org/t/p/w200/e7F2ZNA7wMneoSKGonLKjDmjFEd.jpg) | ![](https://image.tmdb.org/t/p/w200/yU4iGGvG51mHj8MOQICdw6ABXzQ.jpg) | ![](https://image.tmdb.org/t/p/w200/2IZcJHsTugOdyg0Y8ejj4CM2X3a.jpg)
-
-**Média de votos:** 3181,0
-**Menor votos:** 153 (Batman vs. Two-Face)
-**Maior votos:** 29166 (The Avengers)
-
-## 5 mais avaliados
-
-**The Avengers** | **Avengers: Endgame** | **Spider-Man: Homecoming** | **Guardians of the Galaxy Vol. 2** | **Ant-Man**
- -- | -- | -- | -- | -- 
-*29166* | *23857* | *20507* | *20353* | *18730*
-![](https://image.tmdb.org/t/p/w200/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg) | ![](https://image.tmdb.org/t/p/w200/or06FN3Dka5tukK1e9sl16pB3iy.jpg) | ![](https://image.tmdb.org/t/p/w200/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg) | ![](https://image.tmdb.org/t/p/w200/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg) | ![](https://image.tmdb.org/t/p/w200/8YxOIPrabqkQCOKKbuxaz9IcqhO.jpg)
-
-## 5 menos avaliados
-
-**Batman vs. Two-Face** | **The Meteor Man** | **Iron Man: Rise of Technovore** | **Kim Possible: A Sitch In Time** | **Iron Man & Hulk: Heroes United**
- -- | -- | -- | -- | -- 
-*153* | *155* | *157* | *167* | *168*
-![](https://image.tmdb.org/t/p/w200/yTbj8Kcp4WFwMRdEejnn55KIsfH.jpg) | ![](https://image.tmdb.org/t/p/w200/yU4iGGvG51mHj8MOQICdw6ABXzQ.jpg) | ![](https://image.tmdb.org/t/p/w200/eHDez1uN5X2ZAq4niX7HvhyZIIO.jpg) | ![](https://image.tmdb.org/t/p/w200/3XAMrWxsqqQI5HNJfegbUXtXiEG.jpg) | ![](https://image.tmdb.org/t/p/w200/e7F2ZNA7wMneoSKGonLKjDmjFEd.jpg)
-
-**Gêneros mais comuns:**
-* Action (99)
-* Science Fiction (87)
-* Adventure (68)
-* Animation (55)
-* Family (18)
-* Fantasy (18)
-* Comedy (10)
-* TV Movie (8)
-* Mystery (7)
-* Thriller (5)
-* Crime (5)
-* Horror (4)
-* Drama (3)
-
-
-**Palavras-chave mais comuns:**
-* superhero (70)
-* super power (41)
-* cartoon (18)
-* superhero team (16)
-* marvel cinematic universe (mcu) (11)
-* hero (11)
-* dc animated movie universe (11)
-* superhuman strength (10)
-* mutant (8)
-* saving the world (8)
-* space travel (7)
-* alien (7)
-* super villain (6)
-* martial arts (6)
-* time travel (5)
+* slapstick comedy (2)
+* family vacation (2)
 
 # Cluster 29
-**Total de filmes:** 581
+**Total de filmes:** 46
+**Média de ano de lançamento:** 2001
+**Menor ano:** 1930 (L'Âge d'or)
+**Maior ano:** 2023 (Somebody I Used to Know)
+
+## 5 Mais Velhos 
+
+**L'Âge d'or** | **The Quiet Man** | **Roman Holiday** | **The Young Girls of Rochefort** | **The Girl with a Pistol**
+ -- | -- | -- | -- | -- 
+*1930* | *1952* | *1953* | *1967* | *1968*
+ ![](https://image.tmdb.org/t/p/w200/q3OH9Yk3hOE5uYEK55ASjEtsPfE.jpg) |  ![](https://image.tmdb.org/t/p/w200/u3B1hVKHE56yBRoxF3Nk9uxHdYN.jpg) |  ![](https://image.tmdb.org/t/p/w200/8lI9dmz1RH20FAqltkGelY1v4BE.jpg) |  ![](https://image.tmdb.org/t/p/w200/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg) |  ![](https://image.tmdb.org/t/p/w200/pbHIDYHPRIVaDSwVT3A6ck2gr8d.jpg)
+
+## 5 mais novos
+
+**Somebody I Used to Know** | **The Noel Diary** | **Love & Gelato** | **To All the Boys: Always and Forever** | **Breaking Up in Rome**
+ -- | -- | -- | -- | -- 
+*2023* | *2022* | *2022* | *2021* | *2021*
+![](https://image.tmdb.org/t/p/w200/ovHxxphDgjyEpYriDoGoIHfrdZL.jpg) | ![](https://image.tmdb.org/t/p/w200/f6mMqxJfAD2Ao4sto7kOq6a7tWg.jpg) | ![](https://image.tmdb.org/t/p/w200/AbGBTH3bWaiJpjCOJ9RSoQ9NPRT.jpg) | ![](https://image.tmdb.org/t/p/w200/iepqdM52f4w75fNcvgRF5QoIAjm.jpg) | ![](https://image.tmdb.org/t/p/w200/QBRtW9mFjbcginDFQWAL3Q0Lhh.jpg)
+
+**Média da nota:** 6,55
+**Menor nota:** 5,33 (The Manual of Love 2)
+**Maior nota:** 8,10 (Afonya)
+
+## 5 mais bem avaliados
+
+**Afonya** | **Roman Holiday** | **My Night at Maud's** | **My Little Monster** | **Chhichhore**
+ -- | -- | -- | -- | -- 
+*8,10* | *7,89* | *7,73* | *7,67* | *7,67*
+![](https://image.tmdb.org/t/p/w200/rU76EYqDaMQbtlUWPcKOvJx7o8X.jpg) | ![](https://image.tmdb.org/t/p/w200/8lI9dmz1RH20FAqltkGelY1v4BE.jpg) | ![](https://image.tmdb.org/t/p/w200/8XKXkI6sR5W4JBG6AvgQH1LcKLa.jpg) | ![](https://image.tmdb.org/t/p/w200/pPxHH7onQ090ygTx5G5erQmQCSH.jpg) | ![](https://image.tmdb.org/t/p/w200/cGDPQtQ5igtPMt3oJ6BCAor6dFp.jpg)
+
+## 5 menos bem avaliados
+
+**The Manual of Love 2** | **Love & Gelato** | **Tiny Furniture** | **Maggie's Plan** | **The Alibi**
+ -- | -- | -- | -- | -- 
+*5,33* | *5,40* | *5,70* | *5,71* | *5,72*
+![](https://image.tmdb.org/t/p/w200/2mDPqJ8HQNs9oyziI88EelJCzoO.jpg) | ![](https://image.tmdb.org/t/p/w200/AbGBTH3bWaiJpjCOJ9RSoQ9NPRT.jpg) | ![](https://image.tmdb.org/t/p/w200/5T81WvUlc1Our3UwmluXBBc3L0k.jpg) | ![](https://image.tmdb.org/t/p/w200/aKU7hEGXVi4Up18w0DCnQ2wj8kA.jpg) | ![](https://image.tmdb.org/t/p/w200/7PaZLT7vfCIU6p3nG0QkIvdrTpF.jpg)
+
+**Média de votos:** 510,0
+**Menor votos:** 76 (My Little Monster)
+**Maior votos:** 4052 (Don Jon)
+
+## 5 mais avaliados
+
+**Don Jon** | **Roman Holiday** | **To All the Boys: Always and Forever** | **What to Expect When You're Expecting** | **Never Been Kissed**
+ -- | -- | -- | -- | -- 
+*4052* | *1827* | *1766* | *1702* | *1370*
+![](https://image.tmdb.org/t/p/w200/uh8bwvgGXeUKzdL4oSul9zxyTcd.jpg) | ![](https://image.tmdb.org/t/p/w200/8lI9dmz1RH20FAqltkGelY1v4BE.jpg) | ![](https://image.tmdb.org/t/p/w200/iepqdM52f4w75fNcvgRF5QoIAjm.jpg) | ![](https://image.tmdb.org/t/p/w200/WlaRQOeoUfKntGmNsuZDu3r6h6.jpg) | ![](https://image.tmdb.org/t/p/w200/6BngDhDNfbBjhVFWDT2yMve32vi.jpg)
+
+## 5 menos avaliados
+
+**My Little Monster** | **Outside Providence** | **The Myth of the American Sleepover** | **The Alibi** | **Afonya**
+ -- | -- | -- | -- | -- 
+*76* | *85* | *97* | *97* | *109*
+![](https://image.tmdb.org/t/p/w200/pPxHH7onQ090ygTx5G5erQmQCSH.jpg) | ![](https://image.tmdb.org/t/p/w200/o3e67GugVHkEOhl5TwjWAVVxtFf.jpg) | ![](https://image.tmdb.org/t/p/w200/g7UdFjqHKGUSSE6PFpYTBUSQzAT.jpg) | ![](https://image.tmdb.org/t/p/w200/7PaZLT7vfCIU6p3nG0QkIvdrTpF.jpg) | ![](https://image.tmdb.org/t/p/w200/rU76EYqDaMQbtlUWPcKOvJx7o8X.jpg)
+
+**Gêneros mais comuns:**
+* Romance (46)
+* Comedy (46)
+* Drama (46)
+
+
+**Palavras-chave mais comuns:**
+* love (10)
+* high school (5)
+* romantic comedy (5)
+* writer (4)
+* marriage (3)
+* college (3)
+* christmas (3)
+* rome (2)
+* italy (2)
+* black and white (2)
+* south korea (2)
+* married couple (2)
+* older man younger woman relationship (2)
+* father son relationship (2)
+* prank (2)
+
+# Cluster 30
+**Total de filmes:** 89
+**Média de ano de lançamento:** 1999
+**Menor ano:** 1953 (Invaders from Mars)
+**Maior ano:** 2023 (Meg 2: The Trench)
+
+## 5 Mais Velhos 
+
+**Invaders from Mars** | **Them!** | **Godzilla Raids Again** | **Godzilla, King of the Monsters!** | **1984**
+ -- | -- | -- | -- | -- 
+*1953* | *1954* | *1955* | *1956* | *1956*
+ ![](https://image.tmdb.org/t/p/w200/bJjikydpyhfFbFWyCagpGeomomH.jpg) |  ![](https://image.tmdb.org/t/p/w200/tP352STF6BvSROi8K3CMM799TVo.jpg) |  ![](https://image.tmdb.org/t/p/w200/bBYdh9tDCyLaArBOzE38QCA7C3y.jpg) |  ![](https://image.tmdb.org/t/p/w200/19RDmhX6LtzMxv0KXXAU1IBIvvA.jpg) |  ![](https://image.tmdb.org/t/p/w200/2EOfGaRluwJe6OlR21JtbLhWDvt.jpg)
+
+## 5 mais novos
+
+**Meg 2: The Trench** | **Bird Box Barcelona** | **M3GAN** | **Project Gemini** | **Silent Night**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2022* | *2022* | *2021*
+![](https://image.tmdb.org/t/p/w200/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg) | ![](https://image.tmdb.org/t/p/w200/3rlU3gwaKobcdrmIBTRfyGcE6ew.jpg) | ![](https://image.tmdb.org/t/p/w200/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg) | ![](https://image.tmdb.org/t/p/w200/rFljUdOozFEv6HDHIFpFvcYW0ec.jpg) | ![](https://image.tmdb.org/t/p/w200/bfUO1SBTfgcK77em3lOuRFY2uLc.jpg)
+
+**Média da nota:** 6,35
+**Menor nota:** 4,56 (3-Headed Shark Attack)
+**Maior nota:** 8,20 (A Clockwork Orange)
+
+## 5 mais bem avaliados
+
+**A Clockwork Orange** | **Stalker** | **Godzilla vs. Destoroyah** | **The Man from Earth** | **I Origins**
+ -- | -- | -- | -- | -- 
+*8,20* | *8,18* | *7,78* | *7,62* | *7,60*
+![](https://image.tmdb.org/t/p/w200/4sHeTAp65WrSSuc05nRBKddhBxO.jpg) | ![](https://image.tmdb.org/t/p/w200/rem87AyEochEuhn9VvAGoMQpigz.jpg) | ![](https://image.tmdb.org/t/p/w200/csebMf1IWokaWOughl5s3uX8p44.jpg) | ![](https://image.tmdb.org/t/p/w200/V086R82gNgWrotaXZFO4JhdgB1.jpg) | ![](https://image.tmdb.org/t/p/w200/2P31jhd1dWUAPD8dmnSrwkQ8CNN.jpg)
+
+## 5 menos bem avaliados
+
+**3-Headed Shark Attack** | **Creature** | **The Jurassic Games** | **The Island of Dr. Moreau** | **Pandemic**
+ -- | -- | -- | -- | -- 
+*4,56* | *4,62* | *4,70* | *4,86* | *4,91*
+![](https://image.tmdb.org/t/p/w200/47lLJNQJQaooewVhXEHxWwbSztc.jpg) | ![](https://image.tmdb.org/t/p/w200/tv4xMEUqYvfJAW9BtUF25JnCHqS.jpg) | ![](https://image.tmdb.org/t/p/w200/4iXYZgB0VZyPvjBfEY0f2VTMDqa.jpg) | ![](https://image.tmdb.org/t/p/w200/hOJeQXve8W9rNRhdgC1WV3GQJyA.jpg) | ![](https://image.tmdb.org/t/p/w200/m0OCqNmVudMtbGlv4iTcyYrbp9m.jpg)
+
+**Média de votos:** 1256,0
+**Menor votos:** 79 (Cube)
+**Maior votos:** 12331 (Blade Runner 2049)
+
+## 5 mais avaliados
+
+**Blade Runner 2049** | **A Clockwork Orange** | **Annihilation** | **The Meg** | **Ad Astra**
+ -- | -- | -- | -- | -- 
+*12331* | *11946* | *8014* | *7018* | *6143*
+![](https://image.tmdb.org/t/p/w200/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg) | ![](https://image.tmdb.org/t/p/w200/4sHeTAp65WrSSuc05nRBKddhBxO.jpg) | ![](https://image.tmdb.org/t/p/w200/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg) | ![](https://image.tmdb.org/t/p/w200/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg) | ![](https://image.tmdb.org/t/p/w200/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg)
+
+## 5 menos avaliados
+
+**Cube** | **The Aerial** | **Creature** | **Dead Man's Letters** | **Tetsuo II: Body Hammer**
+ -- | -- | -- | -- | -- 
+*79* | *83* | *86* | *88* | *96*
+![](https://image.tmdb.org/t/p/w200/npcWz1YMEESjhgkdNY11M34PfcT.jpg) | ![](https://image.tmdb.org/t/p/w200/hHe7E6zHtSnqa0iI7EO54jrHySE.jpg) | ![](https://image.tmdb.org/t/p/w200/tv4xMEUqYvfJAW9BtUF25JnCHqS.jpg) | ![](https://image.tmdb.org/t/p/w200/eHnIdMNPBvCsZFmoq9q2knRRaQb.jpg) | ![](https://image.tmdb.org/t/p/w200/a8ioTpAWce19DmuojCppGFMQnyC.jpg)
+
+**Gêneros mais comuns:**
+* Science Fiction (89)
+* Horror (67)
+* Drama (28)
+* Action (21)
+* Comedy (7)
+* Fantasy (6)
+* Thriller (5)
+* Mystery (2)
+* Family (1)
+* Adventure (1)
+
+
+**Palavras-chave mais comuns:**
+* alien (17)
+* japan (12)
+* monster (12)
+* dystopia (11)
+* kaiju (10)
+* scientist (9)
+* giant monster (9)
+* transformation (7)
+* creature (7)
+* future (6)
+* android (6)
+* murder (6)
+* mutation (5)
+* space travel (5)
+* post-apocalyptic future (5)
+
+# Cluster 31
+**Total de filmes:** 211
 **Média de ano de lançamento:** 2001
 **Menor ano:** 1902 (A Trip to the Moon)
 **Maior ano:** 2023 (Ant-Man and the Wasp: Quantumania)
 
 ## 5 Mais Velhos 
 
-**A Trip to the Moon** | **The Impossible Voyage** | **Metropolis** | **Frankenstein** | **Dr. Jekyll and Mr. Hyde**
+**A Trip to the Moon** | **The Impossible Voyage** | **Island of Lost Souls** | **Mighty Joe Young** | **20,000 Leagues Under the Sea**
  -- | -- | -- | -- | -- 
-*1902* | *1904* | *1927* | *1931* | *1931*
- ![](https://image.tmdb.org/t/p/w200/9o0v5LLFk51nyTBHZSre6OB37n2.jpg) |  ![](https://image.tmdb.org/t/p/w200/8bAhmUKCUHxNwzqLBa5m5jJh5mt.jpg) |  ![](https://image.tmdb.org/t/p/w200/pxbGZewX327IbTvrCVRJgcLJTSQ.jpg) |  ![](https://image.tmdb.org/t/p/w200/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg) |  ![](https://image.tmdb.org/t/p/w200/mZtQORzQWkCSqeeHApH6vJDA1D2.jpg)
+*1902* | *1904* | *1932* | *1949* | *1954*
+ ![](https://image.tmdb.org/t/p/w200/9o0v5LLFk51nyTBHZSre6OB37n2.jpg) |  ![](https://image.tmdb.org/t/p/w200/8bAhmUKCUHxNwzqLBa5m5jJh5mt.jpg) |  ![](https://image.tmdb.org/t/p/w200/g7K7r1FojQC52YHxfmuXgwYBq5Q.jpg) |  ![](https://image.tmdb.org/t/p/w200/pY9w40lQgEK4cvxbCxirvV1Wzo0.jpg) |  ![](https://image.tmdb.org/t/p/w200/heAEH85fdxEgV98LizHbQCL95iZ.jpg)
 
 ## 5 mais novos
 
-**Ant-Man and the Wasp: Quantumania** | **Transformers: Rise of the Beasts** | **The Flash** | **Meg 2: The Trench** | **Hypnotic**
+**Ant-Man and the Wasp: Quantumania** | **Transformers: Rise of the Beasts** | **The Flash** | **Black Panther: Wakanda Forever** | **Black Adam**
  -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2023* | *2023*
-![](https://image.tmdb.org/t/p/w200/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg) | ![](https://image.tmdb.org/t/p/w200/gPbM0MK8CP8A174rmUwGsADNYKD.jpg) | ![](https://image.tmdb.org/t/p/w200/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg) | ![](https://image.tmdb.org/t/p/w200/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg) | ![](https://image.tmdb.org/t/p/w200/m0mYmlN9AewOGSOl7Q1ZgZvEeUU.jpg)
+*2023* | *2023* | *2023* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg) | ![](https://image.tmdb.org/t/p/w200/gPbM0MK8CP8A174rmUwGsADNYKD.jpg) | ![](https://image.tmdb.org/t/p/w200/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg) | ![](https://image.tmdb.org/t/p/w200/sv1xJUazXeYqALzczSZ3O6nkH75.jpg) | ![](https://image.tmdb.org/t/p/w200/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg)
 
-**Média da nota:** 6,65
-**Menor nota:** 5,50 (Here Alone)
+**Média da nota:** 6,47
+**Menor nota:** 4,51 (2012: Ice Age)
 **Maior nota:** 8,42 (Interstellar)
 
 ## 5 mais bem avaliados
 
-**Interstellar** | **The Empire Strikes Back** | **Back to the Future** | **Justice League Dark: Apokolips War** | **Avengers: Infinity War**
+**Interstellar** | **The Empire Strikes Back** | **Back to the Future** | **Avengers: Infinity War** | **Star Wars**
  -- | -- | -- | -- | -- 
-*8,42* | *8,40* | *8,31* | *8,26* | *8,26*
-![](https://image.tmdb.org/t/p/w200/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg) | ![](https://image.tmdb.org/t/p/w200/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg) | ![](https://image.tmdb.org/t/p/w200/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg) | ![](https://image.tmdb.org/t/p/w200/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg) | ![](https://image.tmdb.org/t/p/w200/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg)
+*8,42* | *8,40* | *8,31* | *8,26* | *8,20*
+![](https://image.tmdb.org/t/p/w200/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg) | ![](https://image.tmdb.org/t/p/w200/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg) | ![](https://image.tmdb.org/t/p/w200/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg) | ![](https://image.tmdb.org/t/p/w200/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg) | ![](https://image.tmdb.org/t/p/w200/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg)
 
 ## 5 menos bem avaliados
 
-**Here Alone** | **The Circle** | **The Fly II** | **The Cured** | **Dude, Where's My Car?**
+**2012: Ice Age** | **Superman IV: The Quest for Peace** | **The Scorpion King 2: Rise of a Warrior** | **Space Chimps** | **Solis**
  -- | -- | -- | -- | -- 
-*5,50* | *5,51* | *5,53* | *5,54* | *5,55*
-![](https://image.tmdb.org/t/p/w200/jvPS4nDSWlV3tBvW91KggIolmwA.jpg) | ![](https://image.tmdb.org/t/p/w200/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg) | ![](https://image.tmdb.org/t/p/w200/gORksEPahEgO409HYJOZlNVyEpe.jpg) | ![](https://image.tmdb.org/t/p/w200/qheJcFjQ3hAMroE8y6FpCg6jNeN.jpg) | ![](https://image.tmdb.org/t/p/w200/tc6sLnnaOZk08YndHd53aPlUast.jpg)
+*4,51* | *4,52* | *4,64* | *4,83* | *4,88*
+![](https://image.tmdb.org/t/p/w200/axj9DrtSXe3yxXogoeU0BL40nN5.jpg) | ![](https://image.tmdb.org/t/p/w200/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg) | ![](https://image.tmdb.org/t/p/w200/gry3TaU8u1C17dSW14PXi8RS6eA.jpg) | ![](https://image.tmdb.org/t/p/w200/ecAKgzlt78OvEVpZURYYdSz8K5v.jpg) | ![](https://image.tmdb.org/t/p/w200/lea5bLww1ZwbNPRVk0RjB34xxVg.jpg)
 
-**Média de votos:** 2926,0
-**Menor votos:** 151 (Godzilla vs. Megaguirus)
+**Média de votos:** 4995,0
+**Menor votos:** 75 (Captain Nova)
 **Maior votos:** 32571 (Interstellar)
 
 ## 5 mais avaliados
 
-**Interstellar** | **Avatar** | **Avengers: Infinity War** | **The Matrix** | **Avengers: Age of Ultron**
+**Interstellar** | **Avatar** | **Avengers: Infinity War** | **Avengers: Age of Ultron** | **Captain America: Civil War**
  -- | -- | -- | -- | -- 
-*32571* | *29815* | *27713* | *23815* | *21754*
-![](https://image.tmdb.org/t/p/w200/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg) | ![](https://image.tmdb.org/t/p/w200/kyeqWdyUXW608qlYkRqosgbbJyK.jpg) | ![](https://image.tmdb.org/t/p/w200/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg) | ![](https://image.tmdb.org/t/p/w200/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg) | ![](https://image.tmdb.org/t/p/w200/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg)
+*32571* | *29815* | *27713* | *21754* | *21541*
+![](https://image.tmdb.org/t/p/w200/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg) | ![](https://image.tmdb.org/t/p/w200/kyeqWdyUXW608qlYkRqosgbbJyK.jpg) | ![](https://image.tmdb.org/t/p/w200/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg) | ![](https://image.tmdb.org/t/p/w200/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg) | ![](https://image.tmdb.org/t/p/w200/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg)
 
 ## 5 menos avaliados
 
-**Godzilla vs. Megaguirus** | **More** | **Mutant Action** | **Re-Kill** | **Daylight's End**
+**Captain Nova** | **Mythica: The Necromancer** | **Digimon Adventure tri. Part 1: Reunion** | **When Dinosaurs Ruled the Earth** | **Komodo**
  -- | -- | -- | -- | -- 
-*151* | *151* | *152* | *154* | *154*
-![](https://image.tmdb.org/t/p/w200/8H78ZTr9SVoYYAQzMiFz8CO3TKd.jpg) | ![](https://image.tmdb.org/t/p/w200/802hVxtGoC4uIYMhM6eeXKeK17l.jpg) | ![](https://image.tmdb.org/t/p/w200/ePCTFc2ggnaUd7ucEbmkZc7eQIU.jpg) | ![](https://image.tmdb.org/t/p/w200/wpofLYUv0aJmDNxyUZux0wTFXJH.jpg) | ![](https://image.tmdb.org/t/p/w200/sNDodM6si97uhiPhf5dTM6n6aDj.jpg)
+*75* | *76* | *79* | *79* | *84*
+![](https://image.tmdb.org/t/p/w200/prINReSbCkoktcRbrIgmbY4f0tp.jpg) | ![](https://image.tmdb.org/t/p/w200/vlAda6yYXQXXrzSUQC4Wl9QyFV4.jpg) | ![](https://image.tmdb.org/t/p/w200/kaOgYP71Lk46pPEnhMHSvZuWeFV.jpg) | ![](https://image.tmdb.org/t/p/w200/lPFhZ2mhNpEuaadvWOz03kbJryC.jpg) | ![](https://image.tmdb.org/t/p/w200/c4kNtYHFB1SbM8OrN206VlXVe2n.jpg)
 
 **Gêneros mais comuns:**
-* Science Fiction (581)
-* Action (279)
-* Adventure (178)
-* Comedy (132)
-* Horror (132)
-* Animation (130)
-* Drama (100)
-* Thriller (70)
-* Fantasy (64)
-* Family (64)
-* Mystery (42)
-* Romance (23)
-* Crime (13)
-* War (7)
-* TV Movie (2)
-* Music (2)
-* Western (1)
+* Adventure (211)
+* Science Fiction (211)
+* Action (140)
+* Comedy (43)
+* Family (35)
+* Fantasy (34)
+* Thriller (20)
+* Animation (20)
+* Drama (11)
+* Horror (10)
+* Mystery (4)
+* TV Movie (4)
+* Romance (2)
+* Crime (1)
 
 
 **Palavras-chave mais comuns:**
-* dystopia (90)
-* alien (66)
-* superhero (55)
-* anime (54)
-* future (43)
-* robot (41)
-* monster (38)
-* time travel (34)
-* super power (33)
-* scientist (31)
-* adult animation (30)
-* zombie (29)
-* space travel (28)
-* post-apocalyptic future (28)
-* mutant (28)
-
-# Cluster 30
-**Total de filmes:** 29
-**Média de ano de lançamento:** 2000
-**Menor ano:** 1947 (Monsieur Verdoux)
-**Maior ano:** 2018 (BlacKkKlansman)
-
-## 5 Mais Velhos 
-
-**Monsieur Verdoux** | **The Sting** | **Paper Moon** | **Coup de Torchon** | **Ménage**
- -- | -- | -- | -- | -- 
-*1947* | *1973* | *1973* | *1981* | *1986*
- ![](https://image.tmdb.org/t/p/w200/mUPXIinTQsBdLlDaWiSl7GwQXVs.jpg) |  ![](https://image.tmdb.org/t/p/w200/4VdQopZb0lx13Me3yxE5rUXMGCI.jpg) |  ![](https://image.tmdb.org/t/p/w200/3GHG0kTcBWHKdXjj3RdK8GjBCd6.jpg) |  ![](https://image.tmdb.org/t/p/w200/sYlANrZi5vxaHhmPaktuPlsO2Wz.jpg) |  ![](https://image.tmdb.org/t/p/w200/iHnLCWS3ACqjLU0CPiJoJ1wKOPd.jpg)
-
-## 5 mais novos
-
-**BlacKkKlansman** | **The Old Man & the Gun** | **The Fall of the American Empire** | **El Camino Christmas** | **War Dogs**
- -- | -- | -- | -- | -- 
-*2018* | *2018* | *2018* | *2017* | *2016*
-![](https://image.tmdb.org/t/p/w200/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg) | ![](https://image.tmdb.org/t/p/w200/a4BfxRK8dBgbQqbRxPs8kmLd8LG.jpg) | ![](https://image.tmdb.org/t/p/w200/3DXja79jYCmWxs2hWNIgLXl4F3n.jpg) | ![](https://image.tmdb.org/t/p/w200/74FjQrZ9SSkfh3rts4PXm9wArqd.jpg) | ![](https://image.tmdb.org/t/p/w200/uH9qGH5XS1iZXCSb3tgu40dxQoh.jpg)
-
-**Média da nota:** 6,70
-**Menor nota:** 5,55 (Striptease)
-**Maior nota:** 8,02 (The Sting)
-
-## 5 mais bem avaliados
-
-**The Sting** | **Paper Moon** | **Monsieur Verdoux** | **BlacKkKlansman** | **Adaptation.**
- -- | -- | -- | -- | -- 
-*8,02* | *7,86* | *7,78* | *7,52* | *7,37*
-![](https://image.tmdb.org/t/p/w200/4VdQopZb0lx13Me3yxE5rUXMGCI.jpg) | ![](https://image.tmdb.org/t/p/w200/3GHG0kTcBWHKdXjj3RdK8GjBCd6.jpg) | ![](https://image.tmdb.org/t/p/w200/mUPXIinTQsBdLlDaWiSl7GwQXVs.jpg) | ![](https://image.tmdb.org/t/p/w200/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg) | ![](https://image.tmdb.org/t/p/w200/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg)
-
-## 5 menos bem avaliados
-
-**Striptease** | **El Camino Christmas** | **Dom Hemingway** | **Casino Jack** | **Harlem Nights**
- -- | -- | -- | -- | -- 
-*5,55* | *5,59* | *5,82* | *5,82* | *6,09*
-![](https://image.tmdb.org/t/p/w200/edkpT3vgjEjVrF461AbIwZgkvC7.jpg) | ![](https://image.tmdb.org/t/p/w200/74FjQrZ9SSkfh3rts4PXm9wArqd.jpg) | ![](https://image.tmdb.org/t/p/w200/puMHxNZN2Tkiv6weLsI88gXWuSl.jpg) | ![](https://image.tmdb.org/t/p/w200/3Dpicp6VEtCSj39XBG5mnbe5TQ9.jpg) | ![](https://image.tmdb.org/t/p/w200/PLr00Pv1DpQ3vMssBkjgAPS1Fy.jpg)
-
-**Média de votos:** 1055,0
-**Menor votos:** 165 (Coup de Torchon)
-**Maior votos:** 7037 (BlacKkKlansman)
-
-## 5 mais avaliados
-
-**BlacKkKlansman** | **War Dogs** | **Chicago** | **The Sting** | **Adaptation.**
- -- | -- | -- | -- | -- 
-*7037* | *4498* | *2375* | *2338* | *2244*
-![](https://image.tmdb.org/t/p/w200/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg) | ![](https://image.tmdb.org/t/p/w200/uH9qGH5XS1iZXCSb3tgu40dxQoh.jpg) | ![](https://image.tmdb.org/t/p/w200/v1Sg3GuHDz9uhrKqYozOeCMLSpj.jpg) | ![](https://image.tmdb.org/t/p/w200/4VdQopZb0lx13Me3yxE5rUXMGCI.jpg) | ![](https://image.tmdb.org/t/p/w200/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg)
-
-## 5 menos avaliados
-
-**Coup de Torchon** | **The Fall of the American Empire** | **Madea Goes to Jail** | **Gridlock'd** | **Ménage**
- -- | -- | -- | -- | -- 
-*165* | *170* | *175* | *193* | *195*
-![](https://image.tmdb.org/t/p/w200/sYlANrZi5vxaHhmPaktuPlsO2Wz.jpg) | ![](https://image.tmdb.org/t/p/w200/3DXja79jYCmWxs2hWNIgLXl4F3n.jpg) | ![](https://image.tmdb.org/t/p/w200/qiXNNmSFXsfUdKDkylBF2LfX0DR.jpg) | ![](https://image.tmdb.org/t/p/w200/jlOL8fLsG0tGBtkj9qzHgqcHPVV.jpg) | ![](https://image.tmdb.org/t/p/w200/iHnLCWS3ACqjLU0CPiJoJ1wKOPd.jpg)
-
-**Gêneros mais comuns:**
-* Comedy (29)
-* Crime (29)
-* Drama (29)
-
-
-**Palavras-chave mais comuns:**
-* dark comedy (7)
-* police (4)
-* heist (3)
-* murder (3)
-* racism (2)
-* corruption (2)
-* 1920s (2)
-* con man (2)
-* 1930s (2)
-* based on magazine (2)
-* newspaper or article (2)
-* satire (2)
-* blackmail (2)
-* strip club (2)
-* bar (2)
-
-# Cluster 31
-**Total de filmes:** 14
-**Média de ano de lançamento:** 2003
-**Menor ano:** 1946 (Song of the South)
-**Maior ano:** 2019 (The Queen's Corgi)
-
-## 5 Mais Velhos 
-
-**Song of the South** | **Mickey's Christmas Carol** | **Dinosaur** | **Joseph: King of Dreams** | **The Wild**
- -- | -- | -- | -- | -- 
-*1946* | *1983* | *2000* | *2000* | *2006*
- ![](https://image.tmdb.org/t/p/w200/lFlWpfcw8TCmZ88jw6e943vEbtu.jpg) |  ![](https://image.tmdb.org/t/p/w200/9XWsvdXXVL6Ikmu6OJkEJcgoQPF.jpg) |  ![](https://image.tmdb.org/t/p/w200/rSje3FS7ycJSglowlngjsvDt7vO.jpg) |  ![](https://image.tmdb.org/t/p/w200/sUKImRHScrjrvaG2FwxCRY5ldtx.jpg) |  ![](https://image.tmdb.org/t/p/w200/sxqzaOto1qyUseSg6YpIP9Su5lp.jpg)
-
-## 5 mais novos
-
-**The Queen's Corgi** | **Piper** | **Barbie: The Pearl Princess** | **Maya the Bee Movie** | **Barbie: The Princess & The Popstar**
- -- | -- | -- | -- | -- 
-*2019* | *2016* | *2014* | *2014* | *2012*
-![](https://image.tmdb.org/t/p/w200/xcl4vYTqqzwn3ihUpjCQz0jqhV3.jpg) | ![](https://image.tmdb.org/t/p/w200/rfEkkVzmrMYqGezNLl02mVyJCP2.jpg) | ![](https://image.tmdb.org/t/p/w200/zA4csIbIKzPOd6DwN5rKxHkVCu6.jpg) | ![](https://image.tmdb.org/t/p/w200/pMQ88CvnQroSjxk4IhM7YNbcjTx.jpg) | ![](https://image.tmdb.org/t/p/w200/hab6ZMC3eXj9pQHlSxNUjonphCR.jpg)
-
-**Média da nota:** 6,71
-**Menor nota:** 5,55 (The Wild)
-**Maior nota:** 8,16 (Piper)
-
-## 5 mais bem avaliados
-
-**Piper** | **Mickey's Christmas Carol** | **Barbie: A Fashion Fairytale** | **Barbie: The Princess & The Popstar** | **Barbie: The Pearl Princess**
- -- | -- | -- | -- | -- 
-*8,16* | *7,64* | *7,18* | *7,10* | *6,93*
-![](https://image.tmdb.org/t/p/w200/rfEkkVzmrMYqGezNLl02mVyJCP2.jpg) | ![](https://image.tmdb.org/t/p/w200/9XWsvdXXVL6Ikmu6OJkEJcgoQPF.jpg) | ![](https://image.tmdb.org/t/p/w200/bFnf8f8DXdCANQ7Y62djgubhh4P.jpg) | ![](https://image.tmdb.org/t/p/w200/hab6ZMC3eXj9pQHlSxNUjonphCR.jpg) | ![](https://image.tmdb.org/t/p/w200/zA4csIbIKzPOd6DwN5rKxHkVCu6.jpg)
-
-## 5 menos bem avaliados
-
-**The Wild** | **The Queen's Corgi** | **Maya the Bee Movie** | **The Barbie Diaries** | **Song of the South**
- -- | -- | -- | -- | -- 
-*5,55* | *6,01* | *6,18* | *6,36* | *6,42*
-![](https://image.tmdb.org/t/p/w200/sxqzaOto1qyUseSg6YpIP9Su5lp.jpg) | ![](https://image.tmdb.org/t/p/w200/xcl4vYTqqzwn3ihUpjCQz0jqhV3.jpg) | ![](https://image.tmdb.org/t/p/w200/pMQ88CvnQroSjxk4IhM7YNbcjTx.jpg) | ![](https://image.tmdb.org/t/p/w200/yRlB6Mu1NLccp2UP6QHAxJ1ulwl.jpg) | ![](https://image.tmdb.org/t/p/w200/lFlWpfcw8TCmZ88jw6e943vEbtu.jpg)
-
-**Média de votos:** 742,0
-**Menor votos:** 158 (Maya the Bee Movie)
-**Maior votos:** 2293 (Dinosaur)
-
-## 5 mais avaliados
-
-**Dinosaur** | **Piper** | **The Wild** | **The Little Mermaid: Ariel's Beginning** | **Joseph: King of Dreams**
- -- | -- | -- | -- | -- 
-*2293* | *1518* | *973* | *932* | *914*
-![](https://image.tmdb.org/t/p/w200/rSje3FS7ycJSglowlngjsvDt7vO.jpg) | ![](https://image.tmdb.org/t/p/w200/rfEkkVzmrMYqGezNLl02mVyJCP2.jpg) | ![](https://image.tmdb.org/t/p/w200/sxqzaOto1qyUseSg6YpIP9Su5lp.jpg) | ![](https://image.tmdb.org/t/p/w200/LJs21HQ7foXB37tDI0JiGkuEAC.jpg) | ![](https://image.tmdb.org/t/p/w200/sUKImRHScrjrvaG2FwxCRY5ldtx.jpg)
-
-## 5 menos avaliados
-
-**Maya the Bee Movie** | **Song of the South** | **Merry Madagascar** | **Barbie: The Pearl Princess** | **The Barbie Diaries**
- -- | -- | -- | -- | -- 
-*158* | *244* | *261* | *294* | *354*
-![](https://image.tmdb.org/t/p/w200/pMQ88CvnQroSjxk4IhM7YNbcjTx.jpg) | ![](https://image.tmdb.org/t/p/w200/lFlWpfcw8TCmZ88jw6e943vEbtu.jpg) | ![](https://image.tmdb.org/t/p/w200/s5nELMHR1L2agJXVIPiWxu6dWl8.jpg) | ![](https://image.tmdb.org/t/p/w200/zA4csIbIKzPOd6DwN5rKxHkVCu6.jpg) | ![](https://image.tmdb.org/t/p/w200/yRlB6Mu1NLccp2UP6QHAxJ1ulwl.jpg)
-
-**Gêneros mais comuns:**
-* Family (14)
-* Animation (14)
-
-
-**Palavras-chave mais comuns:**
-* based on toy (4)
-* lemur (2)
-* short film (2)
-* lion (2)
-* mermaid (2)
-* cartoon (2)
-* anthropomorphism (2)
-* christmas (2)
-* magic (2)
-* cataclysm (1)
-* asteroid (1)
-* leader (1)
-* comet (1)
-* migration (1)
-* prehistory (1)
+* superhero (37)
+* dystopia (25)
+* alien (24)
+* monster (18)
+* marvel cinematic universe (mcu) (16)
+* time travel (16)
+* space opera (15)
+* future (14)
+* spacecraft (14)
+* space (14)
+* space travel (13)
+* post-apocalyptic future (13)
+* robot (12)
+* scientist (12)
+* super power (12)
 
 # Cluster 32
-**Total de filmes:** 84
-**Média de ano de lançamento:** 2004
-**Menor ano:** 1938 (Ferdinand the Bull)
-**Maior ano:** 2022 (Minions: The Rise of Gru)
+**Total de filmes:** 24
+**Média de ano de lançamento:** 1983
+**Menor ano:** 1896 (The Haunted Castle)
+**Maior ano:** 2020 (The Mortuary Collection)
 
 ## 5 Mais Velhos 
 
-**Ferdinand the Bull** | **Rabbit of Seville** | **Duck Amuck** | **What's Opera, Doc?** | **How the Grinch Stole Christmas!**
+**The Haunted Castle** | **The Infernal Cauldron** | **The Golem: How He Came into the World** | **Nosferatu** | **Son of Dracula**
  -- | -- | -- | -- | -- 
-*1938* | *1950* | *1953* | *1957* | *1966*
- ![](https://image.tmdb.org/t/p/w200/ey5jRwO4KS7uXQe3a3gAaVAdfJP.jpg) |  ![](https://image.tmdb.org/t/p/w200/27VEl23uM1aDxR9if2Ncs8IbSmK.jpg) |  ![](https://image.tmdb.org/t/p/w200/gRZYLCncLa2mzE59qY38McDlFdN.jpg) |  ![](https://image.tmdb.org/t/p/w200/kkbaY8UyPbyzU3xg8CONgwW0Eid.jpg) |  ![](https://image.tmdb.org/t/p/w200/7ir0iRuPK9OEuH569cp0nF5CJce.jpg)
+*1896* | *1903* | *1920* | *1922* | *1943*
+ ![](https://image.tmdb.org/t/p/w200/o61cxCGlLdPxzv7BPYitmbDfaeA.jpg) |  ![](https://image.tmdb.org/t/p/w200/i9P9pTPMaMCMRv2XwbAh06iladt.jpg) |  ![](https://image.tmdb.org/t/p/w200/7zdqM0MgZBfy3tuJdNO4cWAGBtj.jpg) |  ![](https://image.tmdb.org/t/p/w200/zx24O7VAs6NbJhiIrUhWysAiHS0.jpg) |  ![](https://image.tmdb.org/t/p/w200/pQTLdJ46WXPIix05EkcHAMDKUIw.jpg)
 
 ## 5 mais novos
 
-**Minions: The Rise of Gru** | **South Park the Streaming Wars** | **Welcome to the Club** | **Vivo** | **The Simpsons: The Good, the Bart, and the Loki**
+**The Mortuary Collection** | **Don't Kill It** | **The Curse of Sleeping Beauty** | **The Hallow** | **Troll Hunter**
  -- | -- | -- | -- | -- 
-*2022* | *2022* | *2022* | *2021* | *2021*
-![](https://image.tmdb.org/t/p/w200/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg) | ![](https://image.tmdb.org/t/p/w200/dfgZJlKYg5xm6dBl05bOKhfunXb.jpg) | ![](https://image.tmdb.org/t/p/w200/kxB9E6fo0ycHzd13oOTHmGa5Njd.jpg) | ![](https://image.tmdb.org/t/p/w200/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg) | ![](https://image.tmdb.org/t/p/w200/rtMdtzywcAGOrF6t8fbxJBqpdcq.jpg)
+*2020* | *2016* | *2016* | *2015* | *2010*
+![](https://image.tmdb.org/t/p/w200/5WXeYnezavNI6hXH74aQYv6yFzj.jpg) | ![](https://image.tmdb.org/t/p/w200/iQey3UeqU4uQzr82GQJ1pZMwe40.jpg) | ![](https://image.tmdb.org/t/p/w200/wO6If1l2Uv5RIngEyZmcAcI2k28.jpg) | ![](https://image.tmdb.org/t/p/w200/sOT4KqFPlvxTeEwyHOcn8agJnsI.jpg) | ![](https://image.tmdb.org/t/p/w200/v2W5NEz0p9jPFzbbYt0dP86gsOX.jpg)
 
-**Média da nota:** 6,89
-**Menor nota:** 5,59 (Animals United)
-**Maior nota:** 8,10 (Duck Amuck)
+**Média da nota:** 6,09
+**Menor nota:** 4,63 (Bad Biology)
+**Maior nota:** 7,70 (Nosferatu)
 
 ## 5 mais bem avaliados
 
-**Duck Amuck** | **Inner Workings** | **Monsters, Inc.** | **Partly Cloudy** | **Toy Story 3**
+**Nosferatu** | **Poison for the Fairies** | **The Golem: How He Came into the World** | **The Mortuary Collection** | **Troll Hunter**
  -- | -- | -- | -- | -- 
-*8,10* | *7,90* | *7,84* | *7,79* | *7,79*
-![](https://image.tmdb.org/t/p/w200/gRZYLCncLa2mzE59qY38McDlFdN.jpg) | ![](https://image.tmdb.org/t/p/w200/vUZqG2SvTkAlMVlzARXaMNCYMuk.jpg) | ![](https://image.tmdb.org/t/p/w200/sgheSKxZkttIe8ONsf2sWXPgip3.jpg) | ![](https://image.tmdb.org/t/p/w200/oqYX2AJV53ibLVPrUZ1Z5XlGv5U.jpg) | ![](https://image.tmdb.org/t/p/w200/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg)
+*7,70* | *7,57* | *6,99* | *6,77* | *6,70*
+![](https://image.tmdb.org/t/p/w200/zx24O7VAs6NbJhiIrUhWysAiHS0.jpg) | ![](https://image.tmdb.org/t/p/w200/50WbECYbG1WQx65C96LH7974MR5.jpg) | ![](https://image.tmdb.org/t/p/w200/7zdqM0MgZBfy3tuJdNO4cWAGBtj.jpg) | ![](https://image.tmdb.org/t/p/w200/5WXeYnezavNI6hXH74aQYv6yFzj.jpg) | ![](https://image.tmdb.org/t/p/w200/v2W5NEz0p9jPFzbbYt0dP86gsOX.jpg)
 
 ## 5 menos bem avaliados
 
-**Animals United** | **Garfield** | **Hop** | **Lissi and the Wild Emperor** | **Barnyard**
+**Bad Biology** | **Dark Floors** | **Troll** | **The Curse of Sleeping Beauty** | **Wishmaster 2: Evil Never Dies**
  -- | -- | -- | -- | -- 
-*5,59* | *5,67* | *5,73* | *5,82* | *5,83*
-![](https://image.tmdb.org/t/p/w200/gUCLetZNa3rZknSmLc2gGUdxWH7.jpg) | ![](https://image.tmdb.org/t/p/w200/vqwTSWNLyH55g8kBT61s2DgNYEp.jpg) | ![](https://image.tmdb.org/t/p/w200/hRa9MJTgCbSuL3h2CVPwUdYOWJH.jpg) | ![](https://image.tmdb.org/t/p/w200/5CzJlPFLicVvSLeFa4G4IpyXH3x.jpg) | ![](https://image.tmdb.org/t/p/w200/qlSCUmrflADYlCMbkviJjfujhTH.jpg)
+*4,63* | *4,85* | *4,90* | *5,09* | *5,43*
+![](https://image.tmdb.org/t/p/w200/yIPDDjtCQv8MPEmTFOD1n9WGOB2.jpg) | ![](https://image.tmdb.org/t/p/w200/63jHgFpvNgP15HWlKN0ZG2uXDsY.jpg) | ![](https://image.tmdb.org/t/p/w200/5KXuzLzP1pdM87HXIoneiwrDIld.jpg) | ![](https://image.tmdb.org/t/p/w200/wO6If1l2Uv5RIngEyZmcAcI2k28.jpg) | ![](https://image.tmdb.org/t/p/w200/g3FXNYaCDFoQILCbYqFdv6V01ep.jpg)
 
-**Média de votos:** 1816,0
-**Menor votos:** 150 (Ferdinand the Bull)
-**Maior votos:** 17189 (Monsters, Inc.)
+**Média de votos:** 335,0
+**Menor votos:** 77 (The Infernal Cauldron)
+**Maior votos:** 1759 (Nosferatu)
 
 ## 5 mais avaliados
 
-**Monsters, Inc.** | **Despicable Me** | **Toy Story 3** | **Toy Story 2** | **Despicable Me 2**
+**Nosferatu** | **Troll Hunter** | **The Hallow** | **Rare Exports: A Christmas Tale** | **Pumpkinhead**
  -- | -- | -- | -- | -- 
-*17189* | *14147* | *13777* | *12904* | *10523*
-![](https://image.tmdb.org/t/p/w200/sgheSKxZkttIe8ONsf2sWXPgip3.jpg) | ![](https://image.tmdb.org/t/p/w200/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg) | ![](https://image.tmdb.org/t/p/w200/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg) | ![](https://image.tmdb.org/t/p/w200/2MFIhZAW0CVlEQrFyqwa4U6zqJP.jpg) | ![](https://image.tmdb.org/t/p/w200/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg)
+*1759* | *1436* | *589* | *493* | *400*
+![](https://image.tmdb.org/t/p/w200/zx24O7VAs6NbJhiIrUhWysAiHS0.jpg) | ![](https://image.tmdb.org/t/p/w200/v2W5NEz0p9jPFzbbYt0dP86gsOX.jpg) | ![](https://image.tmdb.org/t/p/w200/sOT4KqFPlvxTeEwyHOcn8agJnsI.jpg) | ![](https://image.tmdb.org/t/p/w200/jzaweEESl54ejxo3EE5uNL8lgTn.jpg) | ![](https://image.tmdb.org/t/p/w200/gx7Gej5Srp3E13oqy1Kghtox2VZ.jpg)
 
 ## 5 menos avaliados
 
-**Ferdinand the Bull** | **Bambi Meets Godzilla** | **See Me After Class** | **Phineas and Ferb: Mission Marvel** | **Rabbit of Seville**
+**The Infernal Cauldron** | **Ju-on: White Ghost** | **Poison for the Fairies** | **Son of Dracula** | **Lisa and the Devil**
  -- | -- | -- | -- | -- 
-*150* | *150* | *151* | *153* | *157*
-![](https://image.tmdb.org/t/p/w200/ey5jRwO4KS7uXQe3a3gAaVAdfJP.jpg) | ![](https://image.tmdb.org/t/p/w200/lJazOe53J7FPC2H2d6i64jFGNGC.jpg) | ![](https://image.tmdb.org/t/p/w200/n3gNvSldV59CegfMYUFdB5wNaV6.jpg) | ![](https://image.tmdb.org/t/p/w200/da2AREjdecPInHzWeZ550X1aYDU.jpg) | ![](https://image.tmdb.org/t/p/w200/27VEl23uM1aDxR9if2Ncs8IbSmK.jpg)
+*77* | *82* | *92* | *99* | *111*
+![](https://image.tmdb.org/t/p/w200/i9P9pTPMaMCMRv2XwbAh06iladt.jpg) | ![](https://image.tmdb.org/t/p/w200/dX9itkjGfYJq4gk2HIdAwmg31l8.jpg) | ![](https://image.tmdb.org/t/p/w200/50WbECYbG1WQx65C96LH7974MR5.jpg) | ![](https://image.tmdb.org/t/p/w200/pQTLdJ46WXPIix05EkcHAMDKUIw.jpg) | ![](https://image.tmdb.org/t/p/w200/wGTtAolc9tJd1KwyNTEICBL3eAh.jpg)
 
 **Gêneros mais comuns:**
-* Animation (84)
-* Comedy (84)
-* Family (71)
+* Fantasy (24)
+* Horror (24)
 
 
 **Palavras-chave mais comuns:**
-* short film (30)
-* dog (10)
-* cartoon (9)
-* animal (8)
-* family (7)
-* surrealism (6)
-* parent child relationship (5)
-* inventor (5)
-* penguin (5)
-* stop motion (5)
-* musical (5)
-* adult animation (5)
-* holiday (5)
-* illumination (4)
-* claymation (4)
+* silent film (4)
+* loss of loved one (3)
+* supernatural (3)
+* black and white (3)
+* woods (3)
+* gore (3)
+* vampire (2)
+* coffin (2)
+* castle (2)
+* vampire bat (2)
+* expressionism (2)
+* german expressionism (2)
+* forest (2)
+* troll (2)
+* fairy tale (2)
 
 # Cluster 33
-**Total de filmes:** 894
-**Média de ano de lançamento:** 2005
-**Menor ano:** 1920 (The Cabinet of Dr. Caligari)
-**Maior ano:** 2023 (John Wick: Chapter 4)
+**Total de filmes:** 65
+**Média de ano de lançamento:** 1991
+**Menor ano:** 1932 (I Am a Fugitive from a Chain Gang)
+**Maior ano:** 2021 (Monster)
 
 ## 5 Mais Velhos 
 
-**The Cabinet of Dr. Caligari** | **Dr. Mabuse, the Gambler** | **M** | **Sabotage** | **Shadow of a Doubt**
+**I Am a Fugitive from a Chain Gang** | **The Informer** | **Dead End** | **High Sierra** | **The Wrong Man**
  -- | -- | -- | -- | -- 
-*1920* | *1922* | *1931* | *1937* | *1943*
- ![](https://image.tmdb.org/t/p/w200/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg) |  ![](https://image.tmdb.org/t/p/w200/ysHJDo9do2USU1BhWxcT0WO9WTO.jpg) |  ![](https://image.tmdb.org/t/p/w200/slsS6jT6SXjcTPOrsFcLIrHboXA.jpg) |  ![](https://image.tmdb.org/t/p/w200/A6cyOt9mhmvWA2uHcVsGkcCaHCz.jpg) |  ![](https://image.tmdb.org/t/p/w200/ptyWagbWE8jSGyV2tGEzAdVbRCj.jpg)
+*1932* | *1935* | *1937* | *1941* | *1956*
+ ![](https://image.tmdb.org/t/p/w200/jer6lim61i8V6a5HOZq2i07UQQf.jpg) |  ![](https://image.tmdb.org/t/p/w200/gFsyHdVg93uPMZc64kCaCR3Y7Vn.jpg) |  ![](https://image.tmdb.org/t/p/w200/5ZYJY5qZOj7dPfjSdnM7gFk2Ch0.jpg) |  ![](https://image.tmdb.org/t/p/w200/fkP6yy25Wja6Sn3AIlZ4F1BWsy0.jpg) |  ![](https://image.tmdb.org/t/p/w200/pO5XR2R56RAbVjdks9gGGn0fbOa.jpg)
 
 ## 5 mais novos
 
-**John Wick: Chapter 4** | **Evil Dead Rise** | **Scream VI** | **Cocaine Bear** | **The Last Voyage of the Demeter**
+**Monster** | **The Beast** | **I'm Your Woman** | **The Ruthless** | **Oh Mercy**
  -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2023* | *2023*
-![](https://image.tmdb.org/t/p/w200/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg) | ![](https://image.tmdb.org/t/p/w200/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg) | ![](https://image.tmdb.org/t/p/w200/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg) | ![](https://image.tmdb.org/t/p/w200/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg) | ![](https://image.tmdb.org/t/p/w200/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg)
+*2021* | *2020* | *2020* | *2019* | *2019*
+![](https://image.tmdb.org/t/p/w200/jds6n8dUaixg0diKYlCta5nS6BV.jpg) | ![](https://image.tmdb.org/t/p/w200/4zbKISdp5UBgWY2a28dfJY8ouIK.jpg) | ![](https://image.tmdb.org/t/p/w200/uTcJAxIV8BzNXuvcViBSibQSBid.jpg) | ![](https://image.tmdb.org/t/p/w200/tlm4Jtl8WJfoW2jg52f5ewKQWym.jpg) | ![](https://image.tmdb.org/t/p/w200/9cuwZeoUXKDTSgVMilco8UTIHNh.jpg)
 
-**Média da nota:** 6,67
-**Menor nota:** 5,50 (A Serbian Film)
-**Maior nota:** 8,52 (Parasite)
+**Média da nota:** 6,87
+**Menor nota:** 5,01 (Green Street Hooligans 2)
+**Maior nota:** 8,16 (The Hate U Give)
 
 ## 5 mais bem avaliados
 
-**Parasite** | **The Dark Knight** | **Pulp Fiction** | **Psycho** | **Dedicated to my ex**
+**The Hate U Give** | **Three Billboards Outside Ebbing, Missouri** | **Requiem for a Dream** | **Papillon** | **I Am a Fugitive from a Chain Gang**
  -- | -- | -- | -- | -- 
-*8,52* | *8,51* | *8,49* | *8,44* | *8,32*
-![](https://image.tmdb.org/t/p/w200/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg) | ![](https://image.tmdb.org/t/p/w200/qJ2tW6WMUDux911r6m7haRef0WH.jpg) | ![](https://image.tmdb.org/t/p/w200/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg) | ![](https://image.tmdb.org/t/p/w200/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg) | ![](https://image.tmdb.org/t/p/w200/xc4bTXVwYNXi10jG9dwcaYt5IpU.jpg)
+*8,16* | *8,08* | *8,03* | *7,84* | *7,80*
+![](https://image.tmdb.org/t/p/w200/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg) | ![](https://image.tmdb.org/t/p/w200/pZRhqJj0DBy4ghB7g6pU7MGHsWJ.jpg) | ![](https://image.tmdb.org/t/p/w200/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg) | ![](https://image.tmdb.org/t/p/w200/356oqQpug682OERsWV0bGZ0YxwQ.jpg) | ![](https://image.tmdb.org/t/p/w200/jer6lim61i8V6a5HOZq2i07UQQf.jpg)
 
 ## 5 menos bem avaliados
 
-**A Serbian Film** | **Good People** | **All That Divides Us** | **The Transporter Refueled** | **Open Water**
+**Green Street Hooligans 2** | **Havoc** | **Rampart** | **Bloody Mama** | **Capone**
  -- | -- | -- | -- | -- 
-*5,50* | *5,50* | *5,50* | *5,51* | *5,51*
-![](https://image.tmdb.org/t/p/w200/yIQqiw3Az5QYNHLCUoCTtxXH24G.jpg) | ![](https://image.tmdb.org/t/p/w200/zNhzWvhOJ18Twl5oKanVWT7bcSk.jpg) | ![](https://image.tmdb.org/t/p/w200/zeWMS0Vu6egl2M6YdGlK619yoCs.jpg) | ![](https://image.tmdb.org/t/p/w200/71kaQfdrMy0LHSeLRADsvlDGCgb.jpg) | ![](https://image.tmdb.org/t/p/w200/pjLh97W1J8AdcuKWzqqdKHfYmp5.jpg)
+*5,01* | *5,19* | *5,49* | *5,56* | *5,86*
+![](https://image.tmdb.org/t/p/w200/6PSLy8Upgj9WhWgoVD5IUtm1sck.jpg) | ![](https://image.tmdb.org/t/p/w200/r4yMNUroIjxDz8T7zOZWUobQtta.jpg) | ![](https://image.tmdb.org/t/p/w200/wUlYwDmkytszsDvyIPn66pdqgZe.jpg) | ![](https://image.tmdb.org/t/p/w200/wVCFfu810n6Tf3Ut7JR4QvnOj6j.jpg) | ![](https://image.tmdb.org/t/p/w200/kcC1tMUGk6u0rwLs9CwvVVz2ke.jpg)
 
-**Média de votos:** 1433,0
-**Menor votos:** 150 (Nameless Gangster)
-**Maior votos:** 30619 (The Dark Knight)
+**Média de votos:** 807,0
+**Menor votos:** 77 (Monster)
+**Maior votos:** 9418 (Three Billboards Outside Ebbing, Missouri)
 
 ## 5 mais avaliados
 
-**The Dark Knight** | **Pulp Fiction** | **Joker** | **The Dark Knight Rises** | **Inglourious Basterds**
+**Three Billboards Outside Ebbing, Missouri** | **Requiem for a Dream** | **The Mule** | **Blow** | **25th Hour**
  -- | -- | -- | -- | -- 
-*30619* | *25893* | *23425* | *21335* | *20746*
-![](https://image.tmdb.org/t/p/w200/qJ2tW6WMUDux911r6m7haRef0WH.jpg) | ![](https://image.tmdb.org/t/p/w200/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg) | ![](https://image.tmdb.org/t/p/w200/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg) | ![](https://image.tmdb.org/t/p/w200/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg) | ![](https://image.tmdb.org/t/p/w200/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg)
+*9418* | *9165* | *4593* | *4006* | *2156*
+![](https://image.tmdb.org/t/p/w200/pZRhqJj0DBy4ghB7g6pU7MGHsWJ.jpg) | ![](https://image.tmdb.org/t/p/w200/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg) | ![](https://image.tmdb.org/t/p/w200/vkOfx5meJvFb4qmAJU7j6v8IIpZ.jpg) | ![](https://image.tmdb.org/t/p/w200/yYZFVfk8aeMP4GxBSU9MTvqs9mJ.jpg) | ![](https://image.tmdb.org/t/p/w200/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg)
 
 ## 5 menos avaliados
 
-**Nameless Gangster** | **Living Is Easy with Eyes Closed** | **The Osterman Weekend** | **Pawn** | **Q & A**
+**Monster** | **Better Luck Tomorrow** | **Zero Day** | **Bloody Mama** | **Capone**
  -- | -- | -- | -- | -- 
-*150* | *152* | *154* | *154* | *154*
-![](https://image.tmdb.org/t/p/w200/3ppxP6yFoKxkA3jQkDdv3E9u1tc.jpg) | ![](https://image.tmdb.org/t/p/w200/iT8hZ8bXFMtqUpOTdoK6dUww28M.jpg) | ![](https://image.tmdb.org/t/p/w200/2CFyQ1A2yOaQhg7nIPI7mSQCXgu.jpg) | ![](https://image.tmdb.org/t/p/w200/x1xjvT12cF6CABsa8ji5Lj7GNyh.jpg) | ![](https://image.tmdb.org/t/p/w200/dBJGJjEWYxQCWUheSVVil5b0S7H.jpg)
+*77* | *78* | *79* | *79* | *82*
+![](https://image.tmdb.org/t/p/w200/jds6n8dUaixg0diKYlCta5nS6BV.jpg) | ![](https://image.tmdb.org/t/p/w200/alJULQQnuiYXjgVmj2EYgwXOcIn.jpg) | ![](https://image.tmdb.org/t/p/w200/vjGh2uiqLM6K0qleMswFylXpWUk.jpg) | ![](https://image.tmdb.org/t/p/w200/wVCFfu810n6Tf3Ut7JR4QvnOj6j.jpg) | ![](https://image.tmdb.org/t/p/w200/kcC1tMUGk6u0rwLs9CwvVVz2ke.jpg)
 
 **Gêneros mais comuns:**
-* Thriller (742)
-* Drama (583)
-* Crime (423)
-* Action (304)
-* Comedy (231)
-* Horror (172)
-* Romance (49)
-* War (34)
-* History (17)
-* Western (8)
-* Music (5)
-* Science Fiction (4)
-* Animation (4)
-* Adventure (3)
-* Fantasy (2)
-* Family (2)
-* TV Movie (1)
+* Crime (65)
+* Drama (65)
 
 
 **Palavras-chave mais comuns:**
-* murder (138)
-* revenge (81)
-* serial killer (54)
-* psychopath (47)
-* neo-noir (45)
-* kidnapping (44)
-* police (41)
-* dark comedy (33)
-* hitman (33)
-* drugs (32)
-* gangster (30)
-* prison (30)
-* remake (28)
-* investigation (27)
-* martial arts (26)
+* prison (17)
+* murder (9)
+* revenge (7)
+* police (6)
+* racism (5)
+* gun (5)
+* robbery (5)
+* suicide (4)
+* surrealism (4)
+* 1970s (4)
+* brutality (4)
+* high school (4)
+* gang (4)
+* drugs (4)
+* italy (4)
 
 # Cluster 34
+**Total de filmes:** 111
+**Média de ano de lançamento:** 2005
+**Menor ano:** 1971 (A Bay of Blood)
+**Maior ano:** 2023 (Winnie the Pooh: Blood and Honey)
+
+## 5 Mais Velhos 
+
+**A Bay of Blood** | **Late Night Trains** | **Carrie** | **Halloween** | **Terror Train**
+ -- | -- | -- | -- | -- 
+*1971* | *1975* | *1976* | *1978* | *1980*
+ ![](https://image.tmdb.org/t/p/w200/i0FKCvEypCO8ZUkIeHQhuUMvARN.jpg) |  ![](https://image.tmdb.org/t/p/w200/pFihjlJP0gPGsIAuEws1gMppRpZ.jpg) |  ![](https://image.tmdb.org/t/p/w200/uc3OvgmbnYaS5Y0BOjSmC1EmSz1.jpg) |  ![](https://image.tmdb.org/t/p/w200/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg) |  ![](https://image.tmdb.org/t/p/w200/jeDVKkeCk9U75a0TZ4mezylXy3j.jpg)
+
+## 5 mais novos
+
+**Winnie the Pooh: Blood and Honey** | **Killer Book Club** | **The Black Phone** | **Orphan: First Kill** | **Halloween Ends**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/ewF3IlGscc7FjgGEPcQvZsAsgAW.jpg) | ![](https://image.tmdb.org/t/p/w200/zZH0sAUV0nfEEDBUdWBMLjs2XnN.jpg) | ![](https://image.tmdb.org/t/p/w200/lr11mCT85T1JanlgjMuhs9nMht4.jpg) | ![](https://image.tmdb.org/t/p/w200/pHkKbIRoCe7zIFvqan9LFSaQAde.jpg) | ![](https://image.tmdb.org/t/p/w200/q06saepaXeBdkMibuN4R2fXmgIw.jpg)
+
+**Média da nota:** 5,87
+**Menor nota:** 4,50 (American Psycho II: All American Girl)
+**Maior nota:** 7,70 (The Black Phone)
+
+## 5 mais bem avaliados
+
+**The Black Phone** | **Halloween** | **Thesis** | **Carrie** | **I See You**
+ -- | -- | -- | -- | -- 
+*7,70* | *7,56* | *7,44* | *7,30* | *7,06*
+![](https://image.tmdb.org/t/p/w200/lr11mCT85T1JanlgjMuhs9nMht4.jpg) | ![](https://image.tmdb.org/t/p/w200/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg) | ![](https://image.tmdb.org/t/p/w200/m9o1oQrCBgL3EnvCqBr7xQ2Haco.jpg) | ![](https://image.tmdb.org/t/p/w200/uc3OvgmbnYaS5Y0BOjSmC1EmSz1.jpg) | ![](https://image.tmdb.org/t/p/w200/2LwamrHAmxqEHsT9JViFJxT08Ek.jpg)
+
+## 5 menos bem avaliados
+
+**American Psycho II: All American Girl** | **Candyman: Day of the Dead** | **Halloween: Resurrection** | **Dark Ride** | **YellowBrickRoad**
+ -- | -- | -- | -- | -- 
+*4,50* | *4,57* | *4,62* | *4,64* | *4,66*
+![](https://image.tmdb.org/t/p/w200/x4bYbE78GONxAWqke5rmhpKfR7e.jpg) | ![](https://image.tmdb.org/t/p/w200/sqr0imYSvDu8Q5nZLNjgAXppVSt.jpg) | ![](https://image.tmdb.org/t/p/w200/1mlKwbNzJCGzqe4i0ZEJtUUL290.jpg) | ![](https://image.tmdb.org/t/p/w200/pQbQuJ7JBpaybG3n8pX43YvIoMv.jpg) | ![](https://image.tmdb.org/t/p/w200/p4QniB5ek1DCD2EHZSDvcwyVkrZ.jpg)
+
+**Média de votos:** 987,0
+**Menor votos:** 75 (Dead Tone)
+**Maior votos:** 6042 (The Purge: Anarchy)
+
+## 5 mais avaliados
+
+**The Purge: Anarchy** | **Halloween** | **Halloween** | **Hush** | **The Black Phone**
+ -- | -- | -- | -- | -- 
+*6042* | *4987* | *4342* | *4313* | *4158*
+![](https://image.tmdb.org/t/p/w200/f2HD5iVhJWWv72QVWThUKk09zYy.jpg) | ![](https://image.tmdb.org/t/p/w200/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg) | ![](https://image.tmdb.org/t/p/w200/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg) | ![](https://image.tmdb.org/t/p/w200/zHzBTd502IZf60x8n2g0TB01vPF.jpg) | ![](https://image.tmdb.org/t/p/w200/lr11mCT85T1JanlgjMuhs9nMht4.jpg)
+
+## 5 menos avaliados
+
+**Dead Tone** | **Dark Ride** | **Simon Says** | **Fender Bender** | **14 Cameras**
+ -- | -- | -- | -- | -- 
+*75* | *80* | *81* | *82* | *83*
+![](https://image.tmdb.org/t/p/w200/h0IFMhvsBglNodkaE4XrntY9gOS.jpg) | ![](https://image.tmdb.org/t/p/w200/pQbQuJ7JBpaybG3n8pX43YvIoMv.jpg) | ![](https://image.tmdb.org/t/p/w200/nQPsMf7KMvII8KCF1pAYZkJMzjP.jpg) | ![](https://image.tmdb.org/t/p/w200/92VjZqSkaUDpXvrAiMZRGIxBFLU.jpg) | ![](https://image.tmdb.org/t/p/w200/dzitlCN6BSddbhOyyLetgCmkjAQ.jpg)
+
+**Gêneros mais comuns:**
+* Horror (111)
+* Thriller (111)
+
+
+**Palavras-chave mais comuns:**
+* murder (56)
+* slasher (53)
+* serial killer (44)
+* psychopath (28)
+* killer (16)
+* halloween (14)
+* gore (14)
+* revenge (12)
+* sadism (12)
+* torture (12)
+* maniac (10)
+* death (9)
+* evil (9)
+* cannibal (9)
+* survival horror (8)
+
+# Cluster 35
+**Total de filmes:** 35
+**Média de ano de lançamento:** 1993
+**Menor ano:** 1931 (La Chienne)
+**Maior ano:** 2020 (Calm with Horses)
+
+## 5 Mais Velhos 
+
+**La Chienne** | **Scarlet Street** | **Night and the City** | **The Man with the Golden Arm** | **Breathless**
+ -- | -- | -- | -- | -- 
+*1931* | *1945* | *1950* | *1955* | *1960*
+ ![](https://image.tmdb.org/t/p/w200/oX2W3mkHCrG9VRlbzB0MD8GeAcB.jpg) |  ![](https://image.tmdb.org/t/p/w200/eGEDor1BWSQGaLtOntPHUSqNzRC.jpg) |  ![](https://image.tmdb.org/t/p/w200/2NBmzm8z5fd283eWeECkPrkwta8.jpg) |  ![](https://image.tmdb.org/t/p/w200/3TUOhZhM5GCYIbxwFO3chpZ0DHx.jpg) |  ![](https://image.tmdb.org/t/p/w200/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg)
+
+## 5 mais novos
+
+**Calm with Horses** | **Richard Jewell** | **Trial by Fire** | **Article 15** | **Holiday**
+ -- | -- | -- | -- | -- 
+*2020* | *2019* | *2019* | *2019* | *2018*
+![](https://image.tmdb.org/t/p/w200/svqlPJDCaKGSRFDk8a3zp19xjwf.jpg) | ![](https://image.tmdb.org/t/p/w200/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg) | ![](https://image.tmdb.org/t/p/w200/Aeon31iP17ys9FesAK3bLycXI6v.jpg) | ![](https://image.tmdb.org/t/p/w200/egknEWNt2B0slG2OC0gSpLZdVHj.jpg) | ![](https://image.tmdb.org/t/p/w200/5NU063sVE2Y3zNg8isOIG5RSrDL.jpg)
+
+**Média da nota:** 7,23
+**Menor nota:** 5,48 (Holiday)
+**Maior nota:** 8,71 (The Godfather)
+
+## 5 mais bem avaliados
+
+**The Godfather** | **The Shawshank Redemption** | **The Godfather Part II** | **Trainspotting** | **The Rose Seller**
+ -- | -- | -- | -- | -- 
+*8,71* | *8,70* | *8,59* | *8,00* | *7,70*
+![](https://image.tmdb.org/t/p/w200/3bhkrj58Vtu7enYsRolD1fZdja1.jpg) | ![](https://image.tmdb.org/t/p/w200/lyQBXzOQSuE59IsHyhrp0qIiPAz.jpg) | ![](https://image.tmdb.org/t/p/w200/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg) | ![](https://image.tmdb.org/t/p/w200/bhY62Dw8iW54DIhxPQerbuB9DOP.jpg) | ![](https://image.tmdb.org/t/p/w200/iJfuI7jolnDeXhHmC9tm2frygpy.jpg)
+
+## 5 menos bem avaliados
+
+**Holiday** | **Bad Lieutenant: Port of Call - New Orleans** | **Homicide** | **Calm with Horses** | **Infamous**
+ -- | -- | -- | -- | -- 
+*5,48* | *6,13* | *6,19* | *6,30* | *6,45*
+![](https://image.tmdb.org/t/p/w200/5NU063sVE2Y3zNg8isOIG5RSrDL.jpg) | ![](https://image.tmdb.org/t/p/w200/zRULXsd0rb1lVfnSyQkYPi2nLcB.jpg) | ![](https://image.tmdb.org/t/p/w200/xc5TN2h7ifXBGLSPTnoYF9ZClWy.jpg) | ![](https://image.tmdb.org/t/p/w200/svqlPJDCaKGSRFDk8a3zp19xjwf.jpg) | ![](https://image.tmdb.org/t/p/w200/cIQUn20lUQpi70W0Z7ixezQJ7gj.jpg)
+
+**Média de votos:** 2362,0
+**Menor votos:** 76 (Shanghai Triad)
+**Maior votos:** 24649 (The Shawshank Redemption)
+
+## 5 mais avaliados
+
+**The Shawshank Redemption** | **The Godfather** | **The Godfather Part II** | **Trainspotting** | **American Gangster**
+ -- | -- | -- | -- | -- 
+*24649* | *18677* | *11293* | *9017* | *4933*
+![](https://image.tmdb.org/t/p/w200/lyQBXzOQSuE59IsHyhrp0qIiPAz.jpg) | ![](https://image.tmdb.org/t/p/w200/3bhkrj58Vtu7enYsRolD1fZdja1.jpg) | ![](https://image.tmdb.org/t/p/w200/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg) | ![](https://image.tmdb.org/t/p/w200/bhY62Dw8iW54DIhxPQerbuB9DOP.jpg) | ![](https://image.tmdb.org/t/p/w200/sX9idXDqRUxE5ffww3n3RV5gL55.jpg)
+
+## 5 menos avaliados
+
+**Shanghai Triad** | **The Boss: Anatomy of a Crime** | **The Gambler** | **Guilty** | **Calm with Horses**
+ -- | -- | -- | -- | -- 
+*76* | *85* | *88* | *94* | *95*
+![](https://image.tmdb.org/t/p/w200/tzG1UxUSfPACREjgBrsPDRUvneH.jpg) | ![](https://image.tmdb.org/t/p/w200/tqM5b356wYON9VcIKUTOONRUL7P.jpg) | ![](https://image.tmdb.org/t/p/w200/wyZyUHOm14wmStWnuBjflOkzajt.jpg) | ![](https://image.tmdb.org/t/p/w200/yCXkchvR7mol5GuHnGv9P98hfbV.jpg) | ![](https://image.tmdb.org/t/p/w200/svqlPJDCaKGSRFDk8a3zp19xjwf.jpg)
+
+**Gêneros mais comuns:**
+* Drama (35)
+* Crime (35)
+
+
+**Palavras-chave mais comuns:**
+* organized crime (5)
+* gambling (5)
+* friendship (4)
+* drug dealing (4)
+* police brutality (3)
+* mafia (3)
+* lawyer (3)
+* heroin (3)
+* junkie (3)
+* 1960s (3)
+* murder (3)
+* prison (2)
+* corruption (2)
+* prison escape (2)
+* 1940s (2)
+
+# Cluster 36
+**Total de filmes:** 149
+**Média de ano de lançamento:** 2007
+**Menor ano:** 1973 (The Day of the Jackal)
+**Maior ano:** 2023 (Extraction 2)
+
+## 5 Mais Velhos 
+
+**The Day of the Jackal** | **The Cassandra Crossing** | **Two-Minute Warning** | **Rollercoaster** | **The Warriors**
+ -- | -- | -- | -- | -- 
+*1973* | *1976* | *1976* | *1977* | *1979*
+ ![](https://image.tmdb.org/t/p/w200/vThgcb3JOj99yETg8WChuci4LV2.jpg) |  ![](https://image.tmdb.org/t/p/w200/3WKV7PPWp6ybjibhZF6AMfFErqp.jpg) |  ![](https://image.tmdb.org/t/p/w200/bPa1OZLOAOA60kZe4mWpLV7Ru14.jpg) |  ![](https://image.tmdb.org/t/p/w200/o4xSsMphkr7JCAfQ8c1RldIq1oj.jpg) |  ![](https://image.tmdb.org/t/p/w200/fCDXAJcPvpsMd5CL1kBKkkNGW3X.jpg)
+
+## 5 mais novos
+
+**Extraction 2** | **Mission: Impossible - Dead Reckoning Part One** | **The Mother** | **Kandahar** | **Darkland: The Return**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2023* | *2023* | *2023*
+![](https://image.tmdb.org/t/p/w200/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg) | ![](https://image.tmdb.org/t/p/w200/NNxYkU70HPurnNCSiCjYAmacwm.jpg) | ![](https://image.tmdb.org/t/p/w200/vnRthEZz16Q9VWcP5homkHxyHoy.jpg) | ![](https://image.tmdb.org/t/p/w200/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg) | ![](https://image.tmdb.org/t/p/w200/c8B4DsVcFVDLVmbpHMHU3RjLNAV.jpg)
+
+**Média da nota:** 6,25
+**Menor nota:** 4,55 (Extraction)
+**Maior nota:** 7,78 (Die Hard)
+
+## 5 mais bem avaliados
+
+**Die Hard** | **Mission: Impossible - Dead Reckoning Part One** | **The Warriors** | **Undisputed III: Redemption** | **Kaithi**
+ -- | -- | -- | -- | -- 
+*7,78* | *7,74* | *7,68* | *7,57* | *7,54*
+![](https://image.tmdb.org/t/p/w200/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg) | ![](https://image.tmdb.org/t/p/w200/NNxYkU70HPurnNCSiCjYAmacwm.jpg) | ![](https://image.tmdb.org/t/p/w200/fCDXAJcPvpsMd5CL1kBKkkNGW3X.jpg) | ![](https://image.tmdb.org/t/p/w200/g8KB77SPA7SyU8eid6TAEpt9skU.jpg) | ![](https://image.tmdb.org/t/p/w200/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg)
+
+## 5 menos bem avaliados
+
+**Extraction** | **Out of Reach** | **Kill Switch** | **American Ninja 5** | **The Art of War II: Betrayal**
+ -- | -- | -- | -- | -- 
+*4,55* | *4,58* | *4,66* | *4,68* | *4,88*
+![](https://image.tmdb.org/t/p/w200/96FQG1MyR9mJFcvPBZAdfsVqaMO.jpg) | ![](https://image.tmdb.org/t/p/w200/vv8n1xcWlyWjwXk7Kmhit5ILu5X.jpg) | ![](https://image.tmdb.org/t/p/w200/rlM1reI1eqbB4T5goQKijXurAJu.jpg) | ![](https://image.tmdb.org/t/p/w200/feLMfivbHHla844jWrVnqgzU0Zh.jpg) | ![](https://image.tmdb.org/t/p/w200/gJmkrZSJmPckuB3uwhZTOqZIRDo.jpg)
+
+**Média de votos:** 1342,0
+**Menor votos:** 76 (Thuppakki)
+**Maior votos:** 17923 (John Wick)
+
+## 5 mais avaliados
+
+**John Wick** | **Taken** | **Die Hard** | **Olympus Has Fallen** | **A Good Day to Die Hard**
+ -- | -- | -- | -- | -- 
+*17923* | *10432* | *10202* | *6218* | *6052*
+![](https://image.tmdb.org/t/p/w200/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg) | ![](https://image.tmdb.org/t/p/w200/y5Va1WXDX6nZElVirPrGxf6w99B.jpg) | ![](https://image.tmdb.org/t/p/w200/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg) | ![](https://image.tmdb.org/t/p/w200/ei2qjTiDpgKGuoSEntPCSAIhuvQ.jpg) | ![](https://image.tmdb.org/t/p/w200/evxtv4e8Amm436Y5rW16RkGu8pX.jpg)
+
+## 5 menos avaliados
+
+**Thuppakki** | **Two-Minute Warning** | **Vishwaroopam** | **End Game** | **Bloodsport III**
+ -- | -- | -- | -- | -- 
+*76* | *76* | *77* | *79* | *84*
+![](https://image.tmdb.org/t/p/w200/uTQNCqMnSDbZghFYNmzDvTVD413.jpg) | ![](https://image.tmdb.org/t/p/w200/bPa1OZLOAOA60kZe4mWpLV7Ru14.jpg) | ![](https://image.tmdb.org/t/p/w200/6j0ie6qImOH0ndS7uaZb4879PwC.jpg) | ![](https://image.tmdb.org/t/p/w200/1fqDXE7nxsqWCng3rwlWZwzBBBn.jpg) | ![](https://image.tmdb.org/t/p/w200/qNUI26L3BDM33xqCiXVZNEZGfHB.jpg)
+
+**Gêneros mais comuns:**
+* Action (149)
+* Thriller (149)
+
+
+**Palavras-chave mais comuns:**
+* martial arts (21)
+* terrorism (20)
+* revenge (16)
+* action hero (16)
+* murder (11)
+* cia (11)
+* fbi (10)
+* police (10)
+* assassin (8)
+* kidnapping (7)
+* bomb (7)
+* spy (7)
+* showdown (7)
+* shootout (6)
+* usa president (6)
+
+# Cluster 37
+**Total de filmes:** 290
+**Média de ano de lançamento:** 2000
+**Menor ano:** 1933 (42nd Street)
+**Maior ano:** 2023 (Magic Mike's Last Dance)
+
+## 5 Mais Velhos 
+
+**42nd Street** | **Sylvia Scarlett** | **Mr. Deeds Goes to Town** | **The Shop Around the Corner** | **Remember the Night**
+ -- | -- | -- | -- | -- 
+*1933* | *1935* | *1936* | *1940* | *1940*
+ ![](https://image.tmdb.org/t/p/w200/bcXT1q4JKqAlCjUadLx0pNGoyJR.jpg) |  ![](https://image.tmdb.org/t/p/w200/1hMesbV20CgdzODWgOgL2t1iHdp.jpg) |  ![](https://image.tmdb.org/t/p/w200/9xBuHtiB4CwtEciWdUd28VvhkJO.jpg) |  ![](https://image.tmdb.org/t/p/w200/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg) |  ![](https://image.tmdb.org/t/p/w200/jHGXPEERDrBZpscGbRTP5HHyeOm.jpg)
+
+## 5 mais novos
+
+**Magic Mike's Last Dance** | **Cha Cha Real Smooth** | **The Year I Started Masturbating** | **Spoiler Alert** | **Airplane Mode**
+ -- | -- | -- | -- | -- 
+*2023* | *2022* | *2022* | *2022* | *2020*
+![](https://image.tmdb.org/t/p/w200/9a9pyJZRhUWUSBT8BQqWihtqbI8.jpg) | ![](https://image.tmdb.org/t/p/w200/z8IPItbwRrJ3QWdCePOnWS1jueY.jpg) | ![](https://image.tmdb.org/t/p/w200/ckbnMAgX8PxShIYmK1LFByKNhEL.jpg) | ![](https://image.tmdb.org/t/p/w200/m6FQtqoIP7JUqc9hRwQQfuYG2kz.jpg) | ![](https://image.tmdb.org/t/p/w200/fLXisj0j39zaktmoU72tVtOXx6W.jpg)
+
+**Média da nota:** 6,45
+**Menor nota:** 4,50 (Swiped)
+**Maior nota:** 8,55 (Dilwale Dulhania Le Jayenge)
+
+## 5 mais bem avaliados
+
+**Dilwale Dulhania Le Jayenge** | **Forrest Gump** | **The Shop Around the Corner** | **The Apartment** | **Love, Simon**
+ -- | -- | -- | -- | -- 
+*8,55* | *8,48* | *8,27* | *8,22* | *8,04*
+![](https://image.tmdb.org/t/p/w200/ktejodbcdCPXbMMdnpI9BUxW6O8.jpg) | ![](https://image.tmdb.org/t/p/w200/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg) | ![](https://image.tmdb.org/t/p/w200/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg) | ![](https://image.tmdb.org/t/p/w200/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg) | ![](https://image.tmdb.org/t/p/w200/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg)
+
+## 5 menos bem avaliados
+
+**Swiped** | **Dr. T & the Women** | **The Merry Widow** | **Home Fries** | **Friends with Money**
+ -- | -- | -- | -- | -- 
+*4,50* | *4,86* | *4,97* | *5,00* | *5,12*
+![](https://image.tmdb.org/t/p/w200/cXlGDWGCB2zpmnUzYpQYgYhNrpS.jpg) | ![](https://image.tmdb.org/t/p/w200/vBtKoV5YU4lStxXyBQLvAdYgGej.jpg) | ![](https://image.tmdb.org/t/p/w200/l1CtwEsCDdeyqp50fwq7CS3REm6.jpg) | ![](https://image.tmdb.org/t/p/w200/9Qwi6NdS4lBAv1WIkw04050FFE9.jpg) | ![](https://image.tmdb.org/t/p/w200/hJmfZ1b6ZzT4bORo4f2FyWbkgAx.jpg)
+
+**Média de votos:** 781,0
+**Menor votos:** 76 (In Search of a Midnight Kiss)
+**Maior votos:** 25409 (Forrest Gump)
+
+## 5 mais avaliados
+
+**Forrest Gump** | **The Devil Wears Prada** | **(500) Days of Summer** | **Crazy, Stupid, Love.** | **Juno**
+ -- | -- | -- | -- | -- 
+*25409* | *11089* | *9359* | *7773* | *6736*
+![](https://image.tmdb.org/t/p/w200/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg) | ![](https://image.tmdb.org/t/p/w200/u6QBDGUCOEMRekna95ip2MxplbQ.jpg) | ![](https://image.tmdb.org/t/p/w200/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg) | ![](https://image.tmdb.org/t/p/w200/p4RafgAPk558muOjnBMHhMArjS2.jpg) | ![](https://image.tmdb.org/t/p/w200/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg)
+
+## 5 menos avaliados
+
+**In Search of a Midnight Kiss** | **Some Girls** | **Sylvia Scarlett** | **The Broken Hearts Club: A Romantic Comedy** | **Good Dick**
+ -- | -- | -- | -- | -- 
+*76* | *76* | *76* | *76* | *76*
+![](https://image.tmdb.org/t/p/w200/8CXdyfDOrYo9rQAL21OfSlOKVpC.jpg) | ![](https://image.tmdb.org/t/p/w200/iZz3RKDstcniOSyo0yFr2DP9liB.jpg) | ![](https://image.tmdb.org/t/p/w200/1hMesbV20CgdzODWgOgL2t1iHdp.jpg) | ![](https://image.tmdb.org/t/p/w200/g9bqbopRZYy5Z2137zFoFQRXVEW.jpg) | ![](https://image.tmdb.org/t/p/w200/a1DGYt4boLrfsHUnqbHxhUIVoe9.jpg)
+
+**Gêneros mais comuns:**
+* Comedy (290)
+* Drama (290)
+* Romance (290)
+
+
+**Palavras-chave mais comuns:**
+* love (24)
+* romantic comedy (21)
+* friendship (19)
+* coming of age (19)
+* wedding (18)
+* parent child relationship (17)
+* gay theme (16)
+* lgbt (15)
+* pregnancy (14)
+* falling in love (14)
+* relationship (13)
+* marriage (13)
+* romance (12)
+* husband wife relationship (12)
+* high school (11)
+
+# Cluster 38
+**Total de filmes:** 143
+**Média de ano de lançamento:** 1996
+**Menor ano:** 1931 (Drácula)
+**Maior ano:** 2022 (X)
+
+## 5 Mais Velhos 
+
+**Drácula** | **White Zombie** | **The Raven** | **Meshes of the Afternoon** | **Frankenstein Meets the Wolf Man**
+ -- | -- | -- | -- | -- 
+*1931* | *1932* | *1935* | *1943* | *1943*
+ ![](https://image.tmdb.org/t/p/w200/vXpPf8MFLqp4f9KdUyjL7tSYDmd.jpg) |  ![](https://image.tmdb.org/t/p/w200/s5DnfWHGeCExlweIFF4JOHKyx3H.jpg) |  ![](https://image.tmdb.org/t/p/w200/iVMNfBvKe4XXxi4zrMytZ1c6ejO.jpg) |  ![](https://image.tmdb.org/t/p/w200/yHjEjRU81RcxKFNU5hhiPYMzlsu.jpg) |  ![](https://image.tmdb.org/t/p/w200/eitxewmvmZXY7qoKpiVhdaFmwMz.jpg)
+
+## 5 mais novos
+
+**X** | **Incantation** | **The Jack in the Box: Awakening** | **Christmas Bloody Christmas** | **Witch Hunt**
+ -- | -- | -- | -- | -- 
+*2022* | *2022* | *2022* | *2022* | *2021*
+![](https://image.tmdb.org/t/p/w200/woTQx9Q4b8aO13jR9dsj8C9JESy.jpg) | ![](https://image.tmdb.org/t/p/w200/6zltP23zLGPogsHZUazSrrwNuKs.jpg) | ![](https://image.tmdb.org/t/p/w200/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg) | ![](https://image.tmdb.org/t/p/w200/97PaQ7r4H3y0x9RTXusfedmzf86.jpg) | ![](https://image.tmdb.org/t/p/w200/vHKlIci8f38GaAd361EW0VSx91k.jpg)
+
+**Média da nota:** 5,86
+**Menor nota:** 4,51 (Howling IV: The Original Nightmare)
+**Maior nota:** 7,68 (Meshes of the Afternoon)
+
+## 5 mais bem avaliados
+
+**Meshes of the Afternoon** | **The Birds** | **Suspiria** | **Don't Torture a Duckling** | **The Wicker Man**
+ -- | -- | -- | -- | -- 
+*7,68* | *7,52* | *7,50* | *7,37* | *7,37*
+![](https://image.tmdb.org/t/p/w200/yHjEjRU81RcxKFNU5hhiPYMzlsu.jpg) | ![](https://image.tmdb.org/t/p/w200/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg) | ![](https://image.tmdb.org/t/p/w200/5ya8jTbNZTrCFUx9OwpNBjCivXY.jpg) | ![](https://image.tmdb.org/t/p/w200/l6OXiP8RNc1xdqmycBdX0NBsnMS.jpg) | ![](https://image.tmdb.org/t/p/w200/wwtrXRL8SiOWxhwLEvw7iBgYh0g.jpg)
+
+## 5 menos bem avaliados
+
+**Howling IV: The Original Nightmare** | **Devil's Due** | **Hansel & Gretel** | **Buried Alive** | **Cabin Fever**
+ -- | -- | -- | -- | -- 
+*4,51* | *4,56* | *4,67* | *4,69* | *4,70*
+![](https://image.tmdb.org/t/p/w200/30wbPUvYCphBTjHWemDueqvBCWu.jpg) | ![](https://image.tmdb.org/t/p/w200/4Urk8rbiIif4gXt6MVC9r173Zrb.jpg) | ![](https://image.tmdb.org/t/p/w200/I0emCZ9h9WIJLnZqDYP5MZJgwH.jpg) | ![](https://image.tmdb.org/t/p/w200/x8AMFiI1R5WQ86HhGyWzxjTk1sT.jpg) | ![](https://image.tmdb.org/t/p/w200/yJQLWoizC5zBjVk9dr2Qo1K1TCI.jpg)
+
+**Média de votos:** 438,0
+**Menor votos:** 75 (The Ranger)
+**Maior votos:** 3685 (The Birds)
+
+## 5 mais avaliados
+
+**The Birds** | **Child's Play** | **Suspiria** | **Friday the 13th** | **The Texas Chainsaw Massacre**
+ -- | -- | -- | -- | -- 
+*3685* | *2640* | *2634* | *2599* | *2408*
+![](https://image.tmdb.org/t/p/w200/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg) | ![](https://image.tmdb.org/t/p/w200/7jrOhGtRh6YK7sMfvH1E1f36aVx.jpg) | ![](https://image.tmdb.org/t/p/w200/5ya8jTbNZTrCFUx9OwpNBjCivXY.jpg) | ![](https://image.tmdb.org/t/p/w200/HzrPn1gEHWixfMOvOehOTlHROo.jpg) | ![](https://image.tmdb.org/t/p/w200/qJ9Cw1J4EmhBApoue4qlhqVrCZ7.jpg)
+
+## 5 menos avaliados
+
+**The Ranger** | **The Oblong Box** | **The Amusement Park** | **Absurd** | **Dr Jekyll & Sister Hyde**
+ -- | -- | -- | -- | -- 
+*75* | *77* | *78* | *78* | *79*
+![](https://image.tmdb.org/t/p/w200/nva9mNXUwf25frADyaBjBZtgUU.jpg) | ![](https://image.tmdb.org/t/p/w200/6MHJRsWmY7rl3ub2ucoZcpGd7hF.jpg) | ![](https://image.tmdb.org/t/p/w200/djaD4Z1lw4Lk2ayCCe6sqy1bCY2.jpg) | ![](https://image.tmdb.org/t/p/w200/iFmnOINa3hB33W9LuBAMQsLGqiF.jpg) | ![](https://image.tmdb.org/t/p/w200/mm3cm6hLHYwuB5bRim1PIM6guvN.jpg)
+
+**Gêneros mais comuns:**
+* Horror (143)
+
+
+**Palavras-chave mais comuns:**
+* murder (37)
+* slasher (31)
+* found footage (18)
+* serial killer (16)
+* video nasty (12)
+* zombie (12)
+* gore (11)
+* revenge (10)
+* woods (9)
+* remake (9)
+* torture (8)
+* psychopath (7)
+* killer (6)
+* evil (6)
+* cannibal (6)
+
+# Cluster 39
+**Total de filmes:** 274
+**Média de ano de lançamento:** 2003
+**Menor ano:** 1936 (The Only Son)
+**Maior ano:** 2022 (The Whale)
+
+## 5 Mais Velhos 
+
+**The Only Son** | **Champion** | **Les enfants terribles** | **A Streetcar Named Desire** | **Rebel Without a Cause**
+ -- | -- | -- | -- | -- 
+*1936* | *1949* | *1950* | *1951* | *1955*
+ ![](https://image.tmdb.org/t/p/w200/yJmF6ppwbHpetlp2If62atjUhuq.jpg) |  ![](https://image.tmdb.org/t/p/w200/luBAS7aD9Iu6RwEumfXbQewjO1g.jpg) |  ![](https://image.tmdb.org/t/p/w200/yxcc8CfOn6M2HSGbjaDkAKb0QNQ.jpg) |  ![](https://image.tmdb.org/t/p/w200/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg) |  ![](https://image.tmdb.org/t/p/w200/n0oJB5fhcUth9ZbHziwsFuR38gT.jpg)
+
+## 5 mais novos
+
+**The Whale** | **The Fabelmans** | **Blonde** | **Aftersun** | **The Eight Mountains**
+ -- | -- | -- | -- | -- 
+*2022* | *2022* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg) | ![](https://image.tmdb.org/t/p/w200/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg) | ![](https://image.tmdb.org/t/p/w200/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg) | ![](https://image.tmdb.org/t/p/w200/jeXmhP2zbUkREMRqFOYIwQOk49T.jpg) | ![](https://image.tmdb.org/t/p/w200/1oc4AwkfFkLsRQ96t1erFXzPUhU.jpg)
+
+**Média da nota:** 6,96
+**Menor nota:** 4,50 (Ma mère)
+**Maior nota:** 8,35 (American History X)
+
+## 5 mais bem avaliados
+
+**American History X** | **Miracle in Cell No. 7** | **Mommy** | **The Father** | **Silenced**
+ -- | -- | -- | -- | -- 
+*8,35* | *8,28* | *8,25* | *8,15* | *8,15*
+![](https://image.tmdb.org/t/p/w200/euypWkaYFOLW3e5rLIcTAjWnhhT.jpg) | ![](https://image.tmdb.org/t/p/w200/bOth4QmNyEkalwahfPCfiXjNh1r.jpg) | ![](https://image.tmdb.org/t/p/w200/u5jbTMqze9U2nEhfFJmtDXxc89m.jpg) | ![](https://image.tmdb.org/t/p/w200/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg) | ![](https://image.tmdb.org/t/p/w200/mbMp0oIFmYnw0i5gzRoKt8cH5ve.jpg)
+
+## 5 menos bem avaliados
+
+**Ma mère** | **Melissa P.** | **Anatomy of Hell** | **Concussion** | **She Dies Tomorrow**
+ -- | -- | -- | -- | -- 
+*4,50* | *4,59* | *4,75* | *5,18* | *5,20*
+![](https://image.tmdb.org/t/p/w200/uYWyC1jjcEkjR3aKFZ4ruNWM1io.jpg) | ![](https://image.tmdb.org/t/p/w200/Cz7ZbqtgUiqKwcmZrkIpHMt8aU.jpg) | ![](https://image.tmdb.org/t/p/w200/q3tkz66XoeYCskyvZng0FQXqnVg.jpg) | ![](https://image.tmdb.org/t/p/w200/uib2Khi2wynz9BEAoUBIvEE64vB.jpg) | ![](https://image.tmdb.org/t/p/w200/zzFftAIaCkNDt8TL4yQN8RweLrw.jpg)
+
+**Média de votos:** 750,0
+**Menor votos:** 75 (The End of Summer)
+**Maior votos:** 11260 (American Beauty)
+
+## 5 mais avaliados
+
+**American Beauty** | **American History X** | **Moonlight** | **Marriage Story** | **Lion**
+ -- | -- | -- | -- | -- 
+*11260* | *10729* | *6641* | *6478* | *6199*
+![](https://image.tmdb.org/t/p/w200/wby9315QzVKdW9BonAefg8jGTTb.jpg) | ![](https://image.tmdb.org/t/p/w200/euypWkaYFOLW3e5rLIcTAjWnhhT.jpg) | ![](https://image.tmdb.org/t/p/w200/4911T5FbJ9eD2Faz5Z8cT3SUhU3.jpg) | ![](https://image.tmdb.org/t/p/w200/91osxUqsq1JC0zJzB1CpAavlWu7.jpg) | ![](https://image.tmdb.org/t/p/w200/iBGRbLvg6kVc7wbS8wDdVHq6otm.jpg)
+
+## 5 menos avaliados
+
+**The End of Summer** | **The Life of Jesus** | **The Woman Who Ran** | **Madeline's Madeline** | **The Only Son**
+ -- | -- | -- | -- | -- 
+*75* | *75* | *75* | *75* | *76*
+![](https://image.tmdb.org/t/p/w200/t2WujZqrW6dP900VDnOJWQ2xhaM.jpg) | ![](https://image.tmdb.org/t/p/w200/mY7yWPN61wqpCIGVtNjInGidyJk.jpg) | ![](https://image.tmdb.org/t/p/w200/uAxE3xIGDAlqQXGtOgLKaBADVHh.jpg) | ![](https://image.tmdb.org/t/p/w200/8PcvYO5SHmPUFzdXpI2kzj3JtXN.jpg) | ![](https://image.tmdb.org/t/p/w200/yJmF6ppwbHpetlp2If62atjUhuq.jpg)
+
+**Gêneros mais comuns:**
+* Drama (274)
+
+
+**Palavras-chave mais comuns:**
+* parent child relationship (56)
+* sibling relationship (45)
+* family relationships (35)
+* husband wife relationship (30)
+* mother daughter relationship (30)
+* father son relationship (24)
+* coming of age (23)
+* mother son relationship (22)
+* lgbt (16)
+* family (15)
+* father daughter relationship (15)
+* gay theme (14)
+* single mother (13)
+* friendship (12)
+* drug addiction (11)
+
+# Cluster 40
+**Total de filmes:** 985
+**Média de ano de lançamento:** 1998
+**Menor ano:** 1899 (Cinderella)
+**Maior ano:** 2023 (Ghosted)
+
+## 5 Mais Velhos 
+
+**Cinderella** | **Way Down East** | **Destiny** | **Safety Last!** | **The Hunchback of Notre Dame**
+ -- | -- | -- | -- | -- 
+*1899* | *1920* | *1921* | *1923* | *1923*
+ ![](https://image.tmdb.org/t/p/w200/iAUUJ5Cgpk6Aqq9tBUErPxNNb73.jpg) |  ![](https://image.tmdb.org/t/p/w200/xzrSiQuiSb5hKePkU9AFuCcgRxE.jpg) |  ![](https://image.tmdb.org/t/p/w200/zgRB2MhCTfOMkxRO7seX6GxOaKJ.jpg) |  ![](https://image.tmdb.org/t/p/w200/bG2IFl0pFaisVl7YQuSiuTQBWKZ.jpg) |  ![](https://image.tmdb.org/t/p/w200/3oheTQrTuqS1jPUW6GOc65ZbM5u.jpg)
+
+## 5 mais novos
+
+**Ghosted** | **Your Place or Mine** | **You People** | **Through My Window: Across the Sea** | **The Out-Laws**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2023* | *2023* | *2023*
+![](https://image.tmdb.org/t/p/w200/liLN69YgoovHVgmlHJ876PKi5Yi.jpg) | ![](https://image.tmdb.org/t/p/w200/3oFfY1HpzJDlRzKSCBF2sA5mb9U.jpg) | ![](https://image.tmdb.org/t/p/w200/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg) | ![](https://image.tmdb.org/t/p/w200/dAyJqJ8KoglZysttC6BfVmDFQUt.jpg) | ![](https://image.tmdb.org/t/p/w200/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg)
+
+**Média da nota:** 6,63
+**Menor nota:** 4,55 (Shape of Red)
+**Maior nota:** 8,51 (Your Name.)
+
+## 5 mais bem avaliados
+
+**Your Name.** | **The Phantom of the Opera at the Royal Albert Hall** | **Teasing Master Takagi-san: The Movie** | **Dou kyu sei – Classmates** | **The Quintessential Quintuplets Movie**
+ -- | -- | -- | -- | -- 
+*8,51* | *8,43* | *8,43* | *8,42* | *8,35*
+![](https://image.tmdb.org/t/p/w200/q719jXXEzOoYaps6babgKnONONX.jpg) | ![](https://image.tmdb.org/t/p/w200/1vf1ryVPBSV2J8dOfCmyv3u0Vu4.jpg) | ![](https://image.tmdb.org/t/p/w200/kGyya4tD6mDCGjfoK9lktDkLxvy.jpg) | ![](https://image.tmdb.org/t/p/w200/cIfRCA5wEvj9tApca4UDUagQEiM.jpg) | ![](https://image.tmdb.org/t/p/w200/sg7klpt1xwK1IJirBI9EHaqQwJ5.jpg)
+
+## 5 menos bem avaliados
+
+**Shape of Red** | **The Flintstones in Viva Rock Vegas** | **Fifty Shades of Black** | **Passion Play** | **Permission**
+ -- | -- | -- | -- | -- 
+*4,55* | *4,80* | *4,86* | *4,87* | *4,95*
+![](https://image.tmdb.org/t/p/w200/4KykwGCfN45vPhuNUlpey3H1ev5.jpg) | ![](https://image.tmdb.org/t/p/w200/nEkMYwctrUH8ueaAcJFZnAEltMX.jpg) | ![](https://image.tmdb.org/t/p/w200/fYRiZ3vJuuCYb9H7HXfpjKO9Jd6.jpg) | ![](https://image.tmdb.org/t/p/w200/wx0W9Iak86peVoZnH8bBGA98chA.jpg) | ![](https://image.tmdb.org/t/p/w200/1YIGIS0Imzi5S2bbkjlQOhEJthS.jpg)
+
+**Média de votos:** 789,0
+**Menor votos:** 75 (Fanfan)
+**Maior votos:** 15625 (La La Land)
+
+## 5 mais avaliados
+
+**La La Land** | **Beauty and the Beast** | **Twilight** | **Edward Scissorhands** | **The Curious Case of Benjamin Button**
+ -- | -- | -- | -- | -- 
+*15625* | *14871* | *12638* | *12049* | *11899*
+![](https://image.tmdb.org/t/p/w200/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg) | ![](https://image.tmdb.org/t/p/w200/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg) | ![](https://image.tmdb.org/t/p/w200/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg) | ![](https://image.tmdb.org/t/p/w200/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg) | ![](https://image.tmdb.org/t/p/w200/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg)
+
+## 5 menos avaliados
+
+**Fanfan** | **A Novel Romance** | **Motocrossed** | **Beautiful Vampire** | **The Perfect Find**
+ -- | -- | -- | -- | -- 
+*75* | *75* | *75* | *75* | *75*
+![](https://image.tmdb.org/t/p/w200/wMSrrL2G7iYiE9IS19B4kETLjv5.jpg) | ![](https://image.tmdb.org/t/p/w200/cLgHUoemiSv3TqoCOnb8oiYdRVX.jpg) | ![](https://image.tmdb.org/t/p/w200/7Us6BhiUfqfenFF7NjouXG81guK.jpg) | ![](https://image.tmdb.org/t/p/w200/43IwKZITS5XS8uKuNmZVojfPRxP.jpg) | ![](https://image.tmdb.org/t/p/w200/fZXturIugHYCl7T6oLeMj1AWm7p.jpg)
+
+**Gêneros mais comuns:**
+* Romance (985)
+* Comedy (583)
+* Drama (556)
+* Fantasy (143)
+* Music (121)
+* TV Movie (108)
+* Family (103)
+* Crime (97)
+* War (57)
+* Adventure (50)
+* Action (44)
+* Horror (36)
+* Western (32)
+* Mystery (29)
+* Animation (26)
+* History (18)
+* Thriller (13)
+
+
+**Palavras-chave mais comuns:**
+* love (87)
+* christmas (84)
+* musical (70)
+* romantic comedy (53)
+* holiday (44)
+* wedding (38)
+* lgbt (36)
+* romance (34)
+* friendship (33)
+* high school (32)
+* love triangle (32)
+* gay theme (29)
+* black and white (28)
+* parent child relationship (22)
+* sibling relationship (22)
+
+# Cluster 41
+**Total de filmes:** 38
+**Média de ano de lançamento:** 1997
+**Menor ano:** 1931 (M)
+**Maior ano:** 2021 (Flag Day)
+
+## 5 Mais Velhos 
+
+**M** | **Sabotage** | **Thieves' Highway** | **He Walked by Night** | **I Confess**
+ -- | -- | -- | -- | -- 
+*1931* | *1937* | *1949* | *1949* | *1953*
+ ![](https://image.tmdb.org/t/p/w200/slsS6jT6SXjcTPOrsFcLIrHboXA.jpg) |  ![](https://image.tmdb.org/t/p/w200/A6cyOt9mhmvWA2uHcVsGkcCaHCz.jpg) |  ![](https://image.tmdb.org/t/p/w200/ljnFEsYQXeoW03Jagw159xVDP0J.jpg) |  ![](https://image.tmdb.org/t/p/w200/wAhLdEjC9iIvF6Oly42Qs3LXKuL.jpg) |  ![](https://image.tmdb.org/t/p/w200/5IYyJetEctAypFYIffqx55PXTPT.jpg)
+
+## 5 mais novos
+
+**Flag Day** | **Uncut Gems** | **The Golden Glove** | **Eye for an Eye** | **Pickpockets**
+ -- | -- | -- | -- | -- 
+*2021* | *2019* | *2019* | *2019* | *2018*
+![](https://image.tmdb.org/t/p/w200/zvDxMJy41RfsH35YFVDKw5mxahy.jpg) | ![](https://image.tmdb.org/t/p/w200/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg) | ![](https://image.tmdb.org/t/p/w200/wi9K8quRC3oYfFjGrO7CODR5nWC.jpg) | ![](https://image.tmdb.org/t/p/w200/3WEJAWFusNeZIJDNYxeIPytuZ1g.jpg) | ![](https://image.tmdb.org/t/p/w200/ja5zu3uTu8B7XKYXUSTvtHidTID.jpg)
+
+**Média da nota:** 6,83
+**Menor nota:** 5,00 (The Son of No One)
+**Maior nota:** 8,17 (The Departed)
+
+## 5 mais bem avaliados
+
+**The Departed** | **M** | **Prisoners** | **Drive** | **Miller's Crossing**
+ -- | -- | -- | -- | -- 
+*8,17* | *8,10* | *8,09* | *7,57* | *7,45*
+![](https://image.tmdb.org/t/p/w200/nT97ifVT2J1yMQmeq20Qblg61T.jpg) | ![](https://image.tmdb.org/t/p/w200/slsS6jT6SXjcTPOrsFcLIrHboXA.jpg) | ![](https://image.tmdb.org/t/p/w200/tuZhZ6biFMr5n9YSVuHOJnNL1uU.jpg) | ![](https://image.tmdb.org/t/p/w200/602vevIURmpDfzbnv5Ubi6wIkQm.jpg) | ![](https://image.tmdb.org/t/p/w200/ab3pnsTKp3BgcAFy0FgWBFBg9FL.jpg)
+
+## 5 menos bem avaliados
+
+**The Son of No One** | **Pickpockets** | **A Kind of Murder** | **Brighton Rock** | **The Captive**
+ -- | -- | -- | -- | -- 
+*5,00* | *5,07* | *5,28* | *5,63* | *5,83*
+![](https://image.tmdb.org/t/p/w200/koxJAJTPTKzMxKu3vVhPvoZc4w6.jpg) | ![](https://image.tmdb.org/t/p/w200/ja5zu3uTu8B7XKYXUSTvtHidTID.jpg) | ![](https://image.tmdb.org/t/p/w200/hEeuCjUnGFCPdHbHFUUGGsCIrNt.jpg) | ![](https://image.tmdb.org/t/p/w200/7uq3onOHexPe4Xcj5bdRL7NKkIi.jpg) | ![](https://image.tmdb.org/t/p/w200/wLoFxTZFEfAzFLk2qSoPbcz58Jb.jpg)
+
+**Média de votos:** 1720,0
+**Menor votos:** 83 (He Walked by Night)
+**Maior votos:** 13792 (The Departed)
+
+## 5 mais avaliados
+
+**The Departed** | **Drive** | **Prisoners** | **Uncut Gems** | **A History of Violence**
+ -- | -- | -- | -- | -- 
+*13792* | *11718* | *10748* | *4261* | *2906*
+![](https://image.tmdb.org/t/p/w200/nT97ifVT2J1yMQmeq20Qblg61T.jpg) | ![](https://image.tmdb.org/t/p/w200/602vevIURmpDfzbnv5Ubi6wIkQm.jpg) | ![](https://image.tmdb.org/t/p/w200/tuZhZ6biFMr5n9YSVuHOJnNL1uU.jpg) | ![](https://image.tmdb.org/t/p/w200/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg) | ![](https://image.tmdb.org/t/p/w200/rrc6GiAKHDrUjp8OmdVng9hRWBn.jpg)
+
+## 5 menos avaliados
+
+**He Walked by Night** | **The Robber** | **Thieves' Highway** | **Bullet Ballet** | **Brighton Rock**
+ -- | -- | -- | -- | -- 
+*83* | *83* | *87* | *94* | *96*
+![](https://image.tmdb.org/t/p/w200/wAhLdEjC9iIvF6Oly42Qs3LXKuL.jpg) | ![](https://image.tmdb.org/t/p/w200/wxJ579nYUXzy9WeI13hIPld8tDs.jpg) | ![](https://image.tmdb.org/t/p/w200/ljnFEsYQXeoW03Jagw159xVDP0J.jpg) | ![](https://image.tmdb.org/t/p/w200/v3bQVcIvajOJLamwejJOUTZHK7Z.jpg) | ![](https://image.tmdb.org/t/p/w200/7uq3onOHexPe4Xcj5bdRL7NKkIi.jpg)
+
+**Gêneros mais comuns:**
+* Drama (38)
+* Thriller (38)
+* Crime (38)
+
+
+**Palavras-chave mais comuns:**
+* revenge (8)
+* police (7)
+* neo-noir (7)
+* murder (7)
+* organized crime (5)
+* kidnapping (5)
+* brutality (4)
+* investigation (4)
+* gangster (3)
+* robbery (3)
+* punishment (3)
+* germany (3)
+* serial killer (3)
+* black and white (3)
+* 1970s (3)
+
+# Cluster 42
+**Total de filmes:** 171
+**Média de ano de lançamento:** 2003
+**Menor ano:** 1896 (The Vanishing Lady)
+**Maior ano:** 2023 (The Boogeyman)
+
+## 5 Mais Velhos 
+
+**The Vanishing Lady** | **Mystery of the Wax Museum** | **The Black Cat** | **Mark of the Vampire** | **The Seventh Victim**
+ -- | -- | -- | -- | -- 
+*1896* | *1933* | *1934* | *1935* | *1943*
+ ![](https://image.tmdb.org/t/p/w200/weN5A7SHISEssVqB62yR1NIVuiB.jpg) |  ![](https://image.tmdb.org/t/p/w200/aTln5BmHbnA6tBXzVmRbylNwaHo.jpg) |  ![](https://image.tmdb.org/t/p/w200/QTH3dkeDGTBRBmsY0A7STpsNN4.jpg) |  ![](https://image.tmdb.org/t/p/w200/A6JN2kIEYwXEHHmqEa86aMKDJj8.jpg) |  ![](https://image.tmdb.org/t/p/w200/cvck16EWDqWK6x4p78N8KyJyJNJ.jpg)
+
+## 5 mais novos
+
+**The Boogeyman** | **Skinamarink** | **Hellraiser** | **The Cellar** | **Viking Wolf**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/pYwZdnXVnVxAr7dx4MEK7tTK9gI.jpg) | ![](https://image.tmdb.org/t/p/w200/8qOTi8VXvnuLH0jijMBCyygtV9d.jpg) | ![](https://image.tmdb.org/t/p/w200/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg) | ![](https://image.tmdb.org/t/p/w200/rtfGeS5WMXA6PtikIYUmYTSbVdg.jpg) | ![](https://image.tmdb.org/t/p/w200/abBDzmy35A3Nkupn6wK2DKyFamd.jpg)
+
+**Média da nota:** 6,12
+**Menor nota:** 4,62 (Children of the Corn 666: Isaac's Return)
+**Maior nota:** 7,40 (Saw)
+
+## 5 mais bem avaliados
+
+**Saw** | **Scream** | **The Innocents** | **The Wailing** | **Gonjiam: Haunted Asylum**
+ -- | -- | -- | -- | -- 
+*7,40* | *7,40* | *7,40* | *7,33* | *7,33*
+![](https://image.tmdb.org/t/p/w200/4da0TS3iQ1IzuyhDS8elgkmOfrN.jpg) | ![](https://image.tmdb.org/t/p/w200/aXAByjBN8UhaYvotqRCwa5MsMGu.jpg) | ![](https://image.tmdb.org/t/p/w200/idqvLBmlEHUITMnQ0EJ6Yb5TpVw.jpg) | ![](https://image.tmdb.org/t/p/w200/aXlL7yYwpXInhltamtzKQFBG08G.jpg) | ![](https://image.tmdb.org/t/p/w200/KPrZ8lbgbMD7gr1pkMKoNbtcCK.jpg)
+
+## 5 menos bem avaliados
+
+**Children of the Corn 666: Isaac's Return** | **Altar** | **Shrooms** | **Hellraiser: Hellseeker** | **Death of Me**
+ -- | -- | -- | -- | -- 
+*4,62* | *4,82* | *4,86* | *4,93* | *4,97*
+![](https://image.tmdb.org/t/p/w200/3c0HiaAAljaWRHWkgNp0uM6sFRD.jpg) | ![](https://image.tmdb.org/t/p/w200/p5JEzIZ9ibVltkf8XtDG0VWTF2h.jpg) | ![](https://image.tmdb.org/t/p/w200/pU4lcKfjf0U8pM036FHyoVGLev7.jpg) | ![](https://image.tmdb.org/t/p/w200/nFo3rx8pNCRGQkLjBSWxQ6hNL9t.jpg) | ![](https://image.tmdb.org/t/p/w200/8F9xUvb1JMWUMkFV2Yq3aiueAbq.jpg)
+
+**Média de votos:** 1093,0
+**Menor votos:** 75 (Blood from the Mummy's Tomb)
+**Maior votos:** 8327 (Saw)
+
+## 5 mais avaliados
+
+**Saw** | **Us** | **Scream** | **It Follows** | **The Ring**
+ -- | -- | -- | -- | -- 
+*8327* | *6776* | *6180* | *5882* | *5706*
+![](https://image.tmdb.org/t/p/w200/4da0TS3iQ1IzuyhDS8elgkmOfrN.jpg) | ![](https://image.tmdb.org/t/p/w200/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg) | ![](https://image.tmdb.org/t/p/w200/aXAByjBN8UhaYvotqRCwa5MsMGu.jpg) | ![](https://image.tmdb.org/t/p/w200/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg) | ![](https://image.tmdb.org/t/p/w200/e2t5CKMox7tjv3iD3Ko7NdFa5lJ.jpg)
+
+## 5 menos avaliados
+
+**Blood from the Mummy's Tomb** | **Offseason** | **Howling Village** | **Invitation Only** | **One Missed Call 3: Final**
+ -- | -- | -- | -- | -- 
+*75* | *76* | *77* | *79* | *80*
+![](https://image.tmdb.org/t/p/w200/x2CfNW6RMpUcNMWBMhiZyVE9KLw.jpg) | ![](https://image.tmdb.org/t/p/w200/zlX4WdEMzVomRukPjVQx6U9jtBS.jpg) | ![](https://image.tmdb.org/t/p/w200/doM8q4gqgLSFDbajjvJTlng4ZkN.jpg) | ![](https://image.tmdb.org/t/p/w200/inZcs1MDsDaCv9P6rryrHMMWH6J.jpg) | ![](https://image.tmdb.org/t/p/w200/zTb7EsVzo27irk8tU0peYxwmD0g.jpg)
+
+**Gêneros mais comuns:**
+* Mystery (171)
+* Horror (169)
+* Thriller (57)
+* Fantasy (9)
+* Crime (7)
+* Romance (1)
+* TV Movie (1)
+* History (1)
+
+
+**Palavras-chave mais comuns:**
+* murder (33)
+* supernatural (18)
+* slasher (16)
+* found footage (15)
+* ghost (14)
+* serial killer (13)
+* curse (13)
+* haunted house (12)
+* gore (10)
+* witchcraft (9)
+* demon (9)
+* hospital (8)
+* investigation (8)
+* remake (8)
+* suicide (8)
+
+# Cluster 43
+**Total de filmes:** 151
+**Média de ano de lançamento:** 2005
+**Menor ano:** 1953 (The War of the Worlds)
+**Maior ano:** 2023 (Guardians of the Galaxy Vol. 3)
+
+## 5 Mais Velhos 
+
+**The War of the Worlds** | **Revenge of the Creature** | **It Came from Beneath the Sea** | **Ebirah, Horror of the Deep** | **2001: A Space Odyssey**
+ -- | -- | -- | -- | -- 
+*1953* | *1955* | *1955* | *1966* | *1968*
+ ![](https://image.tmdb.org/t/p/w200/gzc75Za4ArqfXIIr7STNnIE5rnA.jpg) |  ![](https://image.tmdb.org/t/p/w200/bmel9CVuESAxxVVRjDw22g8YDhE.jpg) |  ![](https://image.tmdb.org/t/p/w200/5Uhq7FinrZIpvoz8OUUL6yziHtO.jpg) |  ![](https://image.tmdb.org/t/p/w200/cASEI87nfAODzuZlGazeYynkWhe.jpg) |  ![](https://image.tmdb.org/t/p/w200/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg)
+
+## 5 mais novos
+
+**Guardians of the Galaxy Vol. 3** | **The Wandering Earth II** | **Crater** | **Avatar: The Way of Water** | **Moonfall**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2023* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg) | ![](https://image.tmdb.org/t/p/w200/pR858ihc6Ls9xohpdRJVjV787ml.jpg) | ![](https://image.tmdb.org/t/p/w200/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg) | ![](https://image.tmdb.org/t/p/w200/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg) | ![](https://image.tmdb.org/t/p/w200/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg)
+
+**Média da nota:** 6,54
+**Menor nota:** 4,55 (Game Therapy)
+**Maior nota:** 8,69 (Violet Evergarden: Recollections)
+
+## 5 mais bem avaliados
+
+**Violet Evergarden: Recollections** | **Hot Wheels AcceleRacers: Ignition** | **2001: A Space Odyssey** | **Guardians of the Galaxy Vol. 3** | **Finch**
+ -- | -- | -- | -- | -- 
+*8,69* | *8,10* | *8,08* | *8,02* | *7,94*
+![](https://image.tmdb.org/t/p/w200/yNrfz5Mc7IFszxAbivV1Kq0gZrW.jpg) | ![](https://image.tmdb.org/t/p/w200/lOsHnflo4Gikmk14vXX9w7s2mwi.jpg) | ![](https://image.tmdb.org/t/p/w200/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg) | ![](https://image.tmdb.org/t/p/w200/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg) | ![](https://image.tmdb.org/t/p/w200/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg)
+
+## 5 menos bem avaliados
+
+**Game Therapy** | **The Last Sharknado: It's About Time** | **The Man Who Saved the World** | **Robot Overlords** | **War of the Worlds: Annihilation**
+ -- | -- | -- | -- | -- 
+*4,55* | *4,57* | *4,82* | *4,90* | *4,91*
+![](https://image.tmdb.org/t/p/w200/sflbkNKS9TWUc4VzUgMgqGjmFle.jpg) | ![](https://image.tmdb.org/t/p/w200/uvMjNLot0dG7CX4HZPme2WDkMmE.jpg) | ![](https://image.tmdb.org/t/p/w200/ksastHJy9zFIAtoPhosU4gsrHSV.jpg) | ![](https://image.tmdb.org/t/p/w200/n9zyjUoTkcxWPC2osR2AdblPza1.jpg) | ![](https://image.tmdb.org/t/p/w200/jkkyb7uayYSKfjYGjLtRL8o0nmK.jpg)
+
+**Média de votos:** 1923,0
+**Menor votos:** 77 (Assassination Classroom: Graduation)
+**Maior votos:** 20636 (The Hunger Games)
+
+## 5 mais avaliados
+
+**The Hunger Games** | **Guardians of the Galaxy Vol. 2** | **Venom** | **Prometheus** | **2001: A Space Odyssey**
+ -- | -- | -- | -- | -- 
+*20636* | *20353* | *14724* | *11255* | *10575*
+![](https://image.tmdb.org/t/p/w200/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg) | ![](https://image.tmdb.org/t/p/w200/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg) | ![](https://image.tmdb.org/t/p/w200/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg) | ![](https://image.tmdb.org/t/p/w200/m7nZCtHJyDLncBUarfM5h5mrppx.jpg) | ![](https://image.tmdb.org/t/p/w200/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg)
+
+## 5 menos avaliados
+
+**Assassination Classroom: Graduation** | **Hardwired** | **Violet Evergarden: Recollections** | **Psycho-Pass 3: First Inspector** | **Neo Tokyo**
+ -- | -- | -- | -- | -- 
+*77* | *77* | *77* | *78* | *80*
+![](https://image.tmdb.org/t/p/w200/qZOZaj8diwPJqemmDle7XuxGVO0.jpg) | ![](https://image.tmdb.org/t/p/w200/qRFHYWSnTSYF8mNRtNGbEfK2mA0.jpg) | ![](https://image.tmdb.org/t/p/w200/yNrfz5Mc7IFszxAbivV1Kq0gZrW.jpg) | ![](https://image.tmdb.org/t/p/w200/m2RzGRMbdMUcp8S3PYtlPpHa83g.jpg) | ![](https://image.tmdb.org/t/p/w200/3tQqkfhE2v03OXK4ocxKQ4rnkaC.jpg)
+
+**Gêneros mais comuns:**
+* Science Fiction (151)
+* Action (116)
+* Adventure (83)
+* Animation (38)
+* Thriller (24)
+* Comedy (21)
+* Fantasy (20)
+* Drama (18)
+* Family (13)
+* Mystery (11)
+* Crime (9)
+* Horror (5)
+* Romance (4)
+* TV Movie (4)
+* War (1)
+* Music (1)
+
+
+**Palavras-chave mais comuns:**
+* superhero (29)
+* dystopia (27)
+* space opera (18)
+* spacecraft (16)
+* alien (16)
+* super power (16)
+* time travel (14)
+* cartoon (13)
+* alien invasion (12)
+* outer space (11)
+* post-apocalyptic future (10)
+* future (10)
+* dc animated movie universe (10)
+* space (9)
+* cyberpunk (9)
+
+# Cluster 44
+**Total de filmes:** 72
+**Média de ano de lançamento:** 1997
+**Menor ano:** 1924 (Greed)
+**Maior ano:** 2021 (The Unforgivable)
+
+## 5 Mais Velhos 
+
+**Greed** | **Little Caesar** | **La Bête Humaine** | **They Drive by Night** | **Bitter Rice**
+ -- | -- | -- | -- | -- 
+*1924* | *1931* | *1938* | *1940* | *1949*
+ ![](https://image.tmdb.org/t/p/w200/zT8XclM0tX5nVsnU3Idsn2Nzdo5.jpg) |  ![](https://image.tmdb.org/t/p/w200/1K3Q1tAHHA5Sdtja2pPALBQevA7.jpg) |  ![](https://image.tmdb.org/t/p/w200/9i3YbpFnn6pjGdS7uhFmoAuCZgt.jpg) |  ![](https://image.tmdb.org/t/p/w200/uF0X3IMhPIFgbwzlbayUsj4I6Tc.jpg) |  ![](https://image.tmdb.org/t/p/w200/9vvbZgbkfE7urqQXRNiONmvYTtF.jpg)
+
+## 5 mais novos
+
+**The Unforgivable** | **Cherry** | **Ted K** | **The Girl with a Bracelet** | **Piranhas**
+ -- | -- | -- | -- | -- 
+*2021* | *2021* | *2021* | *2020* | *2019*
+![](https://image.tmdb.org/t/p/w200/1b3dNFDuE7i05TJlXrIC571yR01.jpg) | ![](https://image.tmdb.org/t/p/w200/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg) | ![](https://image.tmdb.org/t/p/w200/xgBzMsP8a10rEHXNSytPsLhwUVF.jpg) | ![](https://image.tmdb.org/t/p/w200/vnIQq8R50P7rEwi2UivROxYiJv3.jpg) | ![](https://image.tmdb.org/t/p/w200/pWRGR6xqgXmODBhlLdxSsYJASTR.jpg)
+
+**Média da nota:** 6,92
+**Menor nota:** 5,22 (Spring Breakers)
+**Maior nota:** 8,46 (GoodFellas)
+
+## 5 mais bem avaliados
+
+**GoodFellas** | **City of God** | **Once Upon a Time in America** | **Catch Me If You Can** | **Dancer in the Dark**
+ -- | -- | -- | -- | -- 
+*8,46* | *8,43* | *8,43* | *7,97* | *7,87*
+![](https://image.tmdb.org/t/p/w200/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg) | ![](https://image.tmdb.org/t/p/w200/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg) | ![](https://image.tmdb.org/t/p/w200/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg) | ![](https://image.tmdb.org/t/p/w200/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg) | ![](https://image.tmdb.org/t/p/w200/8Wdd3fQfbbQeoSfWpHrDfaFNhBU.jpg)
+
+## 5 menos bem avaliados
+
+**Spring Breakers** | **Haven** | **Donnybrook** | **The Bling Ring** | **44 Inch Chest**
+ -- | -- | -- | -- | -- 
+*5,22* | *5,26* | *5,31* | *5,41* | *5,54*
+![](https://image.tmdb.org/t/p/w200/3A1XjFB59rWwx92fM97s94RcBL3.jpg) | ![](https://image.tmdb.org/t/p/w200/cV6rQ2wPN5I58d34DHyFAmO36BF.jpg) | ![](https://image.tmdb.org/t/p/w200/jcuEDKnM3uThdz7p0YYWFjMla73.jpg) | ![](https://image.tmdb.org/t/p/w200/tYLHIM8LIhqCYKS2wdaIOX8tetf.jpg) | ![](https://image.tmdb.org/t/p/w200/vKuW2TzCyNstKcAGnWLXsFJxmjM.jpg)
+
+**Média de votos:** 1330,0
+**Menor votos:** 80 (The Sunchaser)
+**Maior votos:** 14393 (Catch Me If You Can)
+
+## 5 mais avaliados
+
+**Catch Me If You Can** | **GoodFellas** | **American Hustle** | **City of God** | **Once Upon a Time in America**
+ -- | -- | -- | -- | -- 
+*14393* | *11726* | *6821* | *6708* | *4863*
+![](https://image.tmdb.org/t/p/w200/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg) | ![](https://image.tmdb.org/t/p/w200/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg) | ![](https://image.tmdb.org/t/p/w200/koXGRfatN0tURFWMA0Keb0p0Gtg.jpg) | ![](https://image.tmdb.org/t/p/w200/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg) | ![](https://image.tmdb.org/t/p/w200/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg)
+
+## 5 menos avaliados
+
+**The Sunchaser** | **The Day of the Owl** | **Last Dance** | **Haven** | **Battles Without Honor and Humanity**
+ -- | -- | -- | -- | -- 
+*80* | *83* | *83* | *85* | *86*
+![](https://image.tmdb.org/t/p/w200/1eTA9A73dXBgJe5uvSvTf3aLqYc.jpg) | ![](https://image.tmdb.org/t/p/w200/4QnOjIUR58Yficc6fuJtrJFPKOJ.jpg) | ![](https://image.tmdb.org/t/p/w200/hsMe9TYfPs1VfpZs9xVLZBVGcES.jpg) | ![](https://image.tmdb.org/t/p/w200/cV6rQ2wPN5I58d34DHyFAmO36BF.jpg) | ![](https://image.tmdb.org/t/p/w200/qQmEEj5B3bTQI8Dq8u4zq80Z7JL.jpg)
+
+**Gêneros mais comuns:**
+* Drama (72)
+* Crime (72)
+
+
+**Palavras-chave mais comuns:**
+* gangster (13)
+* murder (11)
+* 1970s (7)
+* drugs (6)
+* prison (5)
+* drug dealer (5)
+* robbery (5)
+* revenge (5)
+* mafia (4)
+* street gang (4)
+* ghetto (4)
+* coming of age (4)
+* 1960s (4)
+* parent child relationship (4)
+* friendship (4)
+
+# Cluster 45
+**Total de filmes:** 145
+**Média de ano de lançamento:** 2000
+**Menor ano:** 1935 (The 39 Steps)
+**Maior ano:** 2023 (Insidious: The Red Door)
+
+## 5 Mais Velhos 
+
+**The 39 Steps** | **Stranger on the Third Floor** | **The Leopard Man** | **Ministry of Fear** | **Mr. Arkadin**
+ -- | -- | -- | -- | -- 
+*1935* | *1940* | *1943* | *1944* | *1955*
+ ![](https://image.tmdb.org/t/p/w200/paI9Tmqm2cZG6xy4Tnjw3Ydjuw5.jpg) |  ![](https://image.tmdb.org/t/p/w200/ovJx3qRt83keSwZ8Cax1wyRc3Lb.jpg) |  ![](https://image.tmdb.org/t/p/w200/UgOiYLMpFjsecN8Pyy2HFlRgL4.jpg) |  ![](https://image.tmdb.org/t/p/w200/w4e8jC9nupHedW75m4AvCStPMGz.jpg) |  ![](https://image.tmdb.org/t/p/w200/hoBfh3jmA3XDDx9tGgMwdGd37GE.jpg)
+
+## 5 mais novos
+
+**Insidious: The Red Door** | **The Nun II** | **Blood** | **Scream** | **Smile**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2023* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/d07phJqCx6z5wILDYqkyraorDPi.jpg) | ![](https://image.tmdb.org/t/p/w200/c9kVD7W8CT5xe4O3hQ7bFWwk68U.jpg) | ![](https://image.tmdb.org/t/p/w200/gCUFtTvjK4gbmjVxhx8bhyOhAeW.jpg) | ![](https://image.tmdb.org/t/p/w200/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg) | ![](https://image.tmdb.org/t/p/w200/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg)
+
+**Média da nota:** 6,20
+**Menor nota:** 4,53 (Soul Survivors)
+**Maior nota:** 8,19 (Memento)
+
+## 5 mais bem avaliados
+
+**Memento** | **North by Northwest** | **Deep Red** | **The Others** | **The Conjuring: The Devil Made Me Do It**
+ -- | -- | -- | -- | -- 
+*8,19* | *7,99* | *7,77* | *7,61* | *7,49*
+![](https://image.tmdb.org/t/p/w200/yuNs09hvpHVU1cBTCAk9zxsL2oW.jpg) | ![](https://image.tmdb.org/t/p/w200/ay0dOKJgyK4VEh3xakV15UgvJMF.jpg) | ![](https://image.tmdb.org/t/p/w200/wq7RxV5gMvgO0EKeWpNhegnpJBh.jpg) | ![](https://image.tmdb.org/t/p/w200/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg) | ![](https://image.tmdb.org/t/p/w200/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg)
+
+## 5 menos bem avaliados
+
+**Soul Survivors** | **Black Christmas** | **Hellraiser: Deader** | **Urban Legends: Final Cut** | **Jeepers Creepers 3**
+ -- | -- | -- | -- | -- 
+*4,53* | *4,61* | *4,64* | *4,81* | *4,92*
+![](https://image.tmdb.org/t/p/w200/uWmHhtuEgX7oI0FuWR2oD08HRHD.jpg) | ![](https://image.tmdb.org/t/p/w200/iMBlUzqwpz9ffbeLsYjyHPp8tn8.jpg) | ![](https://image.tmdb.org/t/p/w200/7G7npapXYc2o4anYtJM11Aki0Sn.jpg) | ![](https://image.tmdb.org/t/p/w200/9kjGrnhMz37RYEd5BFcrU1qkPkl.jpg) | ![](https://image.tmdb.org/t/p/w200/pK7ge28ubs45av9aGEbVWW7ZbA8.jpg)
+
+**Média de votos:** 987,0
+**Menor votos:** 76 (Satanic Pandemonium)
+**Maior votos:** 13723 (Memento)
+
+## 5 mais avaliados
+
+**Memento** | **Hereditary** | **The Nun** | **The Others** | **The Conjuring: The Devil Made Me Do It**
+ -- | -- | -- | -- | -- 
+*13723* | *6880* | *6076* | *5916* | *5407*
+![](https://image.tmdb.org/t/p/w200/yuNs09hvpHVU1cBTCAk9zxsL2oW.jpg) | ![](https://image.tmdb.org/t/p/w200/p9fmuz2Oj3HtEJEqbIwkFGUhVXD.jpg) | ![](https://image.tmdb.org/t/p/w200/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg) | ![](https://image.tmdb.org/t/p/w200/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg) | ![](https://image.tmdb.org/t/p/w200/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg)
+
+## 5 menos avaliados
+
+**Satanic Pandemonium** | **The House That Screamed** | **The Initiation** | **Howling** | **Head Count**
+ -- | -- | -- | -- | -- 
+*76* | *78* | *79* | *79* | *81*
+![](https://image.tmdb.org/t/p/w200/k6LZn3greNmaYhySVnwUkkDmlpo.jpg) | ![](https://image.tmdb.org/t/p/w200/a6rUOhmr14mXx7pDRJskFv2GpH2.jpg) | ![](https://image.tmdb.org/t/p/w200/aB5StCoFjvFoywKT2SzmcvECBRl.jpg) | ![](https://image.tmdb.org/t/p/w200/eVxXzYqOXblLVI7nVOAupxTme6D.jpg) | ![](https://image.tmdb.org/t/p/w200/7oXyBgTZJGQ9eKmysvr0CnemYDP.jpg)
+
+**Gêneros mais comuns:**
+* Mystery (145)
+* Thriller (145)
+* Horror (114)
+
+
+**Palavras-chave mais comuns:**
+* murder (42)
+* serial killer (24)
+* slasher (17)
+* supernatural (14)
+* whodunit (13)
+* investigation (11)
+* revenge (10)
+* hospital (10)
+* psychopath (9)
+* flashback (8)
+* demon (8)
+* nightmare (8)
+* detective (8)
+* killer (8)
+* psychological thriller (7)
+
+# Cluster 46
+**Total de filmes:** 63
+**Média de ano de lançamento:** 2006
+**Menor ano:** 1927 (Berlin: Symphony of a Great City)
+**Maior ano:** 2023 (STILL: A Michael J. Fox Movie)
+
+## 5 Mais Velhos 
+
+**Berlin: Symphony of a Great City** | **À propos de Nice** | **Land Without Bread** | **Olympia Part One: Festival of the Nations** | **The Seafarers**
+ -- | -- | -- | -- | -- 
+*1927* | *1930* | *1933* | *1938* | *1953*
+ ![](https://image.tmdb.org/t/p/w200/aP8MDztGU8W1I5qhrHXmv1fbIdj.jpg) |  ![](https://image.tmdb.org/t/p/w200/mAr8wThrq5qrV571luLnYgdTcPY.jpg) |  ![](https://image.tmdb.org/t/p/w200/iQM715v277SIw66Y1bJ1KiK5WNx.jpg) |  ![](https://image.tmdb.org/t/p/w200/49KaePhxdoM3TkJHo8zaoCFEJ6X.jpg) |  ![](https://image.tmdb.org/t/p/w200/81CueGM02gGfhBGz3wzsgc7w5uY.jpg)
+
+## 5 mais novos
+
+**STILL: A Michael J. Fox Movie** | **Fire of Love** | **What is a Woman?** | **The Volcano: Rescue from Whakaari** | **The Mystery of Marilyn Monroe: The Unheard Tapes**
+ -- | -- | -- | -- | -- 
+*2023* | *2022* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/fDO4gYZxvdsIrHKzsSAbc3N7Wfg.jpg) | ![](https://image.tmdb.org/t/p/w200/9smEX8UP84yb2GisLwyAyQKvCWS.jpg) | ![](https://image.tmdb.org/t/p/w200/iiP8Sq7yWoYsKx9EVfyRPno8Un9.jpg) | ![](https://image.tmdb.org/t/p/w200/7LQUp64Ub9JfnLVuzyhEHdc7DBg.jpg) | ![](https://image.tmdb.org/t/p/w200/9Ab3MEngH2sWK8uydGBFfgZDB4z.jpg)
+
+**Média da nota:** 7,24
+**Menor nota:** 4,51 (The Seafarers)
+**Maior nota:** 8,25 (Baraka)
+
+## 5 mais bem avaliados
+
+**Baraka** | **Samsara** | **Little Girl** | **The Year Earth Changed** | **Disclosure**
+ -- | -- | -- | -- | -- 
+*8,25* | *8,06* | *8,02* | *8,00* | *8,00*
+![](https://image.tmdb.org/t/p/w200/ldEuJQ4z7zEvL7iXraESWBUfQcz.jpg) | ![](https://image.tmdb.org/t/p/w200/qodkea4k0pNUmNTl5TJO2PdTqgW.jpg) | ![](https://image.tmdb.org/t/p/w200/5eMenMuW61LFVu3YBoqOdTyP7Gd.jpg) | ![](https://image.tmdb.org/t/p/w200/cLwQRXfzPjmpU6I78TCkoHazO0A.jpg) | ![](https://image.tmdb.org/t/p/w200/2MB2FPNxdSlykbH7ghBltoBYnTH.jpg)
+
+## 5 menos bem avaliados
+
+**The Seafarers** | **After Porn Ends 3** | **I Am Greta** | **Fuck** | **The Mystery of Marilyn Monroe: The Unheard Tapes**
+ -- | -- | -- | -- | -- 
+*4,51* | *5,40* | *5,84* | *6,31* | *6,33*
+![](https://image.tmdb.org/t/p/w200/81CueGM02gGfhBGz3wzsgc7w5uY.jpg) | ![](https://image.tmdb.org/t/p/w200/wtbnyrnqpGgrgMZJz5rlv6q6V2c.jpg) | ![](https://image.tmdb.org/t/p/w200/xTCduzgBJ57ZzMM9MOyBPpauB9t.jpg) | ![](https://image.tmdb.org/t/p/w200/26KoTqt7297hMcyU98hzlENhZJc.jpg) | ![](https://image.tmdb.org/t/p/w200/9Ab3MEngH2sWK8uydGBFfgZDB4z.jpg)
+
+**Média de votos:** 221,0
+**Menor votos:** 76 (The Year Earth Changed)
+**Maior votos:** 797 (An Inconvenient Truth)
+
+## 5 mais avaliados
+
+**An Inconvenient Truth** | **My Octopus Teacher** | **13th** | **Icarus** | **The Act of Killing**
+ -- | -- | -- | -- | -- 
+*797* | *792* | *697* | *667* | *616*
+![](https://image.tmdb.org/t/p/w200/zrYT5UHE2UIsofwkv6KK2Tsu5a.jpg) | ![](https://image.tmdb.org/t/p/w200/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg) | ![](https://image.tmdb.org/t/p/w200/tcKNWD6IFPPsvkpvyZ548naz0is.jpg) | ![](https://image.tmdb.org/t/p/w200/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg) | ![](https://image.tmdb.org/t/p/w200/wg9QERtcZTTcOu6La3nZCfJUMHG.jpg)
+
+## 5 menos avaliados
+
+**The Year Earth Changed** | **Fuck** | **Williams** | **The Seafarers** | **The 11th Hour**
+ -- | -- | -- | -- | -- 
+*76* | *77* | *78* | *79* | *85*
+![](https://image.tmdb.org/t/p/w200/cLwQRXfzPjmpU6I78TCkoHazO0A.jpg) | ![](https://image.tmdb.org/t/p/w200/26KoTqt7297hMcyU98hzlENhZJc.jpg) | ![](https://image.tmdb.org/t/p/w200/5YaJCo9A4ZwWZXsmYKSHysjqts3.jpg) | ![](https://image.tmdb.org/t/p/w200/81CueGM02gGfhBGz3wzsgc7w5uY.jpg) | ![](https://image.tmdb.org/t/p/w200/9ZQyqJhoqSXYhu27oRDqz3Tzl10.jpg)
+
+**Gêneros mais comuns:**
+* Documentary (63)
+
+
+**Palavras-chave mais comuns:**
+* sports documentary (16)
+* social documentary (12)
+* nature documentary (11)
+* social & cultural documentary (10)
+* poetic documentary (9)
+* nature (8)
+* political documentary (7)
+* sports (7)
+* documentary (7)
+* environmental documentary (5)
+* interview (4)
+* politics (3)
+* climate change (3)
+* observational documentary (3)
+* climate emergency (3)
+
+# Cluster 47
+**Total de filmes:** 11
+**Média de ano de lançamento:** 2008
+**Menor ano:** 1996 (Aladdin and the King of Thieves)
+**Maior ano:** 2021 (Maya the Bee: The Golden Orb)
+
+## 5 Mais Velhos 
+
+**Aladdin and the King of Thieves** | **Brother Bear** | **Tarzan II** | **Jack-Jack Attack** | **Brother Bear 2**
+ -- | -- | -- | -- | -- 
+*1996* | *2003* | *2005* | *2005* | *2006*
+ ![](https://image.tmdb.org/t/p/w200/kTH7qEyvdDYMoQraQZm3LFKCge3.jpg) |  ![](https://image.tmdb.org/t/p/w200/otptPbEY0vBostmo95xwiiumMJm.jpg) |  ![](https://image.tmdb.org/t/p/w200/akyZuA0YS36nMk8zFeeYwX7zyn2.jpg) |  ![](https://image.tmdb.org/t/p/w200/uKMYT8aAJS9LA8IM1juMqbXTtqU.jpg) |  ![](https://image.tmdb.org/t/p/w200/yaA8q2zHHUgFWdJNxXyAdU71SzM.jpg)
+
+## 5 mais novos
+
+**Maya the Bee: The Golden Orb** | **The Good Dinosaur** | **Tinker Bell and the Legend of the NeverBeast** | **Mars Needs Moms** | **The Tale of Despereaux**
+ -- | -- | -- | -- | -- 
+*2021* | *2015* | *2014* | *2011* | *2008*
+![](https://image.tmdb.org/t/p/w200/tMS2qcbhbkFpcwLnbUE9o9IK4HH.jpg) | ![](https://image.tmdb.org/t/p/w200/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg) | ![](https://image.tmdb.org/t/p/w200/3S0mmmpYStB3GqodRghcfOt81wQ.jpg) | ![](https://image.tmdb.org/t/p/w200/g94LNU4pipIUJLkTvYIgNGfT2J2.jpg) | ![](https://image.tmdb.org/t/p/w200/6bBzgQ1uJabDHeGR9QvKrHvHYzG.jpg)
+
+**Média da nota:** 6,45
+**Menor nota:** 4,83 (Fly Me to the Moon)
+**Maior nota:** 7,31 (Jack-Jack Attack)
+
+## 5 mais bem avaliados
+
+**Jack-Jack Attack** | **Tinker Bell and the Legend of the NeverBeast** | **Brother Bear** | **The Good Dinosaur** | **Brother Bear 2**
+ -- | -- | -- | -- | -- 
+*7,31* | *7,26* | *7,26* | *6,74* | *6,63*
+![](https://image.tmdb.org/t/p/w200/uKMYT8aAJS9LA8IM1juMqbXTtqU.jpg) | ![](https://image.tmdb.org/t/p/w200/3S0mmmpYStB3GqodRghcfOt81wQ.jpg) | ![](https://image.tmdb.org/t/p/w200/otptPbEY0vBostmo95xwiiumMJm.jpg) | ![](https://image.tmdb.org/t/p/w200/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg) | ![](https://image.tmdb.org/t/p/w200/yaA8q2zHHUgFWdJNxXyAdU71SzM.jpg)
+
+## 5 menos bem avaliados
+
+**Fly Me to the Moon** | **Mars Needs Moms** | **Tarzan II** | **The Tale of Despereaux** | **Aladdin and the King of Thieves**
+ -- | -- | -- | -- | -- 
+*4,83* | *6,00* | *6,05* | *6,05* | *6,25*
+![](https://image.tmdb.org/t/p/w200/p42h1Z488l6PBCKyQ12cZRhPLm.jpg) | ![](https://image.tmdb.org/t/p/w200/g94LNU4pipIUJLkTvYIgNGfT2J2.jpg) | ![](https://image.tmdb.org/t/p/w200/akyZuA0YS36nMk8zFeeYwX7zyn2.jpg) | ![](https://image.tmdb.org/t/p/w200/6bBzgQ1uJabDHeGR9QvKrHvHYzG.jpg) | ![](https://image.tmdb.org/t/p/w200/kTH7qEyvdDYMoQraQZm3LFKCge3.jpg)
+
+**Média de votos:** 1619,0
+**Menor votos:** 94 (Maya the Bee: The Golden Orb)
+**Maior votos:** 5143 (The Good Dinosaur)
+
+## 5 mais avaliados
+
+**The Good Dinosaur** | **Brother Bear** | **Aladdin and the King of Thieves** | **Brother Bear 2** | **Tarzan II**
+ -- | -- | -- | -- | -- 
+*5143* | *4993* | *1722* | *1361* | *1044*
+![](https://image.tmdb.org/t/p/w200/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg) | ![](https://image.tmdb.org/t/p/w200/otptPbEY0vBostmo95xwiiumMJm.jpg) | ![](https://image.tmdb.org/t/p/w200/kTH7qEyvdDYMoQraQZm3LFKCge3.jpg) | ![](https://image.tmdb.org/t/p/w200/yaA8q2zHHUgFWdJNxXyAdU71SzM.jpg) | ![](https://image.tmdb.org/t/p/w200/akyZuA0YS36nMk8zFeeYwX7zyn2.jpg)
+
+## 5 menos avaliados
+
+**Maya the Bee: The Golden Orb** | **Fly Me to the Moon** | **Mars Needs Moms** | **The Tale of Despereaux** | **Jack-Jack Attack**
+ -- | -- | -- | -- | -- 
+*94* | *172* | *638* | *832* | *857*
+![](https://image.tmdb.org/t/p/w200/tMS2qcbhbkFpcwLnbUE9o9IK4HH.jpg) | ![](https://image.tmdb.org/t/p/w200/p42h1Z488l6PBCKyQ12cZRhPLm.jpg) | ![](https://image.tmdb.org/t/p/w200/g94LNU4pipIUJLkTvYIgNGfT2J2.jpg) | ![](https://image.tmdb.org/t/p/w200/6bBzgQ1uJabDHeGR9QvKrHvHYzG.jpg) | ![](https://image.tmdb.org/t/p/w200/uKMYT8aAJS9LA8IM1juMqbXTtqU.jpg)
+
+**Gêneros mais comuns:**
+* Adventure (11)
+* Animation (11)
+* Family (11)
+
+
+**Palavras-chave mais comuns:**
+* friendship (2)
+* cartoon (2)
+* transformation (2)
+* grizzly bear (2)
+* bear (2)
+* unlikely friendship (2)
+* animal lead (2)
+* tyrannosaurus rex (1)
+* friends (1)
+* alternate history (1)
+* dinosaur (1)
+* fear (1)
+* storm (1)
+* nature (1)
+* journey (1)
+
+# Cluster 48
+**Total de filmes:** 1418
+**Média de ano de lançamento:** 2001
+**Menor ano:** 1920 (The Cabinet of Dr. Caligari)
+**Maior ano:** 2023 (Tetris)
+
+## 5 Mais Velhos 
+
+**The Cabinet of Dr. Caligari** | **The Phantom Carriage** | **The Phantom of the Opera** | **Faust** | **A Page of Madness**
+ -- | -- | -- | -- | -- 
+*1920* | *1921* | *1925* | *1926* | *1926*
+ ![](https://image.tmdb.org/t/p/w200/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg) |  ![](https://image.tmdb.org/t/p/w200/vmhMEj2d8JnKS5jzqJf4kYypKWN.jpg) |  ![](https://image.tmdb.org/t/p/w200/mvaYpAYj957C2tlq3vVJPSzGJXK.jpg) |  ![](https://image.tmdb.org/t/p/w200/rN703hMFxmkZfyEzsXvFtuFhkXE.jpg) |  ![](https://image.tmdb.org/t/p/w200/jHKDJ9mqHUYIgS4jajofy0Jpx97.jpg)
+
+## 5 mais novos
+
+**Tetris** | **Hunger** | **Huesera: The Bone Woman** | **Nowhere** | **Anatomy of a Fall**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2023* | *2023* | *2023*
+![](https://image.tmdb.org/t/p/w200/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg) | ![](https://image.tmdb.org/t/p/w200/rNYHsKHFP3AY2PIDZgz3AuY7QoC.jpg) | ![](https://image.tmdb.org/t/p/w200/7NhG3NClQ1xrc3kEwTiwFht5Y3L.jpg) | ![](https://image.tmdb.org/t/p/w200/rpzFxv78UvYG5yQba2soO5mMl4T.jpg) | ![](https://image.tmdb.org/t/p/w200/AlbySG5o87A3gEkeaMhUADeDpvZ.jpg)
+
+**Média da nota:** 6,55
+**Menor nota:** 4,51 (Exorcist II: The Heretic)
+**Maior nota:** 8,65 (Macario)
+
+## 5 mais bem avaliados
+
+**Macario** | **Lucy Shimmers And The Prince Of Peace** | **Parasite** | **The Green Mile** | **Psycho**
+ -- | -- | -- | -- | -- 
+*8,65* | *8,54* | *8,52* | *8,51* | *8,44*
+![](https://image.tmdb.org/t/p/w200/xX9JGtsnXQAR7e1fWkr7zBuQUHN.jpg) | ![](https://image.tmdb.org/t/p/w200/yfnJ5qIYx7q33fY4jqv9Pu95RSg.jpg) | ![](https://image.tmdb.org/t/p/w200/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg) | ![](https://image.tmdb.org/t/p/w200/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg) | ![](https://image.tmdb.org/t/p/w200/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg)
+
+## 5 menos bem avaliados
+
+**Exorcist II: The Heretic** | **Choose** | **Gacy** | **Planetarium** | **Cage Dive**
+ -- | -- | -- | -- | -- 
+*4,51* | *4,56* | *4,56* | *4,57* | *4,58*
+![](https://image.tmdb.org/t/p/w200/g9i3LTMYLRHvCYSKimZEfd1Vqy7.jpg) | ![](https://image.tmdb.org/t/p/w200/4W4plHfj4GN40HOdZPplPLSEiUi.jpg) | ![](https://image.tmdb.org/t/p/w200/goHjQHcK88m4hq2FJDyAFH8nz14.jpg) | ![](https://image.tmdb.org/t/p/w200/3l0vquoU9khy3TSt1NFjqe9gZCQ.jpg) | ![](https://image.tmdb.org/t/p/w200/3uUO9eDxHeDREIX77BaQiI88ajp.jpg)
+
+**Média de votos:** 868,0
+**Menor votos:** 75 (Bad Company)
+**Maior votos:** 24672 (Django Unchained)
+
+## 5 mais avaliados
+
+**Django Unchained** | **Shutter Island** | **Inglourious Basterds** | **Gone Girl** | **Parasite**
+ -- | -- | -- | -- | -- 
+*24672* | *22318* | *20746* | *17381* | *16430*
+![](https://image.tmdb.org/t/p/w200/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg) | ![](https://image.tmdb.org/t/p/w200/4GDy0PHYX3VRXUtwK5ysFbg3kEx.jpg) | ![](https://image.tmdb.org/t/p/w200/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg) | ![](https://image.tmdb.org/t/p/w200/qymaJhucquUwjpb8oiqynMeXnID.jpg) | ![](https://image.tmdb.org/t/p/w200/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg)
+
+## 5 menos avaliados
+
+**Bad Company** | **Wife of a Spy** | **The Lusty Men** | **Chinese Roulette** | **All That Money Can Buy**
+ -- | -- | -- | -- | -- 
+*75* | *75* | *75* | *75* | *75*
+![](https://image.tmdb.org/t/p/w200/8UpEdkJmdjwQb6OJJyPRSMf80v6.jpg) | ![](https://image.tmdb.org/t/p/w200/seFjT7jDZA1j1YsbMyeNTuCRe5d.jpg) | ![](https://image.tmdb.org/t/p/w200/1JBtbRmuf8B73pxYlTdAwr9T9C3.jpg) | ![](https://image.tmdb.org/t/p/w200/9I0YkoGDM8nqHZcEsrGMcy9WhVy.jpg) | ![](https://image.tmdb.org/t/p/w200/2GUZ0Yg3DKlZpc3HEF5qJz7KqD5.jpg)
+
+**Gêneros mais comuns:**
+* Drama (1303)
+* Thriller (868)
+* Mystery (478)
+* Horror (462)
+* Crime (280)
+* Fantasy (182)
+* Music (106)
+* Family (90)
+* Romance (85)
+* TV Movie (81)
+* War (76)
+* Western (56)
+* History (53)
+* Comedy (29)
+* Adventure (26)
+* Action (18)
+* Animation (3)
+* Science Fiction (1)
+
+
+**Palavras-chave mais comuns:**
+* murder (188)
+* serial killer (65)
+* revenge (63)
+* investigation (47)
+* remake (44)
+* husband wife relationship (42)
+* neo-noir (41)
+* death (41)
+* parent child relationship (39)
+* ghost (38)
+* small town (36)
+* psychopath (35)
+* nightmare (35)
+* black and white (35)
+* rape (33)
+
+# Cluster 49
+**Total de filmes:** 109
+**Média de ano de lançamento:** 2000
+**Menor ano:** 1923 (Our Hospitality)
+**Maior ano:** 2023 (No Hard Feelings)
+
+## 5 Mais Velhos 
+
+**Our Hospitality** | **The Circus** | **Steamboat Bill, Jr.** | **The Awful Truth** | **Holiday**
+ -- | -- | -- | -- | -- 
+*1923* | *1928* | *1928* | *1937* | *1938*
+ ![](https://image.tmdb.org/t/p/w200/cAEdL6RzfDSbPO51izl01Njzikx.jpg) |  ![](https://image.tmdb.org/t/p/w200/3FywbVq2qGqbYHPCy2NJcOf0gmp.jpg) |  ![](https://image.tmdb.org/t/p/w200/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg) |  ![](https://image.tmdb.org/t/p/w200/2VtsJoxvjpcMpwh0gweS8IMfHxO.jpg) |  ![](https://image.tmdb.org/t/p/w200/vTswoixIge9o84NLlWGaWl5lrHO.jpg)
+
+## 5 mais novos
+
+**No Hard Feelings** | **Red, White & Royal Blue** | **Book Club: The Next Chapter** | **Ticket to Paradise** | **Bros**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2023* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg) | ![](https://image.tmdb.org/t/p/w200/uffOY4W354o9RTRmercFyVvl56Z.jpg) | ![](https://image.tmdb.org/t/p/w200/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg) | ![](https://image.tmdb.org/t/p/w200/1tzERH50P5c2mFWtLbgixzLZS1L.jpg) | ![](https://image.tmdb.org/t/p/w200/op02Hv5i4Z049nGJYmk6BScRqHO.jpg)
+
+**Média da nota:** 6,36
+**Menor nota:** 4,90 (Cake)
+**Maior nota:** 8,17 (Red, White & Royal Blue)
+
+## 5 mais bem avaliados
+
+**Red, White & Royal Blue** | **The Circus** | **Amélie** | **The Philadelphia Story** | **To All the Boys I've Loved Before**
+ -- | -- | -- | -- | -- 
+*8,17* | *8,01* | *7,91* | *7,66* | *7,64*
+![](https://image.tmdb.org/t/p/w200/uffOY4W354o9RTRmercFyVvl56Z.jpg) | ![](https://image.tmdb.org/t/p/w200/3FywbVq2qGqbYHPCy2NJcOf0gmp.jpg) | ![](https://image.tmdb.org/t/p/w200/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg) | ![](https://image.tmdb.org/t/p/w200/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg) | ![](https://image.tmdb.org/t/p/w200/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg)
+
+## 5 menos bem avaliados
+
+**Cake** | **We'll Never Have Paris** | **Frivolous Lola** | **The Women** | **About Adam**
+ -- | -- | -- | -- | -- 
+*4,90* | *4,90* | *4,99* | *5,04* | *5,20*
+![](https://image.tmdb.org/t/p/w200/oFsEI7Ou2GGdYaPrl1VbJnhfGdU.jpg) | ![](https://image.tmdb.org/t/p/w200/zX0JHMQbo41xCRXSKBJCYQ8fpHq.jpg) | ![](https://image.tmdb.org/t/p/w200/n691GdFEMP3bBZ3SvLxFD2paAOz.jpg) | ![](https://image.tmdb.org/t/p/w200/iFQrK0NHA4OMAvzyJVW4DA0kAFz.jpg) | ![](https://image.tmdb.org/t/p/w200/e4EkKwF0MTcG6lfysals7Nxeq0z.jpg)
+
+**Média de votos:** 1204,0
+**Menor votos:** 75 (Mambo Italiano)
+**Maior votos:** 10750 (Amélie)
+
+## 5 mais avaliados
+
+**Amélie** | **To All the Boys I've Loved Before** | **The 40 Year Old Virgin** | **Mamma Mia!** | **Just Go with It**
+ -- | -- | -- | -- | -- 
+*10750* | *8045* | *6218* | *6024* | *5270*
+![](https://image.tmdb.org/t/p/w200/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg) | ![](https://image.tmdb.org/t/p/w200/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg) | ![](https://image.tmdb.org/t/p/w200/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg) | ![](https://image.tmdb.org/t/p/w200/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg) | ![](https://image.tmdb.org/t/p/w200/ez1EDULOCUUCySHOZU6tz97qbtM.jpg)
+
+## 5 menos avaliados
+
+**Mambo Italiano** | **You Stupid Man** | **So My Grandma's a Lesbian!** | **The Big Picture** | **Breakin' All the Rules**
+ -- | -- | -- | -- | -- 
+*75* | *79* | *80* | *84* | *86*
+![](https://image.tmdb.org/t/p/w200/wWQ0FHyWwqVcjuI6yvrM41H8ylk.jpg) | ![](https://image.tmdb.org/t/p/w200/vNfx5MBXkeqZKOW6Wx9W5kiNdSL.jpg) | ![](https://image.tmdb.org/t/p/w200/rrAauv4Y3oPocyr3ZFY8TO2XhKB.jpg) | ![](https://image.tmdb.org/t/p/w200/oZJqupMXxH67BXz2sneDoHKyFMO.jpg) | ![](https://image.tmdb.org/t/p/w200/piEqcDe7CTbxxPUSwswrsoKWzMw.jpg)
+
+**Gêneros mais comuns:**
+* Comedy (109)
+* Romance (109)
+
+
+**Palavras-chave mais comuns:**
+* wedding (20)
+* romantic comedy (19)
+* parent child relationship (15)
+* relationship (13)
+* falling in love (10)
+* sibling relationship (9)
+* friendship (8)
+* gay theme (8)
+* infidelity (8)
+* father daughter relationship (7)
+* screwball comedy (7)
+* new love (7)
+* dating (7)
+* husband wife relationship (7)
+* marriage (7)
+
+# Cluster 50
+**Total de filmes:** 525
+**Média de ano de lançamento:** 2007
+**Menor ano:** 1898 (The Astronomer's Dream)
+**Maior ano:** 2023 (Spider-Man: Across the Spider-Verse)
+
+## 5 Mais Velhos 
+
+**The Astronomer's Dream** | **Un Chien Andalou** | **Hell's Angels** | **The Blood of a Poet** | **Gulliver's Travels**
+ -- | -- | -- | -- | -- 
+*1898* | *1929* | *1930* | *1932* | *1939*
+ ![](https://image.tmdb.org/t/p/w200/hSboBoIJQ2APcVQYOcMSMrbrbhn.jpg) |  ![](https://image.tmdb.org/t/p/w200/3Bond31VV0nRi5o1iL3i5r2s0HG.jpg) |  ![](https://image.tmdb.org/t/p/w200/vt6zF55B9WLzYENs6cuXy8J5o1X.jpg) |  ![](https://image.tmdb.org/t/p/w200/paHmfMrtQVT2cUTeteni3iDgRym.jpg) |  ![](https://image.tmdb.org/t/p/w200/oxJuUeTOaAunEJJ64F2ua0Q3XSz.jpg)
+
+## 5 mais novos
+
+**Spider-Man: Across the Spider-Verse** | **Shazam! Fury of the Gods** | **Creed III** | **Sisu** | **Resident Evil: Death Island**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2023* | *2023* | *2023*
+![](https://image.tmdb.org/t/p/w200/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg) | ![](https://image.tmdb.org/t/p/w200/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg) | ![](https://image.tmdb.org/t/p/w200/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg) | ![](https://image.tmdb.org/t/p/w200/ygO9lowFMXWymATCrhoQXd6gCEh.jpg) | ![](https://image.tmdb.org/t/p/w200/qayga07ICNDswm0cMJ8P3VwklFZ.jpg)
+
+**Média da nota:** 6,83
+**Menor nota:** 4,51 (Dead Mine)
+**Maior nota:** 8,45 (Grave of the Fireflies)
+
+## 5 mais bem avaliados
+
+**Grave of the Fireflies** | **Spider-Man: Across the Spider-Verse** | **DC Showcase: Death** | **The Legend of Hei** | **Attack on Titan: The Roar of Awakening**
+ -- | -- | -- | -- | -- 
+*8,45* | *8,44* | *8,44* | *8,42* | *8,38*
+![](https://image.tmdb.org/t/p/w200/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg) | ![](https://image.tmdb.org/t/p/w200/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg) | ![](https://image.tmdb.org/t/p/w200/zJyfbzxKYYeDOtXkOSmDfkfWRnd.jpg) | ![](https://image.tmdb.org/t/p/w200/aLv87NgRJUPkQ6sVLP72IisDdt4.jpg) | ![](https://image.tmdb.org/t/p/w200/tLkdCvfmTOvxirrpSaaOBJD7qsU.jpg)
+
+## 5 menos bem avaliados
+
+**Dead Mine** | **Catwoman** | **Day of the Dead: Bloodline** | **The Spirit** | **Highlander III: The Sorcerer**
+ -- | -- | -- | -- | -- 
+*4,51* | *4,59* | *4,65* | *4,72* | *4,72*
+![](https://image.tmdb.org/t/p/w200/qs1eHTW1VjYwEKN5vfGeyC4793U.jpg) | ![](https://image.tmdb.org/t/p/w200/pvnPgukFyEKgCzyOxyLiwyZ8T1C.jpg) | ![](https://image.tmdb.org/t/p/w200/3jM4C1wJxHLWlF4tcSyyv6fnJPR.jpg) | ![](https://image.tmdb.org/t/p/w200/g9qawfzR3LWRC8r8YZ9w2yaQi5W.jpg) | ![](https://image.tmdb.org/t/p/w200/4lVKy9bsVw78EFhd4yHTDwgBr0U.jpg)
+
+**Média de votos:** 970,0
+**Menor votos:** 75 (DC Showcase: The Phantom Stranger)
+**Maior votos:** 17653 (Spider-Man)
+
+## 5 mais avaliados
+
+**Spider-Man** | **The Incredibles** | **Dunkirk** | **American Sniper** | **Incredibles 2**
+ -- | -- | -- | -- | -- 
+*17653* | *16584* | *15464* | *12107* | *12061*
+![](https://image.tmdb.org/t/p/w200/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg) | ![](https://image.tmdb.org/t/p/w200/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg) | ![](https://image.tmdb.org/t/p/w200/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg) | ![](https://image.tmdb.org/t/p/w200/i1U46OwMc6vlm7OoSUKfqUH615e.jpg) | ![](https://image.tmdb.org/t/p/w200/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg)
+
+## 5 menos avaliados
+
+**DC Showcase: The Phantom Stranger** | **Gyo: Tokyo Fish Attack** | **Zu: Warriors from the Magic Mountain** | **WarHunt** | **Street Fighter Alpha: The Movie**
+ -- | -- | -- | -- | -- 
+*75* | *75* | *76* | *76* | *76*
+![](https://image.tmdb.org/t/p/w200/mD9YdK1u9I6JdXAk9ezjKPLJeVN.jpg) | ![](https://image.tmdb.org/t/p/w200/7MUHxk2UicWtCLcfdPPLgxmUrDv.jpg) | ![](https://image.tmdb.org/t/p/w200/9vJi1xPMlC4qb41h08kvKZQXyFj.jpg) | ![](https://image.tmdb.org/t/p/w200/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg) | ![](https://image.tmdb.org/t/p/w200/k1mZ0gMgSsbdI15tRlFtLYnvXIA.jpg)
+
+**Gêneros mais comuns:**
+* Action (449)
+* Animation (275)
+* Fantasy (267)
+* Drama (140)
+* Horror (94)
+* Adventure (93)
+* Comedy (72)
+* War (64)
+* Family (35)
+* Mystery (35)
+* Crime (33)
+* Thriller (28)
+* Western (24)
+* Romance (22)
+* History (11)
+* Music (8)
+* TV Movie (6)
+* Science Fiction (1)
+
+
+**Palavras-chave mais comuns:**
+* anime (161)
+* superhero (66)
+* martial arts (43)
+* adult animation (42)
+* super power (36)
+* based on manga (36)
+* magic (34)
+* japan (32)
+* vampire (31)
+* supernatural (29)
+* world war ii (27)
+* shounen (25)
+* demon (24)
+* revenge (23)
+* dark fantasy (22)
+
+# Cluster 51
+**Total de filmes:** 146
+**Média de ano de lançamento:** 1997
+**Menor ano:** 1939 (The Roaring Twenties)
+**Maior ano:** 2022 (Emily the Criminal)
+
+## 5 Mais Velhos 
+
+**The Roaring Twenties** | **Odd Man Out** | **Brute Force** | **Brighton Rock** | **Raw Deal**
+ -- | -- | -- | -- | -- 
+*1939* | *1947* | *1947* | *1948* | *1948*
+ ![](https://image.tmdb.org/t/p/w200/nkymdElqwJBm2bl3F6hJp4xJggD.jpg) |  ![](https://image.tmdb.org/t/p/w200/1xZkTIATlTtyd7Ybphev8ZTmJA0.jpg) |  ![](https://image.tmdb.org/t/p/w200/xgmmXFbioGOXZTou2FS44yKa54r.jpg) |  ![](https://image.tmdb.org/t/p/w200/pNzK7KEY30dgI9rfbTvolzNVZie.jpg) |  ![](https://image.tmdb.org/t/p/w200/qLC4VnigxhC4ovSZdH2JUjuXoYY.jpg)
+
+## 5 mais novos
+
+**Emily the Criminal** | **November** | **Holy Spider** | **Bandit** | **Breaking**
+ -- | -- | -- | -- | -- 
+*2022* | *2022* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg) | ![](https://image.tmdb.org/t/p/w200/A5wae5M81jLTuv3WbCJfORxapRA.jpg) | ![](https://image.tmdb.org/t/p/w200/6ObJ4x7m1F5QRY06WzOxNJQHwGb.jpg) | ![](https://image.tmdb.org/t/p/w200/yph9PAbmjYPvyvbeZvdYIhCZHEu.jpg) | ![](https://image.tmdb.org/t/p/w200/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg)
+
+**Média da nota:** 6,69
+**Menor nota:** 4,90 (Wild Horses)
+**Maior nota:** 8,30 (The Silence of the Lambs)
+
+## 5 mais bem avaliados
+
+**The Silence of the Lambs** | **Memories of Murder** | **No Country for Old Men** | **The Night of the Hunter** | **Fargo**
+ -- | -- | -- | -- | -- 
+*8,30* | *8,07* | *7,93* | *7,89* | *7,87*
+![](https://image.tmdb.org/t/p/w200/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg) | ![](https://image.tmdb.org/t/p/w200/lp3Qzzq1zzy6ToJul9DGBBd8ua1.jpg) | ![](https://image.tmdb.org/t/p/w200/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg) | ![](https://image.tmdb.org/t/p/w200/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg) | ![](https://image.tmdb.org/t/p/w200/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg)
+
+## 5 menos bem avaliados
+
+**Wild Horses** | **Bullet Head** | **Jailbait** | **Tenderness** | **Dirty**
+ -- | -- | -- | -- | -- 
+*4,90* | *4,95* | *4,98* | *5,20* | *5,26*
+![](https://image.tmdb.org/t/p/w200/77iVwo0oBaHRk4sFOBcMCh71xlr.jpg) | ![](https://image.tmdb.org/t/p/w200/ySmKQPjWnNzuZ5YliQaOVEnWn2.jpg) | ![](https://image.tmdb.org/t/p/w200/bNaKWcYARKnvDBCFEIc0uOQxX2v.jpg) | ![](https://image.tmdb.org/t/p/w200/qw2OtK9SnJheeojvx7rb6s4mJPc.jpg) | ![](https://image.tmdb.org/t/p/w200/SmbCDYvQEJTWaGcwCUOxHAph39.jpg)
+
+**Média de votos:** 1138,0
+**Menor votos:** 75 (Elsewhere)
+**Maior votos:** 15003 (The Silence of the Lambs)
+
+## 5 mais avaliados
+
+**The Silence of the Lambs** | **No Country for Old Men** | **Nightcrawler** | **Fargo** | **The Godfather Part III**
+ -- | -- | -- | -- | -- 
+*15003* | *10964* | *10032* | *7282* | *5627*
+![](https://image.tmdb.org/t/p/w200/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg) | ![](https://image.tmdb.org/t/p/w200/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg) | ![](https://image.tmdb.org/t/p/w200/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg) | ![](https://image.tmdb.org/t/p/w200/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg) | ![](https://image.tmdb.org/t/p/w200/lm3pQ2QoQ16pextRsmnUbG2onES.jpg)
+
+## 5 menos avaliados
+
+**Elsewhere** | **City of Tiny Lights** | **Hitch Hike** | **The Boys Next Door** | **Easy Money III: Life Deluxe**
+ -- | -- | -- | -- | -- 
+*75* | *75* | *77* | *77* | *80*
+![](https://image.tmdb.org/t/p/w200/xcce9WCWfpIXvapNLnutYNBYX2k.jpg) | ![](https://image.tmdb.org/t/p/w200/eX9iEZdU2w1elGQhNY50DmKqiaE.jpg) | ![](https://image.tmdb.org/t/p/w200/qo8Z0japEz6xKR9OBPslzKKqmND.jpg) | ![](https://image.tmdb.org/t/p/w200/iGcqludjQaVMgXe7ifaBBZQ9sA0.jpg) | ![](https://image.tmdb.org/t/p/w200/oSTHRFOcC1l1qpW84n7RioCDRnY.jpg)
+
+**Gêneros mais comuns:**
+* Crime (146)
+* Drama (146)
+* Thriller (146)
+
+
+**Palavras-chave mais comuns:**
+* murder (29)
+* revenge (17)
+* neo-noir (15)
+* film noir (15)
+* police (13)
+* serial killer (12)
+* gangster (11)
+* criminal (11)
+* kidnapping (10)
+* money (10)
+* psychopath (9)
+* rape (9)
+* detective (9)
+* prostitute (9)
+* drugs (9)
+
+# Cluster 52
+**Total de filmes:** 47
+**Média de ano de lançamento:** 2006
+**Menor ano:** 1967 (To Sir, with Love)
+**Maior ano:** 2021 (The Fallout)
+
+## 5 Mais Velhos 
+
+**To Sir, with Love** | **if....** | **The Last Picture Show** | **Indian Summer** | **Stand and Deliver**
+ -- | -- | -- | -- | -- 
+*1967* | *1968* | *1971* | *1972* | *1988*
+ ![](https://image.tmdb.org/t/p/w200/xMaVwTfgETmPs5yp3lNK5SeWCtB.jpg) |  ![](https://image.tmdb.org/t/p/w200/3yOtehzchZobaMVth4gutUHmKc6.jpg) |  ![](https://image.tmdb.org/t/p/w200/7NYePZc0lZrRomtmQsjOJMePTEb.jpg) |  ![](https://image.tmdb.org/t/p/w200/wQXx5kJb3uzMbzhbIuEPUiEX4o7.jpg) |  ![](https://image.tmdb.org/t/p/w200/A9pfzwk02iNl6i9wyk8lNcBkvc.jpg)
+
+## 5 mais novos
+
+**The Fallout** | **Birds of Paradise** | **Yes, God, Yes** | **Girl** | **The Miracle Season**
+ -- | -- | -- | -- | -- 
+*2021* | *2021* | *2020* | *2018* | *2018*
+![](https://image.tmdb.org/t/p/w200/y94auaBWq1E7sun3ZpvBmQfGUW.jpg) | ![](https://image.tmdb.org/t/p/w200/h3v0rsQvik8yMh3LStRiDu0GTHP.jpg) | ![](https://image.tmdb.org/t/p/w200/69SYznq2mSbgKyQF3QHYwblmqAk.jpg) | ![](https://image.tmdb.org/t/p/w200/a6WKjZ1eHrKV8u1DYqjW4yUPuC.jpg) | ![](https://image.tmdb.org/t/p/w200/cIVYjwi8QcZ9AQk4WRYgW4iUmXb.jpg)
+
+**Média da nota:** 6,90
+**Menor nota:** 4,64 (A Teacher)
+**Maior nota:** 8,31 (Dead Poets Society)
+
+## 5 mais bem avaliados
+
+**Dead Poets Society** | **The Perks of Being a Wallflower** | **The Chorus** | **The Blind Side** | **The Fallout**
+ -- | -- | -- | -- | -- 
+*8,31* | *7,80* | *7,71* | *7,69* | *7,69*
+![](https://image.tmdb.org/t/p/w200/ai40gM7SUaGA6fthvsd87o8IQq4.jpg) | ![](https://image.tmdb.org/t/p/w200/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg) | ![](https://image.tmdb.org/t/p/w200/zsWq5fa4Db7im4a3QnkoOns6782.jpg) | ![](https://image.tmdb.org/t/p/w200/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg) | ![](https://image.tmdb.org/t/p/w200/y94auaBWq1E7sun3ZpvBmQfGUW.jpg)
+
+## 5 menos bem avaliados
+
+**A Teacher** | **Cruel Intentions 2** | **Everybody Dies But Me** | **Natural Selection** | **Tanner Hall**
+ -- | -- | -- | -- | -- 
+*4,64* | *4,99* | *5,25* | *5,30* | *5,72*
+![](https://image.tmdb.org/t/p/w200/sCsK0oCKyz8yQ3xCG7NgYlg9qBW.jpg) | ![](https://image.tmdb.org/t/p/w200/pm0y9yZItfm4EHlGo7oQ0wq1Agk.jpg) | ![](https://image.tmdb.org/t/p/w200/6eKXpuhsELuTQLM4t7sU0Plza7k.jpg) | ![](https://image.tmdb.org/t/p/w200/b5iM5gLr0O0HAcy3ib3RVkZvt37.jpg) | ![](https://image.tmdb.org/t/p/w200/qoGtVlqaFWngUXuUzAS6uuNcwsI.jpg)
+
+**Média de votos:** 998,0
+**Menor votos:** 77 (Blue Spring)
+**Maior votos:** 10311 (Dead Poets Society)
+
+## 5 mais avaliados
+
+**Dead Poets Society** | **The Perks of Being a Wallflower** | **The Blind Side** | **Remember the Titans** | **The Chorus**
+ -- | -- | -- | -- | -- 
+*10311* | *9844* | *5868* | *2415* | *2217*
+![](https://image.tmdb.org/t/p/w200/ai40gM7SUaGA6fthvsd87o8IQq4.jpg) | ![](https://image.tmdb.org/t/p/w200/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg) | ![](https://image.tmdb.org/t/p/w200/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg) | ![](https://image.tmdb.org/t/p/w200/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg) | ![](https://image.tmdb.org/t/p/w200/zsWq5fa4Db7im4a3QnkoOns6782.jpg)
+
+## 5 menos avaliados
+
+**Blue Spring** | **Orange** | **A Teacher** | **Everybody Dies But Me** | **Songs My Brothers Taught Me**
+ -- | -- | -- | -- | -- 
+*77* | *84* | *85* | *85* | *90*
+![](https://image.tmdb.org/t/p/w200/hfK1bvYf9l9S75ZW7E4GjGmT2fW.jpg) | ![](https://image.tmdb.org/t/p/w200/24bpPkmOTfgOAnKBpeIgFM6pD6x.jpg) | ![](https://image.tmdb.org/t/p/w200/sCsK0oCKyz8yQ3xCG7NgYlg9qBW.jpg) | ![](https://image.tmdb.org/t/p/w200/6eKXpuhsELuTQLM4t7sU0Plza7k.jpg) | ![](https://image.tmdb.org/t/p/w200/2DiiYoVGtNkvvM8mc5UMIalH7OC.jpg)
+
+**Gêneros mais comuns:**
+* Drama (47)
+
+
+**Palavras-chave mais comuns:**
+* high school (21)
+* sports (10)
+* teacher (8)
+* school (7)
+* american football (6)
+* private school (5)
+* violence in schools (5)
+* high school teacher (5)
+* coming of age (4)
+* teenager (4)
+* education (4)
+* friendship (3)
+* schoolteacher (3)
+* trauma (3)
+* lgbt (3)
+
+# Cluster 53
+**Total de filmes:** 243
+**Média de ano de lançamento:** 2002
+**Menor ano:** 1915 (The Vampires or, The Arch Criminals of Paris)
+**Maior ano:** 2023 (Inside)
+
+## 5 Mais Velhos 
+
+**The Vampires or, The Arch Criminals of Paris** | **Foolish Wives** | **The Lodger: A Story of the London Fog** | **Blackmail** | **Detour**
+ -- | -- | -- | -- | -- 
+*1915* | *1922* | *1927* | *1929* | *1945*
+ ![](https://image.tmdb.org/t/p/w200/8jO0Zmd468zS9WRLHpwsKUowZAX.jpg) |  ![](https://image.tmdb.org/t/p/w200/q8HI0WqwLKY2O1JYyFUF9awi3br.jpg) |  ![](https://image.tmdb.org/t/p/w200/tD84zwFeFRf3zG98x558N3PBMV.jpg) |  ![](https://image.tmdb.org/t/p/w200/7ioNEKouUkkWyv5tUDwVUd7BDRR.jpg) |  ![](https://image.tmdb.org/t/p/w200/gJb9HRAs1V4bA0VKsWpT6mhv2RT.jpg)
+
+## 5 mais novos
+
+**Inside** | **Reality** | **Thirteen Lives** | **Notre-Dame on Fire** | **Code Name: Emperor**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/dXsiWJWwGwYwOQ6DfYFt5pPBMwT.jpg) | ![](https://image.tmdb.org/t/p/w200/rTEYxSDo9aJTTbM0zuMMLgzJcUJ.jpg) | ![](https://image.tmdb.org/t/p/w200/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg) | ![](https://image.tmdb.org/t/p/w200/kXj3FqzQABWsElUuT9y3WhfGPdT.jpg) | ![](https://image.tmdb.org/t/p/w200/8VjVLMiPm598Kg6XmKk5m1fz0p7.jpg)
+
+**Média da nota:** 6,49
+**Menor nota:** 4,53 (Dark Crimes)
+**Maior nota:** 8,28 (Woman in the Dunes)
+
+## 5 mais bem avaliados
+
+**Woman in the Dunes** | **Investigation of a Citizen Above Suspicion** | **Yojimbo** | **The Lives of Others** | **Room**
+ -- | -- | -- | -- | -- 
+*8,28* | *8,19* | *8,12* | *8,03* | *8,03*
+![](https://image.tmdb.org/t/p/w200/f0JpsMQ9oEjKBD66Ky3qK3z7LGT.jpg) | ![](https://image.tmdb.org/t/p/w200/vPTZwlq1IC4o1DCsEZEl2uGljzm.jpg) | ![](https://image.tmdb.org/t/p/w200/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg) | ![](https://image.tmdb.org/t/p/w200/bCywq0RkrdI2qzhPNuuJ9PvGuzd.jpg) | ![](https://image.tmdb.org/t/p/w200/dIxoYFcj6EqD5KScuU8lWCftnvH.jpg)
+
+## 5 menos bem avaliados
+
+**Dark Crimes** | **Twentynine Palms** | **The Last Thing He Wanted** | **A Deadly Adoption** | **The Face of an Angel**
+ -- | -- | -- | -- | -- 
+*4,53* | *4,88* | *4,89* | *4,91* | *5,09*
+![](https://image.tmdb.org/t/p/w200/bEwK1r4pmJ9huEjqrZf73NXJvFy.jpg) | ![](https://image.tmdb.org/t/p/w200/k9njXz2Q1m0KzWgCNXqeHmtR4vp.jpg) | ![](https://image.tmdb.org/t/p/w200/gItrnbEbMBbUrdIkFz8kgS2gkt.jpg) | ![](https://image.tmdb.org/t/p/w200/mfMoNq0nYec5RImmCiW0Guj3Bcg.jpg) | ![](https://image.tmdb.org/t/p/w200/nFY7bO60ENfXRq4fqzA22snQUls.jpg)
+
+**Média de votos:** 591,0
+**Menor votos:** 75 (Foolish Wives)
+**Maior votos:** 8684 (Room)
+
+## 5 mais avaliados
+
+**Room** | **Argo** | **Nocturnal Animals** | **Misery** | **The Lives of Others**
+ -- | -- | -- | -- | -- 
+*8684* | *7750* | *7196* | *4175* | *3319*
+![](https://image.tmdb.org/t/p/w200/dIxoYFcj6EqD5KScuU8lWCftnvH.jpg) | ![](https://image.tmdb.org/t/p/w200/9LcnmIeKUfKeAxeCY82W9Jug416.jpg) | ![](https://image.tmdb.org/t/p/w200/mdLDgQBD0va09npSQX5Zgo2evXM.jpg) | ![](https://image.tmdb.org/t/p/w200/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg) | ![](https://image.tmdb.org/t/p/w200/bCywq0RkrdI2qzhPNuuJ9PvGuzd.jpg)
+
+## 5 menos avaliados
+
+**Foolish Wives** | **Beyond Rangoon** | **A Deadly Adoption** | **Prime Time** | **The Enforcer**
+ -- | -- | -- | -- | -- 
+*75* | *76* | *77* | *80* | *80*
+![](https://image.tmdb.org/t/p/w200/q8HI0WqwLKY2O1JYyFUF9awi3br.jpg) | ![](https://image.tmdb.org/t/p/w200/xTiy5kSP3Hetig7xB4E8INq5ron.jpg) | ![](https://image.tmdb.org/t/p/w200/mfMoNq0nYec5RImmCiW0Guj3Bcg.jpg) | ![](https://image.tmdb.org/t/p/w200/mEegKDrhRZVnn0Y87TdKqGwjowo.jpg) | ![](https://image.tmdb.org/t/p/w200/k7FAq6mmLfsC6htX6f5zKwbw8LF.jpg)
+
+**Gêneros mais comuns:**
+* Drama (243)
+* Thriller (243)
+
+
+**Palavras-chave mais comuns:**
+* murder (24)
+* husband wife relationship (17)
+* revenge (17)
+* rape (11)
+* psychological thriller (10)
+* torture (10)
+* politics (10)
+* loss of loved one (10)
+* prison (9)
+* neo-noir (8)
+* black and white (8)
+* serial killer (8)
+* 1980s (7)
+* flashback (7)
+* high school (7)
+
+# Cluster 54
+**Total de filmes:** 19
+**Média de ano de lançamento:** 1992
+**Menor ano:** 1924 (He Who Gets Slapped)
+**Maior ano:** 2023 (Master Gardener)
+
+## 5 Mais Velhos 
+
+**He Who Gets Slapped** | **Leave Her to Heaven** | **Dragonwyck** | **Reflections in a Golden Eye** | **That Most Important Thing: Love**
+ -- | -- | -- | -- | -- 
+*1924* | *1945* | *1946* | *1967* | *1975*
+ ![](https://image.tmdb.org/t/p/w200/ue7ce11Y6vEjZXKZeKCBKl6O9Dp.jpg) |  ![](https://image.tmdb.org/t/p/w200/aUzQZt2UlaurZ3wlhzVXQb6PQk8.jpg) |  ![](https://image.tmdb.org/t/p/w200/guyisLW25bpd7bMGA30OYLbssm6.jpg) |  ![](https://image.tmdb.org/t/p/w200/aB2q0EqCedMUlGdsulIqE1REf4a.jpg) |  ![](https://image.tmdb.org/t/p/w200/NR9X3F4aCqvoYRx8h4pG30zVe.jpg)
+
+## 5 mais novos
+
+**Master Gardener** | **Ride or Die** | **Despite the Falling Snow** | **Fifty Shades of Grey** | **Kill Your Darlings**
+ -- | -- | -- | -- | -- 
+*2023* | *2021* | *2016* | *2015* | *2013*
+![](https://image.tmdb.org/t/p/w200/afkyHDaMblwX2F1zJzMrTnPsDUH.jpg) | ![](https://image.tmdb.org/t/p/w200/c7JzcVK4OZY1u7HYiFBOASkKPP5.jpg) | ![](https://image.tmdb.org/t/p/w200/sYCwDIeGfOjxesa3j6wu44EjhwU.jpg) | ![](https://image.tmdb.org/t/p/w200/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg) | ![](https://image.tmdb.org/t/p/w200/cnki2mlujf32d3MYspZQFYlVsoL.jpg)
+
+**Média da nota:** 6,43
+**Menor nota:** 4,71 (Poison Ivy 2: Lily)
+**Maior nota:** 7,59 (He Who Gets Slapped)
+
+## 5 mais bem avaliados
+
+**He Who Gets Slapped** | **Leave Her to Heaven** | **That Most Important Thing: Love** | **Broken Embraces** | **Kill Your Darlings**
+ -- | -- | -- | -- | -- 
+*7,59* | *7,40* | *7,17* | *7,16* | *7,10*
+![](https://image.tmdb.org/t/p/w200/ue7ce11Y6vEjZXKZeKCBKl6O9Dp.jpg) | ![](https://image.tmdb.org/t/p/w200/aUzQZt2UlaurZ3wlhzVXQb6PQk8.jpg) | ![](https://image.tmdb.org/t/p/w200/NR9X3F4aCqvoYRx8h4pG30zVe.jpg) | ![](https://image.tmdb.org/t/p/w200/uPTOKnc9bzPp1emH3TyuKOGIylQ.jpg) | ![](https://image.tmdb.org/t/p/w200/cnki2mlujf32d3MYspZQFYlVsoL.jpg)
+
+## 5 menos bem avaliados
+
+**Poison Ivy 2: Lily** | **Cherrybomb** | **O** | **Despite the Falling Snow** | **Fifty Shades of Grey**
+ -- | -- | -- | -- | -- 
+*4,71* | *5,60* | *5,81* | *5,88* | *5,88*
+![](https://image.tmdb.org/t/p/w200/jXLuQYRwWNuwW8dkx3zo5bWon2r.jpg) | ![](https://image.tmdb.org/t/p/w200/q3NdckfHKjXyrsRNoZyAidMf9em.jpg) | ![](https://image.tmdb.org/t/p/w200/u8mFQU3YwNvZWcATncaAHUfEEMr.jpg) | ![](https://image.tmdb.org/t/p/w200/sYCwDIeGfOjxesa3j6wu44EjhwU.jpg) | ![](https://image.tmdb.org/t/p/w200/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg)
+
+**Média de votos:** 804,0
+**Menor votos:** 80 (Despite the Falling Snow)
+**Maior votos:** 11101 (Fifty Shades of Grey)
+
+## 5 mais avaliados
+
+**Fifty Shades of Grey** | **Kill Your Darlings** | **Broken Embraces** | **Angel Eyes** | **O**
+ -- | -- | -- | -- | -- 
+*11101* | *1276* | *599* | *390* | *236*
+![](https://image.tmdb.org/t/p/w200/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg) | ![](https://image.tmdb.org/t/p/w200/cnki2mlujf32d3MYspZQFYlVsoL.jpg) | ![](https://image.tmdb.org/t/p/w200/uPTOKnc9bzPp1emH3TyuKOGIylQ.jpg) | ![](https://image.tmdb.org/t/p/w200/6ZeMoynnz4pRweKKZ9c2G1absMJ.jpg) | ![](https://image.tmdb.org/t/p/w200/u8mFQU3YwNvZWcATncaAHUfEEMr.jpg)
+
+## 5 menos avaliados
+
+**Despite the Falling Snow** | **Blown Away** | **He Who Gets Slapped** | **Dragonwyck** | **That Most Important Thing: Love**
+ -- | -- | -- | -- | -- 
+*80* | *80* | *83* | *90* | *91*
+![](https://image.tmdb.org/t/p/w200/sYCwDIeGfOjxesa3j6wu44EjhwU.jpg) | ![](https://image.tmdb.org/t/p/w200/zkdYTsyORrP7utUW1TDTHz5eyOB.jpg) | ![](https://image.tmdb.org/t/p/w200/ue7ce11Y6vEjZXKZeKCBKl6O9Dp.jpg) | ![](https://image.tmdb.org/t/p/w200/guyisLW25bpd7bMGA30OYLbssm6.jpg) | ![](https://image.tmdb.org/t/p/w200/NR9X3F4aCqvoYRx8h4pG30zVe.jpg)
+
+**Gêneros mais comuns:**
+* Drama (19)
+* Romance (19)
+* Thriller (19)
+
+
+**Palavras-chave mais comuns:**
+* murder (7)
+* love (4)
+* mental illness (2)
+* lgbt (2)
+* gay theme (2)
+* jealousy (2)
+* obsession (2)
+* girlfriend (2)
+* detective (2)
+* marriage (2)
+* erotic movie (2)
+* bad smell (1)
+* eroticism (1)
+* perversion (1)
+* spanking (1)
+
+# Cluster 55
+**Total de filmes:** 49
+**Média de ano de lançamento:** 2005
+**Menor ano:** 1947 (Body and Soul)
+**Maior ano:** 2023 (Shooting Stars)
+
+## 5 Mais Velhos 
+
+**Body and Soul** | **The Loneliness of the Long Distance Runner** | **Downhill Racer** | **Fat City** | **The Champ**
+ -- | -- | -- | -- | -- 
+*1947* | *1962* | *1969* | *1972* | *1979*
+ ![](https://image.tmdb.org/t/p/w200/lnKYS1A1k78X5v5IpLA96e6EYoe.jpg) |  ![](https://image.tmdb.org/t/p/w200/ePhZKUNyFGc8lzx0E0LiCcKs4y4.jpg) |  ![](https://image.tmdb.org/t/p/w200/fJDQDmJDiEzRROph0T1ace8oyNK.jpg) |  ![](https://image.tmdb.org/t/p/w200/7ag7BOMnAuDKwNyI0wc8jTeimRb.jpg) |  ![](https://image.tmdb.org/t/p/w200/yzcadYZuEvIaJkJ508yoDVEcoA.jpg)
+
+## 5 mais novos
+
+**Shooting Stars** | **Rise** | **Baggio: The Divine Ponytail** | **Bruised** | **Overcomer**
+ -- | -- | -- | -- | -- 
+*2023* | *2022* | *2021* | *2020* | *2019*
+![](https://image.tmdb.org/t/p/w200/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg) | ![](https://image.tmdb.org/t/p/w200/p6FMYJSc9vhyqzMaYOC8yPS7aXQ.jpg) | ![](https://image.tmdb.org/t/p/w200/i0NOqrnE4FhXrk9cHm6DQeRo1Zm.jpg) | ![](https://image.tmdb.org/t/p/w200/axibOQF9QnThrr8M37ufAYurP4R.jpg) | ![](https://image.tmdb.org/t/p/w200/rVR3uN1yPRqYBBtNFSrEKCpRhaK.jpg)
+
+**Média da nota:** 6,81
+**Menor nota:** 5,55 (The Babe)
+**Maior nota:** 8,17 (Shooting Stars)
+
+## 5 mais bem avaliados
+
+**Shooting Stars** | **Raging Bull** | **Breaking the Limits** | **Rise** | **Overcomer**
+ -- | -- | -- | -- | -- 
+*8,17* | *8,00* | *7,72* | *7,70* | *7,64*
+![](https://image.tmdb.org/t/p/w200/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg) | ![](https://image.tmdb.org/t/p/w200/3Ph6BrMvgniIzFfsloKbSdXWcd8.jpg) | ![](https://image.tmdb.org/t/p/w200/b9ZwoLW1sD2DST53lAQAE8Fog0a.jpg) | ![](https://image.tmdb.org/t/p/w200/p6FMYJSc9vhyqzMaYOC8yPS7aXQ.jpg) | ![](https://image.tmdb.org/t/p/w200/rVR3uN1yPRqYBBtNFSrEKCpRhaK.jpg)
+
+## 5 menos bem avaliados
+
+**The Babe** | **High Flying Bird** | **Drift** | **Downhill Racer** | **Cobb**
+ -- | -- | -- | -- | -- 
+*5,55* | *5,69* | *5,77* | *5,86* | *5,94*
+![](https://image.tmdb.org/t/p/w200/lso2f5jbglHtGke2A8NwRkcfxF6.jpg) | ![](https://image.tmdb.org/t/p/w200/ccE21xixa1zhkGtWDr4n8ReOp40.jpg) | ![](https://image.tmdb.org/t/p/w200/wAQsxWn82CXsFxrItzzSfYJdSd3.jpg) | ![](https://image.tmdb.org/t/p/w200/fJDQDmJDiEzRROph0T1ace8oyNK.jpg) | ![](https://image.tmdb.org/t/p/w200/zHvQSn3kT0e0CI4JNhjNSjvvtXr.jpg)
+
+**Média de votos:** 426,0
+**Menor votos:** 76 (Cobb)
+**Maior votos:** 3872 (Raging Bull)
+
+## 5 mais avaliados
+
+**Raging Bull** | **Ali** | **Any Given Sunday** | **The Color of Money** | **Goal!**
+ -- | -- | -- | -- | -- 
+*3872* | *1558* | *1499* | *1199* | *1021*
+![](https://image.tmdb.org/t/p/w200/3Ph6BrMvgniIzFfsloKbSdXWcd8.jpg) | ![](https://image.tmdb.org/t/p/w200/aBphVTRYpJS028Of2Ctho1mYgcF.jpg) | ![](https://image.tmdb.org/t/p/w200/bysZeUvSPZPJnku4qkHF34CdgMG.jpg) | ![](https://image.tmdb.org/t/p/w200/dVdnHmdQu3JtLAAksjTmTEF76gD.jpg) | ![](https://image.tmdb.org/t/p/w200/9YZhJGoIbJtrjDYbENGhR6f6SZE.jpg)
+
+## 5 menos avaliados
+
+**Cobb** | **Downhill Racer** | **Breaking the Limits** | **Shooting Stars** | **Body and Soul**
+ -- | -- | -- | -- | -- 
+*76* | *77* | *85* | *85* | *88*
+![](https://image.tmdb.org/t/p/w200/zHvQSn3kT0e0CI4JNhjNSjvvtXr.jpg) | ![](https://image.tmdb.org/t/p/w200/fJDQDmJDiEzRROph0T1ace8oyNK.jpg) | ![](https://image.tmdb.org/t/p/w200/b9ZwoLW1sD2DST53lAQAE8Fog0a.jpg) | ![](https://image.tmdb.org/t/p/w200/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg) | ![](https://image.tmdb.org/t/p/w200/lnKYS1A1k78X5v5IpLA96e6EYoe.jpg)
+
+**Gêneros mais comuns:**
+* Drama (49)
+
+
+**Palavras-chave mais comuns:**
+* sports (46)
+* football (soccer) (6)
+* basketball (6)
+* boxer (5)
+* american football (5)
+* transporter (4)
+* over-the-hill fighter (3)
+* baseball (3)
+* olympic games (3)
+* boxing (3)
+* american football coach (2)
+* coach (2)
+* friendship (2)
+* cricket (2)
+* sports agent (2)
+
+# Cluster 56
 **Total de filmes:** 5
 **Média de ano de lançamento:** 2002
 **Menor ano:** 1987 (The Lost Boys)
@@ -3116,1769 +5608,1059 @@ Versão resumida dos clusters
 * 1980s (1)
 * brother brother relationship (1)
 
-# Cluster 35
-**Total de filmes:** 69
-**Média de ano de lançamento:** 2000
-**Menor ano:** 1939 (The Rules of the Game)
-**Maior ano:** 2021 (The Worst Person in the World)
+# Cluster 57
+**Total de filmes:** 137
+**Média de ano de lançamento:** 2001
+**Menor ano:** 1874 (Passage of Venus)
+**Maior ano:** 2023 (Money Shot: The Pornhub Story)
 
 ## 5 Mais Velhos 
 
-**The Rules of the Game** | **Sissi: The Young Empress** | **Lolita** | **Yesterday, Today and Tomorrow** | **Marriage Italian Style**
+**Passage of Venus** | **Man Walking Around a Corner** | **Roundhay Garden Scene** | **Traffic Crossing Leeds Bridge** | **Workers Leaving the Lumière Factory**
  -- | -- | -- | -- | -- 
-*1939* | *1956* | *1962* | *1963* | *1964*
- ![](https://image.tmdb.org/t/p/w200/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg) |  ![](https://image.tmdb.org/t/p/w200/fuEBUAwK754IZRgyib2Xe6ZyDYt.jpg) |  ![](https://image.tmdb.org/t/p/w200/8Puqbeh0D95DpXFWep1rmH78btu.jpg) |  ![](https://image.tmdb.org/t/p/w200/dTYi1VK6ROM9tBiyIijFTHjuRnL.jpg) |  ![](https://image.tmdb.org/t/p/w200/1VVQFXwr4i6QSAoPnCs9UmGTUVw.jpg)
+*1874* | *1887* | *1888* | *1888* | *1895*
+ ![](https://image.tmdb.org/t/p/w200/XWPDZzK7N2WQcejI8W96IxZEeP.jpg) |  ![](https://image.tmdb.org/t/p/w200/3vIpxTUyCFSFagJsGaxFXcR8mOt.jpg) |  ![](https://image.tmdb.org/t/p/w200/qI9eTP3NpJlxTk3oMBvfz8Awwkw.jpg) |  ![](https://image.tmdb.org/t/p/w200/cw7uvqK3orqVUlULmA8OfkecMRY.jpg) |  ![](https://image.tmdb.org/t/p/w200/cT2sefAXgEoICJUCEM6UfxXfuDM.jpg)
 
 ## 5 mais novos
 
-**The Worst Person in the World** | **Babyteeth** | **Holiday Rush** | **The Escort** | **The Little Death**
+**Money Shot: The Pornhub Story** | **Pamela, A Love Story** | **The Deepest Breath** | **Return to Space** | **Inside the Mind of a Cat**
  -- | -- | -- | -- | -- 
-*2021* | *2020* | *2019* | *2015* | *2014*
-![](https://image.tmdb.org/t/p/w200/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg) | ![](https://image.tmdb.org/t/p/w200/aINpljdt3VVMrCLtJW4BektwYOp.jpg) | ![](https://image.tmdb.org/t/p/w200/ccL8XtMJSAl5VRoOdyKn7Cd0QA2.jpg) | ![](https://image.tmdb.org/t/p/w200/f0UUAhIBecyfUTjn3C3sw1UioUx.jpg) | ![](https://image.tmdb.org/t/p/w200/wH15YYgBT9ZX37nFkSQ0OM8qjCE.jpg)
+*2023* | *2023* | *2023* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/kpTqWqLYcf1uErnx5VXLah4EWJZ.jpg) | ![](https://image.tmdb.org/t/p/w200/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg) | ![](https://image.tmdb.org/t/p/w200/4gKAn4npGEBi0HZAbwFZ77reLBR.jpg) | ![](https://image.tmdb.org/t/p/w200/uyatxKGACzSNqDzTe5sv5YHAY30.jpg) | ![](https://image.tmdb.org/t/p/w200/lqngTIvF2UdcK9uTZ8nLX3AfbHp.jpg)
 
-**Média da nota:** 6,86
-**Menor nota:** 5,62 (Holiday Rush)
-**Maior nota:** 8,00 (Chungking Express)
+**Média da nota:** 7,01
+**Menor nota:** 4,90 (Man Walking Around a Corner)
+**Maior nota:** 8,59 (Rubius X)
 
 ## 5 mais bem avaliados
 
-**Chungking Express** | **Castaway on the Moon** | **Moscow Does Not Believe in Tears** | **Marriage Italian Style** | **The Rules of the Game**
+**Rubius X** | **No Half Measures: Creating the Final Season of Breaking Bad** | **Won't You Be My Neighbor?** | **Isle of Flowers** | **Take the Ball, Pass the Ball**
  -- | -- | -- | -- | -- 
-*8,00* | *7,99* | *7,79* | *7,77* | *7,60*
-![](https://image.tmdb.org/t/p/w200/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg) | ![](https://image.tmdb.org/t/p/w200/gGzovvmOEyNVUu4WEHtw9wfDsqI.jpg) | ![](https://image.tmdb.org/t/p/w200/m6nWRLCaKsGErs7x8rDj9XuTVEG.jpg) | ![](https://image.tmdb.org/t/p/w200/1VVQFXwr4i6QSAoPnCs9UmGTUVw.jpg) | ![](https://image.tmdb.org/t/p/w200/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg)
+*8,59* | *8,40* | *8,03* | *8,00* | *7,93*
+![](https://image.tmdb.org/t/p/w200/k6KAAVebtdVb0FRU2PWqYLnhgRA.jpg) | ![](https://image.tmdb.org/t/p/w200/j2QNxbsCabpFQG7KkLYpkFz6IWk.jpg) | ![](https://image.tmdb.org/t/p/w200/8qE8NZjiP2M884baH0VoLF828Vp.jpg) | ![](https://image.tmdb.org/t/p/w200/sGLv72iYI46tNldBSjYp4GIz1sw.jpg) | ![](https://image.tmdb.org/t/p/w200/ncNuVIVSQqKJ3xDoMC3DxhElqgO.jpg)
 
 ## 5 menos bem avaliados
 
-**Holiday Rush** | **Remember Me, My Love** | **The Decoy Bride** | **The Escort** | **Raising Helen**
+**Man Walking Around a Corner** | **Flying Padre** | **After Porn Ends 2** | **The Sea** | **Thinking XXX**
  -- | -- | -- | -- | -- 
-*5,62* | *5,84* | *5,97* | *6,00* | *6,10*
-![](https://image.tmdb.org/t/p/w200/ccL8XtMJSAl5VRoOdyKn7Cd0QA2.jpg) | ![](https://image.tmdb.org/t/p/w200/3GcAGqAtaSfD8V2ULGV1v6CROPj.jpg) | ![](https://image.tmdb.org/t/p/w200/cLFecF4VfzuVXjQBnoo9sCDuTqW.jpg) | ![](https://image.tmdb.org/t/p/w200/f0UUAhIBecyfUTjn3C3sw1UioUx.jpg) | ![](https://image.tmdb.org/t/p/w200/ubZin4oGXYp6hCn3WU6nrBre62y.jpg)
+*4,90* | *5,07* | *5,33* | *5,43* | *5,47*
+![](https://image.tmdb.org/t/p/w200/3vIpxTUyCFSFagJsGaxFXcR8mOt.jpg) | ![](https://image.tmdb.org/t/p/w200/5aog5qVlMFakpogT1Nar9Z7gqq4.jpg) | ![](https://image.tmdb.org/t/p/w200/rfItXrtDGILwsCdmgVxX79phFuI.jpg) | ![](https://image.tmdb.org/t/p/w200/1sHtoOgCflT0Wm7Jd90iJZyDHE6.jpg) | ![](https://image.tmdb.org/t/p/w200/kqB0fF7VlODmw1exH4iDZHGUiVI.jpg)
 
-**Média de votos:** 924,0
-**Menor votos:** 159 (The Life and Death of Peter Sellers)
-**Maior votos:** 11327 (Silver Linings Playbook)
+**Média de votos:** 175,0
+**Menor votos:** 75 (Black Panthers)
+**Maior votos:** 807 (Exit Through the Gift Shop)
 
 ## 5 mais avaliados
 
-**Silver Linings Playbook** | **Love & Other Drugs** | **As Good as It Gets** | **The Artist** | **LOL**
+**Exit Through the Gift Shop** | **Man on Wire** | **Return to Space** | **Jodorowsky's Dune** | **Hot Girls Wanted**
  -- | -- | -- | -- | -- 
-*11327* | *4717* | *3449* | *3030* | *2551*
-![](https://image.tmdb.org/t/p/w200/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg) | ![](https://image.tmdb.org/t/p/w200/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg) | ![](https://image.tmdb.org/t/p/w200/xXxuJPNUDZ0vjsAXca0O5p3leVB.jpg) | ![](https://image.tmdb.org/t/p/w200/z68py0ZqPgeacGPG54AGVRbNBS7.jpg) | ![](https://image.tmdb.org/t/p/w200/AlnBUoKzzPnczrzzxuh0SYwDa3Z.jpg)
+*807* | *796* | *634* | *573* | *554*
+![](https://image.tmdb.org/t/p/w200/y6HK3PeQNeNLyruwtpCmV3TWuUx.jpg) | ![](https://image.tmdb.org/t/p/w200/1mS4rhIgHZcHIvf1beP9Av0Ui33.jpg) | ![](https://image.tmdb.org/t/p/w200/uyatxKGACzSNqDzTe5sv5YHAY30.jpg) | ![](https://image.tmdb.org/t/p/w200/mv1zSd6P59D43iYQXs7qx01nSiX.jpg) | ![](https://image.tmdb.org/t/p/w200/75ot83QOkc02vujyzmIbumQCU6Y.jpg)
 
 ## 5 menos avaliados
 
-**The Life and Death of Peter Sellers** | **The Girl on the Bridge** | **An Ideal Husband** | **Madea's Family Reunion** | **Holiday Rush**
+**Black Panthers** | **No End in Sight** | **Man Walking Around a Corner** | **Little Dieter Needs to Fly** | **Going to Pieces: The Rise and Fall of the Slasher Film**
  -- | -- | -- | -- | -- 
-*159* | *164* | *169* | *188* | *197*
-![](https://image.tmdb.org/t/p/w200/obv3jnX0YSELa3bYrs8EDlxeeam.jpg) | ![](https://image.tmdb.org/t/p/w200/t5hKllCsmpWWA7XpxBXPjx0Gfct.jpg) | ![](https://image.tmdb.org/t/p/w200/Aac3Kw7qAszSotkTNle4bvu3uuH.jpg) | ![](https://image.tmdb.org/t/p/w200/lAzrDS5bJJSSdPAUxuctCoomXUc.jpg) | ![](https://image.tmdb.org/t/p/w200/ccL8XtMJSAl5VRoOdyKn7Cd0QA2.jpg)
+*75* | *75* | *75* | *75* | *76*
+![](https://image.tmdb.org/t/p/w200/hNoHZiCkKY140O4LhNkujNqVvuW.jpg) | ![](https://image.tmdb.org/t/p/w200/6x3RG6cQkhkvj5yRqFKdIWXbxtl.jpg) | ![](https://image.tmdb.org/t/p/w200/3vIpxTUyCFSFagJsGaxFXcR8mOt.jpg) | ![](https://image.tmdb.org/t/p/w200/2sLpyYytu0Dbymzs3skxOCRHKkl.jpg) | ![](https://image.tmdb.org/t/p/w200/yztO70IoLnK5bRhRUn8gJ7meiGN.jpg)
 
 **Gêneros mais comuns:**
-* Drama (69)
-* Comedy (69)
-* Romance (69)
+* Documentary (137)
 
 
 **Palavras-chave mais comuns:**
-* friendship (5)
-* love (4)
-* lgbt interest (4)
-* coming of age (4)
-* break-up (4)
-* italy (4)
-* neighbor (3)
-* single (3)
-* older man younger woman relationship (3)
-* travel (3)
-* romance (3)
-* roommate (3)
-* husband wife relationship (3)
-* wedding (3)
-* family relationships (3)
+* short film (14)
+* filmmaking (12)
+* movie business (9)
+* sports (8)
+* interview (8)
+*  (7)
+* art (6)
+* director (6)
+* silent film (6)
+* football (soccer) (6)
+* film history (5)
+* cinema on cinema (4)
+* making of (4)
+* portrait of a filmmaker (4)
+* space (3)
 
-# Cluster 36
-**Total de filmes:** 5
-**Média de ano de lançamento:** 1990
-**Menor ano:** 1972 (All the Way Boys)
-**Maior ano:** 2004 (Team America: World Police)
+# Cluster 58
+**Total de filmes:** 33
+**Média de ano de lançamento:** 1988
+**Menor ano:** 1898 (The Four Troublesome Heads)
+**Maior ano:** 2022 (The Munsters)
 
 ## 5 Mais Velhos 
 
-**All the Way Boys** | **Go for It** | **Armour of God** | **Johnny English** | **Team America: World Police**
+**The Four Troublesome Heads** | **The Man with the Rubber Head** | **The Play House** | **Entr'acte** | **Blithe Spirit**
  -- | -- | -- | -- | -- 
-*1972* | *1983* | *1986* | *2003* | *2004*
- ![](https://image.tmdb.org/t/p/w200/cWhBysh8ejHqKBcv5cGaA5FCCcq.jpg) |  ![](https://image.tmdb.org/t/p/w200/gfv6ctg1BTtpQeOkwThe4EzDSK9.jpg) |  ![](https://image.tmdb.org/t/p/w200/phCpGqCSBWJqutKxj73COACrlPt.jpg) |  ![](https://image.tmdb.org/t/p/w200/lx3Y7teA6DaoQ6cIhwzrlnDZpFW.jpg) |  ![](https://image.tmdb.org/t/p/w200/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg)
+*1898* | *1901* | *1921* | *1924* | *1945*
+ ![](https://image.tmdb.org/t/p/w200/2EHnwiYcn954BFSishbWm2rNWUc.jpg) |  ![](https://image.tmdb.org/t/p/w200/yiqdrTcFSHzGMkKGk6huo6w0gin.jpg) |  ![](https://image.tmdb.org/t/p/w200/ktC6esPLRlQqS2Dai8KZXFiQWLR.jpg) |  ![](https://image.tmdb.org/t/p/w200/AjgQQsO9e1R9fU0wepy6OASuaVt.jpg) |  ![](https://image.tmdb.org/t/p/w200/mBKB90yS8Gti4QhcYGuUeJmeOoC.jpg)
 
 ## 5 mais novos
 
-**Team America: World Police** | **Johnny English** | **Armour of God** | **Go for It** | **All the Way Boys**
+**The Munsters** | **Mandibles** | **Once Upon a Time in Bethlehem** | **The First Temptation of Christ** | **I Am Not an Easy Man**
  -- | -- | -- | -- | -- 
-*2004* | *2003* | *1986* | *1983* | *1972*
-![](https://image.tmdb.org/t/p/w200/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg) | ![](https://image.tmdb.org/t/p/w200/lx3Y7teA6DaoQ6cIhwzrlnDZpFW.jpg) | ![](https://image.tmdb.org/t/p/w200/phCpGqCSBWJqutKxj73COACrlPt.jpg) | ![](https://image.tmdb.org/t/p/w200/gfv6ctg1BTtpQeOkwThe4EzDSK9.jpg) | ![](https://image.tmdb.org/t/p/w200/cWhBysh8ejHqKBcv5cGaA5FCCcq.jpg)
+*2022* | *2020* | *2019* | *2019* | *2018*
+![](https://image.tmdb.org/t/p/w200/kJaEVFhDouD72GKANMkYqzQky9n.jpg) | ![](https://image.tmdb.org/t/p/w200/pdizbiLiOiV8ysYknz79VMitsfU.jpg) | ![](https://image.tmdb.org/t/p/w200/pNfGE8n1iv1DIBNSG1kQLtHV290.jpg) | ![](https://image.tmdb.org/t/p/w200/kdNCaVDTK7a5KKCU7baLwY2gavx.jpg) | ![](https://image.tmdb.org/t/p/w200/fPPT1MDkvY4XvzbHTd2DsL7qH7S.jpg)
 
-**Média da nota:** 6,72
-**Menor nota:** 6,26 (Johnny English)
-**Maior nota:** 7,03 (Armour of God)
+**Média da nota:** 6,32
+**Menor nota:** 4,67 (Bad Johnson)
+**Maior nota:** 7,68 (Harvey)
 
 ## 5 mais bem avaliados
 
-**Armour of God** | **Go for It** | **Team America: World Police** | **All the Way Boys** | **Johnny English**
+**Harvey** | **Ghostbusters** | **The Man with the Rubber Head** | **The Four Troublesome Heads** | **The Addams Family**
  -- | -- | -- | -- | -- 
-*7,03* | *6,92* | *6,71* | *6,70* | *6,26*
-![](https://image.tmdb.org/t/p/w200/phCpGqCSBWJqutKxj73COACrlPt.jpg) | ![](https://image.tmdb.org/t/p/w200/gfv6ctg1BTtpQeOkwThe4EzDSK9.jpg) | ![](https://image.tmdb.org/t/p/w200/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg) | ![](https://image.tmdb.org/t/p/w200/cWhBysh8ejHqKBcv5cGaA5FCCcq.jpg) | ![](https://image.tmdb.org/t/p/w200/lx3Y7teA6DaoQ6cIhwzrlnDZpFW.jpg)
+*7,68* | *7,47* | *7,21* | *7,16* | *7,03*
+![](https://image.tmdb.org/t/p/w200/dgd82hYmpiXDM1G867HqNaWe8wj.jpg) | ![](https://image.tmdb.org/t/p/w200/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg) | ![](https://image.tmdb.org/t/p/w200/yiqdrTcFSHzGMkKGk6huo6w0gin.jpg) | ![](https://image.tmdb.org/t/p/w200/2EHnwiYcn954BFSishbWm2rNWUc.jpg) | ![](https://image.tmdb.org/t/p/w200/qFf8anju5f2epI0my8RdwwIXFIP.jpg)
 
 ## 5 menos bem avaliados
 
-**Johnny English** | **All the Way Boys** | **Team America: World Police** | **Go for It** | **Armour of God**
+**Bad Johnson** | **Joe's Apartment** | **The First Temptation of Christ** | **Seven Dwarfs** | **7 Dwarves: The Forest Is Not Enough**
  -- | -- | -- | -- | -- 
-*6,26* | *6,70* | *6,71* | *6,92* | *7,03*
-![](https://image.tmdb.org/t/p/w200/lx3Y7teA6DaoQ6cIhwzrlnDZpFW.jpg) | ![](https://image.tmdb.org/t/p/w200/cWhBysh8ejHqKBcv5cGaA5FCCcq.jpg) | ![](https://image.tmdb.org/t/p/w200/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg) | ![](https://image.tmdb.org/t/p/w200/gfv6ctg1BTtpQeOkwThe4EzDSK9.jpg) | ![](https://image.tmdb.org/t/p/w200/phCpGqCSBWJqutKxj73COACrlPt.jpg)
+*4,67* | *5,50* | *5,52* | *5,56* | *5,56*
+![](https://image.tmdb.org/t/p/w200/9FNjqzjL37KXhYQepq2d7REY2rl.jpg) | ![](https://image.tmdb.org/t/p/w200/7OBbURUtU37ucxHGUVkD598f6t3.jpg) | ![](https://image.tmdb.org/t/p/w200/kdNCaVDTK7a5KKCU7baLwY2gavx.jpg) | ![](https://image.tmdb.org/t/p/w200/b7cfDQirLJbOryFB0VfpQJHwTIx.jpg) | ![](https://image.tmdb.org/t/p/w200/x9fLyw1ihuyLodGnHvfFoKWq2su.jpg)
 
-**Média de votos:** 1224,0
-**Menor votos:** 344 (All the Way Boys)
-**Maior votos:** 3140 (Johnny English)
+**Média de votos:** 1625,0
+**Menor votos:** 95 (The Miracle of P. Tinto)
+**Maior votos:** 11513 (Ted)
 
 ## 5 mais avaliados
 
-**Johnny English** | **Team America: World Police** | **Armour of God** | **Go for It** | **All the Way Boys**
+**Ted** | **Ghostbusters** | **Ted 2** | **Dark Shadows** | **The Addams Family**
  -- | -- | -- | -- | -- 
-*3140* | *1689* | *506* | *439* | *344*
-![](https://image.tmdb.org/t/p/w200/lx3Y7teA6DaoQ6cIhwzrlnDZpFW.jpg) | ![](https://image.tmdb.org/t/p/w200/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg) | ![](https://image.tmdb.org/t/p/w200/phCpGqCSBWJqutKxj73COACrlPt.jpg) | ![](https://image.tmdb.org/t/p/w200/gfv6ctg1BTtpQeOkwThe4EzDSK9.jpg) | ![](https://image.tmdb.org/t/p/w200/cWhBysh8ejHqKBcv5cGaA5FCCcq.jpg)
+*11513* | *8143* | *6892* | *6754* | *4142*
+![](https://image.tmdb.org/t/p/w200/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg) | ![](https://image.tmdb.org/t/p/w200/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg) | ![](https://image.tmdb.org/t/p/w200/qMOt0uy1x49OBW0jzodgRM9waW0.jpg) | ![](https://image.tmdb.org/t/p/w200/d7A9pVX8OSWMSSjPBsIc1jAMP0y.jpg) | ![](https://image.tmdb.org/t/p/w200/qFf8anju5f2epI0my8RdwwIXFIP.jpg)
 
 ## 5 menos avaliados
 
-**All the Way Boys** | **Go for It** | **Armour of God** | **Team America: World Police** | **Johnny English**
+**The Miracle of P. Tinto** | **Symbol** | **The Play House** | **The First Temptation of Christ** | **Blithe Spirit**
  -- | -- | -- | -- | -- 
-*344* | *439* | *506* | *1689* | *3140*
-![](https://image.tmdb.org/t/p/w200/cWhBysh8ejHqKBcv5cGaA5FCCcq.jpg) | ![](https://image.tmdb.org/t/p/w200/gfv6ctg1BTtpQeOkwThe4EzDSK9.jpg) | ![](https://image.tmdb.org/t/p/w200/phCpGqCSBWJqutKxj73COACrlPt.jpg) | ![](https://image.tmdb.org/t/p/w200/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg) | ![](https://image.tmdb.org/t/p/w200/lx3Y7teA6DaoQ6cIhwzrlnDZpFW.jpg)
+*95* | *99* | *112* | *113* | *119*
+![](https://image.tmdb.org/t/p/w200/rcADIJ08E0m95gI1BZGN7ZjJqxg.jpg) | ![](https://image.tmdb.org/t/p/w200/3hWWrQ86GJMb0JQEY6JhHPnveW4.jpg) | ![](https://image.tmdb.org/t/p/w200/ktC6esPLRlQqS2Dai8KZXFiQWLR.jpg) | ![](https://image.tmdb.org/t/p/w200/kdNCaVDTK7a5KKCU7baLwY2gavx.jpg) | ![](https://image.tmdb.org/t/p/w200/mBKB90yS8Gti4QhcYGuUeJmeOoC.jpg)
 
 **Gêneros mais comuns:**
-* Adventure (5)
-* Action (5)
-* Comedy (5)
+* Comedy (33)
+* Fantasy (33)
 
 
 **Palavras-chave mais comuns:**
-* fistfight (2)
-* hero (1)
-* funeral (1)
-* spy (1)
-* intelligence (1)
-* queen (1)
-* coronation (1)
-* secret agent (1)
-* slapstick comedy (1)
-* spoof (1)
-* explosion (1)
-* agent (1)
-* pen (1)
-* egypt (1)
-* government (1)
+* ghost (4)
+* body-swap (3)
+* silent film (3)
+* short film (3)
+* friendship (2)
+* buddy (2)
+* teddy bear (2)
+* toy comes to life (2)
+* supernatural (2)
+* paranormal phenomena (2)
+* slime (2)
+* gatekeeper (2)
+* mythology (2)
+* paranormal investigation (2)
+* urban setting (2)
 
-# Cluster 37
-**Total de filmes:** 19
-**Média de ano de lançamento:** 1992
-**Menor ano:** 1933 (The Testament of Dr. Mabuse)
-**Maior ano:** 2023 (Luther: The Fallen Sun)
-
-## 5 Mais Velhos 
-
-**The Testament of Dr. Mabuse** | **The Killers** | **The Naked City** | **Harper** | **Cruising**
- -- | -- | -- | -- | -- 
-*1933* | *1946* | *1948* | *1966* | *1980*
- ![](https://image.tmdb.org/t/p/w200/tc2ET7j6X066VCjdHblSwLr8sEz.jpg) |  ![](https://image.tmdb.org/t/p/w200/uXnuc6pW01s1MDwb6QwBWg2JQeX.jpg) |  ![](https://image.tmdb.org/t/p/w200/rex4oaiSCD8UQg9204R6hQcFrX9.jpg) |  ![](https://image.tmdb.org/t/p/w200/zy56CkGHBA9WubuJ7fjntTZCvRi.jpg) |  ![](https://image.tmdb.org/t/p/w200/bb9CND0WyfwdHOZY5XmP4Qn8taz.jpg)
-
-## 5 mais novos
-
-**Luther: The Fallen Sun** | **Boston Strangler** | **The Batman** | **The Woman in the Window** | **Beckett**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2022* | *2021* | *2021*
-![](https://image.tmdb.org/t/p/w200/tvX2JltXjmpHLQ7BBijyVc9STv4.jpg) | ![](https://image.tmdb.org/t/p/w200/oZJfw78ZyPmgNJ0YJ8070nKEF4Y.jpg) | ![](https://image.tmdb.org/t/p/w200/74xTEgt7R36Fpooo50r9T25onhq.jpg) | ![](https://image.tmdb.org/t/p/w200/wcrjc1uwQaqoqtqi67Su4VCOYo0.jpg) | ![](https://image.tmdb.org/t/p/w200/fBJducGBcmrcIOQdhm4BUBNDiMu.jpg)
-
-**Média da nota:** 6,87
-**Menor nota:** 5,76 (88 Minutes)
-**Maior nota:** 8,37 (Se7en)
-
-## 5 mais bem avaliados
-
-**Se7en** | **L.A. Confidential** | **The Batman** | **Blue Velvet** | **The Testament of Dr. Mabuse**
- -- | -- | -- | -- | -- 
-*8,37* | *7,78* | *7,70* | *7,63* | *7,59*
-![](https://image.tmdb.org/t/p/w200/6yoghtyTpznpBik8EngEmJskVUO.jpg) | ![](https://image.tmdb.org/t/p/w200/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg) | ![](https://image.tmdb.org/t/p/w200/74xTEgt7R36Fpooo50r9T25onhq.jpg) | ![](https://image.tmdb.org/t/p/w200/7hlgzJXLgyECS1mk3LSN3E72l5N.jpg) | ![](https://image.tmdb.org/t/p/w200/tc2ET7j6X066VCjdHblSwLr8sEz.jpg)
-
-## 5 menos bem avaliados
-
-**88 Minutes** | **The Oxford Murders** | **The Woman in the Window** | **Unlawful Entry** | **Thunderheart**
- -- | -- | -- | -- | -- 
-*5,76* | *5,94* | *6,03* | *6,14* | *6,25*
-![](https://image.tmdb.org/t/p/w200/8rMiBz8kLMNmQyMbQXL9MPIlyw.jpg) | ![](https://image.tmdb.org/t/p/w200/aPGyZg44eCxccfoaNNbJwTJj66J.jpg) | ![](https://image.tmdb.org/t/p/w200/wcrjc1uwQaqoqtqi67Su4VCOYo0.jpg) | ![](https://image.tmdb.org/t/p/w200/sKUk1ca6gHaIopi8VqE8GoxJq6J.jpg) | ![](https://image.tmdb.org/t/p/w200/fuzcjMyvatISuSvvL4feBnWownl.jpg)
-
-**Média de votos:** 2343,0
-**Menor votos:** 150 (Harper)
-**Maior votos:** 19403 (Se7en)
-
-## 5 mais avaliados
-
-**Se7en** | **The Batman** | **L.A. Confidential** | **Blue Velvet** | **The Woman in the Window**
- -- | -- | -- | -- | -- 
-*19403* | *8584* | *4463* | *2957* | *1766*
-![](https://image.tmdb.org/t/p/w200/6yoghtyTpznpBik8EngEmJskVUO.jpg) | ![](https://image.tmdb.org/t/p/w200/74xTEgt7R36Fpooo50r9T25onhq.jpg) | ![](https://image.tmdb.org/t/p/w200/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg) | ![](https://image.tmdb.org/t/p/w200/7hlgzJXLgyECS1mk3LSN3E72l5N.jpg) | ![](https://image.tmdb.org/t/p/w200/wcrjc1uwQaqoqtqi67Su4VCOYo0.jpg)
-
-## 5 menos avaliados
-
-**Harper** | **The Testament of Dr. Mabuse** | **The Naked City** | **Thunderheart** | **Unlawful Entry**
- -- | -- | -- | -- | -- 
-*150* | *215* | *223* | *234* | *263*
-![](https://image.tmdb.org/t/p/w200/zy56CkGHBA9WubuJ7fjntTZCvRi.jpg) | ![](https://image.tmdb.org/t/p/w200/tc2ET7j6X066VCjdHblSwLr8sEz.jpg) | ![](https://image.tmdb.org/t/p/w200/rex4oaiSCD8UQg9204R6hQcFrX9.jpg) | ![](https://image.tmdb.org/t/p/w200/fuzcjMyvatISuSvvL4feBnWownl.jpg) | ![](https://image.tmdb.org/t/p/w200/sKUk1ca6gHaIopi8VqE8GoxJq6J.jpg)
-
-**Gêneros mais comuns:**
-* Crime (19)
-* Mystery (19)
-* Thriller (19)
-
-
-**Palavras-chave mais comuns:**
-* murder (12)
-* serial killer (7)
-* detective (6)
-* neo-noir (6)
-* police (5)
-* investigation (3)
-* nightclub (3)
-* murder investigation (3)
-* drug dealer (2)
-* psychopath (2)
-* corruption (2)
-* femme fatale (2)
-* corpse (2)
-* small town (2)
-* policeman (2)
-
-# Cluster 38
-**Total de filmes:** 57
-**Média de ano de lançamento:** 2002
-**Menor ano:** 1934 (The Black Cat)
-**Maior ano:** 2022 (Hellraiser)
-
-## 5 Mais Velhos 
-
-**The Black Cat** | **House on Haunted Hill** | **The Innocents** | **The Pit and the Pendulum** | **Carnival of Souls**
- -- | -- | -- | -- | -- 
-*1934* | *1959* | *1961* | *1961* | *1962*
- ![](https://image.tmdb.org/t/p/w200/QTH3dkeDGTBRBmsY0A7STpsNN4.jpg) |  ![](https://image.tmdb.org/t/p/w200/g5kdFt3piV3w1pG65W9sSToJ7HB.jpg) |  ![](https://image.tmdb.org/t/p/w200/idqvLBmlEHUITMnQ0EJ6Yb5TpVw.jpg) |  ![](https://image.tmdb.org/t/p/w200/dSdDtWebN6NwUM3D2bejPRCKcDT.jpg) |  ![](https://image.tmdb.org/t/p/w200/AdbQsFB8pS090l0NO3uBtLZy2zw.jpg)
-
-## 5 mais novos
-
-**Hellraiser** | **The Cellar** | **The Twin** | **The Unholy** | **A Classic Horror Story**
- -- | -- | -- | -- | -- 
-*2022* | *2022* | *2022* | *2021* | *2021*
-![](https://image.tmdb.org/t/p/w200/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg) | ![](https://image.tmdb.org/t/p/w200/rtfGeS5WMXA6PtikIYUmYTSbVdg.jpg) | ![](https://image.tmdb.org/t/p/w200/uUUSkKQEptTHjYejxzaT5TVkiAG.jpg) | ![](https://image.tmdb.org/t/p/w200/bShgiEQoPnWdw4LBrYT5u18JF34.jpg) | ![](https://image.tmdb.org/t/p/w200/xnxGmUof0HiugUaNbUFiS4GJPx4.jpg)
-
-**Média da nota:** 6,28
-**Menor nota:** 5,50 (The Grudge)
-**Maior nota:** 7,40 (The Innocents)
-
-## 5 mais bem avaliados
-
-**The Innocents** | **The Wailing** | **Gonjiam: Haunted Asylum** | **[REC]** | **Angel Heart**
- -- | -- | -- | -- | -- 
-*7,40* | *7,33* | *7,33* | *7,18* | *7,12*
-![](https://image.tmdb.org/t/p/w200/idqvLBmlEHUITMnQ0EJ6Yb5TpVw.jpg) | ![](https://image.tmdb.org/t/p/w200/aXlL7yYwpXInhltamtzKQFBG08G.jpg) | ![](https://image.tmdb.org/t/p/w200/KPrZ8lbgbMD7gr1pkMKoNbtcCK.jpg) | ![](https://image.tmdb.org/t/p/w200/pqINeili6YJBlr8X6u7LdEzW6Yg.jpg) | ![](https://image.tmdb.org/t/p/w200/h5v3wjJQNB7q2RntEnKDLhKtTFE.jpg)
-
-## 5 menos bem avaliados
-
-**The Grudge** | **My Soul to Take** | **The Final Destination** | **Dark Water** | **Amusement**
- -- | -- | -- | -- | -- 
-*5,50* | *5,51* | *5,60* | *5,63* | *5,64*
-![](https://image.tmdb.org/t/p/w200/vN7JHlHOT9rHNDU27tfYqhABBj5.jpg) | ![](https://image.tmdb.org/t/p/w200/aaSWVJT3bRryVSpYNwayr9Xnwjg.jpg) | ![](https://image.tmdb.org/t/p/w200/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg) | ![](https://image.tmdb.org/t/p/w200/cm4M9xaBu78IjuAVNG4LCXdXsg.jpg) | ![](https://image.tmdb.org/t/p/w200/1XosEzjwTxL4NrVhn7ldunA3kfr.jpg)
-
-**Média de votos:** 1519,0
-**Menor votos:** 160 (House of Voices)
-**Maior votos:** 5882 (It Follows)
-
-## 5 mais avaliados
-
-**It Follows** | **The Ring** | **Paranormal Activity** | **The Visit** | **The Blair Witch Project**
- -- | -- | -- | -- | -- 
-*5882* | *5706* | *4676* | *4370* | *4359*
-![](https://image.tmdb.org/t/p/w200/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg) | ![](https://image.tmdb.org/t/p/w200/e2t5CKMox7tjv3iD3Ko7NdFa5lJ.jpg) | ![](https://image.tmdb.org/t/p/w200/tmclkEpjeo4Zu564gf3KrwIOuKw.jpg) | ![](https://image.tmdb.org/t/p/w200/3pES4OVFcKSB5Ls1fqbMLANkQMj.jpg) | ![](https://image.tmdb.org/t/p/w200/9050VGrYjYrEjpOvDZVAngLbg1f.jpg)
-
-## 5 menos avaliados
-
-**House of Voices** | **Toolbox Murders** | **Daniel Isn't Real** | **The Twin** | **The Sentinel**
- -- | -- | -- | -- | -- 
-*160* | *161* | *170* | *171* | *172*
-![](https://image.tmdb.org/t/p/w200/2d1JogvQG3Hcay30wo8261otfZ6.jpg) | ![](https://image.tmdb.org/t/p/w200/hSOaU7mk6nNA0kP41EkC16hX3eA.jpg) | ![](https://image.tmdb.org/t/p/w200/zFYYFEhKS6JZvNW7gXeKeqnbcS7.jpg) | ![](https://image.tmdb.org/t/p/w200/uUUSkKQEptTHjYejxzaT5TVkiAG.jpg) | ![](https://image.tmdb.org/t/p/w200/oBwKB6R8UxeAymzjB6fum2vLFDi.jpg)
-
-**Gêneros mais comuns:**
-* Horror (57)
-* Mystery (57)
-
-
-**Palavras-chave mais comuns:**
-* supernatural (10)
-* found footage (8)
-* murder (8)
-* ghost (6)
-* demon (6)
-* slasher (6)
-* haunting (5)
-* possession (5)
-* haunted house (5)
-* investigation (4)
-* paranormal (4)
-* remake (4)
-* curse (4)
-* demonic possession (4)
-* gore (4)
-
-# Cluster 39
-**Total de filmes:** 88
+# Cluster 59
+**Total de filmes:** 183
 **Média de ano de lançamento:** 2011
-**Menor ano:** 1952 (The White Sheik)
-**Maior ano:** 2023 (Your Place or Mine)
+**Menor ano:** 1929 (Man with a Movie Camera)
+**Maior ano:** 2022 (Harry Potter 20th Anniversary: Return to Hogwarts)
 
 ## 5 Mais Velhos 
 
-**The White Sheik** | **Paris When It Sizzles** | **Grease** | **Career Opportunities** | **Only You**
+**Man with a Movie Camera** | **Triumph of the Will** | **Chronicle of a Summer** | **Love Meetings** | **F for Fake**
  -- | -- | -- | -- | -- 
-*1952* | *1964* | *1978* | *1991* | *1994*
- ![](https://image.tmdb.org/t/p/w200/kyO9tTwiD4zsQKqMicP2AVxglww.jpg) |  ![](https://image.tmdb.org/t/p/w200/s1uNHOOU2opTFljSFGp9djN9l2Y.jpg) |  ![](https://image.tmdb.org/t/p/w200/czVhhAaSBFpakur7U8pOIDV9NUG.jpg) |  ![](https://image.tmdb.org/t/p/w200/m0SjIvHa1SC4LipMFjSuORXEpsX.jpg) |  ![](https://image.tmdb.org/t/p/w200/7mLLANXgUg3bibTiUitDlB0NZcU.jpg)
+*1929* | *1935* | *1961* | *1965* | *1973*
+ ![](https://image.tmdb.org/t/p/w200/vJgAdgJWX54v0oXfIvhwjlZnmgn.jpg) |  ![](https://image.tmdb.org/t/p/w200/hyXCugoQzJ85mdrdz4dboqP8FoX.jpg) |  ![](https://image.tmdb.org/t/p/w200/wPoA8A6ZLxHhn2LUoChGekzmWnc.jpg) |  ![](https://image.tmdb.org/t/p/w200/olOuK4gkrYzgo7xJWR1EugZ2vdS.jpg) |  ![](https://image.tmdb.org/t/p/w200/fVeIDxS73CrosoeVOaefQuCUGZg.jpg)
 
 ## 5 mais novos
 
-**Your Place or Mine** | **You People** | **The Royal Treatment** | **Love in the Villa** | **About Fate**
+**Harry Potter 20th Anniversary: Return to Hogwarts** | **Obi-Wan Kenobi: A Jedi's Return** | **Black Adam: Saviour or Destroyer?** | **Beyond Infinity: Buzz and the Journey to Lightyear** | **Girl in the Picture**
  -- | -- | -- | -- | -- 
-*2023* | *2023* | *2022* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/3oFfY1HpzJDlRzKSCBF2sA5mb9U.jpg) | ![](https://image.tmdb.org/t/p/w200/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg) | ![](https://image.tmdb.org/t/p/w200/mYAv0YUoXJzLxIdEirOken8Quwf.jpg) | ![](https://image.tmdb.org/t/p/w200/t92CXfEP5aWBATeOomcF0wF9NsM.jpg) | ![](https://image.tmdb.org/t/p/w200/fabZkaVHYJ67KbZx7oFoitauX34.jpg)
+*2022* | *2022* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/jntLBq0MLR3hrwKaTQswxACRPMs.jpg) | ![](https://image.tmdb.org/t/p/w200/wn6LkWQst96dPGEkn8Cl2TnNnLp.jpg) | ![](https://image.tmdb.org/t/p/w200/sTuXDWacwdcMS7NNLaynkfVBZkr.jpg) | ![](https://image.tmdb.org/t/p/w200/mnp0INIjyWt4AziWmTHgPk9IFoE.jpg) | ![](https://image.tmdb.org/t/p/w200/w6dnirDUhvWuHy91QECqGSYmOpa.jpg)
 
-**Média da nota:** 6,49
-**Menor nota:** 5,50 (She's the One)
-**Maior nota:** 7,74 (Rich in Love)
+**Média da nota:** 7,21
+**Menor nota:** 5,54 (Dream Boat)
+**Maior nota:** 8,55 (David Attenborough: A Life on Our Planet)
 
 ## 5 mais bem avaliados
 
-**Rich in Love** | **The Hating Game** | **Grease** | **You Are the Apple of My Eye** | **About Fate**
+**David Attenborough: A Life on Our Planet** | **Human** | **Love Meetings** | **Rising Phoenix** | **The Salt of the Earth**
  -- | -- | -- | -- | -- 
-*7,74* | *7,42* | *7,39* | *7,37* | *7,37*
-![](https://image.tmdb.org/t/p/w200/dVqRATKlpCoWy96lfxiHc9TY9An.jpg) | ![](https://image.tmdb.org/t/p/w200/prbZxJxGcy07y60eq8lCGMciTYz.jpg) | ![](https://image.tmdb.org/t/p/w200/czVhhAaSBFpakur7U8pOIDV9NUG.jpg) | ![](https://image.tmdb.org/t/p/w200/mQ07Y4KlYZlJjVSEp2AFTYZA9i.jpg) | ![](https://image.tmdb.org/t/p/w200/fabZkaVHYJ67KbZx7oFoitauX34.jpg)
+*8,55* | *8,48* | *8,30* | *8,15* | *8,10*
+![](https://image.tmdb.org/t/p/w200/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg) | ![](https://image.tmdb.org/t/p/w200/vdZgH8cr73DJTLwvyzFpmm9l3xV.jpg) | ![](https://image.tmdb.org/t/p/w200/olOuK4gkrYzgo7xJWR1EugZ2vdS.jpg) | ![](https://image.tmdb.org/t/p/w200/oso09gID2bFk9q3Cni8GNOuzTWZ.jpg) | ![](https://image.tmdb.org/t/p/w200/jRmQNj8NacAHJnzwfvFvglKSGB6.jpg)
 
 ## 5 menos bem avaliados
 
-**She's the One** | **My Best Friend's Girl** | **The House Bunny** | **Picture Perfect** | **Head Over Heels**
+**Dream Boat** | **White Hot: The Rise & Fall of Abercrombie & Fitch** | **Michael Moore in TrumpLand** | **Freakonomics** | **The Minimalists: Less Is Now**
  -- | -- | -- | -- | -- 
-*5,50* | *5,63* | *5,65* | *5,69* | *5,70*
-![](https://image.tmdb.org/t/p/w200/gBcXhSwGq3MKl7HFpaTtK35pHPa.jpg) | ![](https://image.tmdb.org/t/p/w200/2PN16HJY0QoQrQDfbgopzwAUL0U.jpg) | ![](https://image.tmdb.org/t/p/w200/4oGGJ824vqIqDtyMvMuK44pDEmx.jpg) | ![](https://image.tmdb.org/t/p/w200/vlypjFdSxUVqxHc4TjjW2jvXDiO.jpg) | ![](https://image.tmdb.org/t/p/w200/AqUCPHv1hqQjhzFqMTiAaPxL43Q.jpg)
+*5,54* | *5,65* | *5,93* | *6,09* | *6,24*
+![](https://image.tmdb.org/t/p/w200/rUODpMyq5WWXithktfKJVpVYKKR.jpg) | ![](https://image.tmdb.org/t/p/w200/zbA8GgIBRsVoAO1uEvS6k2rqVAV.jpg) | ![](https://image.tmdb.org/t/p/w200/y4B3toDxLYyCmH1r2d4jQtbSoA5.jpg) | ![](https://image.tmdb.org/t/p/w200/uNO9svhhl5BqTlBN7ligl2uvttS.jpg) | ![](https://image.tmdb.org/t/p/w200/1foXpKnMMAL1OzBrCS3CcwnHO7S.jpg)
 
-**Média de votos:** 1111,0
-**Menor votos:** 154 (Everybody Loves Somebody)
-**Maior votos:** 7394 (Friends with Benefits)
+**Média de votos:** 254,0
+**Menor votos:** 75 (Cyber Hell: Exposing an Internet Horror)
+**Maior votos:** 3084 (Harry Potter 20th Anniversary: Return to Hogwarts)
 
 ## 5 mais avaliados
 
-**Friends with Benefits** | **The Kissing Booth** | **Grease** | **Notting Hill** | **There's Something About Mary**
+**Harry Potter 20th Anniversary: Return to Hogwarts** | **Super Size Me** | **Fahrenheit 9/11** | **Citizenfour** | **Friends: The Reunion**
  -- | -- | -- | -- | -- 
-*7394* | *6926* | *6760* | *5558* | *4589*
-![](https://image.tmdb.org/t/p/w200/q4ZAmIIbe2LiLvhQT0q3e6pleYr.jpg) | ![](https://image.tmdb.org/t/p/w200/7Dktk2ST6aL8h9Oe5rpk903VLhx.jpg) | ![](https://image.tmdb.org/t/p/w200/czVhhAaSBFpakur7U8pOIDV9NUG.jpg) | ![](https://image.tmdb.org/t/p/w200/fQqfLeD7h4nCXK0N5HEa4dAExk1.jpg) | ![](https://image.tmdb.org/t/p/w200/g03pwohXHOI75InM3zraiaEGguO.jpg)
+*3084* | *1515* | *1301* | *1186* | *1082*
+![](https://image.tmdb.org/t/p/w200/jntLBq0MLR3hrwKaTQswxACRPMs.jpg) | ![](https://image.tmdb.org/t/p/w200/zYkbqQaCuIHBxqBDGgnQCwJ9jIG.jpg) | ![](https://image.tmdb.org/t/p/w200/fqYHw4cCgEbbWqhA4MIuWKZZ4RA.jpg) | ![](https://image.tmdb.org/t/p/w200/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg) | ![](https://image.tmdb.org/t/p/w200/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg)
 
 ## 5 menos avaliados
 
-**Everybody Loves Somebody** | **The Laws of Thermodynamics** | **How Much Do You Love Me?** | **One Small Hitch** | **Paris When It Sizzles**
+**Cyber Hell: Exposing an Internet Horror** | **Miss Representation** | **Dream Boat** | **Untouchable** | **Adolescents**
  -- | -- | -- | -- | -- 
-*154* | *154* | *154* | *157* | *160*
-![](https://image.tmdb.org/t/p/w200/bZKpuVXmYu6gaprjfkOdvlvY5Z9.jpg) | ![](https://image.tmdb.org/t/p/w200/mtGxNRKQoQauWJkkRlnhvkEwyB9.jpg) | ![](https://image.tmdb.org/t/p/w200/jD18aRBrHtr9YnwJoLdqPntxDGr.jpg) | ![](https://image.tmdb.org/t/p/w200/pmr4lL6ikvXgk4LAVK94XYLXpvu.jpg) | ![](https://image.tmdb.org/t/p/w200/s1uNHOOU2opTFljSFGp9djN9l2Y.jpg)
+*75* | *75* | *75* | *76* | *77*
+![](https://image.tmdb.org/t/p/w200/eRlW6yvXHyXPuN0Ea6u6Sc48lGm.jpg) | ![](https://image.tmdb.org/t/p/w200/98owJxMsoARozljBXpQXH93v2fF.jpg) | ![](https://image.tmdb.org/t/p/w200/rUODpMyq5WWXithktfKJVpVYKKR.jpg) | ![](https://image.tmdb.org/t/p/w200/m0KYyVtMASYFFF9vEZF9Kn6V94L.jpg) | ![](https://image.tmdb.org/t/p/w200/l0oC8bHtFtIMFIbE59l09OIDP3z.jpg)
 
 **Gêneros mais comuns:**
-* Romance (88)
-* Comedy (88)
+* Documentary (183)
 
 
 **Palavras-chave mais comuns:**
-* romantic comedy (14)
-* christmas (11)
-* wedding (10)
-* friendship (7)
-* love (7)
-* holiday (7)
-* romance (7)
-* lgbt (6)
-* dating (6)
-* falling in love (5)
-* best friends (5)
-* gay theme (5)
-* opposites attract (4)
-* relationship (4)
-* best friend (4)
+* behind the scenes (12)
+* nature (9)
+* politics (9)
+* economics (7)
+* climate change (7)
+* corruption (5)
+* capitalism (5)
+* environment (5)
+* food (5)
+* ukraine (5)
+* propaganda (5)
+* lgbt (5)
+* competition (5)
+* movie business (5)
+* pop culture (5)
 
-# Cluster 40
+# Cluster 60
 **Total de filmes:** 24
-**Média de ano de lançamento:** 2007
-**Menor ano:** 1947 (Nightmare Alley)
-**Maior ano:** 2021 (Stillwater)
+**Média de ano de lançamento:** 1986
+**Menor ano:** 1936 (The Great Ziegfeld)
+**Maior ano:** 2023 (A Beautiful Life)
 
 ## 5 Mais Velhos 
 
-**Nightmare Alley** | **State of Grace** | **Sleeping with the Enemy** | **The Usual Suspects** | **The Rainmaker**
+**The Great Ziegfeld** | **Limelight** | **A Star Is Born** | **The Glenn Miller Story** | **Daddy Long Legs**
  -- | -- | -- | -- | -- 
-*1947* | *1990* | *1991* | *1995* | *1997*
- ![](https://image.tmdb.org/t/p/w200/odlV13MZEswVyMBQ4fmmxLRHYT0.jpg) |  ![](https://image.tmdb.org/t/p/w200/dNMeRLY3MeY2FFeh639plHai3F1.jpg) |  ![](https://image.tmdb.org/t/p/w200/lhkfSDKWvu6fX9LSyVaEklaLNZP.jpg) |  ![](https://image.tmdb.org/t/p/w200/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg) |  ![](https://image.tmdb.org/t/p/w200/twLGHXPjQtS8UyVGp5GXmhJiTM7.jpg)
+*1936* | *1952* | *1954* | *1954* | *1955*
+ ![](https://image.tmdb.org/t/p/w200/xaEw5cQLPiE4Qe4hpzEhJPF0rtg.jpg) |  ![](https://image.tmdb.org/t/p/w200/vwGcQS0pe4AXh0rfbhQ8RN23mw1.jpg) |  ![](https://image.tmdb.org/t/p/w200/zpg2SzpYhZk1D1seDfIIlwaqAxT.jpg) |  ![](https://image.tmdb.org/t/p/w200/eEuwIMj7jKYaUt0ZG6aVpYxlkrC.jpg) |  ![](https://image.tmdb.org/t/p/w200/2Tt12RPDJP4KnepYsJ4hrEQS7El.jpg)
 
 ## 5 mais novos
 
-**Stillwater** | **The Traitor** | **The Informer** | **Shoplifters** | **The Emperor of Paris**
+**A Beautiful Life** | **CODA** | **Footloose** | **Rockstar** | **Crazy Heart**
  -- | -- | -- | -- | -- 
-*2021* | *2019* | *2019* | *2018* | *2018*
-![](https://image.tmdb.org/t/p/w200/cPdmPwcIcmu0ugfKcdFtI3vmOJq.jpg) | ![](https://image.tmdb.org/t/p/w200/bjb1zKlyw85hYwDXzz2UM6XqjUU.jpg) | ![](https://image.tmdb.org/t/p/w200/pbGveUC8mk0QRkdXpERPLbMFnrg.jpg) | ![](https://image.tmdb.org/t/p/w200/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg) | ![](https://image.tmdb.org/t/p/w200/7mZBfj3dFIzQgMVfkDwi9u4JBxI.jpg)
+*2023* | *2021* | *2011* | *2011* | *2009*
+![](https://image.tmdb.org/t/p/w200/x6PvT4HAkK7phdj54Zao8rY5oBT.jpg) | ![](https://image.tmdb.org/t/p/w200/BzVjmm8l23rPsijLiNLUzuQtyd.jpg) | ![](https://image.tmdb.org/t/p/w200/68eo5PVf2o18BQivw3U7IJia6kV.jpg) | ![](https://image.tmdb.org/t/p/w200/ujbsLMrUKtlPdjBdXtGqrjEhD3r.jpg) | ![](https://image.tmdb.org/t/p/w200/zwao2YMsqf27IzNEtDNWSe0W9jH.jpg)
 
-**Média da nota:** 6,80
-**Menor nota:** 5,70 (A Single Shot)
-**Maior nota:** 8,19 (The Usual Suspects)
+**Média da nota:** 6,88
+**Menor nota:** 5,52 (Nine)
+**Maior nota:** 8,27 (The Legend of 1900)
 
 ## 5 mais bem avaliados
 
-**The Usual Suspects** | **Shoplifters** | **The Traitor** | **The Book of Henry** | **Law Abiding Citizen**
+**The Legend of 1900** | **CODA** | **Limelight** | **The Crazy Stranger** | **Once**
  -- | -- | -- | -- | -- 
-*8,19* | *7,87* | *7,70* | *7,52* | *7,37*
-![](https://image.tmdb.org/t/p/w200/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg) | ![](https://image.tmdb.org/t/p/w200/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg) | ![](https://image.tmdb.org/t/p/w200/bjb1zKlyw85hYwDXzz2UM6XqjUU.jpg) | ![](https://image.tmdb.org/t/p/w200/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg) | ![](https://image.tmdb.org/t/p/w200/fcEXcip7v0O1ndV4VUdFqJSqbOg.jpg)
+*8,27* | *7,97* | *7,94* | *7,40* | *7,39*
+![](https://image.tmdb.org/t/p/w200/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg) | ![](https://image.tmdb.org/t/p/w200/BzVjmm8l23rPsijLiNLUzuQtyd.jpg) | ![](https://image.tmdb.org/t/p/w200/vwGcQS0pe4AXh0rfbhQ8RN23mw1.jpg) | ![](https://image.tmdb.org/t/p/w200/98wF9dsCXyLtlerFGGkgxpHJ5ZD.jpg) | ![](https://image.tmdb.org/t/p/w200/7nW363kSYRCkr4VGOMvuSGwtzKs.jpg)
 
 ## 5 menos bem avaliados
 
-**A Single Shot** | **Lakeview Terrace** | **Toro** | **The Crew** | **Roman J. Israel, Esq.**
+**Nine** | **A Star Is Born** | **Pennies from Heaven** | **The Great Ziegfeld** | **Daddy Long Legs**
  -- | -- | -- | -- | -- 
-*5,70* | *5,94* | *6,04* | *6,19* | *6,30*
-![](https://image.tmdb.org/t/p/w200/zRGBGjdeGf12Pmalr1adT9IpoId.jpg) | ![](https://image.tmdb.org/t/p/w200/2ThsS74hopBz0RveLgOWiwrMfE8.jpg) | ![](https://image.tmdb.org/t/p/w200/4VTgL6uCdR90w1qKInmidWSd3OB.jpg) | ![](https://image.tmdb.org/t/p/w200/zq4QUvbPS2bf6mesCPW04awrBoJ.jpg) | ![](https://image.tmdb.org/t/p/w200/epTCHVcyLkT8Aqt08Ki3PWC2sUh.jpg)
+*5,52* | *5,96* | *6,04* | *6,25* | *6,35*
+![](https://image.tmdb.org/t/p/w200/bSxdTXktgPQPNwlkQ0DZtuAJXlb.jpg) | ![](https://image.tmdb.org/t/p/w200/oVpUzCimMZ0ecni7lDuYPuRdxoQ.jpg) | ![](https://image.tmdb.org/t/p/w200/7dlangnB2vOcviHEwWy1IRGHLtk.jpg) | ![](https://image.tmdb.org/t/p/w200/xaEw5cQLPiE4Qe4hpzEhJPF0rtg.jpg) | ![](https://image.tmdb.org/t/p/w200/2Tt12RPDJP4KnepYsJ4hrEQS7El.jpg)
 
-**Média de votos:** 1548,0
-**Menor votos:** 152 (Toro)
-**Maior votos:** 9604 (The Usual Suspects)
+**Média de votos:** 718,0
+**Menor votos:** 79 (The Crazy Stranger)
+**Maior votos:** 5679 (Dirty Dancing)
 
 ## 5 mais avaliados
 
-**The Usual Suspects** | **Collateral** | **Law Abiding Citizen** | **21 Grams** | **Shoplifters**
+**Dirty Dancing** | **The Legend of 1900** | **CODA** | **Footloose** | **Once**
  -- | -- | -- | -- | -- 
-*9604* | *5079* | *4637* | *2865* | *1836*
-![](https://image.tmdb.org/t/p/w200/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg) | ![](https://image.tmdb.org/t/p/w200/iOpi3ut5DhQIbrVVjlnmfy2U7dI.jpg) | ![](https://image.tmdb.org/t/p/w200/fcEXcip7v0O1ndV4VUdFqJSqbOg.jpg) | ![](https://image.tmdb.org/t/p/w200/hdS0to9nUpgK0Zm1bZAF6BWRae7.jpg) | ![](https://image.tmdb.org/t/p/w200/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg)
+*5679* | *2082* | *1922* | *1557* | *1199*
+![](https://image.tmdb.org/t/p/w200/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg) | ![](https://image.tmdb.org/t/p/w200/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg) | ![](https://image.tmdb.org/t/p/w200/BzVjmm8l23rPsijLiNLUzuQtyd.jpg) | ![](https://image.tmdb.org/t/p/w200/68eo5PVf2o18BQivw3U7IJia6kV.jpg) | ![](https://image.tmdb.org/t/p/w200/7nW363kSYRCkr4VGOMvuSGwtzKs.jpg)
 
 ## 5 menos avaliados
 
-**Toro** | **Gun City** | **Nightmare Alley** | **A Single Shot** | **Veronica Guerin**
+**The Crazy Stranger** | **Pennies from Heaven** | **Daddy Long Legs** | **The Great Ziegfeld** | **The Rose**
  -- | -- | -- | -- | -- 
-*152* | *177* | *184* | *213* | *272*
-![](https://image.tmdb.org/t/p/w200/4VTgL6uCdR90w1qKInmidWSd3OB.jpg) | ![](https://image.tmdb.org/t/p/w200/4NHhkMHXROCiPMb8gjmRI6AMX4I.jpg) | ![](https://image.tmdb.org/t/p/w200/odlV13MZEswVyMBQ4fmmxLRHYT0.jpg) | ![](https://image.tmdb.org/t/p/w200/zRGBGjdeGf12Pmalr1adT9IpoId.jpg) | ![](https://image.tmdb.org/t/p/w200/14RnhkH9ArHZ8viDAej4TnVl4Jg.jpg)
+*79* | *79* | *82* | *105* | *106*
+![](https://image.tmdb.org/t/p/w200/98wF9dsCXyLtlerFGGkgxpHJ5ZD.jpg) | ![](https://image.tmdb.org/t/p/w200/7dlangnB2vOcviHEwWy1IRGHLtk.jpg) | ![](https://image.tmdb.org/t/p/w200/2Tt12RPDJP4KnepYsJ4hrEQS7El.jpg) | ![](https://image.tmdb.org/t/p/w200/xaEw5cQLPiE4Qe4hpzEhJPF0rtg.jpg) | ![](https://image.tmdb.org/t/p/w200/3hYyA2g5r0TDRbkSAOEeKelylh2.jpg)
 
 **Gêneros mais comuns:**
 * Drama (24)
-* Crime (24)
-* Thriller (24)
+* Music (24)
+* Romance (24)
 
 
 **Palavras-chave mais comuns:**
-* murder (4)
-* lawyer (4)
-* criminal mastermind (3)
-* neo-noir (3)
-* police (3)
-* investigation (3)
-* courtroom (3)
-* police corruption (2)
-* nightclub (2)
-* briefcase (2)
-* lapd (2)
-* prison (2)
-* loss of loved one (2)
-* sadness (2)
-* japan (2)
+* musical (8)
+* remake (3)
+* alcoholism (3)
+* singer (3)
+* dancing (2)
+* coming of age (2)
+* deaf (2)
+* singing (2)
+* dance (2)
+* composer (2)
+* ireland (2)
+* country music (2)
+* guitar (2)
+* memory (2)
+* jazz (2)
 
-# Cluster 41
-**Total de filmes:** 481
-**Média de ano de lançamento:** 2001
-**Menor ano:** 1924 (The Last Laugh)
-**Maior ano:** 2022 (Father Stu)
+# Cluster 61
+**Total de filmes:** 208
+**Média de ano de lançamento:** 2010
+**Menor ano:** 1893 (Blacksmith Scene)
+**Maior ano:** 2023 (To End All War: Oppenheimer & the Atomic Bomb)
 
 ## 5 Mais Velhos 
 
-**The Last Laugh** | **Strike** | **October (Ten Days that Shook the World)** | **The Blue Angel** | **The Grapes of Wrath**
+**Blacksmith Scene** | **Häxan** | **Night and Fog** | **Seven Up!** | **The Clowns**
  -- | -- | -- | -- | -- 
-*1924* | *1925* | *1928* | *1930* | *1940*
- ![](https://image.tmdb.org/t/p/w200/7Y6Dxr3oYt1w7ew70YNdLLDYEjk.jpg) |  ![](https://image.tmdb.org/t/p/w200/mrDTaMxQKxWZ3uEs2G58vJWJDDL.jpg) |  ![](https://image.tmdb.org/t/p/w200/tsfz9Ak1slSnxr6mSmRD3Wj7YZS.jpg) |  ![](https://image.tmdb.org/t/p/w200/3FStCU5ipNGmwASfHVP282IO39z.jpg) |  ![](https://image.tmdb.org/t/p/w200/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg)
+*1893* | *1922* | *1956* | *1964* | *1970*
+ ![](https://image.tmdb.org/t/p/w200/c76bs0S90EFhB5ww3i6DlYQTVk.jpg) |  ![](https://image.tmdb.org/t/p/w200/6uke82EziPVJuzm7NQvQj5f9uy7.jpg) |  ![](https://image.tmdb.org/t/p/w200/2iWYQia8enOai7QEO3TvenleD7r.jpg) |  ![](https://image.tmdb.org/t/p/w200/2KSbxDP4wAZBkpbW2rs6CZBZJbq.jpg) |  ![](https://image.tmdb.org/t/p/w200/bC0ZZtQKQVN4twdR35thJGX85MZ.jpg)
 
 ## 5 mais novos
 
-**Father Stu** | **Women Talking** | **Living** | **EO** | **The Quiet Girl**
+**To End All War: Oppenheimer & the Atomic Bomb** | **The Hatchet Wielding Hitchhiker** | **The Tinder Swindler** | **Jackass Forever** | **Jackass 4.5**
  -- | -- | -- | -- | -- 
-*2022* | *2022* | *2022* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg) | ![](https://image.tmdb.org/t/p/w200/fIrFR0eTpdNV1AtuZKa0Q7sRAH2.jpg) | ![](https://image.tmdb.org/t/p/w200/ftUdaxguhUoPAtwTkSLNglAaqfd.jpg) | ![](https://image.tmdb.org/t/p/w200/1MK86Vr2nf1GSYOtRd8pFvA5RM8.jpg) | ![](https://image.tmdb.org/t/p/w200/kc6GM4gThJpXHE28MuLofDOmRLJ.jpg)
+*2023* | *2023* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg) | ![](https://image.tmdb.org/t/p/w200/kqLloC5n66fLvhlWtZBr8h4SVF6.jpg) | ![](https://image.tmdb.org/t/p/w200/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg) | ![](https://image.tmdb.org/t/p/w200/ugIdyvtAzHWOguD91UjHKoAvfum.jpg) | ![](https://image.tmdb.org/t/p/w200/bl686OSeMQOvs90IQAgt8QipCsB.jpg)
 
-**Média da nota:** 7,06
-**Menor nota:** 5,50 (The Client List)
-**Maior nota:** 8,54 (12 Angry Men)
+**Média da nota:** 7,21
+**Menor nota:** 5,00 (What the #$*! Do We (K)now!?)
+**Maior nota:** 8,46 (Heroes: Silence and Rock & Roll)
 
 ## 5 mais bem avaliados
 
-**12 Angry Men** | **Fight Club** | **One Flew Over the Cuckoo's Nest** | **Hope** | **Persona**
+**Heroes: Silence and Rock & Roll** | **Bring the Soul: The Movie** | **O.J.: Made in America** | **Billie Eilish: The World's a Little Blurry** | **Burn the Stage: The Movie**
  -- | -- | -- | -- | -- 
-*8,54* | *8,44* | *8,42* | *8,37* | *8,23*
-![](https://image.tmdb.org/t/p/w200/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg) | ![](https://image.tmdb.org/t/p/w200/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg) | ![](https://image.tmdb.org/t/p/w200/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg) | ![](https://image.tmdb.org/t/p/w200/x9yjkm9gIz5qI5fJMUTfBnWiB2o.jpg) | ![](https://image.tmdb.org/t/p/w200/bdXbfUir63TQHA5NTNcXPICZCW8.jpg)
+*8,46* | *8,44* | *8,42* | *8,41* | *8,39*
+![](https://image.tmdb.org/t/p/w200/zDUtJIr4lPeMnF7vXHyAqCXkR4s.jpg) | ![](https://image.tmdb.org/t/p/w200/7x5CguA0MxHqbSjhi14UEuK7c95.jpg) | ![](https://image.tmdb.org/t/p/w200/nFmg2G4IJ0x9mALXkYFN8Gw0Dw5.jpg) | ![](https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg) | ![](https://image.tmdb.org/t/p/w200/pJKy1yvnKh8UjcuYeG3Rt35xHFA.jpg)
 
 ## 5 menos bem avaliados
 
-**The Client List** | **Showgirls** | **I Am Michael** | **Last Days** | **Ask Me Anything**
+**What the #$*! Do We (K)now!?** | **The Devil and Father Amorth** | **Blacksmith Scene** | **The Nightmare** | **Porn to Be Free**
  -- | -- | -- | -- | -- 
-*5,50* | *5,52* | *5,53* | *5,55* | *5,60*
-![](https://image.tmdb.org/t/p/w200/ucbfvXdzZFSpuybuNv3jThrr2Ow.jpg) | ![](https://image.tmdb.org/t/p/w200/atjtGFIIt9QMGf9ELyboq5cl466.jpg) | ![](https://image.tmdb.org/t/p/w200/sO9Z55Js4sEuXXe9qQjCULiPjg8.jpg) | ![](https://image.tmdb.org/t/p/w200/btbp47CHXgLhw30kyDoVfNFLB3g.jpg) | ![](https://image.tmdb.org/t/p/w200/u0rEtOp6jI7oU6u3m7v1aAOJNQr.jpg)
+*5,00* | *5,00* | *5,51* | *5,54* | *5,62*
+![](https://image.tmdb.org/t/p/w200/ghoM9gorKvgAcqkSJ6TDQcsObWN.jpg) | ![](https://image.tmdb.org/t/p/w200/de5VAk2YiONqmoXzyOO80QyM0Xa.jpg) | ![](https://image.tmdb.org/t/p/w200/c76bs0S90EFhB5ww3i6DlYQTVk.jpg) | ![](https://image.tmdb.org/t/p/w200/ldof0L20WKBt4H6GKQ6aSHSmsk5.jpg) | ![](https://image.tmdb.org/t/p/w200/epgcl0Dz1RnWBK2rBpDvTfhyarU.jpg)
 
-**Média de votos:** 851,0
-**Menor votos:** 150 (Old Joy)
-**Maior votos:** 27238 (Fight Club)
+**Média de votos:** 250,0
+**Menor votos:** 75 (Dolphin Reef)
+**Maior votos:** 1435 (Jackass: The Movie)
 
 ## 5 mais avaliados
 
-**Fight Club** | **The Social Network** | **Good Will Hunting** | **Gran Torino** | **One Flew Over the Cuckoo's Nest**
+**Jackass: The Movie** | **The Social Dilemma** | **Bowling for Columbine** | **Jackass 3D** | **Free Solo**
  -- | -- | -- | -- | -- 
-*27238* | *11190* | *11111* | *10003* | *9650*
-![](https://image.tmdb.org/t/p/w200/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg) | ![](https://image.tmdb.org/t/p/w200/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg) | ![](https://image.tmdb.org/t/p/w200/bABCBKYBK7A5G1x0FzoeoNfuj2.jpg) | ![](https://image.tmdb.org/t/p/w200/zUybYvxWdAJy5hhYovsXtHSWI1l.jpg) | ![](https://image.tmdb.org/t/p/w200/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg)
+*1435* | *1432* | *1404* | *1264* | *1186*
+![](https://image.tmdb.org/t/p/w200/9Rb659hvGfmef1xm0mMvDHEBqmf.jpg) | ![](https://image.tmdb.org/t/p/w200/jcaM6V2tCtu6iMHDsGLBUbaYgYp.jpg) | ![](https://image.tmdb.org/t/p/w200/5AlgeysilsfLdEwlTlYO7fqgsLn.jpg) | ![](https://image.tmdb.org/t/p/w200/rqK0MkfpWT2DpFjNzkvjHf0vxZ4.jpg) | ![](https://image.tmdb.org/t/p/w200/v4QfYZMACODlWul9doN9RxE99ag.jpg)
 
 ## 5 menos avaliados
 
-**Old Joy** | **Manifesto** | **Copying Beethoven** | **Kid Cannabis** | **7 Minutes**
+**Dolphin Reef** | **The Last Trapper** | **One Life** | **The Punk Singer** | **National Geographic: Journey to the Edge of the Universe**
  -- | -- | -- | -- | -- 
-*150* | *150* | *151* | *151* | *151*
-![](https://image.tmdb.org/t/p/w200/4MMqpFUQ24VXhp4i85pM8Ks622K.jpg) | ![](https://image.tmdb.org/t/p/w200/v28hwu0wOhzPfhKfhnI7vZkRDxi.jpg) | ![](https://image.tmdb.org/t/p/w200/xbvZuKMqJgXW1UmQi7AfrXexepC.jpg) | ![](https://image.tmdb.org/t/p/w200/AdsdkpbBJtORmSe56LIuQ6DEJJq.jpg) | ![](https://image.tmdb.org/t/p/w200/lx15SY4vHWWMPKm4fTlBAQQKSZW.jpg)
+*75* | *75* | *75* | *75* | *76*
+![](https://image.tmdb.org/t/p/w200/hjXDxftBdM4mdhcO3eTqJCUt3Y8.jpg) | ![](https://image.tmdb.org/t/p/w200/hZDA3HI7ZPIjEdeTlz2bAv8BPRP.jpg) | ![](https://image.tmdb.org/t/p/w200/zorlrbxahQjtIy6rHovTBTK8FcC.jpg) | ![](https://image.tmdb.org/t/p/w200/cZroPc3jpZXGHNVYV453runyHlZ.jpg) | ![](https://image.tmdb.org/t/p/w200/14mR0hzWv9gU1oU61hBbCRyo4QE.jpg)
 
 **Gêneros mais comuns:**
-* Drama (481)
+* Documentary (208)
+* Music (59)
+* History (34)
+* Drama (33)
+* Crime (33)
+* Comedy (27)
+* War (13)
+* Adventure (12)
+* Family (9)
+* TV Movie (8)
+* Action (6)
+* Animation (6)
+* Horror (6)
+* Mystery (4)
+* Thriller (2)
 
 
 **Palavras-chave mais comuns:**
-* italy (20)
-* friendship (18)
-* gay theme (18)
-*  (17)
-* 1980s (15)
-* love (14)
-* lgbt (14)
-* sports (14)
-* 1970s (14)
-* 1960s (13)
-* male homosexuality (13)
-* teacher (13)
-* rape (12)
-* black and white (11)
-* hospital (10)
+* music documentary (9)
+* musician (8)
+* murder (7)
+* true crime (7)
+* interview (7)
+* singer (7)
+* sports (7)
+* family (7)
+* stunt (6)
+* stuntman (5)
+* stupidity (5)
+* sports documentary (5)
+* 1970s (5)
+* cuba (5)
+* space (5)
 
-# Cluster 42
-**Total de filmes:** 10
-**Média de ano de lançamento:** 2001
-**Menor ano:** 1976 (Freaky Friday)
-**Maior ano:** 2022 (Hocus Pocus 2)
+# Cluster 62
+**Total de filmes:** 112
+**Média de ano de lançamento:** 2000
+**Menor ano:** 1945 (Isle of the Dead)
+**Maior ano:** 2023 (Cobweb)
 
 ## 5 Mais Velhos 
 
-**Freaky Friday** | **Hocus Pocus** | **Casper** | **Bogus** | **The Kid**
+**Isle of the Dead** | **The Haunted Palace** | **Night of the Living Dead** | **Dracula Has Risen from the Grave** | **The Vampire Lovers**
  -- | -- | -- | -- | -- 
-*1976* | *1993* | *1995* | *1996* | *2000*
- ![](https://image.tmdb.org/t/p/w200/8kHZmN4Ao70LTgaiUti23Zl7fFq.jpg) |  ![](https://image.tmdb.org/t/p/w200/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg) |  ![](https://image.tmdb.org/t/p/w200/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg) |  ![](https://image.tmdb.org/t/p/w200/pVrMGMgn9VHVoIAVPygFuACJhSJ.jpg) |  ![](https://image.tmdb.org/t/p/w200/jNfL8De5IDVIuUYsrNnmPxCQkz8.jpg)
+*1945* | *1963* | *1968* | *1968* | *1970*
+ ![](https://image.tmdb.org/t/p/w200/eHnxz2K8fuUR5qwmkhdurBpZ5z0.jpg) |  ![](https://image.tmdb.org/t/p/w200/8SdZN2nBlH7YO6v6Y2rB14z0jF0.jpg) |  ![](https://image.tmdb.org/t/p/w200/iLgyayS7fl6FrWDq7htq8K13WuI.jpg) |  ![](https://image.tmdb.org/t/p/w200/okuE1qWmBcmTAHdOI5OtEPgx2Sv.jpg) |  ![](https://image.tmdb.org/t/p/w200/zPhp6SDQlYXvZYkvHrF3ecmSdQ0.jpg)
 
 ## 5 mais novos
 
-**Hocus Pocus 2** | **Nine Lives** | **Evan Almighty** | **Nanny McPhee** | **The Santa Clause 2**
+**Cobweb** | **The Exorcism of God** | **Hellhole** | **The Privilege** | **Moloch**
  -- | -- | -- | -- | -- 
-*2022* | *2016* | *2007* | *2005* | *2002*
-![](https://image.tmdb.org/t/p/w200/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg) | ![](https://image.tmdb.org/t/p/w200/i457G22lL9t2yhEFdYz5Nd1M5DV.jpg) | ![](https://image.tmdb.org/t/p/w200/5vjH8oQFZXJ0gTOPsJKWidVsWmg.jpg) | ![](https://image.tmdb.org/t/p/w200/j9zWPwaHDWE3K1Mb5RNahzwd3KY.jpg) | ![](https://image.tmdb.org/t/p/w200/g8snUzCS8JhRAzAxZUCAktEGU7d.jpg)
+*2023* | *2022* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/cGXFosYUHYjjdKrOmA0bbjvzhKz.jpg) | ![](https://image.tmdb.org/t/p/w200/hangTmbxpSV4gpHG7MgSlCWSSFa.jpg) | ![](https://image.tmdb.org/t/p/w200/y47wBamj9vdqBeGaLEFTrYEPTeC.jpg) | ![](https://image.tmdb.org/t/p/w200/qBLi3Nd5JMQGMiOmmfuPgLw5SzD.jpg) | ![](https://image.tmdb.org/t/p/w200/3jVzYOnylmvo7ZnGerjfoRj2wFz.jpg)
 
-**Média da nota:** 6,30
-**Menor nota:** 5,55 (Evan Almighty)
-**Maior nota:** 7,34 (Hocus Pocus 2)
+**Média da nota:** 5,81
+**Menor nota:** 4,59 (Leprechaun: Origins)
+**Maior nota:** 7,62 (Night of the Living Dead)
 
 ## 5 mais bem avaliados
 
-**Hocus Pocus 2** | **Hocus Pocus** | **Nanny McPhee** | **The Kid** | **Casper**
+**Night of the Living Dead** | **Dawn of the Dead** | **Possession** | **The Evil Dead** | **Ghost Mansion**
  -- | -- | -- | -- | -- 
-*7,34* | *7,05* | *6,65* | *6,54* | *6,30*
-![](https://image.tmdb.org/t/p/w200/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg) | ![](https://image.tmdb.org/t/p/w200/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg) | ![](https://image.tmdb.org/t/p/w200/j9zWPwaHDWE3K1Mb5RNahzwd3KY.jpg) | ![](https://image.tmdb.org/t/p/w200/jNfL8De5IDVIuUYsrNnmPxCQkz8.jpg) | ![](https://image.tmdb.org/t/p/w200/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg)
+*7,62* | *7,49* | *7,36* | *7,31* | *7,30*
+![](https://image.tmdb.org/t/p/w200/iLgyayS7fl6FrWDq7htq8K13WuI.jpg) | ![](https://image.tmdb.org/t/p/w200/h6aVbUsiJB3Le1xrhyZXsXZOI3h.jpg) | ![](https://image.tmdb.org/t/p/w200/pkrwDEozl5HgaDYP9lj2iSOCQMO.jpg) | ![](https://image.tmdb.org/t/p/w200/uYxQ6xhP3WjqPZtxyAOnZQWnZqn.jpg) | ![](https://image.tmdb.org/t/p/w200/gLd1aJmAaNvLM8SwkD3cGVYIrTO.jpg)
 
 ## 5 menos bem avaliados
 
-**Evan Almighty** | **Nine Lives** | **Bogus** | **The Santa Clause 2** | **Freaky Friday**
+**Leprechaun: Origins** | **The Phantom of the Opera** | **Anguish** | **The Howling: Reborn** | **The Ouija Experiment 2: Theatre of Death**
  -- | -- | -- | -- | -- 
-*5,55* | *5,74* | *5,76* | *5,90* | *6,14*
-![](https://image.tmdb.org/t/p/w200/5vjH8oQFZXJ0gTOPsJKWidVsWmg.jpg) | ![](https://image.tmdb.org/t/p/w200/i457G22lL9t2yhEFdYz5Nd1M5DV.jpg) | ![](https://image.tmdb.org/t/p/w200/pVrMGMgn9VHVoIAVPygFuACJhSJ.jpg) | ![](https://image.tmdb.org/t/p/w200/g8snUzCS8JhRAzAxZUCAktEGU7d.jpg) | ![](https://image.tmdb.org/t/p/w200/8kHZmN4Ao70LTgaiUti23Zl7fFq.jpg)
+*4,59* | *4,60* | *4,60* | *4,62* | *4,70*
+![](https://image.tmdb.org/t/p/w200/yyZ7folrZTqEJFD7wUuGf84CmPK.jpg) | ![](https://image.tmdb.org/t/p/w200/8VnV9sJXbMPS1MRHAxsfl6zNP5C.jpg) | ![](https://image.tmdb.org/t/p/w200/o8B3CIbIuxWhPf0G19lse4mJrLI.jpg) | ![](https://image.tmdb.org/t/p/w200/8BSPC26lfw1WThhDaYaRMe6OBj.jpg) | ![](https://image.tmdb.org/t/p/w200/oqOvK0nyUCA32qp4xsNONzgMKkR.jpg)
 
-**Média de votos:** 1868,0
-**Menor votos:** 219 (Bogus)
-**Maior votos:** 4269 (Casper)
+**Média de votos:** 586,0
+**Menor votos:** 75 (ZMD: Zombies of Mass Destruction)
+**Maior votos:** 5742 (Annabelle)
 
 ## 5 mais avaliados
 
-**Casper** | **Evan Almighty** | **Nanny McPhee** | **Hocus Pocus** | **Hocus Pocus 2**
+**Annabelle** | **Final Destination** | **The Evil Dead** | **Hostel** | **The Texas Chain Saw Massacre**
  -- | -- | -- | -- | -- 
-*4269* | *3948* | *2802* | *2719* | *1458*
-![](https://image.tmdb.org/t/p/w200/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg) | ![](https://image.tmdb.org/t/p/w200/5vjH8oQFZXJ0gTOPsJKWidVsWmg.jpg) | ![](https://image.tmdb.org/t/p/w200/j9zWPwaHDWE3K1Mb5RNahzwd3KY.jpg) | ![](https://image.tmdb.org/t/p/w200/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg) | ![](https://image.tmdb.org/t/p/w200/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg)
+*5742* | *5080* | *3570* | *3313* | *2872*
+![](https://image.tmdb.org/t/p/w200/yLsuU2P2SpDYFwtZQ7dtfVAf6TE.jpg) | ![](https://image.tmdb.org/t/p/w200/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg) | ![](https://image.tmdb.org/t/p/w200/uYxQ6xhP3WjqPZtxyAOnZQWnZqn.jpg) | ![](https://image.tmdb.org/t/p/w200/dDrtuWUKhgUGp12kgUWuP0NpTdF.jpg) | ![](https://image.tmdb.org/t/p/w200/kvaLXaC4RX8KLYkJkWWJCyMsEw3.jpg)
 
 ## 5 menos avaliados
 
-**Bogus** | **Freaky Friday** | **The Kid** | **Nine Lives** | **The Santa Clause 2**
+**ZMD: Zombies of Mass Destruction** | **Creature** | **Let Her Out** | **The Devil's Carnival** | **Rest Stop: Don't Look Back**
  -- | -- | -- | -- | -- 
-*219* | *231* | *867* | *988* | *1174*
-![](https://image.tmdb.org/t/p/w200/pVrMGMgn9VHVoIAVPygFuACJhSJ.jpg) | ![](https://image.tmdb.org/t/p/w200/8kHZmN4Ao70LTgaiUti23Zl7fFq.jpg) | ![](https://image.tmdb.org/t/p/w200/jNfL8De5IDVIuUYsrNnmPxCQkz8.jpg) | ![](https://image.tmdb.org/t/p/w200/i457G22lL9t2yhEFdYz5Nd1M5DV.jpg) | ![](https://image.tmdb.org/t/p/w200/g8snUzCS8JhRAzAxZUCAktEGU7d.jpg)
+*75* | *75* | *76* | *76* | *79*
+![](https://image.tmdb.org/t/p/w200/3K80OoyUb93qhx5jMUsNuKlV3IT.jpg) | ![](https://image.tmdb.org/t/p/w200/SrKrYh4Qmhpfcn9PsW2jpLROul.jpg) | ![](https://image.tmdb.org/t/p/w200/ioNGkm4JOzk7FuQ7CojIwTsKzxu.jpg) | ![](https://image.tmdb.org/t/p/w200/aJsdJPMvEDTOXRsxz3NeHDvaaSW.jpg) | ![](https://image.tmdb.org/t/p/w200/kXe8PPETH134KOWYW50OrwG6nPH.jpg)
 
 **Gêneros mais comuns:**
-* Fantasy (10)
-* Comedy (10)
-* Family (10)
+* Horror (112)
 
 
 **Palavras-chave mais comuns:**
-* halloween (3)
-* magic (3)
-* witch (2)
+* demon (16)
+* gore (15)
+* murder (13)
+* zombie (11)
+* demonic possession (10)
+* monster (10)
+* possession (9)
+* torture (8)
+* death (7)
+* revenge (7)
+* prequel (6)
+* ghost (6)
+* church (6)
+* priest (6)
+* sadism (5)
+
+# Cluster 63
+**Total de filmes:** 8
+**Média de ano de lançamento:** 2000
+**Menor ano:** 1952 (The Greatest Show on Earth)
+**Maior ano:** 2015 (Dil Dhadakne Do)
+
+## 5 Mais Velhos 
+
+**The Greatest Show on Earth** | **The Man in the Moon** | **Miss Potter** | **Save the Last Dance 2** | **Keith**
+ -- | -- | -- | -- | -- 
+*1952* | *1991* | *2006* | *2006* | *2008*
+ ![](https://image.tmdb.org/t/p/w200/cKI0yGPRh1IlvRKKJRoMZruior8.jpg) |  ![](https://image.tmdb.org/t/p/w200/57r0TXlqV5GIn4h0Htgh81OZou9.jpg) |  ![](https://image.tmdb.org/t/p/w200/fecGKwGABfZdMbiH1WQN9zMcOkS.jpg) |  ![](https://image.tmdb.org/t/p/w200/wc9Ymn4p7hdjZdKwgtfGGlStFTV.jpg) |  ![](https://image.tmdb.org/t/p/w200/P9WAFA0yM7eqoxF7cSdOtPsYX3.jpg)
+
+## 5 mais novos
+
+**Dil Dhadakne Do** | **Bangalore Days** | **The Last Song** | **Keith** | **Miss Potter**
+ -- | -- | -- | -- | -- 
+*2015* | *2014* | *2010* | *2008* | *2006*
+![](https://image.tmdb.org/t/p/w200/AqFX6282JM2ollS4XTFp6t6Dwa9.jpg) | ![](https://image.tmdb.org/t/p/w200/iFMyZw1DTGvZ8hPa0eTseSFiRT1.jpg) | ![](https://image.tmdb.org/t/p/w200/76twEOHXAM2oKnvZYBI5bP6GeDu.jpg) | ![](https://image.tmdb.org/t/p/w200/P9WAFA0yM7eqoxF7cSdOtPsYX3.jpg) | ![](https://image.tmdb.org/t/p/w200/fecGKwGABfZdMbiH1WQN9zMcOkS.jpg)
+
+**Média da nota:** 6,80
+**Menor nota:** 5,49 (Save the Last Dance 2)
+**Maior nota:** 7,54 (Bangalore Days)
+
+## 5 mais bem avaliados
+
+**Bangalore Days** | **The Man in the Moon** | **The Last Song** | **Keith** | **Dil Dhadakne Do**
+ -- | -- | -- | -- | -- 
+*7,54* | *7,34* | *7,24* | *7,13* | *6,80*
+![](https://image.tmdb.org/t/p/w200/iFMyZw1DTGvZ8hPa0eTseSFiRT1.jpg) | ![](https://image.tmdb.org/t/p/w200/57r0TXlqV5GIn4h0Htgh81OZou9.jpg) | ![](https://image.tmdb.org/t/p/w200/76twEOHXAM2oKnvZYBI5bP6GeDu.jpg) | ![](https://image.tmdb.org/t/p/w200/P9WAFA0yM7eqoxF7cSdOtPsYX3.jpg) | ![](https://image.tmdb.org/t/p/w200/AqFX6282JM2ollS4XTFp6t6Dwa9.jpg)
+
+## 5 menos bem avaliados
+
+**Save the Last Dance 2** | **The Greatest Show on Earth** | **Miss Potter** | **Dil Dhadakne Do** | **Keith**
+ -- | -- | -- | -- | -- 
+*5,49* | *6,26* | *6,60* | *6,80* | *7,13*
+![](https://image.tmdb.org/t/p/w200/wc9Ymn4p7hdjZdKwgtfGGlStFTV.jpg) | ![](https://image.tmdb.org/t/p/w200/cKI0yGPRh1IlvRKKJRoMZruior8.jpg) | ![](https://image.tmdb.org/t/p/w200/fecGKwGABfZdMbiH1WQN9zMcOkS.jpg) | ![](https://image.tmdb.org/t/p/w200/AqFX6282JM2ollS4XTFp6t6Dwa9.jpg) | ![](https://image.tmdb.org/t/p/w200/P9WAFA0yM7eqoxF7cSdOtPsYX3.jpg)
+
+**Média de votos:** 621,0
+**Menor votos:** 99 (Bangalore Days)
+**Maior votos:** 3195 (The Last Song)
+
+## 5 mais avaliados
+
+**The Last Song** | **Miss Potter** | **Keith** | **The Man in the Moon** | **Save the Last Dance 2**
+ -- | -- | -- | -- | -- 
+*3195* | *453* | *417* | *253* | *213*
+![](https://image.tmdb.org/t/p/w200/76twEOHXAM2oKnvZYBI5bP6GeDu.jpg) | ![](https://image.tmdb.org/t/p/w200/fecGKwGABfZdMbiH1WQN9zMcOkS.jpg) | ![](https://image.tmdb.org/t/p/w200/P9WAFA0yM7eqoxF7cSdOtPsYX3.jpg) | ![](https://image.tmdb.org/t/p/w200/57r0TXlqV5GIn4h0Htgh81OZou9.jpg) | ![](https://image.tmdb.org/t/p/w200/wc9Ymn4p7hdjZdKwgtfGGlStFTV.jpg)
+
+## 5 menos avaliados
+
+**Bangalore Days** | **Dil Dhadakne Do** | **The Greatest Show on Earth** | **Save the Last Dance 2** | **The Man in the Moon**
+ -- | -- | -- | -- | -- 
+*99* | *124* | *211* | *213* | *253*
+![](https://image.tmdb.org/t/p/w200/iFMyZw1DTGvZ8hPa0eTseSFiRT1.jpg) | ![](https://image.tmdb.org/t/p/w200/AqFX6282JM2ollS4XTFp6t6Dwa9.jpg) | ![](https://image.tmdb.org/t/p/w200/cKI0yGPRh1IlvRKKJRoMZruior8.jpg) | ![](https://image.tmdb.org/t/p/w200/wc9Ymn4p7hdjZdKwgtfGGlStFTV.jpg) | ![](https://image.tmdb.org/t/p/w200/57r0TXlqV5GIn4h0Htgh81OZou9.jpg)
+
+**Gêneros mais comuns:**
+* Drama (8)
+* Family (8)
+* Romance (8)
+
+
+**Palavras-chave mais comuns:**
 * sibling relationship (2)
-* resurrection (2)
-* salem (2)
-* body switch (2)
-* friendship (1)
-* afterlife (1)
-* supernatural (1)
-* bullying (1)
-* treasure hunt (1)
-* friends (1)
-* teenage girl (1)
-* ghost hunting (1)
-
-# Cluster 43
-**Total de filmes:** 2
-**Média de ano de lançamento:** 1986
-**Menor ano:** 1954 (Senso)
-**Maior ano:** 2017 (The Ottoman Lieutenant)
-
-## 5 Mais Velhos 
-
-**Senso** | **The Ottoman Lieutenant**
- -- | -- | -- | -- | -- 
-*1954* | *2017*
- ![](https://image.tmdb.org/t/p/w200/iyWApADv4UD9KtVQvJ1mkKn9WXV.jpg) |  ![](https://image.tmdb.org/t/p/w200/c5E8KTDuGNdF4Lmv3OhsQ0W1zPw.jpg)
-
-## 5 mais novos
-
-**The Ottoman Lieutenant** | **Senso**
- -- | -- | -- | -- | -- 
-*2017* | *1954*
-![](https://image.tmdb.org/t/p/w200/c5E8KTDuGNdF4Lmv3OhsQ0W1zPw.jpg) | ![](https://image.tmdb.org/t/p/w200/iyWApADv4UD9KtVQvJ1mkKn9WXV.jpg)
-
-**Média da nota:** 6,72
-**Menor nota:** 6,14 (The Ottoman Lieutenant)
-**Maior nota:** 7,30 (Senso)
-
-## 5 mais bem avaliados
-
-**Senso** | **The Ottoman Lieutenant**
- -- | -- | -- | -- | -- 
-*7,30* | *6,14*
-![](https://image.tmdb.org/t/p/w200/iyWApADv4UD9KtVQvJ1mkKn9WXV.jpg) | ![](https://image.tmdb.org/t/p/w200/c5E8KTDuGNdF4Lmv3OhsQ0W1zPw.jpg)
-
-## 5 menos bem avaliados
-
-**The Ottoman Lieutenant** | **Senso**
- -- | -- | -- | -- | -- 
-*6,14* | *7,30*
-![](https://image.tmdb.org/t/p/w200/c5E8KTDuGNdF4Lmv3OhsQ0W1zPw.jpg) | ![](https://image.tmdb.org/t/p/w200/iyWApADv4UD9KtVQvJ1mkKn9WXV.jpg)
-
-**Média de votos:** 217,0
-**Menor votos:** 196 (Senso)
-**Maior votos:** 238 (The Ottoman Lieutenant)
-
-## 5 mais avaliados
-
-**The Ottoman Lieutenant** | **Senso**
- -- | -- | -- | -- | -- 
-*238* | *196*
-![](https://image.tmdb.org/t/p/w200/c5E8KTDuGNdF4Lmv3OhsQ0W1zPw.jpg) | ![](https://image.tmdb.org/t/p/w200/iyWApADv4UD9KtVQvJ1mkKn9WXV.jpg)
-
-## 5 menos avaliados
-
-**Senso** | **The Ottoman Lieutenant**
- -- | -- | -- | -- | -- 
-*196* | *238*
-![](https://image.tmdb.org/t/p/w200/iyWApADv4UD9KtVQvJ1mkKn9WXV.jpg) | ![](https://image.tmdb.org/t/p/w200/c5E8KTDuGNdF4Lmv3OhsQ0W1zPw.jpg)
-
-**Gêneros mais comuns:**
-* Romance (2)
-* Drama (2)
-* War (2)
-
-
-**Palavras-chave mais comuns:**
-* nurse (1)
-* world war i (1)
-* lieutenant (1)
-* 1910s (1)
-* ottoman empire (1)
-* venice (1)
-* italy (1)
-* italian (1)
-* betrayal (1)
-* countess (1)
-* austrian officer (1)
+* high school (2)
+* daughter (1)
+* new love (1)
+* romance (1)
+* summer vacation (1)
+* mountain lake (1)
+* loss of loved one (1)
+* author (1)
+* rabbit (1)
 * 19th century (1)
+* 1900s (1)
+* female writer (1)
+* children's author (1)
+* cancer (1)
 
-# Cluster 44
-**Total de filmes:** 232
-**Média de ano de lançamento:** 2006
-**Menor ano:** 1951 (The Day the Earth Stood Still)
-**Maior ano:** 2023 (Extraction 2)
+# Cluster 64
+**Total de filmes:** 128
+**Média de ano de lançamento:** 2005
+**Menor ano:** 1940 (The Invisible Man Returns)
+**Maior ano:** 2023 (The Devil Conspiracy)
 
 ## 5 Mais Velhos 
 
-**The Day the Earth Stood Still** | **The Day of the Triffids** | **X: The Man with the X-Ray Eyes** | **The Day of the Jackal** | **The Stepford Wives**
+**The Invisible Man Returns** | **Colossus: The Forbin Project** | **The Andromeda Strain** | **Soylent Green** | **The Stepford Wives**
  -- | -- | -- | -- | -- 
-*1951* | *1962* | *1963* | *1973* | *1975*
- ![](https://image.tmdb.org/t/p/w200/x2DquTpLTq54aPFDnqlwY7apCC3.jpg) |  ![](https://image.tmdb.org/t/p/w200/x6LYwbOzBl606vMXZtd6apxhcaY.jpg) |  ![](https://image.tmdb.org/t/p/w200/7YMk1mtTsGYPBC8zj2Kd3K6h3g3.jpg) |  ![](https://image.tmdb.org/t/p/w200/vThgcb3JOj99yETg8WChuci4LV2.jpg) |  ![](https://image.tmdb.org/t/p/w200/eGJMm2OUfgt8DDKeHlWQWDcaCl7.jpg)
+*1940* | *1970* | *1971* | *1973* | *1975*
+ ![](https://image.tmdb.org/t/p/w200/hJmmgKnY0NaJKVP7Glb4ciAzXWr.jpg) |  ![](https://image.tmdb.org/t/p/w200/kmVDlTzERxSvBrqtQurjKf1zEy1.jpg) |  ![](https://image.tmdb.org/t/p/w200/i3rTxQRJaBJoBcY8VMUOPT2E8Hp.jpg) |  ![](https://image.tmdb.org/t/p/w200/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg) |  ![](https://image.tmdb.org/t/p/w200/eGJMm2OUfgt8DDKeHlWQWDcaCl7.jpg)
 
 ## 5 mais novos
 
-**Extraction 2** | **Guy Ritchie's The Covenant** | **Mission: Impossible - Dead Reckoning Part One** | **The Mother** | **Kandahar**
+**The Devil Conspiracy** | **Simulant** | **Spiderhead** | **Rubikon** | **Godzilla vs. Kong**
  -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2023* | *2023*
-![](https://image.tmdb.org/t/p/w200/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg) | ![](https://image.tmdb.org/t/p/w200/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg) | ![](https://image.tmdb.org/t/p/w200/NNxYkU70HPurnNCSiCjYAmacwm.jpg) | ![](https://image.tmdb.org/t/p/w200/vnRthEZz16Q9VWcP5homkHxyHoy.jpg) | ![](https://image.tmdb.org/t/p/w200/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg)
+*2023* | *2023* | *2022* | *2022* | *2021*
+![](https://image.tmdb.org/t/p/w200/2lUYbD2C3XSuwqMUbDVDQuz9mqz.jpg) | ![](https://image.tmdb.org/t/p/w200/kmDJhZIq1xnu5ZiMOlb0nHJH1qb.jpg) | ![](https://image.tmdb.org/t/p/w200/5hTK0J9SGPLSTFwcbU0ELlJsnAY.jpg) | ![](https://image.tmdb.org/t/p/w200/n5Ynx568yHn1hKG2ND7ctoL9jEl.jpg) | ![](https://image.tmdb.org/t/p/w200/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg)
 
-**Média da nota:** 6,40
-**Menor nota:** 5,50 (The Furies)
-**Maior nota:** 7,81 (Guy Ritchie's The Covenant)
+**Média da nota:** 6,12
+**Menor nota:** 4,68 (Atomica)
+**Maior nota:** 7,80 (Paprika)
 
 ## 5 mais bem avaliados
 
-**Guy Ritchie's The Covenant** | **Paprika** | **Die Hard** | **Mission: Impossible - Dead Reckoning Part One** | **The Warriors**
+**Paprika** | **Godzilla vs. Kong** | **The Butterfly Effect** | **Star Trek II: The Wrath of Khan** | **Predestination**
  -- | -- | -- | -- | -- 
-*7,81* | *7,80* | *7,78* | *7,74* | *7,68*
-![](https://image.tmdb.org/t/p/w200/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg) | ![](https://image.tmdb.org/t/p/w200/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg) | ![](https://image.tmdb.org/t/p/w200/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg) | ![](https://image.tmdb.org/t/p/w200/NNxYkU70HPurnNCSiCjYAmacwm.jpg) | ![](https://image.tmdb.org/t/p/w200/fCDXAJcPvpsMd5CL1kBKkkNGW3X.jpg)
+*7,80* | *7,66* | *7,56* | *7,50* | *7,44*
+![](https://image.tmdb.org/t/p/w200/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg) | ![](https://image.tmdb.org/t/p/w200/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg) | ![](https://image.tmdb.org/t/p/w200/ea5iv7TWMh18fOKoRGgmtcg85Gx.jpg) | ![](https://image.tmdb.org/t/p/w200/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg) | ![](https://image.tmdb.org/t/p/w200/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg)
 
 ## 5 menos bem avaliados
 
-**The Furies** | **The Rhythm Section** | **Jeruzalem** | **Universal Soldier: Day of Reckoning** | **Trauma Center**
+**Atomica** | **RoboCop 3** | **Dylan Dog: Dead of Night** | **Beyond White Space** | **Settlers**
  -- | -- | -- | -- | -- 
-*5,50* | *5,53* | *5,53* | *5,53* | *5,56*
-![](https://image.tmdb.org/t/p/w200/az3rk3vp1DmhM3KmpPNfDWW6mhN.jpg) | ![](https://image.tmdb.org/t/p/w200/spTr0VYyRtl36Lkk6nCnnbFXhus.jpg) | ![](https://image.tmdb.org/t/p/w200/2NEks6STUojQgJhnnJqQfvSsBCu.jpg) | ![](https://image.tmdb.org/t/p/w200/AjJdy7RdVkPm5yCK5apBJKCXf49.jpg) | ![](https://image.tmdb.org/t/p/w200/8K73wvCTBA3XKgZTtOZWgENUnis.jpg)
+*4,68* | *4,70* | *4,72* | *4,73* | *4,78*
+![](https://image.tmdb.org/t/p/w200/o0fYUDBEvymij9WM3JtG1AVrgex.jpg) | ![](https://image.tmdb.org/t/p/w200/ppLSSwCuC5ERRWbu9H3R8SPL9AM.jpg) | ![](https://image.tmdb.org/t/p/w200/pkB97upmnlTZfB8u1Ff452Ybd7X.jpg) | ![](https://image.tmdb.org/t/p/w200/9IU1Z334s1ssVVU1L2QnMQv77w5.jpg) | ![](https://image.tmdb.org/t/p/w200/tBUYDwiJVDcnjPneOitVetJk2Rt.jpg)
 
-**Média de votos:** 2014,0
-**Menor votos:** 150 (Steel Rain)
+**Média de votos:** 1680,0
+**Menor votos:** 76 (TRON: The Next Day)
 **Maior votos:** 19414 (Jurassic World)
 
 ## 5 mais avaliados
 
-**Jurassic World** | **John Wick** | **The Maze Runner** | **I Am Legend** | **World War Z**
+**Jurassic World** | **The Maze Runner** | **World War Z** | **Jurassic World: Fallen Kingdom** | **Insurgent**
  -- | -- | -- | -- | -- 
-*19414* | *17923* | *15901* | *14675* | *14409*
-![](https://image.tmdb.org/t/p/w200/A0LZHXUzo5C60Oahvt7VxvwuzHw.jpg) | ![](https://image.tmdb.org/t/p/w200/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg) | ![](https://image.tmdb.org/t/p/w200/ode14q7WtDugFDp78fo9lCsmay9.jpg) | ![](https://image.tmdb.org/t/p/w200/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg) | ![](https://image.tmdb.org/t/p/w200/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg)
+*19414* | *15901* | *14409* | *10431* | *9494*
+![](https://image.tmdb.org/t/p/w200/A0LZHXUzo5C60Oahvt7VxvwuzHw.jpg) | ![](https://image.tmdb.org/t/p/w200/ode14q7WtDugFDp78fo9lCsmay9.jpg) | ![](https://image.tmdb.org/t/p/w200/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg) | ![](https://image.tmdb.org/t/p/w200/2CQ53CuWD1KdlOkEWhJcEVjqKn4.jpg) | ![](https://image.tmdb.org/t/p/w200/dP5Fb6YRfzmCQtRbHOr2kO7tJW9.jpg)
 
 ## 5 menos avaliados
 
-**Steel Rain** | **The Suspect** | **Baby** | **The Furies** | **The Day of the Triffids**
+**TRON: The Next Day** | **Atomica** | **Hunter Prey** | **The Whisperer in Darkness** | **The Manhattan Project**
  -- | -- | -- | -- | -- 
-*150* | *151* | *151* | *153* | *154*
-![](https://image.tmdb.org/t/p/w200/zCXpkcMAUxtOp55bWMpBZjpHr5g.jpg) | ![](https://image.tmdb.org/t/p/w200/a2lMK5eoKN4ndHQpgDrS99EqzJY.jpg) | ![](https://image.tmdb.org/t/p/w200/mcCAHyv4kuVJ7oYrgMpYvVPdLyf.jpg) | ![](https://image.tmdb.org/t/p/w200/az3rk3vp1DmhM3KmpPNfDWW6mhN.jpg) | ![](https://image.tmdb.org/t/p/w200/x6LYwbOzBl606vMXZtd6apxhcaY.jpg)
+*76* | *79* | *80* | *83* | *86*
+![](https://image.tmdb.org/t/p/w200/cAx5VNYPHBjNfVBMyKpZhC4IwT9.jpg) | ![](https://image.tmdb.org/t/p/w200/o0fYUDBEvymij9WM3JtG1AVrgex.jpg) | ![](https://image.tmdb.org/t/p/w200/5kv2w3ZjXQx5MEMdn3cBfRuLAca.jpg) | ![](https://image.tmdb.org/t/p/w200/fOulUsrnMvrzstbu1NEz13zzxY3.jpg) | ![](https://image.tmdb.org/t/p/w200/65RDHC5fLwuvQG1LmKRoQugBqLl.jpg)
 
 **Gêneros mais comuns:**
-* Thriller (232)
-* Action (179)
-* Science Fiction (106)
-* Horror (53)
-* Drama (27)
-* Adventure (15)
-* Mystery (14)
-* Animation (7)
-* Comedy (7)
-* Romance (6)
-* Crime (4)
-* Fantasy (4)
-* War (3)
-* Western (2)
-
-
-**Palavras-chave mais comuns:**
-* dystopia (23)
-* martial arts (18)
-* murder (17)
-* terrorism (16)
-* revenge (14)
-* fbi (13)
-* survival (12)
-* police (11)
-* alien (11)
-* action hero (10)
-* scientist (10)
-* spy (10)
-* future (10)
-* experiment (10)
-* drugs (9)
-
-# Cluster 45
-**Total de filmes:** 17
-**Média de ano de lançamento:** 2009
-**Menor ano:** 2001 (One Piece: Clockwork Island Adventure)
-**Maior ano:** 2019 (One Piece: Stampede)
-
-## 5 Mais Velhos 
-
-**One Piece: Clockwork Island Adventure** | **One Piece: Chopper's Kingdom on the Island of Strange Animals** | **One Piece: Dead End Adventure** | **Saint Seiya Heaven Chapter: Overture** | **One Piece: Curse of the Sacred Sword**
- -- | -- | -- | -- | -- 
-*2001* | *2002* | *2003* | *2004* | *2004*
- ![](https://image.tmdb.org/t/p/w200/yVr6EHUIrYpxRHACWkJoJTsFJX.jpg) |  ![](https://image.tmdb.org/t/p/w200/9YFUMvTV4zOkpUsPAiPgjaMKWYd.jpg) |  ![](https://image.tmdb.org/t/p/w200/tEJBIHzaW1IoOVHtgblXy76kj4G.jpg) |  ![](https://image.tmdb.org/t/p/w200/h3z0ymRvVAFJRFg6SS8I725xoZm.jpg) |  ![](https://image.tmdb.org/t/p/w200/zHhKEVos6qzmowRRvaEg1VnOSta.jpg)
-
-## 5 mais novos
-
-**One Piece: Stampede** | **Pokémon the Movie: The Power of Us** | **Boruto: Naruto the Movie** | **Pokémon the Movie: Hoopa and the Clash of Ages** | **Pokémon the Movie: Diancie and the Cocoon of Destruction**
- -- | -- | -- | -- | -- 
-*2019* | *2018* | *2015* | *2015* | *2014*
-![](https://image.tmdb.org/t/p/w200/35KrrxdjJP3c9dnBZqnVmSVStgp.jpg) | ![](https://image.tmdb.org/t/p/w200/eakBFzG1dZn0uouBgv6kYtPXLkT.jpg) | ![](https://image.tmdb.org/t/p/w200/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg) | ![](https://image.tmdb.org/t/p/w200/ujLIgISIV6Fv6j509SZp2Tmq2ZJ.jpg) | ![](https://image.tmdb.org/t/p/w200/t5a4J7Ctnl0w1FWg2ld0mKNvizK.jpg)
-
-**Média da nota:** 7,08
-**Menor nota:** 6,36 (Pokémon the Movie: Kyurem vs. the Sword of Justice)
-**Maior nota:** 7,85 (One Piece: Stampede)
-
-## 5 mais bem avaliados
-
-**One Piece: Stampede** | **Boruto: Naruto the Movie** | **Saint Seiya Heaven Chapter: Overture** | **One Piece: Strong World** | **Naruto Shippuden the Movie: Blood Prison**
- -- | -- | -- | -- | -- 
-*7,85* | *7,59* | *7,57* | *7,45* | *7,31*
-![](https://image.tmdb.org/t/p/w200/35KrrxdjJP3c9dnBZqnVmSVStgp.jpg) | ![](https://image.tmdb.org/t/p/w200/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg) | ![](https://image.tmdb.org/t/p/w200/h3z0ymRvVAFJRFg6SS8I725xoZm.jpg) | ![](https://image.tmdb.org/t/p/w200/gz8ZSM9WpG9M3JtGqRTvJbyFKnm.jpg) | ![](https://image.tmdb.org/t/p/w200/4WT7zYFpe0fsbg6TitppiHddWAh.jpg)
-
-## 5 menos bem avaliados
-
-**Pokémon the Movie: Kyurem vs. the Sword of Justice** | **Naruto the Movie: Legend of the Stone of Gelel** | **Pokémon the Movie: Diancie and the Cocoon of Destruction** | **Pokémon the Movie: Hoopa and the Clash of Ages** | **One Piece: Chopper's Kingdom on the Island of Strange Animals**
- -- | -- | -- | -- | -- 
-*6,36* | *6,55* | *6,62* | *6,75* | *6,84*
-![](https://image.tmdb.org/t/p/w200/ii6iOh6nTcndEuabU1oUsSFnr2l.jpg) | ![](https://image.tmdb.org/t/p/w200/itKMldwL6uhUZYO3X78NOFU4zzO.jpg) | ![](https://image.tmdb.org/t/p/w200/t5a4J7Ctnl0w1FWg2ld0mKNvizK.jpg) | ![](https://image.tmdb.org/t/p/w200/ujLIgISIV6Fv6j509SZp2Tmq2ZJ.jpg) | ![](https://image.tmdb.org/t/p/w200/9YFUMvTV4zOkpUsPAiPgjaMKWYd.jpg)
-
-**Média de votos:** 330,0
-**Menor votos:** 154 (Pokémon the Movie: Kyurem vs. the Sword of Justice)
-**Maior votos:** 1310 (Boruto: Naruto the Movie)
-
-## 5 mais avaliados
-
-**Boruto: Naruto the Movie** | **One Piece: Stampede** | **Naruto Shippuden the Movie: Blood Prison** | **Naruto Shippuden the Movie: The Lost Tower** | **Naruto the Movie: Legend of the Stone of Gelel**
- -- | -- | -- | -- | -- 
-*1310* | *543* | *524* | *392* | *325*
-![](https://image.tmdb.org/t/p/w200/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg) | ![](https://image.tmdb.org/t/p/w200/35KrrxdjJP3c9dnBZqnVmSVStgp.jpg) | ![](https://image.tmdb.org/t/p/w200/4WT7zYFpe0fsbg6TitppiHddWAh.jpg) | ![](https://image.tmdb.org/t/p/w200/6e2YvN1tQK4xQHlmy7GJTuXOt2u.jpg) | ![](https://image.tmdb.org/t/p/w200/itKMldwL6uhUZYO3X78NOFU4zzO.jpg)
-
-## 5 menos avaliados
-
-**Pokémon the Movie: Kyurem vs. the Sword of Justice** | **One Piece: Chopper's Kingdom on the Island of Strange Animals** | **One Piece: Dead End Adventure** | **Pokémon the Movie: Diancie and the Cocoon of Destruction** | **One Piece: Baron Omatsuri and the Secret Island**
- -- | -- | -- | -- | -- 
-*154* | *158* | *160* | *162* | *181*
-![](https://image.tmdb.org/t/p/w200/ii6iOh6nTcndEuabU1oUsSFnr2l.jpg) | ![](https://image.tmdb.org/t/p/w200/9YFUMvTV4zOkpUsPAiPgjaMKWYd.jpg) | ![](https://image.tmdb.org/t/p/w200/tEJBIHzaW1IoOVHtgblXy76kj4G.jpg) | ![](https://image.tmdb.org/t/p/w200/t5a4J7Ctnl0w1FWg2ld0mKNvizK.jpg) | ![](https://image.tmdb.org/t/p/w200/ueIR4LM4k8eKhSB8gGT9NMhCwGW.jpg)
-
-**Gêneros mais comuns:**
-* Animation (17)
-* Action (13)
-* Adventure (13)
+* Science Fiction (128)
+* Thriller (128)
+* Action (61)
+* Horror (27)
+* Adventure (21)
+* Drama (20)
+* Mystery (15)
+* Comedy (10)
+* Animation (8)
 * Fantasy (7)
-* Family (5)
-* Comedy (4)
-* Thriller (1)
-* Horror (1)
-* Mystery (1)
-* Drama (1)
-* Science Fiction (1)
+* Crime (5)
+* Romance (3)
+* Family (1)
 
 
 **Palavras-chave mais comuns:**
-* anime (17)
+* dystopia (27)
+* future (15)
+* scientist (13)
+* time travel (13)
+* artificial intelligence (a.i.) (10)
+* murder (9)
+* cyberpunk (9)
+* android (9)
+* post-apocalyptic future (7)
+* robot (7)
+* escape (6)
+* creature (6)
+* killer robot (6)
+* cyborg (5)
+* experiment (5)
 
-# Cluster 46
-**Total de filmes:** 315
-**Média de ano de lançamento:** 2003
-**Menor ano:** 1921 (The Kid)
-**Maior ano:** 2023 (Asteroid City)
+# Cluster 65
+**Total de filmes:** 26
+**Média de ano de lançamento:** 2007
+**Menor ano:** 1971 (Four Flies on Grey Velvet)
+**Maior ano:** 2023 (Knock at the Cabin)
 
 ## 5 Mais Velhos 
 
-**The Kid** | **Zero for Conduct** | **Modern Times** | **Mr. Smith Goes to Washington** | **Meet John Doe**
+**Four Flies on Grey Velvet** | **Sisters** | **All the Colors of the Dark** | **The Tenant** | **Opera**
  -- | -- | -- | -- | -- 
-*1921* | *1933* | *1936* | *1939* | *1941*
- ![](https://image.tmdb.org/t/p/w200/drgMcyTsySQBnUPGaBThCHGdlWT.jpg) |  ![](https://image.tmdb.org/t/p/w200/oQcGB9BGj9LPTWcEdij47McotKY.jpg) |  ![](https://image.tmdb.org/t/p/w200/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg) |  ![](https://image.tmdb.org/t/p/w200/nDjg1fbNyq15excNDl3acd2IqAk.jpg) |  ![](https://image.tmdb.org/t/p/w200/dnBZbFE2OGlTGNGBVTn6t83tJtd.jpg)
+*1971* | *1972* | *1972* | *1976* | *1987*
+ ![](https://image.tmdb.org/t/p/w200/hEFlF2M4nJ9OszjZaJ2oaRt9lr0.jpg) |  ![](https://image.tmdb.org/t/p/w200/hqxzpgJse54AcX1Mt1c6raXS290.jpg) |  ![](https://image.tmdb.org/t/p/w200/1Q1NvmvinIpOMGml1aUqX7XDeCB.jpg) |  ![](https://image.tmdb.org/t/p/w200/4Qhzb1ICFMqE3isWoln497qSH7n.jpg) |  ![](https://image.tmdb.org/t/p/w200/v5VBvSVu2sWLAmyQhKQwBV5aPJA.jpg)
 
 ## 5 mais novos
 
-**Asteroid City** | **Flamin' Hot** | **White Men Can't Jump** | **A Man Called Otto** | **Triangle of Sadness**
+**Knock at the Cabin** | **Old** | **There's Someone Inside Your House** | **The Cursed: Dead Man's Prey** | **Velvet Buzzsaw**
  -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/tcKBclNUdkas4Jis8RYYZnPdTIm.jpg) | ![](https://image.tmdb.org/t/p/w200/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg) | ![](https://image.tmdb.org/t/p/w200/i83Ykng2HVY5EF043zMmeQdLUQY.jpg) | ![](https://image.tmdb.org/t/p/w200/130H1gap9lFfiTF9iDrqNIkFvC9.jpg) | ![](https://image.tmdb.org/t/p/w200/k9eLozCgCed5FGTSdHu0bBElAV8.jpg)
+*2023* | *2021* | *2021* | *2021* | *2019*
+![](https://image.tmdb.org/t/p/w200/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg) | ![](https://image.tmdb.org/t/p/w200/vclShucpUmPhdAOmKgf3B3Z4POD.jpg) | ![](https://image.tmdb.org/t/p/w200/fJUdQ4BZAtlQK9Ny59TulkQGisB.jpg) | ![](https://image.tmdb.org/t/p/w200/eEQvJerAVak8hWzSYKbvImQIZfu.jpg) | ![](https://image.tmdb.org/t/p/w200/3rViQPcrWthMNecp5XnkKev6BzW.jpg)
 
-**Média da nota:** 6,73
-**Menor nota:** 5,54 (The Bonfire of the Vanities)
-**Maior nota:** 8,45 (Life Is Beautiful)
+**Média da nota:** 5,99
+**Menor nota:** 4,52 (I Know Who Killed Me)
+**Maior nota:** 7,66 (The Cursed: Dead Man's Prey)
 
 ## 5 mais bem avaliados
 
-**Life Is Beautiful** | **Modern Times** | **The Kid** | **Flamin' Hot** | **La Dolce Vita**
+**The Cursed: Dead Man's Prey** | **The Tenant** | **Guilty of Romance** | **The Nightshifter** | **Stonehearst Asylum**
  -- | -- | -- | -- | -- 
-*8,45* | *8,29* | *8,19* | *8,19* | *8,14*
-![](https://image.tmdb.org/t/p/w200/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg) | ![](https://image.tmdb.org/t/p/w200/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg) | ![](https://image.tmdb.org/t/p/w200/drgMcyTsySQBnUPGaBThCHGdlWT.jpg) | ![](https://image.tmdb.org/t/p/w200/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg) | ![](https://image.tmdb.org/t/p/w200/11hMHhThUb53fHoDDyn5LUsw0Z.jpg)
+*7,66* | *7,66* | *6,95* | *6,92* | *6,85*
+![](https://image.tmdb.org/t/p/w200/eEQvJerAVak8hWzSYKbvImQIZfu.jpg) | ![](https://image.tmdb.org/t/p/w200/4Qhzb1ICFMqE3isWoln497qSH7n.jpg) | ![](https://image.tmdb.org/t/p/w200/9Yc6ip8cBDbkfy5K8Ob401PjlJa.jpg) | ![](https://image.tmdb.org/t/p/w200/tTSt1gKXu1ttBVPAsH9Tl05qEyQ.jpg) | ![](https://image.tmdb.org/t/p/w200/fZxGCCQ0NAtraevqULJ84wSSjo0.jpg)
 
 ## 5 menos bem avaliados
 
-**The Bonfire of the Vanities** | **The Banger Sisters** | **Catfight** | **Holy Smoke** | **Exploits of a Young Don Juan**
+**I Know Who Killed Me** | **The Abandoned** | **Flight 7500** | **Black Mountain Side** | **Across the River**
  -- | -- | -- | -- | -- 
-*5,54* | *5,54* | *5,55* | *5,59* | *5,61*
-![](https://image.tmdb.org/t/p/w200/pdrPrygZ5dVKi8UxrUXMmq1k2iO.jpg) | ![](https://image.tmdb.org/t/p/w200/bfXXqz4yvsHnQwwOSa23ASUaGXA.jpg) | ![](https://image.tmdb.org/t/p/w200/j3kLVDNJlU6IIMmtMmFjtSBat7y.jpg) | ![](https://image.tmdb.org/t/p/w200/nGowjHJdy59gMtEo8GPRWY6382Z.jpg) | ![](https://image.tmdb.org/t/p/w200/xvtRgQIRegLjsjaIkKQbh0hk3Qy.jpg)
+*4,52* | *4,70* | *4,82* | *5,06* | *5,26*
+![](https://image.tmdb.org/t/p/w200/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg) | ![](https://image.tmdb.org/t/p/w200/3TNmBgcta46j0z7KmKtOMO84pfE.jpg) | ![](https://image.tmdb.org/t/p/w200/qqp5P9sONdOhUuPdv05LSMrM1mG.jpg) | ![](https://image.tmdb.org/t/p/w200/g5emUKrTqhdn8QFtbEuxie4oOJT.jpg) | ![](https://image.tmdb.org/t/p/w200/sPF4vXawuzGxhK41QuKNhgj0e08.jpg)
 
-**Média de votos:** 888,0
-**Menor votos:** 150 (Pocketful of Miracles)
-**Maior votos:** 16827 (The Truman Show)
+**Média de votos:** 611,0
+**Menor votos:** 90 (Across the River)
+**Maior votos:** 3856 (Old)
 
 ## 5 mais avaliados
 
-**The Truman Show** | **The Grand Budapest Hotel** | **Life Is Beautiful** | **The Big Short** | **The Breakfast Club**
+**Old** | **Knock at the Cabin** | **Velvet Buzzsaw** | **Silent Hill: Revelation 3D** | **Stonehearst Asylum**
  -- | -- | -- | -- | -- 
-*16827* | *13787* | *12218* | *8320* | *7478*
-![](https://image.tmdb.org/t/p/w200/vuza0WqY239yBXOadKlGwJsZJFE.jpg) | ![](https://image.tmdb.org/t/p/w200/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg) | ![](https://image.tmdb.org/t/p/w200/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg) | ![](https://image.tmdb.org/t/p/w200/isuQWbJPbjybBEWdcCaBUPmU0XO.jpg) | ![](https://image.tmdb.org/t/p/w200/9nai8pRm4Ja0O265Qp6UyqXlLQ8.jpg)
+*3856* | *1828* | *1779* | *1455* | *1286*
+![](https://image.tmdb.org/t/p/w200/vclShucpUmPhdAOmKgf3B3Z4POD.jpg) | ![](https://image.tmdb.org/t/p/w200/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg) | ![](https://image.tmdb.org/t/p/w200/3rViQPcrWthMNecp5XnkKev6BzW.jpg) | ![](https://image.tmdb.org/t/p/w200/xBC7bHZ5UglTw4LMd2lTSgXvQXl.jpg) | ![](https://image.tmdb.org/t/p/w200/fZxGCCQ0NAtraevqULJ84wSSjo0.jpg)
 
 ## 5 menos avaliados
 
-**Pocketful of Miracles** | **4 latas** | **The Intervention** | **Dark Habits** | **Class**
+**Across the River** | **Among the Living** | **Black Mountain Side** | **The Cursed: Dead Man's Prey** | **The Boat**
  -- | -- | -- | -- | -- 
-*150* | *151* | *152* | *153* | *154*
-![](https://image.tmdb.org/t/p/w200/xjXwcGJjT5tE22wazQUYH32HwU8.jpg) | ![](https://image.tmdb.org/t/p/w200/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg) | ![](https://image.tmdb.org/t/p/w200/yPgppin50E0pxKgL1lmKlFbhTF1.jpg) | ![](https://image.tmdb.org/t/p/w200/AB9cm20W0lGebbI39swUmdYZAV.jpg) | ![](https://image.tmdb.org/t/p/w200/iDFeOVxNOSmAcsdmvtt4kZWB8GA.jpg)
+*90* | *96* | *101* | *110* | *111*
+![](https://image.tmdb.org/t/p/w200/sPF4vXawuzGxhK41QuKNhgj0e08.jpg) | ![](https://image.tmdb.org/t/p/w200/hnenGxU08EzNpjz7LYPj4pBEFYf.jpg) | ![](https://image.tmdb.org/t/p/w200/g5emUKrTqhdn8QFtbEuxie4oOJT.jpg) | ![](https://image.tmdb.org/t/p/w200/eEQvJerAVak8hWzSYKbvImQIZfu.jpg) | ![](https://image.tmdb.org/t/p/w200/ccDmzCsv5JWSkl0qygYPIIMcc8d.jpg)
 
 **Gêneros mais comuns:**
-* Comedy (315)
-* Drama (315)
+* Thriller (26)
+* Mystery (26)
+* Horror (26)
 
 
 **Palavras-chave mais comuns:**
-* friendship (24)
-* dark comedy (19)
-* parent child relationship (18)
-* italy (17)
-* high school (16)
-* coming of age (16)
-* road trip (15)
-* family (14)
-* lgbt (13)
-* gay theme (13)
-* sibling relationship (11)
-* writer (11)
-* dysfunctional family (10)
-* suicide (10)
-* neighbor (10)
+* murder (6)
+* hallucination (3)
+* serial killer (3)
+* ghost (3)
+* whodunit (3)
+* home invasion (2)
+* supernatural (2)
+* female protagonist (2)
+* psychological thriller (2)
+* suicide (2)
+* paranoia (2)
+* neighbor (2)
+* kidnapping (2)
+* twins (2)
+* beach (1)
 
-# Cluster 47
-**Total de filmes:** 145
-**Média de ano de lançamento:** 2011
-**Menor ano:** 1978 (The Inglorious Bastards)
-**Maior ano:** 2023 (Resident Evil: Death Island)
-
-## 5 Mais Velhos 
-
-**The Inglorious Bastards** | **Heavy Metal** | **The Transformers: The Movie** | **Dragon Ball: Sleeping Princess in Devil's Castle** | **Wicked City**
- -- | -- | -- | -- | -- 
-*1978* | *1981* | *1986* | *1987* | *1987*
- ![](https://image.tmdb.org/t/p/w200/8f7PoX7TveyKrndh3bZZcBvR55Z.jpg) |  ![](https://image.tmdb.org/t/p/w200/atUtWrDlLzT1yeVK2EoYtvbS963.jpg) |  ![](https://image.tmdb.org/t/p/w200/j4HTorvJdGOuIgGyE56fMCLmcCg.jpg) |  ![](https://image.tmdb.org/t/p/w200/bPmA7dtMUoh6fK8XjauoKB4FcSu.jpg) |  ![](https://image.tmdb.org/t/p/w200/aFtLwGv6pcqO72M1v5iQYZOCkZ5.jpg)
-
-## 5 mais novos
-
-**Resident Evil: Death Island** | **Teenage Mutant Ninja Turtles: Mutant Mayhem** | **Black Clover: Sword of the Wizard King** | **Dragon Ball Super: Super Hero** | **One Piece Film Red**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/qayga07ICNDswm0cMJ8P3VwklFZ.jpg) | ![](https://image.tmdb.org/t/p/w200/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg) | ![](https://image.tmdb.org/t/p/w200/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg) | ![](https://image.tmdb.org/t/p/w200/pi0iZOEHeA3ih4p1IwAG4x2DZNH.jpg) | ![](https://image.tmdb.org/t/p/w200/ogDXuVkO92GcETZfSofXXemw7gb.jpg)
-
-**Média da nota:** 7,20
-**Menor nota:** 5,78 (America: The Motion Picture)
-**Maior nota:** 8,42 (The Legend of Hei)
-
-## 5 mais bem avaliados
-
-**The Legend of Hei** | **Attack on Titan: The Roar of Awakening** | **Neon Genesis Evangelion: The End of Evangelion** | **Evangelion: 3.0+1.0 Thrice Upon a Time** | **Green Snake**
- -- | -- | -- | -- | -- 
-*8,42* | *8,38* | *8,34* | *8,30* | *8,30*
-![](https://image.tmdb.org/t/p/w200/aLv87NgRJUPkQ6sVLP72IisDdt4.jpg) | ![](https://image.tmdb.org/t/p/w200/tLkdCvfmTOvxirrpSaaOBJD7qsU.jpg) | ![](https://image.tmdb.org/t/p/w200/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg) | ![](https://image.tmdb.org/t/p/w200/md5wZRRj8biHrGtyitgBZo7674t.jpg) | ![](https://image.tmdb.org/t/p/w200/1zs5zsQDP5KuWwxIg9EUULLFEV.jpg)
-
-## 5 menos bem avaliados
-
-**America: The Motion Picture** | **Shadow in the Cloud** | **Wolves** | **Beowulf** | **VFW**
- -- | -- | -- | -- | -- 
-*5,78* | *5,85* | *5,88* | *5,89* | *5,89*
-![](https://image.tmdb.org/t/p/w200/1JRRvx5RotvWM1maeq9r82ktdHi.jpg) | ![](https://image.tmdb.org/t/p/w200/t7EUMSlfUN3jUSZUJOLURAzJzZs.jpg) | ![](https://image.tmdb.org/t/p/w200/zY6ObzQfCp6RO4ONqP4snfVVSdH.jpg) | ![](https://image.tmdb.org/t/p/w200/7QsWYyJAV97N9jOh21pdRIqJeJq.jpg) | ![](https://image.tmdb.org/t/p/w200/AnVD7Gn14uOTQhcc5xYZGQ9DRvS.jpg)
-
-**Média de votos:** 749,0
-**Menor votos:** 152 (Underworld: Endless War)
-**Maior votos:** 12107 (American Sniper)
-
-## 5 mais avaliados
-
-**American Sniper** | **Blade** | **The Lego Batman Movie** | **Atlantis: Milo's Return** | **Akira**
- -- | -- | -- | -- | -- 
-*12107* | *5466* | *4593* | *3728* | *3727*
-![](https://image.tmdb.org/t/p/w200/i1U46OwMc6vlm7OoSUKfqUH615e.jpg) | ![](https://image.tmdb.org/t/p/w200/hx0sdduAsr4rq03RZKZzglR25z7.jpg) | ![](https://image.tmdb.org/t/p/w200/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg) | ![](https://image.tmdb.org/t/p/w200/jrZEWzSlbQTlsJobDmzuFNzlxbh.jpg) | ![](https://image.tmdb.org/t/p/w200/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg)
-
-## 5 menos avaliados
-
-**Underworld: Endless War** | **Bad Cat** | **Bleach the Movie: Hell Verse** | **Fate/stay night: Heaven's Feel III. Spring Song** | **Pretty Guardian Sailor Moon Eternal The Movie Part 1**
- -- | -- | -- | -- | -- 
-*152* | *152* | *153* | *153* | *154*
-![](https://image.tmdb.org/t/p/w200/4yNXdOfieIw4ZNdvOuHr1iuLGV.jpg) | ![](https://image.tmdb.org/t/p/w200/ndm7aOmR9Z5GNOCYDC0hsyozBxl.jpg) | ![](https://image.tmdb.org/t/p/w200/pd7V5iCB19VBPJkihxFXFwSRW2M.jpg) | ![](https://image.tmdb.org/t/p/w200/hIK5kEdFwOHnHTa06ntTVSfG9im.jpg) | ![](https://image.tmdb.org/t/p/w200/dJaGPwYJh3c6EXNX8JlHBYQH0Ij.jpg)
-
-**Gêneros mais comuns:**
-* Action (130)
-* Animation (128)
-* Fantasy (70)
-* Adventure (56)
-* Science Fiction (43)
-* Drama (23)
-* Horror (20)
-* Comedy (20)
-* Family (19)
-* Romance (10)
-* Crime (8)
-* Mystery (7)
-* War (4)
-* Thriller (4)
-* Music (3)
-* TV Movie (2)
-* History (1)
-
-
-**Palavras-chave mais comuns:**
-* anime (77)
-* adult animation (30)
-* based on manga (24)
-* superhero (18)
-* magic (15)
-* shounen (15)
-* super power (13)
-* japan (12)
-* demon (11)
-* supernatural (10)
-* monster (10)
-* martial arts (8)
-* fighting (8)
-* mecha (8)
-* cartoon (7)
-
-# Cluster 48
-**Total de filmes:** 184
+# Cluster 66
+**Total de filmes:** 93
 **Média de ano de lançamento:** 1999
-**Menor ano:** 1933 (42nd Street)
-**Maior ano:** 2023 (Magic Mike's Last Dance)
+**Menor ano:** 1966 (What's Up, Tiger Lily?)
+**Maior ano:** 2021 (The Last Mercenary)
 
 ## 5 Mais Velhos 
 
-**42nd Street** | **Mr. Deeds Goes to Town** | **The Shop Around the Corner** | **Holiday Inn** | **Adam's Rib**
+**What's Up, Tiger Lily?** | **Watch Out, We're Mad** | **The Big Bus** | **Cannonball** | **Crime Busters**
  -- | -- | -- | -- | -- 
-*1933* | *1936* | *1940* | *1942* | *1949*
- ![](https://image.tmdb.org/t/p/w200/bcXT1q4JKqAlCjUadLx0pNGoyJR.jpg) |  ![](https://image.tmdb.org/t/p/w200/9xBuHtiB4CwtEciWdUd28VvhkJO.jpg) |  ![](https://image.tmdb.org/t/p/w200/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg) |  ![](https://image.tmdb.org/t/p/w200/7eZzwqLM1w1Mljg60rzB1zr27lu.jpg) |  ![](https://image.tmdb.org/t/p/w200/k9gT6d2sDT9Jd4dvzHowTt3l6Zg.jpg)
+*1966* | *1974* | *1976* | *1976* | *1977*
+ ![](https://image.tmdb.org/t/p/w200/z3ABDEfhLqX09nXgp6ilKW44jAB.jpg) |  ![](https://image.tmdb.org/t/p/w200/nsnVnZDqlpe6CHENnapq19RGRzC.jpg) |  ![](https://image.tmdb.org/t/p/w200/2YKsJu47D6kjATjd7alwmejtGxu.jpg) |  ![](https://image.tmdb.org/t/p/w200/u85Yi7wJRKS7lgLjQdpQqOxJNO7.jpg) |  ![](https://image.tmdb.org/t/p/w200/z35E0qY8wkkSPIBT5ptQAyWvr8k.jpg)
 
 ## 5 mais novos
 
-**Magic Mike's Last Dance** | **Cha Cha Real Smooth** | **Airplane Mode** | **Tall Girl** | **Love, Simon**
+**The Last Mercenary** | **Guns Akimbo** | **Chick Fight** | **Stuber** | **EXIT**
  -- | -- | -- | -- | -- 
-*2023* | *2022* | *2020* | *2019* | *2018*
-![](https://image.tmdb.org/t/p/w200/9a9pyJZRhUWUSBT8BQqWihtqbI8.jpg) | ![](https://image.tmdb.org/t/p/w200/z8IPItbwRrJ3QWdCePOnWS1jueY.jpg) | ![](https://image.tmdb.org/t/p/w200/fLXisj0j39zaktmoU72tVtOXx6W.jpg) | ![](https://image.tmdb.org/t/p/w200/m0clsFEXidLVJ0TueqWOvvImOMh.jpg) | ![](https://image.tmdb.org/t/p/w200/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg)
+*2021* | *2020* | *2020* | *2019* | *2019*
+![](https://image.tmdb.org/t/p/w200/ttpKJ7XQxDZV252KNEHXtykYT41.jpg) | ![](https://image.tmdb.org/t/p/w200/2kNnf7BwRCEm4bcFkdiE0T4U25s.jpg) | ![](https://image.tmdb.org/t/p/w200/4ZocdxnOO6q2UbdKye2wgofLFhB.jpg) | ![](https://image.tmdb.org/t/p/w200/gqk7ndiGn9WUT5UDTm6KHwGTv3m.jpg) | ![](https://image.tmdb.org/t/p/w200/zf16eomhCB13cwMb4iFEbBT0Tsr.jpg)
 
-**Média da nota:** 6,61
-**Menor nota:** 5,50 (Damsels in Distress)
-**Maior nota:** 8,55 (Dilwale Dulhania Le Jayenge)
+**Média da nota:** 6,13
+**Menor nota:** 4,57 (Postal)
+**Maior nota:** 7,68 (Let the Bullets Fly)
 
 ## 5 mais bem avaliados
 
-**Dilwale Dulhania Le Jayenge** | **Forrest Gump** | **The Shop Around the Corner** | **The Apartment** | **Love, Simon**
+**Let the Bullets Fly** | **EXIT** | **Watch Out, We're Mad** | **I Can Quit Whenever I Want 3: Ad Honorem** | **The Legend of Drunken Master**
  -- | -- | -- | -- | -- 
-*8,55* | *8,48* | *8,27* | *8,22* | *8,04*
-![](https://image.tmdb.org/t/p/w200/ktejodbcdCPXbMMdnpI9BUxW6O8.jpg) | ![](https://image.tmdb.org/t/p/w200/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg) | ![](https://image.tmdb.org/t/p/w200/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg) | ![](https://image.tmdb.org/t/p/w200/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg) | ![](https://image.tmdb.org/t/p/w200/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg)
+*7,68* | *7,60* | *7,41* | *7,40* | *7,40*
+![](https://image.tmdb.org/t/p/w200/pkwBO3XkQLhgb31vl5ZwmGC5meT.jpg) | ![](https://image.tmdb.org/t/p/w200/zf16eomhCB13cwMb4iFEbBT0Tsr.jpg) | ![](https://image.tmdb.org/t/p/w200/nsnVnZDqlpe6CHENnapq19RGRzC.jpg) | ![](https://image.tmdb.org/t/p/w200/n4uLV4vdMltzUoxeHQJNoDKoiOY.jpg) | ![](https://image.tmdb.org/t/p/w200/xqUBrSBtPYLvCtfqHF5sapU6Div.jpg)
 
 ## 5 menos bem avaliados
 
-**Damsels in Distress** | **Then She Found Me** | **Cheeky** | **2 Days in New York** | **Admission**
+**Postal** | **The Pest** | **Killing Gunther** | **Pootie Tang** | **The Big Bus**
  -- | -- | -- | -- | -- 
-*5,50* | *5,50* | *5,53* | *5,60* | *5,62*
-![](https://image.tmdb.org/t/p/w200/jlfQBSZCzNRXlslQtaWW93NtCwq.jpg) | ![](https://image.tmdb.org/t/p/w200/jNOK8vyX1mzSV6ewBTE1UR6NlOA.jpg) | ![](https://image.tmdb.org/t/p/w200/1mtLSZSdgIUKgHZ44PK2gVPEfOn.jpg) | ![](https://image.tmdb.org/t/p/w200/kkP3yg0Y1v0PdxgDtMDJ9obZizt.jpg) | ![](https://image.tmdb.org/t/p/w200/8MwiU714GL3WoNxreeHjZ01iPpM.jpg)
+*4,57* | *4,68* | *4,80* | *5,03* | *5,10*
+![](https://image.tmdb.org/t/p/w200/2U91KS7t6HA1dI6YMiA6TpPRVqU.jpg) | ![](https://image.tmdb.org/t/p/w200/oWDSlZT7rvOBYccqrRxiZ7IfbhM.jpg) | ![](https://image.tmdb.org/t/p/w200/5jm2l2qRq8jEzXzOZgD2wEgFznq.jpg) | ![](https://image.tmdb.org/t/p/w200/fNvx45x4JWHYucpnV2vuKn9TZnV.jpg) | ![](https://image.tmdb.org/t/p/w200/2YKsJu47D6kjATjd7alwmejtGxu.jpg)
 
-**Média de votos:** 1148,0
-**Menor votos:** 150 (200 Cigarettes)
-**Maior votos:** 25409 (Forrest Gump)
+**Média de votos:** 751,0
+**Menor votos:** 86 (Royal Tramp)
+**Maior votos:** 5941 (This Is the End)
 
 ## 5 mais avaliados
 
-**Forrest Gump** | **The Devil Wears Prada** | **(500) Days of Summer** | **Crazy, Stupid, Love.** | **Juno**
+**This Is the End** | **The Hitman's Bodyguard** | **The Interview** | **Knight and Day** | **Tower Heist**
  -- | -- | -- | -- | -- 
-*25409* | *11089* | *9359* | *7773* | *6736*
-![](https://image.tmdb.org/t/p/w200/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg) | ![](https://image.tmdb.org/t/p/w200/u6QBDGUCOEMRekna95ip2MxplbQ.jpg) | ![](https://image.tmdb.org/t/p/w200/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg) | ![](https://image.tmdb.org/t/p/w200/p4RafgAPk558muOjnBMHhMArjS2.jpg) | ![](https://image.tmdb.org/t/p/w200/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg)
+*5941* | *5732* | *5370* | *4141* | *2720*
+![](https://image.tmdb.org/t/p/w200/7Wdc3etyBJA4432TYtz6n9GQd1c.jpg) | ![](https://image.tmdb.org/t/p/w200/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg) | ![](https://image.tmdb.org/t/p/w200/tIDC4xT65l7a8qbgg8GvwD5g8c5.jpg) | ![](https://image.tmdb.org/t/p/w200/phhp52CZZJiGYmiOTp9ZBDkGHB3.jpg) | ![](https://image.tmdb.org/t/p/w200/1HcOyMODYZXnncMikfhYkw3x2ss.jpg)
 
 ## 5 menos avaliados
 
-**200 Cigarettes** | **Student of the Year** | **Ten Inch Hero** | **Then She Found Me** | **42nd Street**
+**Royal Tramp** | **The Big Bus** | **Cannonball** | **Attack the Gas Station!** | **The Wash**
  -- | -- | -- | -- | -- 
-*150* | *150* | *154* | *154* | *156*
-![](https://image.tmdb.org/t/p/w200/5LYyQNMsmis8oGcrLw5oyldr9bw.jpg) | ![](https://image.tmdb.org/t/p/w200/yAhfRGZx7nOAZkrm90pqaAjakdH.jpg) | ![](https://image.tmdb.org/t/p/w200/179hbOwgOWVrV65AFNGTvwGfiNw.jpg) | ![](https://image.tmdb.org/t/p/w200/jNOK8vyX1mzSV6ewBTE1UR6NlOA.jpg) | ![](https://image.tmdb.org/t/p/w200/bcXT1q4JKqAlCjUadLx0pNGoyJR.jpg)
+*86* | *91* | *91* | *97* | *98*
+![](https://image.tmdb.org/t/p/w200/tJeafyenaenHTiMVKRPBAISQ3qH.jpg) | ![](https://image.tmdb.org/t/p/w200/2YKsJu47D6kjATjd7alwmejtGxu.jpg) | ![](https://image.tmdb.org/t/p/w200/u85Yi7wJRKS7lgLjQdpQqOxJNO7.jpg) | ![](https://image.tmdb.org/t/p/w200/z4EXiiifZCfqE9nc4FYhcCt12Kw.jpg) | ![](https://image.tmdb.org/t/p/w200/xb63VT8E4Q2RjLT7qnzvc5jRFAQ.jpg)
 
 **Gêneros mais comuns:**
-* Comedy (184)
-* Drama (184)
-* Romance (184)
+* Action (93)
+* Comedy (93)
 
 
 **Palavras-chave mais comuns:**
-* wedding (17)
-* love (16)
-* coming of age (13)
-* romantic comedy (13)
-* friendship (12)
-* parent child relationship (12)
-* falling in love (11)
-* husband wife relationship (10)
-* relationship (9)
-* pregnancy (9)
-* marriage (9)
-* family (9)
-* adultery (9)
-* love of one's life (8)
-* jealousy (7)
-
-# Cluster 49
-**Total de filmes:** 591
-**Média de ano de lançamento:** 2002
-**Menor ano:** 1895 (The Sprinkler Sprinkled)
-**Maior ano:** 2023 (Alibi.com 2)
-
-## 5 Mais Velhos 
-
-**The Sprinkler Sprinkled** | **A Dog's Life** | **One Week** | **The Music Box** | **Sons of the Desert**
- -- | -- | -- | -- | -- 
-*1895* | *1918* | *1920* | *1932* | *1933*
- ![](https://image.tmdb.org/t/p/w200/rSZghvrFWTGqi4UecyG9jimzpEO.jpg) |  ![](https://image.tmdb.org/t/p/w200/41vqtliesQrsJQ9iTJh5nFYQgBg.jpg) |  ![](https://image.tmdb.org/t/p/w200/43KTefZOLOaXw4Rbywn3uu8BiJn.jpg) |  ![](https://image.tmdb.org/t/p/w200/zwU0Y7VS3d326v1pYY7kif1y7xQ.jpg) |  ![](https://image.tmdb.org/t/p/w200/4ojrxP6qiyDOQ5jHQlh7Yn59wJt.jpg)
-
-## 5 mais novos
-
-**Alibi.com 2** | **You Are So Not Invited to My Bat Mitzvah** | **Champions** | **Joy Ride** | **A Brighter Tomorrow**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2023* | *2023*
-![](https://image.tmdb.org/t/p/w200/9gteYoeW0wOvYHnnvXJpq0RiGV8.jpg) | ![](https://image.tmdb.org/t/p/w200/ukpifWBW2xEmMtJX4bCpoNpWEr2.jpg) | ![](https://image.tmdb.org/t/p/w200/yVgtsoXyTZBww7SWE4JE1U4Wcel.jpg) | ![](https://image.tmdb.org/t/p/w200/lTZ3r9NBdbrR6NA90v3hFYqd6TC.jpg) | ![](https://image.tmdb.org/t/p/w200/2Czy6vvebDFCKiYygaU72DLdf6P.jpg)
-
-**Média da nota:** 6,42
-**Menor nota:** 5,50 (Tifosi)
-**Maior nota:** 8,15 (My Friends)
-
-## 5 mais bem avaliados
-
-**My Friends** | **Three Men and a Leg** | **Divorce Italian Style** | **Young Frankenstein** | **We Are the Nobles**
- -- | -- | -- | -- | -- 
-*8,15* | *7,96* | *7,91* | *7,90* | *7,90*
-![](https://image.tmdb.org/t/p/w200/8Pm8SLjq2UHCwisd56ipHtzvZI1.jpg) | ![](https://image.tmdb.org/t/p/w200/2iVqgn6vnxDYqbRh7u15Q4XgG2M.jpg) | ![](https://image.tmdb.org/t/p/w200/vZbdSpUFyFiDBBTY0AiSrN9f303.jpg) | ![](https://image.tmdb.org/t/p/w200/c6335WJCZO8NK5wehHk5sA9Cypv.jpg) | ![](https://image.tmdb.org/t/p/w200/40JLnLz5KEQeZnUCKD3zf8sQJFx.jpg)
-
-## 5 menos bem avaliados
-
-**Tifosi** | **Jacky in the Kingdom of Women** | **Superchondriac** | **Dude** | **Head of State**
- -- | -- | -- | -- | -- 
-*5,50* | *5,52* | *5,52* | *5,52* | *5,53*
-![](https://image.tmdb.org/t/p/w200/awnJNb0CqcTDLkrY9lWT56sXKfk.jpg) | ![](https://image.tmdb.org/t/p/w200/nEXMIWgRIFDZVFl7fFHooQBBBdu.jpg) | ![](https://image.tmdb.org/t/p/w200/3J84HvgThJyBSqNaAiX9EuiIGwx.jpg) | ![](https://image.tmdb.org/t/p/w200/vh4K737r0ZjrioIjHcs7ktV8RFO.jpg) | ![](https://image.tmdb.org/t/p/w200/oh0FLmUdfSjLpPOD3siKh3NGbOG.jpg)
-
-**Média de votos:** 948,0
-**Menor votos:** 150 (What Men Talk About)
-**Maior votos:** 15812 (The Hangover)
-
-## 5 mais avaliados
-
-**The Hangover** | **The Hangover Part II** | **The Hangover Part III** | **Mean Girls** | **Superbad**
- -- | -- | -- | -- | -- 
-*15812* | *9789* | *8097* | *7931* | *6620*
-![](https://image.tmdb.org/t/p/w200/uluhlXubGu1VxU63X9VHCLWDAYP.jpg) | ![](https://image.tmdb.org/t/p/w200/jrP9zmdSUpOzzUXpEqPqg3dryUr.jpg) | ![](https://image.tmdb.org/t/p/w200/vtxuPWkdllLNLVyGjKYa267ntuH.jpg) | ![](https://image.tmdb.org/t/p/w200/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg) | ![](https://image.tmdb.org/t/p/w200/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg)
-
-## 5 menos avaliados
-
-**What Men Talk About** | **The Haunted House** | **For Your Consideration** | **Comme t'y es belle!** | **Trafic**
- -- | -- | -- | -- | -- 
-*150* | *151* | *151* | *151* | *153*
-![](https://image.tmdb.org/t/p/w200/kprgQJtu9I5ZWaDHeTTufDIGgaa.jpg) | ![](https://image.tmdb.org/t/p/w200/8AHukXzdfjmFQh3H47YLoYq0Ivn.jpg) | ![](https://image.tmdb.org/t/p/w200/fvXClgY4ZJ7dBxalFuxPgb4nJ9s.jpg) | ![](https://image.tmdb.org/t/p/w200/5FYt6wuObn6eK9CZWnMq4m2fkEJ.jpg) | ![](https://image.tmdb.org/t/p/w200/i68ups46J9bIb1Xnq0f6nxNXBYZ.jpg)
-
-**Gêneros mais comuns:**
-* Comedy (591)
-
-
-**Palavras-chave mais comuns:**
-* high school (35)
-* sports (28)
-* satire (23)
-* family (21)
-* friendship (20)
-* wedding (19)
-* italy (19)
-* male friendship (18)
-* christmas (17)
-* road trip (17)
-* parent child relationship (16)
-* parody (15)
-* remake (15)
-*  (15)
-* drugs (14)
-
-# Cluster 50
-**Total de filmes:** 153
-**Média de ano de lançamento:** 2001
-**Menor ano:** 1916 (Intolerance: Love's Struggle Throughout the Ages)
-**Maior ano:** 2023 (Oppenheimer)
-
-## 5 Mais Velhos 
-
-**Intolerance: Love's Struggle Throughout the Ages** | **The Passion of Joan of Arc** | **Young Mr. Lincoln** | **Day of Wrath** | **Ivan the Terrible, Part I**
- -- | -- | -- | -- | -- 
-*1916* | *1928* | *1939* | *1943* | *1944*
- ![](https://image.tmdb.org/t/p/w200/lJCabs4TMOsKfnl0BmA5Hf16Ezb.jpg) |  ![](https://image.tmdb.org/t/p/w200/8OYGtQlO8k9PcOm49apV62eVJQo.jpg) |  ![](https://image.tmdb.org/t/p/w200/gVHbi2AZfWsZB10FJcwaFV59kIo.jpg) |  ![](https://image.tmdb.org/t/p/w200/jEOqbGLFo8fxHHgYoZVTMVYMoQG.jpg) |  ![](https://image.tmdb.org/t/p/w200/rzFWfdq6CXLCnlfXTTZs9W9dMR2.jpg)
-
-## 5 mais novos
-
-**Oppenheimer** | **Air** | **A Million Miles Away** | **Argentina, 1985** | **The Swimmers**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg) | ![](https://image.tmdb.org/t/p/w200/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg) | ![](https://image.tmdb.org/t/p/w200/kMI3tgxLAZbzGOVlorUBva0kriS.jpg) | ![](https://image.tmdb.org/t/p/w200/u0TFD4YFMfYtNSLxfbWq5cg0KIh.jpg) | ![](https://image.tmdb.org/t/p/w200/2LSh1aWqk7z7dJk6dKNK2HNplSl.jpg)
-
-**Média da nota:** 7,14
-**Menor nota:** 5,89 (The Front Runner)
-**Maior nota:** 8,27 (Jesus)
-
-## 5 mais bem avaliados
-
-**Jesus** | **Oppenheimer** | **Joseph** | **Simone: Woman of the Century** | **Andrei Rublev**
- -- | -- | -- | -- | -- 
-*8,27* | *8,26* | *8,20* | *8,11* | *8,09*
-![](https://image.tmdb.org/t/p/w200/gJpN9q139yF1vaQftCSe1TmqUVt.jpg) | ![](https://image.tmdb.org/t/p/w200/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg) | ![](https://image.tmdb.org/t/p/w200/lBscKQzEJY1XF2ReZT2vIGrMQ1k.jpg) | ![](https://image.tmdb.org/t/p/w200/yyN4d1pz2kd5TNSOKjdTU7aSn2e.jpg) | ![](https://image.tmdb.org/t/p/w200/910xRIUmNJrWH2hkQifBJtoPp5R.jpg)
-
-## 5 menos bem avaliados
-
-**The Front Runner** | **Farewell, My Queen** | **Age of Uprising: The Legend of Michael Kohlhaas** | **Waiting for the Barbarians** | **Factory Girl**
- -- | -- | -- | -- | -- 
-*5,89* | *5,90* | *5,94* | *5,98* | *6,01*
-![](https://image.tmdb.org/t/p/w200/9QKzd31H1bCjMAJ8HoaASWqbHfY.jpg) | ![](https://image.tmdb.org/t/p/w200/iKPFwAzaTjh4fwKMyvZM8T1asDK.jpg) | ![](https://image.tmdb.org/t/p/w200/hlLec0D9nq9TSv5OjbgqPqEDGKK.jpg) | ![](https://image.tmdb.org/t/p/w200/k50gYFDfpAyxcIGjWjnXAaOM81e.jpg) | ![](https://image.tmdb.org/t/p/w200/AnST5KCSSzUGGh7rbhtrqSkB70f.jpg)
-
-**Média de votos:** 1130,0
-**Menor votos:** 150 (Young Mr. Lincoln)
-**Maior votos:** 10603 (12 Years a Slave)
-
-## 5 mais avaliados
-
-**12 Years a Slave** | **Hidden Figures** | **The King's Speech** | **Dallas Buyers Club** | **Spotlight**
- -- | -- | -- | -- | -- 
-*10603* | *8958* | *8145* | *8004* | *7765*
-![](https://image.tmdb.org/t/p/w200/xdANQijuNrJaw1HA61rDccME4Tm.jpg) | ![](https://image.tmdb.org/t/p/w200/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg) | ![](https://image.tmdb.org/t/p/w200/uQ538BfYLDJh3GXlzRZLo0j7PFj.jpg) | ![](https://image.tmdb.org/t/p/w200/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg) | ![](https://image.tmdb.org/t/p/w200/gWkgMnIsd8Od7iyhEEKL5G4Qq6J.jpg)
-
-## 5 menos avaliados
-
-**Young Mr. Lincoln** | **Lord of the Ants** | **The Bang Bang Club** | **The King of Laughter** | **The Greatest Story Ever Told**
- -- | -- | -- | -- | -- 
-*150* | *150* | *153* | *154* | *158*
-![](https://image.tmdb.org/t/p/w200/gVHbi2AZfWsZB10FJcwaFV59kIo.jpg) | ![](https://image.tmdb.org/t/p/w200/uPf3jwm4hRRXFyaGYGYPZhpDJd3.jpg) | ![](https://image.tmdb.org/t/p/w200/xyBDhcgxyffS7uomHDLIuvNwvd9.jpg) | ![](https://image.tmdb.org/t/p/w200/fdQYDpjWdg5YvnJ4i8LC0BHkKsf.jpg) | ![](https://image.tmdb.org/t/p/w200/c21ON7BZn0jwdNl6ibZ1vhXJmpy.jpg)
-
-**Gêneros mais comuns:**
-* Drama (153)
-* History (153)
-
-
-**Palavras-chave mais comuns:**
-* sports (12)
-* christianity (12)
-* 19th century (11)
-* world war ii (11)
-* 1970s (10)
-* bible (10)
-* religion (9)
-* 1960s (8)
-* lgbt (8)
-* historical figure (8)
-* christian film (8)
-* 1930s (7)
-* 1980s (7)
-* 1950s (7)
-* british monarchy (6)
-
-# Cluster 51
-**Total de filmes:** 10
-**Média de ano de lançamento:** 1975
-**Menor ano:** 1936 (The Petrified Forest)
-**Maior ano:** 2001 (Read My Lips)
-
-## 5 Mais Velhos 
-
-**The Petrified Forest** | **The Postman Always Rings Twice** | **Out of the Past** | **Mississippi Mermaid** | **Against All Odds**
- -- | -- | -- | -- | -- 
-*1936* | *1946* | *1947* | *1969* | *1984*
- ![](https://image.tmdb.org/t/p/w200/kjE4pw6mqoA1OJHNLq1aol4y4C1.jpg) |  ![](https://image.tmdb.org/t/p/w200/3qdX948vUXi4q8raUUOHHlbP9q8.jpg) |  ![](https://image.tmdb.org/t/p/w200/xkP7PHExdCDzcBemGaiZCk6oCtZ.jpg) |  ![](https://image.tmdb.org/t/p/w200/l2jsT4bWzGZry34x4k5eNiSquhv.jpg) |  ![](https://image.tmdb.org/t/p/w200/Ac0m41QYoxYBfRoU4cL491vOfEv.jpg)
-
-## 5 mais novos
-
-**Read My Lips** | **Baby Boy** | **Carlito's Way** | **Mona Lisa** | **Witness**
- -- | -- | -- | -- | -- 
-*2001* | *2001* | *1993* | *1986* | *1985*
-![](https://image.tmdb.org/t/p/w200/1YIkOan9JzbBVAQRvq5fIjHHBAP.jpg) | ![](https://image.tmdb.org/t/p/w200/d9b5sDAY2q2u2fWFYZPmt0Cl2p7.jpg) | ![](https://image.tmdb.org/t/p/w200/g6D7mjQtndu768cusGmoEQY9fTB.jpg) | ![](https://image.tmdb.org/t/p/w200/geBGfbhkgKHld8rM9XuLfzPGZ6I.jpg) | ![](https://image.tmdb.org/t/p/w200/rzfewCij3oipDGfs9XjCxIKtRYo.jpg)
-
-**Média da nota:** 7,00
-**Menor nota:** 5,68 (Against All Odds)
-**Maior nota:** 7,83 (Carlito's Way)
-
-## 5 mais bem avaliados
-
-**Carlito's Way** | **Out of the Past** | **Baby Boy** | **Read My Lips** | **Witness**
- -- | -- | -- | -- | -- 
-*7,83* | *7,60* | *7,15* | *7,11* | *7,07*
-![](https://image.tmdb.org/t/p/w200/g6D7mjQtndu768cusGmoEQY9fTB.jpg) | ![](https://image.tmdb.org/t/p/w200/xkP7PHExdCDzcBemGaiZCk6oCtZ.jpg) | ![](https://image.tmdb.org/t/p/w200/d9b5sDAY2q2u2fWFYZPmt0Cl2p7.jpg) | ![](https://image.tmdb.org/t/p/w200/1YIkOan9JzbBVAQRvq5fIjHHBAP.jpg) | ![](https://image.tmdb.org/t/p/w200/rzfewCij3oipDGfs9XjCxIKtRYo.jpg)
-
-## 5 menos bem avaliados
-
-**Against All Odds** | **Mississippi Mermaid** | **Mona Lisa** | **The Postman Always Rings Twice** | **The Petrified Forest**
- -- | -- | -- | -- | -- 
-*5,68* | *6,62* | *6,88* | *7,03* | *7,03*
-![](https://image.tmdb.org/t/p/w200/Ac0m41QYoxYBfRoU4cL491vOfEv.jpg) | ![](https://image.tmdb.org/t/p/w200/l2jsT4bWzGZry34x4k5eNiSquhv.jpg) | ![](https://image.tmdb.org/t/p/w200/geBGfbhkgKHld8rM9XuLfzPGZ6I.jpg) | ![](https://image.tmdb.org/t/p/w200/3qdX948vUXi4q8raUUOHHlbP9q8.jpg) | ![](https://image.tmdb.org/t/p/w200/kjE4pw6mqoA1OJHNLq1aol4y4C1.jpg)
-
-**Média de votos:** 643,0
-**Menor votos:** 169 (Against All Odds)
-**Maior votos:** 2858 (Carlito's Way)
-
-## 5 mais avaliados
-
-**Carlito's Way** | **Witness** | **Out of the Past** | **The Postman Always Rings Twice** | **Read My Lips**
- -- | -- | -- | -- | -- 
-*2858* | *1469* | *513* | *296* | *295*
-![](https://image.tmdb.org/t/p/w200/g6D7mjQtndu768cusGmoEQY9fTB.jpg) | ![](https://image.tmdb.org/t/p/w200/rzfewCij3oipDGfs9XjCxIKtRYo.jpg) | ![](https://image.tmdb.org/t/p/w200/xkP7PHExdCDzcBemGaiZCk6oCtZ.jpg) | ![](https://image.tmdb.org/t/p/w200/3qdX948vUXi4q8raUUOHHlbP9q8.jpg) | ![](https://image.tmdb.org/t/p/w200/1YIkOan9JzbBVAQRvq5fIjHHBAP.jpg)
-
-## 5 menos avaliados
-
-**Against All Odds** | **The Petrified Forest** | **Mississippi Mermaid** | **Mona Lisa** | **Baby Boy**
- -- | -- | -- | -- | -- 
-*169* | *173* | *173* | *206* | *276*
-![](https://image.tmdb.org/t/p/w200/Ac0m41QYoxYBfRoU4cL491vOfEv.jpg) | ![](https://image.tmdb.org/t/p/w200/kjE4pw6mqoA1OJHNLq1aol4y4C1.jpg) | ![](https://image.tmdb.org/t/p/w200/l2jsT4bWzGZry34x4k5eNiSquhv.jpg) | ![](https://image.tmdb.org/t/p/w200/geBGfbhkgKHld8rM9XuLfzPGZ6I.jpg) | ![](https://image.tmdb.org/t/p/w200/d9b5sDAY2q2u2fWFYZPmt0Cl2p7.jpg)
-
-**Gêneros mais comuns:**
-* Crime (10)
-* Drama (10)
-* Romance (10)
-* Thriller (10)
-
-
-**Palavras-chave mais comuns:**
-* gangster (3)
-* neo-noir (3)
-* film noir (3)
-* detective (2)
-* femme fatale (2)
-* black and white (2)
-* diner (2)
-* drifter (2)
-* thief (2)
-* go-go dancer (1)
-* release from prison (1)
-* 1970s (1)
-* puerto rico (1)
-* cocaine (1)
-* nightclub (1)
-
-# Cluster 52
-**Total de filmes:** 46
-**Média de ano de lançamento:** 2002
-**Menor ano:** 1928 (The Cameraman)
-**Maior ano:** 2022 (Good Luck to You, Leo Grande)
-
-## 5 Mais Velhos 
-
-**The Cameraman** | **City Lights** | **Breakfast at Tiffany's** | **The Party 2** | **Pretty in Pink**
- -- | -- | -- | -- | -- 
-*1928* | *1931* | *1961* | *1982* | *1986*
- ![](https://image.tmdb.org/t/p/w200/prhMP7VVxpQTzOFIPsbnr41IDTN.jpg) |  ![](https://image.tmdb.org/t/p/w200/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg) |  ![](https://image.tmdb.org/t/p/w200/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg) |  ![](https://image.tmdb.org/t/p/w200/pbkccDoxH1H1VdqWcQYycZxHTIK.jpg) |  ![](https://image.tmdb.org/t/p/w200/jeFJyzJBufJexpOuywuPp8q2tCJ.jpg)
-
-## 5 mais novos
-
-**Good Luck to You, Leo Grande** | **Toscana** | **The Half of It** | **Cousins** | **Up for Love**
- -- | -- | -- | -- | -- 
-*2022* | *2022* | *2020* | *2019* | *2016*
-![](https://image.tmdb.org/t/p/w200/5wQydIQYho2wz1suPOoPoNgMzCm.jpg) | ![](https://image.tmdb.org/t/p/w200/k9JHEiBkMsqCR5vKREjdOvz91u6.jpg) | ![](https://image.tmdb.org/t/p/w200/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg) | ![](https://image.tmdb.org/t/p/w200/2o0pzmuQKFhuPnz4hvpfjd3BlNR.jpg) | ![](https://image.tmdb.org/t/p/w200/vBOioZKaGacNtx8G7qZeTPqemk7.jpg)
-
-**Média da nota:** 6,57
-**Menor nota:** 5,51 (View from the Top)
-**Maior nota:** 8,31 (City Lights)
-
-## 5 mais bem avaliados
-
-**City Lights** | **The Cameraman** | **Cousins** | **Breakfast at Tiffany's** | **10 Things I Hate About You**
- -- | -- | -- | -- | -- 
-*8,31* | *7,92* | *7,90* | *7,68* | *7,58*
-![](https://image.tmdb.org/t/p/w200/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg) | ![](https://image.tmdb.org/t/p/w200/prhMP7VVxpQTzOFIPsbnr41IDTN.jpg) | ![](https://image.tmdb.org/t/p/w200/2o0pzmuQKFhuPnz4hvpfjd3BlNR.jpg) | ![](https://image.tmdb.org/t/p/w200/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg) | ![](https://image.tmdb.org/t/p/w200/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg)
-
-## 5 menos bem avaliados
-
-**View from the Top** | **The Oranges** | **After Sex** | **The Road to Wellville** | **Four Christmases**
- -- | -- | -- | -- | -- 
-*5,51* | *5,52* | *5,54* | *5,60* | *5,78*
-![](https://image.tmdb.org/t/p/w200/mjKloEexvZcJBbkoX9XKx83B40z.jpg) | ![](https://image.tmdb.org/t/p/w200/3HDjhip7qzvEAb5A0AiJfcUBo22.jpg) | ![](https://image.tmdb.org/t/p/w200/4n41P5CKHFFkQ3s8VJieNmqUkn7.jpg) | ![](https://image.tmdb.org/t/p/w200/zh7OVdFMpqpZ027z9RgVIwzxYjZ.jpg) | ![](https://image.tmdb.org/t/p/w200/zixj44TC7rwzpxtJAG5OzFJnEqe.jpg)
-
-**Média de votos:** 1521,0
-**Menor votos:** 150 (The Road to Wellville)
-**Maior votos:** 7386 (10 Things I Hate About You)
-
-## 5 mais avaliados
-
-**10 Things I Hate About You** | **The Proposal** | **Love Actually** | **Bridget Jones's Diary** | **Breakfast at Tiffany's**
- -- | -- | -- | -- | -- 
-*7386* | *6189* | *6047* | *4635* | *3883*
-![](https://image.tmdb.org/t/p/w200/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg) | ![](https://image.tmdb.org/t/p/w200/aEqtJDj8MvSDQwzggvcOfFTZMw.jpg) | ![](https://image.tmdb.org/t/p/w200/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg) | ![](https://image.tmdb.org/t/p/w200/2GFbvryLXbS2K80oadfzNoPo90O.jpg) | ![](https://image.tmdb.org/t/p/w200/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg)
-
-## 5 menos avaliados
-
-**The Road to Wellville** | **Toscana** | **Saving Face** | **Un + une** | **Camille Rewinds**
- -- | -- | -- | -- | -- 
-*150* | *158* | *178* | *187* | *200*
-![](https://image.tmdb.org/t/p/w200/zh7OVdFMpqpZ027z9RgVIwzxYjZ.jpg) | ![](https://image.tmdb.org/t/p/w200/k9JHEiBkMsqCR5vKREjdOvz91u6.jpg) | ![](https://image.tmdb.org/t/p/w200/4n97kstcOsGq2m5cKRIoyZGm3Cv.jpg) | ![](https://image.tmdb.org/t/p/w200/oC8KSDaNr9C1SbaWz0T7N3MgeHR.jpg) | ![](https://image.tmdb.org/t/p/w200/fDYSELYsjhI7maKW3X71X3qB5BN.jpg)
-
-**Gêneros mais comuns:**
-* Comedy (46)
-* Romance (46)
-* Drama (46)
-
-
-**Palavras-chave mais comuns:**
-* romantic comedy (5)
-* high school (4)
-* coming of age (4)
-* teen movie (4)
-* daughter (4)
-* relationship (4)
-* love (4)
-* lgbt (4)
-* coming out (4)
-* valentine's day (3)
-* holiday (3)
-* christmas (3)
-* best friends (3)
-* loss of loved one (3)
-* small town (3)
-
-# Cluster 53
-**Total de filmes:** 29
-**Média de ano de lançamento:** 2011
-**Menor ano:** 1998 (My Name Is Joe)
-**Maior ano:** 2022 (Rise)
-
-## 5 Mais Velhos 
-
-**My Name Is Joe** | **Any Given Sunday** | **Remember the Titans** | **Girlfight** | **Radio**
- -- | -- | -- | -- | -- 
-*1998* | *1999* | *2000* | *2000* | *2003*
- ![](https://image.tmdb.org/t/p/w200/3hn4DWj6V0UvaZx3d0xjP7jusvP.jpg) |  ![](https://image.tmdb.org/t/p/w200/bysZeUvSPZPJnku4qkHF34CdgMG.jpg) |  ![](https://image.tmdb.org/t/p/w200/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg) |  ![](https://image.tmdb.org/t/p/w200/oLi7gsiT29KH5OoDC3oNMROHxFI.jpg) |  ![](https://image.tmdb.org/t/p/w200/uQ6ci4iFHhB6TWB2f4wftR7AEly.jpg)
-
-## 5 mais novos
-
-**Rise** | **Baggio: The Divine Ponytail** | **American Underdog** | **Bruised** | **High Flying Bird**
- -- | -- | -- | -- | -- 
-*2022* | *2021* | *2021* | *2020* | *2019*
-![](https://image.tmdb.org/t/p/w200/p6FMYJSc9vhyqzMaYOC8yPS7aXQ.jpg) | ![](https://image.tmdb.org/t/p/w200/i0NOqrnE4FhXrk9cHm6DQeRo1Zm.jpg) | ![](https://image.tmdb.org/t/p/w200/u3iXpvLPG4DbmuNY9yPjn1Ei54.jpg) | ![](https://image.tmdb.org/t/p/w200/axibOQF9QnThrr8M37ufAYurP4R.jpg) | ![](https://image.tmdb.org/t/p/w200/ccE21xixa1zhkGtWDr4n8ReOp40.jpg)
-
-**Média da nota:** 6,90
-**Menor nota:** 5,69 (High Flying Bird)
-**Maior nota:** 7,70 (Rise)
-
-## 5 mais bem avaliados
-
-**Rise** | **The Blind Side** | **Remember the Titans** | **Facing the Giants** | **Pelé: Birth of a Legend**
- -- | -- | -- | -- | -- 
-*7,70* | *7,69* | *7,63* | *7,48* | *7,38*
-![](https://image.tmdb.org/t/p/w200/p6FMYJSc9vhyqzMaYOC8yPS7aXQ.jpg) | ![](https://image.tmdb.org/t/p/w200/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg) | ![](https://image.tmdb.org/t/p/w200/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg) | ![](https://image.tmdb.org/t/p/w200/33gkfCURxgBBpiAnrWua4Txmrvs.jpg) | ![](https://image.tmdb.org/t/p/w200/b1XoAl8TJi7zbKO3GUzRUBrpSxq.jpg)
-
-## 5 menos bem avaliados
-
-**High Flying Bird** | **Goal! II: Living the Dream** | **Girlfight** | **The Football Factory** | **Resurrecting the Champ**
- -- | -- | -- | -- | -- 
-*5,69* | *5,97* | *6,24* | *6,30* | *6,34*
-![](https://image.tmdb.org/t/p/w200/ccE21xixa1zhkGtWDr4n8ReOp40.jpg) | ![](https://image.tmdb.org/t/p/w200/vFRuhcZwG3T4WiEG0hnbBdMEYRm.jpg) | ![](https://image.tmdb.org/t/p/w200/oLi7gsiT29KH5OoDC3oNMROHxFI.jpg) | ![](https://image.tmdb.org/t/p/w200/ja76eLRw7XSc1VdlNXEb8ufTIoW.jpg) | ![](https://image.tmdb.org/t/p/w200/rJKTZf2QIhUwvqsfkher1JlLCdZ.jpg)
-
-**Média de votos:** 696,0
-**Menor votos:** 151 (My All American)
-**Maior votos:** 5868 (The Blind Side)
-
-## 5 mais avaliados
-
-**The Blind Side** | **Remember the Titans** | **Any Given Sunday** | **Goal!** | **Pelé: Birth of a Legend**
- -- | -- | -- | -- | -- 
-*5868* | *2415* | *1499* | *1021* | *998*
-![](https://image.tmdb.org/t/p/w200/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg) | ![](https://image.tmdb.org/t/p/w200/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg) | ![](https://image.tmdb.org/t/p/w200/bysZeUvSPZPJnku4qkHF34CdgMG.jpg) | ![](https://image.tmdb.org/t/p/w200/9YZhJGoIbJtrjDYbENGhR6f6SZE.jpg) | ![](https://image.tmdb.org/t/p/w200/b1XoAl8TJi7zbKO3GUzRUBrpSxq.jpg)
-
-## 5 menos avaliados
-
-**My All American** | **Girlfight** | **My Name Is Joe** | **Woodlawn** | **Brian Banks**
- -- | -- | -- | -- | -- 
-*151* | *152* | *159* | *165* | *188*
-![](https://image.tmdb.org/t/p/w200/yFVCCtA5f07vyc9IYscmSJpvoPB.jpg) | ![](https://image.tmdb.org/t/p/w200/oLi7gsiT29KH5OoDC3oNMROHxFI.jpg) | ![](https://image.tmdb.org/t/p/w200/3hn4DWj6V0UvaZx3d0xjP7jusvP.jpg) | ![](https://image.tmdb.org/t/p/w200/BJ1XNBBEiqaCM4SQhHYTrWqCfn.jpg) | ![](https://image.tmdb.org/t/p/w200/4MnCFcFHYAEMG4NBTUKvjhf5AhU.jpg)
-
-**Gêneros mais comuns:**
-* Drama (29)
-
-
-**Palavras-chave mais comuns:**
-* sports (27)
-* american football (11)
-* football (soccer) (6)
-* coach (4)
-* basketball (4)
-* high school football (3)
-* high school (3)
-* american football coach (3)
-* christian (2)
-* friendship (2)
-* 1970s (2)
-* trainer (2)
-* high school sports (2)
-* nfl (national football league) (2)
-* sports agent (2)
-
-# Cluster 54
-**Total de filmes:** 359
-**Média de ano de lançamento:** 2000
-**Menor ano:** 1927 (Wings)
-**Maior ano:** 2023 (Through My Window: Across the Sea)
-
-## 5 Mais Velhos 
-
-**Wings** | **Pandora's Box** | **L'Atalante** | **Port of Shadows** | **Gone with the Wind**
- -- | -- | -- | -- | -- 
-*1927* | *1929* | *1934* | *1938* | *1939*
- ![](https://image.tmdb.org/t/p/w200/kEl6KCBgdmT1Nex3ka0EIWAOmtm.jpg) |  ![](https://image.tmdb.org/t/p/w200/xw5KFcTBYyvu4IzQY5ErgBQ73Eq.jpg) |  ![](https://image.tmdb.org/t/p/w200/sDkQyZnFvHdnp5ZP21RG4teLiDy.jpg) |  ![](https://image.tmdb.org/t/p/w200/6uDVpuGN20qaBfGkP1qhnzB4CvX.jpg) |  ![](https://image.tmdb.org/t/p/w200/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg)
-
-## 5 mais novos
-
-**Through My Window: Across the Sea** | **Beautiful Disaster** | **Love at First Sight** | **Love Again** | **A Beautiful Life**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2023* | *2023*
-![](https://image.tmdb.org/t/p/w200/dAyJqJ8KoglZysttC6BfVmDFQUt.jpg) | ![](https://image.tmdb.org/t/p/w200/7PYB5Qg8iFigpZJxE5qjvWQ4Bea.jpg) | ![](https://image.tmdb.org/t/p/w200/zTTgI92GGVtYIGunown2oWOUDES.jpg) | ![](https://image.tmdb.org/t/p/w200/koswMk0y7jGcyofV1sBccnNtY0B.jpg) | ![](https://image.tmdb.org/t/p/w200/x6PvT4HAkK7phdj54Zao8rY5oBT.jpg)
-
-**Média da nota:** 6,98
-**Menor nota:** 5,52 (Nine)
-**Maior nota:** 8,54 (Lucy Shimmers And The Prince Of Peace)
-
-## 5 mais bem avaliados
-
-**Lucy Shimmers And The Prince Of Peace** | **Your Name.** | **Gabriel's Inferno: Part II** | **A Brighter Summer Day** | **Clouds**
- -- | -- | -- | -- | -- 
-*8,54* | *8,51* | *8,42* | *8,31* | *8,30*
-![](https://image.tmdb.org/t/p/w200/yfnJ5qIYx7q33fY4jqv9Pu95RSg.jpg) | ![](https://image.tmdb.org/t/p/w200/q719jXXEzOoYaps6babgKnONONX.jpg) | ![](https://image.tmdb.org/t/p/w200/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg) | ![](https://image.tmdb.org/t/p/w200/3l8fOAwiN3N5n3hHnZ51eog7Zu2.jpg) | ![](https://image.tmdb.org/t/p/w200/d0OdD1I8qAfETvE9Rp9Voq7R8LR.jpg)
-
-## 5 menos bem avaliados
-
-**Nine** | **Frank & Lola** | **Knight of Cups** | **Southside with You** | **Fame**
- -- | -- | -- | -- | -- 
-*5,52* | *5,57* | *5,64* | *5,66* | *5,69*
-![](https://image.tmdb.org/t/p/w200/bSxdTXktgPQPNwlkQ0DZtuAJXlb.jpg) | ![](https://image.tmdb.org/t/p/w200/fItgZrUw7iUAgQb4CGdSkfT3vlT.jpg) | ![](https://image.tmdb.org/t/p/w200/xejFBC19Nc7Xi1MiIvcf84ZCy2g.jpg) | ![](https://image.tmdb.org/t/p/w200/fEbIZkufqHFMeSpwxH270txk5Ao.jpg) | ![](https://image.tmdb.org/t/p/w200/hm7f9a0BdjV9OLOJ5wFWQq55Jfd.jpg)
-
-**Média de votos:** 1045,0
-**Menor votos:** 150 (Kapoor & Sons)
-**Maior votos:** 15625 (La La Land)
-
-## 5 mais avaliados
-
-**La La Land** | **Her** | **Call Me by Your Name** | **The Fault in Our Stars** | **The Notebook**
- -- | -- | -- | -- | -- 
-*15625* | *13407* | *11367* | *10655* | *10629*
-![](https://image.tmdb.org/t/p/w200/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg) | ![](https://image.tmdb.org/t/p/w200/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg) | ![](https://image.tmdb.org/t/p/w200/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg) | ![](https://image.tmdb.org/t/p/w200/ep7dF4QR4Mm39LI958V0XbwE0hK.jpg) | ![](https://image.tmdb.org/t/p/w200/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg)
-
-## 5 menos avaliados
-
-**Kapoor & Sons** | **Tumbledown** | **Oklahoma!** | **Royalteen** | **Our Lady of the Assassins**
- -- | -- | -- | -- | -- 
-*150* | *151* | *151* | *152* | *152*
-![](https://image.tmdb.org/t/p/w200/oPdcOInH8TqR5udDTDPiDuLSN90.jpg) | ![](https://image.tmdb.org/t/p/w200/6Dg1MqdqAaoia58KaXSNETn3Qya.jpg) | ![](https://image.tmdb.org/t/p/w200/ztqT5GmJVI2o8vShGWRVVqykQqA.jpg) | ![](https://image.tmdb.org/t/p/w200/oK6I9Wa5RIqxpNbJ4NWemsotcYJ.jpg) | ![](https://image.tmdb.org/t/p/w200/q5jT6BBCIWIysr712UIZY7BOGje.jpg)
-
-**Gêneros mais comuns:**
-* Drama (351)
-* Romance (326)
-* Music (84)
-* Comedy (65)
-* War (36)
-* Crime (36)
-* Family (26)
-* Mystery (14)
-* Western (14)
-* Action (8)
-* Adventure (7)
-* Science Fiction (5)
-* Animation (5)
-* Horror (5)
-* History (3)
-* Fantasy (2)
-* Thriller (1)
-
-
-**Palavras-chave mais comuns:**
-* love (37)
-* musical (30)
-* lgbt (17)
-* coming of age (16)
-* high school (15)
-* world war ii (15)
-* love triangle (15)
-* dancing (14)
-* romance (14)
-* sibling relationship (13)
-* 1960s (12)
-* 1940s (12)
-* dance (11)
-* gay theme (11)
-* friendship (11)
-
-# Cluster 55
-**Total de filmes:** 106
-**Média de ano de lançamento:** 1999
-**Menor ano:** 1939 (The Roaring Twenties)
-**Maior ano:** 2022 (Emily the Criminal)
-
-## 5 Mais Velhos 
-
-**The Roaring Twenties** | **Odd Man Out** | **Brute Force** | **White Heat** | **Stray Dog**
- -- | -- | -- | -- | -- 
-*1939* | *1947* | *1947* | *1949* | *1949*
- ![](https://image.tmdb.org/t/p/w200/nkymdElqwJBm2bl3F6hJp4xJggD.jpg) |  ![](https://image.tmdb.org/t/p/w200/1xZkTIATlTtyd7Ybphev8ZTmJA0.jpg) |  ![](https://image.tmdb.org/t/p/w200/xgmmXFbioGOXZTou2FS44yKa54r.jpg) |  ![](https://image.tmdb.org/t/p/w200/4ekAK25fz1FDzRUHuJs171uiVaI.jpg) |  ![](https://image.tmdb.org/t/p/w200/riBzUgeYawBDi2q9PjARjHrQM7Z.jpg)
-
-## 5 mais novos
-
-**Emily the Criminal** | **November** | **Holy Spider** | **Bandit** | **The Little Things**
- -- | -- | -- | -- | -- 
-*2022* | *2022* | *2022* | *2022* | *2021*
-![](https://image.tmdb.org/t/p/w200/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg) | ![](https://image.tmdb.org/t/p/w200/A5wae5M81jLTuv3WbCJfORxapRA.jpg) | ![](https://image.tmdb.org/t/p/w200/6ObJ4x7m1F5QRY06WzOxNJQHwGb.jpg) | ![](https://image.tmdb.org/t/p/w200/yph9PAbmjYPvyvbeZvdYIhCZHEu.jpg) | ![](https://image.tmdb.org/t/p/w200/tLO1aD1ghdtVMT32z2sRmzgYKYd.jpg)
-
-**Média da nota:** 6,90
-**Menor nota:** 5,52 (Terminal)
-**Maior nota:** 8,30 (The Silence of the Lambs)
-
-## 5 mais bem avaliados
-
-**The Silence of the Lambs** | **Memories of Murder** | **No Country for Old Men** | **The Night of the Hunter** | **Fargo**
- -- | -- | -- | -- | -- 
-*8,30* | *8,07* | *7,93* | *7,89* | *7,87*
-![](https://image.tmdb.org/t/p/w200/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg) | ![](https://image.tmdb.org/t/p/w200/lp3Qzzq1zzy6ToJul9DGBBd8ua1.jpg) | ![](https://image.tmdb.org/t/p/w200/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg) | ![](https://image.tmdb.org/t/p/w200/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg) | ![](https://image.tmdb.org/t/p/w200/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg)
-
-## 5 menos bem avaliados
-
-**Terminal** | **The Hypnotist** | **The Skulls** | **Killshot** | **Captive**
- -- | -- | -- | -- | -- 
-*5,52* | *5,56* | *5,70* | *5,73* | *5,74*
-![](https://image.tmdb.org/t/p/w200/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg) | ![](https://image.tmdb.org/t/p/w200/tLVoHZ46TAdHgKVcb1ns0YkQ6KH.jpg) | ![](https://image.tmdb.org/t/p/w200/pYuggibfzm8LWgjnUKMMtii2430.jpg) | ![](https://image.tmdb.org/t/p/w200/ckUhio8KhGDcvFV7g34kYjVLEEW.jpg) | ![](https://image.tmdb.org/t/p/w200/az9yxqEmHLFKuaLuDXcpm6lJ4pB.jpg)
-
-**Média de votos:** 1520,0
-**Menor votos:** 155 (The Friends of Eddie Coyle)
-**Maior votos:** 15003 (The Silence of the Lambs)
-
-## 5 mais avaliados
-
-**The Silence of the Lambs** | **No Country for Old Men** | **Nightcrawler** | **Fargo** | **The Godfather Part III**
- -- | -- | -- | -- | -- 
-*15003* | *10964* | *10032* | *7282* | *5627*
-![](https://image.tmdb.org/t/p/w200/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg) | ![](https://image.tmdb.org/t/p/w200/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg) | ![](https://image.tmdb.org/t/p/w200/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg) | ![](https://image.tmdb.org/t/p/w200/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg) | ![](https://image.tmdb.org/t/p/w200/lm3pQ2QoQ16pextRsmnUbG2onES.jpg)
-
-## 5 menos avaliados
-
-**The Friends of Eddie Coyle** | **Cargo 200** | **The Hypnotist** | **Brute Force** | **Odd Man Out**
- -- | -- | -- | -- | -- 
-*155* | *162* | *165* | *167* | *168*
-![](https://image.tmdb.org/t/p/w200/tyV8Bgf2huCIbGUxTdGgnzdIRKZ.jpg) | ![](https://image.tmdb.org/t/p/w200/8F0vN9BNabjIO6edSlFe3RB7dCy.jpg) | ![](https://image.tmdb.org/t/p/w200/tLVoHZ46TAdHgKVcb1ns0YkQ6KH.jpg) | ![](https://image.tmdb.org/t/p/w200/xgmmXFbioGOXZTou2FS44yKa54r.jpg) | ![](https://image.tmdb.org/t/p/w200/1xZkTIATlTtyd7Ybphev8ZTmJA0.jpg)
-
-**Gêneros mais comuns:**
-* Crime (106)
-* Drama (106)
-* Thriller (106)
-
-
-**Palavras-chave mais comuns:**
-* murder (22)
-* neo-noir (13)
-* revenge (13)
-* police (11)
-* serial killer (9)
-* gangster (9)
-* film noir (9)
-* kidnapping (8)
-* fbi (8)
-* money (8)
-* detective (8)
-* drugs (8)
-* organized crime (7)
-* psychopath (6)
-* italy (6)
-
-# Cluster 56
-**Total de filmes:** 44
-**Média de ano de lançamento:** 1995
-**Menor ano:** 1945 (And Then There Were None)
-**Maior ano:** 2021 (No Sudden Move)
-
-## 5 Mais Velhos 
-
-**And Then There Were None** | **D.O.A.** | **Rashomon** | **Anatomy of a Murder** | **The Trial**
- -- | -- | -- | -- | -- 
-*1945* | *1949* | *1950* | *1959* | *1962*
- ![](https://image.tmdb.org/t/p/w200/maV1jQZ58NZIjwRbdtmRcaW3fZo.jpg) |  ![](https://image.tmdb.org/t/p/w200/m7wZXWOt9XQKJT8r9pbAFo7jB46.jpg) |  ![](https://image.tmdb.org/t/p/w200/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg) |  ![](https://image.tmdb.org/t/p/w200/zMxLbSPpToTCc6yK2Gddhx6nHNN.jpg) |  ![](https://image.tmdb.org/t/p/w200/2o1oe54a4doiwB4uJq9Kx1RHal0.jpg)
-
-## 5 mais novos
-
-**No Sudden Move** | **Under the Silver Lake** | **Everybody Knows** | **The Outsider** | **Wind River**
- -- | -- | -- | -- | -- 
-*2021* | *2018* | *2018* | *2018* | *2017*
-![](https://image.tmdb.org/t/p/w200/34BmdJkdvRweC3xJJFlOFQ2IbYc.jpg) | ![](https://image.tmdb.org/t/p/w200/cJ9aKlEgTLYtpYjNqin06YqJRUl.jpg) | ![](https://image.tmdb.org/t/p/w200/1TuuM451os3NaltCwGfPCVL2BST.jpg) | ![](https://image.tmdb.org/t/p/w200/m2riQcEzjVrkP8wKHDXwC5EQpHQ.jpg) | ![](https://image.tmdb.org/t/p/w200/pySivdR845Hom4u4T2WNkJxe6Ad.jpg)
-
-**Média da nota:** 6,87
-**Menor nota:** 5,69 (The Flock)
-**Maior nota:** 8,33 (High and Low)
-
-## 5 mais bem avaliados
-
-**High and Low** | **Rashomon** | **Chinatown** | **Anatomy of a Murder** | **Mother**
- -- | -- | -- | -- | -- 
-*8,33* | *8,12* | *7,92* | *7,84* | *7,73*
-![](https://image.tmdb.org/t/p/w200/tgNjemQPG96uIezpiUiXFcer5ga.jpg) | ![](https://image.tmdb.org/t/p/w200/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg) | ![](https://image.tmdb.org/t/p/w200/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg) | ![](https://image.tmdb.org/t/p/w200/zMxLbSPpToTCc6yK2Gddhx6nHNN.jpg) | ![](https://image.tmdb.org/t/p/w200/reAEOWk7UA14V1LMKWlK5pzsJui.jpg)
-
-## 5 menos bem avaliados
-
-**The Flock** | **City by the Sea** | **The Two Jakes** | **Jennifer Eight** | **Hollywoodland**
- -- | -- | -- | -- | -- 
-*5,69* | *5,74* | *5,95* | *6,03* | *6,10*
-![](https://image.tmdb.org/t/p/w200/nE68AUtN7QX2xieiqJTQlQecjft.jpg) | ![](https://image.tmdb.org/t/p/w200/vpjKtnE5SGTfmdw4YtJsnrfFJs0.jpg) | ![](https://image.tmdb.org/t/p/w200/5s4QSHgu3GvcBeZ4AqagMIULhyw.jpg) | ![](https://image.tmdb.org/t/p/w200/vFqDqRhNwCLZ9pAJUnwrMP7Y66B.jpg) | ![](https://image.tmdb.org/t/p/w200/iHSbYI7l9ID1vuH3PiM4CWek38g.jpg)
-
-**Média de votos:** 1254,0
-**Menor votos:** 153 (D.O.A.)
-**Maior votos:** 9597 (Zodiac)
-
-## 5 mais avaliados
-
-**Zodiac** | **Wind River** | **Changeling** | **Chinatown** | **Gone Baby Gone**
- -- | -- | -- | -- | -- 
-*9597* | *4747* | *3877* | *3436* | *3388*
-![](https://image.tmdb.org/t/p/w200/6YmeO4pB7XTh8P8F960O1uA14JO.jpg) | ![](https://image.tmdb.org/t/p/w200/pySivdR845Hom4u4T2WNkJxe6Ad.jpg) | ![](https://image.tmdb.org/t/p/w200/iECXjFF8JkTnNJvik14WbPpc9s9.jpg) | ![](https://image.tmdb.org/t/p/w200/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg) | ![](https://image.tmdb.org/t/p/w200/rm3Dl8DWYGO3UQ3w2kju62L9rkn.jpg)
-
-## 5 menos avaliados
-
-**D.O.A.** | **Lantana** | **The Two Jakes** | **The Flock** | **The Bride Wore Black**
- -- | -- | -- | -- | -- 
-*153* | *183* | *207* | *223* | *224*
-![](https://image.tmdb.org/t/p/w200/m7wZXWOt9XQKJT8r9pbAFo7jB46.jpg) | ![](https://image.tmdb.org/t/p/w200/nTEUCdpDsfVDZJ5H0ndP1EmVtj.jpg) | ![](https://image.tmdb.org/t/p/w200/5s4QSHgu3GvcBeZ4AqagMIULhyw.jpg) | ![](https://image.tmdb.org/t/p/w200/nE68AUtN7QX2xieiqJTQlQecjft.jpg) | ![](https://image.tmdb.org/t/p/w200/iP7kuo3tMyR2hJfqBsssiPnEoik.jpg)
-
-**Gêneros mais comuns:**
-* Crime (44)
-* Drama (44)
-* Mystery (44)
-* Thriller (22)
-
-
-**Palavras-chave mais comuns:**
-* murder (15)
-* neo-noir (8)
-* detective (7)
-* police (6)
-* investigation (6)
-* whodunit (5)
-* rape (5)
+* martial arts (10)
+* spy (8)
+* police (8)
+* fbi (6)
+* kung fu (6)
+* secret agent (5)
+* china (5)
 * kidnapping (5)
-* corruption (4)
-* court case (4)
-* alcoholic (3)
-* police corruption (3)
-* dying and death (3)
-* conspiracy (3)
-* japan (3)
+* parody (5)
+* assassin (4)
+* cia (4)
+* police officer (4)
+* sports (4)
+* robbery (4)
+* gangster (4)
 
-# Cluster 57
-**Total de filmes:** 90
-**Média de ano de lançamento:** 2005
+# Cluster 67
+**Total de filmes:** 92
+**Média de ano de lançamento:** 2006
+**Menor ano:** 1955 (This Island Earth)
+**Maior ano:** 2023 (65)
+
+## 5 Mais Velhos 
+
+**This Island Earth** | **Forbidden Planet** | **Robinson Crusoe on Mars** | **Barbarella** | **Superman**
+ -- | -- | -- | -- | -- 
+*1955* | *1956* | *1964* | *1968* | *1978*
+ ![](https://image.tmdb.org/t/p/w200/2viRDpHmhzQoreZok2auLjkVbSE.jpg) |  ![](https://image.tmdb.org/t/p/w200/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg) |  ![](https://image.tmdb.org/t/p/w200/kzs1HUxP1HzLNdtNQrulZOC69hR.jpg) |  ![](https://image.tmdb.org/t/p/w200/kfaRSR3geV3I65icyHWBBEsE9u.jpg) |  ![](https://image.tmdb.org/t/p/w200/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg)
+
+## 5 mais novos
+
+**65** | **Blue Beetle** | **Justice League: Warworld** | **The Guardians of the Galaxy Holiday Special** | **The Witch: Part 2. The Other One**
+ -- | -- | -- | -- | -- 
+*2023* | *2023* | *2023* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/rzRb63TldOKdKydCvWJM8B6EkPM.jpg) | ![](https://image.tmdb.org/t/p/w200/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg) | ![](https://image.tmdb.org/t/p/w200/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg) | ![](https://image.tmdb.org/t/p/w200/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg) | ![](https://image.tmdb.org/t/p/w200/icQM4lMTEUVYPrSOV3BH9LZjvmY.jpg)
+
+**Média da nota:** 6,48
+**Menor nota:** 4,62 (Battle of the Damned)
+**Maior nota:** 8,36 (Inception)
+
+## 5 mais bem avaliados
+
+**Inception** | **Doctor Who: The Day of the Doctor** | **Doctor Who: Twice Upon a Time** | **Guardians of the Galaxy** | **The Witch: Part 1. The Subversion**
+ -- | -- | -- | -- | -- 
+*8,36* | *8,17* | *8,00* | *7,91* | *7,85*
+![](https://image.tmdb.org/t/p/w200/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg) | ![](https://image.tmdb.org/t/p/w200/yxLra5R61s5J4M5L3mqOY42K5md.jpg) | ![](https://image.tmdb.org/t/p/w200/6QKNt1NtBeA2r9olsDyopgJbk2Q.jpg) | ![](https://image.tmdb.org/t/p/w200/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg) | ![](https://image.tmdb.org/t/p/w200/4i2wo2ja5g2PmUxWa1a2eYIboZf.jpg)
+
+## 5 menos bem avaliados
+
+**Battle of the Damned** | **Wing Commander** | **The Humanity Bureau** | **Jurassic Galaxy** | **Iron Sky: The Coming Race**
+ -- | -- | -- | -- | -- 
+*4,62* | *4,77* | *4,82* | *5,06* | *5,10*
+![](https://image.tmdb.org/t/p/w200/xmGJwTaQ8XTnW4EPNag6Eu2KaTL.jpg) | ![](https://image.tmdb.org/t/p/w200/e3p2vkA4mnFaBlyAIntkZWkzOJW.jpg) | ![](https://image.tmdb.org/t/p/w200/2qf4wJoaYAXwY0Lov4OfBhSGbTQ.jpg) | ![](https://image.tmdb.org/t/p/w200/l2F4yWfLs21lrUyEh4bNOzjTEsb.jpg) | ![](https://image.tmdb.org/t/p/w200/l5t2Nf1F7iQUKTrODg93xmQzZLj.jpg)
+
+**Média de votos:** 3829,0
+**Menor votos:** 86 (The Inhabited Island)
+**Maior votos:** 34495 (Inception)
+
+## 5 mais avaliados
+
+**Inception** | **The Avengers** | **Guardians of the Galaxy** | **Iron Man** | **Ant-Man**
+ -- | -- | -- | -- | -- 
+*34495* | *29166* | *26638* | *24874* | *18730*
+![](https://image.tmdb.org/t/p/w200/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg) | ![](https://image.tmdb.org/t/p/w200/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg) | ![](https://image.tmdb.org/t/p/w200/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg) | ![](https://image.tmdb.org/t/p/w200/78lPtwv72eTNqFW9COBYI0dWDJa.jpg) | ![](https://image.tmdb.org/t/p/w200/8YxOIPrabqkQCOKKbuxaz9IcqhO.jpg)
+
+## 5 menos avaliados
+
+**The Inhabited Island** | **Babylon 5: The River of Souls** | **Babylon 5: A Call to Arms** | **Inhumans: The First Chapter** | **We Are from the Future**
+ -- | -- | -- | -- | -- 
+*86* | *91* | *98* | *101* | *102*
+![](https://image.tmdb.org/t/p/w200/hG2PDKqPZwwC1MTDig3pbTkmXm4.jpg) | ![](https://image.tmdb.org/t/p/w200/bG8H9cnusrothe1HixryGGvSo9S.jpg) | ![](https://image.tmdb.org/t/p/w200/dWn0TBxBOBt45cbyefRSQ6Azu9R.jpg) | ![](https://image.tmdb.org/t/p/w200/cIvgEUM9DjTcgttmDkfi0sk6oxQ.jpg) | ![](https://image.tmdb.org/t/p/w200/wZCPCdmZQI0GmoJPzyraqtLaarc.jpg)
+
+**Gêneros mais comuns:**
+* Science Fiction (92)
+* Adventure (92)
+* Action (63)
+* Comedy (10)
+* Thriller (7)
+* Fantasy (6)
+* Animation (6)
+* Drama (4)
+* Family (4)
+* Mystery (3)
+* Romance (2)
+* Horror (1)
+* TV Movie (1)
+* War (1)
+
+
+**Palavras-chave mais comuns:**
+* superhero (19)
+* alien (16)
+* space (14)
+* dystopia (14)
+* time travel (11)
+* robot (10)
+* marvel cinematic universe (mcu) (8)
+* spacecraft (8)
+* alien invasion (7)
+* super power (7)
+* saving the world (7)
+* space opera (6)
+* monster (5)
+* giant monster (5)
+* giant robot (5)
+
+# Cluster 68
+**Total de filmes:** 85
+**Média de ano de lançamento:** 2001
+**Menor ano:** 1920 (The Scarecrow)
+**Maior ano:** 2022 (Padre no hay mas que uno 3)
+
+## 5 Mais Velhos 
+
+**The Scarecrow** | **Speedy** | **Neither Seen Nor Recognized** | **The Parent Trap** | **Yours, Mine and Ours**
+ -- | -- | -- | -- | -- 
+*1920* | *1928* | *1958* | *1961* | *1968*
+ ![](https://image.tmdb.org/t/p/w200/uTrS56W99XsdeJTboae2Sozt3O1.jpg) |  ![](https://image.tmdb.org/t/p/w200/zWhWaWCCIsnQDsFTAe98ap3R5y.jpg) |  ![](https://image.tmdb.org/t/p/w200/xaDmstMLYQmKo667oHkhCd2ECAr.jpg) |  ![](https://image.tmdb.org/t/p/w200/jaZFWy6ZAvQoMW2mo9xP5gx4URo.jpg) |  ![](https://image.tmdb.org/t/p/w200/sL6uuFSapJNAGYcA4SrUHO5X4gs.jpg)
+
+## 5 mais novos
+
+**Padre no hay mas que uno 3** | **A Not So Merry Christmas** | **You Keep the Kids** | **Father Christmas Is Back** | **The Kids Are Alright: Destination Asturias**
+ -- | -- | -- | -- | -- 
+*2022* | *2022* | *2021* | *2021* | *2021*
+![](https://image.tmdb.org/t/p/w200/k2v9xSPtiyxCNxaRGtj7COwdgG3.jpg) | ![](https://image.tmdb.org/t/p/w200/xdZ5BIkQTGjZgCacdQQy7qNnoQ2.jpg) | ![](https://image.tmdb.org/t/p/w200/yo4aBPuyWh8uB2VHPwK1O7R6WwO.jpg) | ![](https://image.tmdb.org/t/p/w200/mI6mFCO3lrJ4ovzwfmoLs58uhlK.jpg) | ![](https://image.tmdb.org/t/p/w200/xxK9GyYqEN8224PxSdkOKYbLPZX.jpg)
+
+**Média da nota:** 6,09
+**Menor nota:** 4,56 (Krippendorf's Tribe)
+**Maior nota:** 8,06 (The Foster Brothers)
+
+## 5 mais bem avaliados
+
+**The Foster Brothers** | **Father There Is Only One 2** | **Padre no hay mas que uno 3** | **Home Alone** | **The Scarecrow**
+ -- | -- | -- | -- | -- 
+*8,06* | *7,52* | *7,50* | *7,41* | *7,40*
+![](https://image.tmdb.org/t/p/w200/jvfuxuFHaQ7R7H3KV8mIWSdzxj7.jpg) | ![](https://image.tmdb.org/t/p/w200/rwPb2AfNzQXjb8sUM6mCzMvN5T3.jpg) | ![](https://image.tmdb.org/t/p/w200/k2v9xSPtiyxCNxaRGtj7COwdgG3.jpg) | ![](https://image.tmdb.org/t/p/w200/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg) | ![](https://image.tmdb.org/t/p/w200/uTrS56W99XsdeJTboae2Sozt3O1.jpg)
+
+## 5 menos bem avaliados
+
+**Krippendorf's Tribe** | **Father Christmas Is Back** | **Air Bud: World Pup** | **Ernest Goes to Jail** | **Air Bud: Golden Receiver**
+ -- | -- | -- | -- | -- 
+*4,56* | *4,67* | *4,89* | *4,89* | *4,89*
+![](https://image.tmdb.org/t/p/w200/sO7JLE22pL17vuFGY7ZPpZyHWC.jpg) | ![](https://image.tmdb.org/t/p/w200/mI6mFCO3lrJ4ovzwfmoLs58uhlK.jpg) | ![](https://image.tmdb.org/t/p/w200/xnoKBYR4CBjYfxT66JPdyXrINoh.jpg) | ![](https://image.tmdb.org/t/p/w200/w1k8SgODFQOk9wHjX4mi8QdkYAO.jpg) | ![](https://image.tmdb.org/t/p/w200/y3ohh9NyWx2oj2op1dfrkwJMeFE.jpg)
+
+**Média de votos:** 684,0
+**Menor votos:** 78 (Speedy)
+**Maior votos:** 10140 (Home Alone)
+
+## 5 mais avaliados
+
+**Home Alone** | **Marley & Me** | **The Parent Trap** | **Home Alone 3** | **Mr. Popper's Penguins**
+ -- | -- | -- | -- | -- 
+*10140* | *4312* | *3792* | *2764* | *2712*
+![](https://image.tmdb.org/t/p/w200/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg) | ![](https://image.tmdb.org/t/p/w200/vMNqPN7EdRjqHnccCqtEkC61r3y.jpg) | ![](https://image.tmdb.org/t/p/w200/dNqgjqxHIdfsQRQL5XTujNfX9pj.jpg) | ![](https://image.tmdb.org/t/p/w200/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg) | ![](https://image.tmdb.org/t/p/w200/jGwZ1QI5DaL7mHQ2ZsMV1p8xvPS.jpg)
+
+## 5 menos avaliados
+
+**Speedy** | **Krippendorf's Tribe** | **Little Big League** | **Judy Moody and the Not Bummer Summer** | **Little Spirou**
+ -- | -- | -- | -- | -- 
+*78* | *78* | *80* | *81* | *86*
+![](https://image.tmdb.org/t/p/w200/zWhWaWCCIsnQDsFTAe98ap3R5y.jpg) | ![](https://image.tmdb.org/t/p/w200/sO7JLE22pL17vuFGY7ZPpZyHWC.jpg) | ![](https://image.tmdb.org/t/p/w200/dyZ6Agvh2yAFe91J8pJroAPCZgh.jpg) | ![](https://image.tmdb.org/t/p/w200/2wUv3WHntf47RHkbiTLZVuUhN9n.jpg) | ![](https://image.tmdb.org/t/p/w200/pnofxR6iKomeHJIrKxWbeeBPaR.jpg)
+
+**Gêneros mais comuns:**
+* Comedy (85)
+* Family (85)
+
+
+**Palavras-chave mais comuns:**
+* christmas (13)
+* sports (11)
+* holiday (10)
+* dog (9)
+* family (8)
+* remake (7)
+* family relationships (5)
+* slapstick comedy (5)
+* mischievous child (4)
+* husband wife relationship (4)
+* father son relationship (4)
+* competition (4)
+* little boy (3)
+* precocious child (3)
+* puppy (3)
+
+# Cluster 69
+**Total de filmes:** 126
+**Média de ano de lançamento:** 1995
+**Menor ano:** 1933 (She Done Him Wrong)
+**Maior ano:** 2023 (Murder Mystery 2)
+
+## 5 Mais Velhos 
+
+**She Done Him Wrong** | **Arsenic and Old Lace** | **Whisky Galore!** | **The Lavender Hill Mob** | **The Red Inn**
+ -- | -- | -- | -- | -- 
+*1933* | *1944* | *1949* | *1951* | *1951*
+ ![](https://image.tmdb.org/t/p/w200/kwxAUj8tf9kO2ESAriD8foYN28q.jpg) |  ![](https://image.tmdb.org/t/p/w200/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg) |  ![](https://image.tmdb.org/t/p/w200/4qz5Oc3hgXx4eBx7vkqLfG58J9X.jpg) |  ![](https://image.tmdb.org/t/p/w200/k0MfdrAshO2247Z9xu1FyulK5i9.jpg) |  ![](https://image.tmdb.org/t/p/w200/oeQf19yeZBtBPv0qEuCz48qGABV.jpg)
+
+## 5 mais novos
+
+**Murder Mystery 2** | **Murder Party** | **Cruella** | **Queenpins** | **Do You Do You Saint-Tropez**
+ -- | -- | -- | -- | -- 
+*2023* | *2022* | *2021* | *2021* | *2021*
+![](https://image.tmdb.org/t/p/w200/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg) | ![](https://image.tmdb.org/t/p/w200/9gWhCXuc2pRMKEILbJGzQBopkx3.jpg) | ![](https://image.tmdb.org/t/p/w200/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg) | ![](https://image.tmdb.org/t/p/w200/55uYpBNnlsUE9fCb3Eibx7F4zps.jpg) | ![](https://image.tmdb.org/t/p/w200/bWpIB5MWhH3vDmNUOC1PuE0ejt1.jpg)
+
+**Média da nota:** 6,36
+**Menor nota:** 4,50 (Police Academy: Mission to Moscow)
+**Maior nota:** 8,13 (Lock, Stock and Two Smoking Barrels)
+
+## 5 mais bem avaliados
+
+**Lock, Stock and Two Smoking Barrels** | **Big Deal on Madonna Street** | **Cruella** | **The Big Lebowski** | **The Gentlemen**
+ -- | -- | -- | -- | -- 
+*8,13* | *8,11* | *8,06* | *7,84* | *7,68*
+![](https://image.tmdb.org/t/p/w200/8kSerJrhrJWKLk1LViesGcnrUPE.jpg) | ![](https://image.tmdb.org/t/p/w200/f5OxD8Nl0pR3DcYHtYhHRfpsmjl.jpg) | ![](https://image.tmdb.org/t/p/w200/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg) | ![](https://image.tmdb.org/t/p/w200/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg) | ![](https://image.tmdb.org/t/p/w200/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg)
+
+## 5 menos bem avaliados
+
+**Police Academy: Mission to Moscow** | **The Big Bounce** | **8 Heads in a Duffel Bag** | **Loose Cannons** | **Police Academy 6: City Under Siege**
+ -- | -- | -- | -- | -- 
+*4,50* | *4,90* | *4,99* | *5,00* | *5,10*
+![](https://image.tmdb.org/t/p/w200/3517XQ9LpoEykyYq2TuDNS45MPP.jpg) | ![](https://image.tmdb.org/t/p/w200/x03suj1pUhtafDDqeXc8cFkDQ7n.jpg) | ![](https://image.tmdb.org/t/p/w200/nU8O2qyWrpdtMeYYaVNTr5LHmj6.jpg) | ![](https://image.tmdb.org/t/p/w200/ezzfFY9S8r4PkhXLqw9x7gAaStd.jpg) | ![](https://image.tmdb.org/t/p/w200/gRFJ3xLewH1rwEplZBfKS4vGpFV.jpg)
+
+**Média de votos:** 956,0
+**Menor votos:** 79 (Loose Cannons)
+**Maior votos:** 10390 (The Big Lebowski)
+
+## 5 mais avaliados
+
+**The Big Lebowski** | **Cruella** | **We're the Millers** | **Lock, Stock and Two Smoking Barrels** | **Horrible Bosses**
+ -- | -- | -- | -- | -- 
+*10390* | *8507* | *8306* | *6072* | *5940*
+![](https://image.tmdb.org/t/p/w200/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg) | ![](https://image.tmdb.org/t/p/w200/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg) | ![](https://image.tmdb.org/t/p/w200/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg) | ![](https://image.tmdb.org/t/p/w200/8kSerJrhrJWKLk1LViesGcnrUPE.jpg) | ![](https://image.tmdb.org/t/p/w200/uQkUwgyFHAm0jGQERPG6Z9o9Zbj.jpg)
+
+## 5 menos avaliados
+
+**Loose Cannons** | **Leberkäsjunkie** | **Griessnockerlaffaere** | **Murder Party** | **The Red Inn**
+ -- | -- | -- | -- | -- 
+*79* | *80* | *80* | *82* | *85*
+![](https://image.tmdb.org/t/p/w200/ezzfFY9S8r4PkhXLqw9x7gAaStd.jpg) | ![](https://image.tmdb.org/t/p/w200/gMCNiOVCSxg4C7per145CVVFd18.jpg) | ![](https://image.tmdb.org/t/p/w200/8I9AqTEUrPiltwxgWg442YngqyI.jpg) | ![](https://image.tmdb.org/t/p/w200/9gWhCXuc2pRMKEILbJGzQBopkx3.jpg) | ![](https://image.tmdb.org/t/p/w200/oeQf19yeZBtBPv0qEuCz48qGABV.jpg)
+
+**Gêneros mais comuns:**
+* Comedy (126)
+* Crime (126)
+
+
+**Palavras-chave mais comuns:**
+* police (9)
+* prison (9)
+* dark comedy (8)
+* gangster (8)
+* murder (8)
+* heist (8)
+* marijuana (6)
+* slapstick comedy (6)
+* kidnapping (5)
+* criminal (5)
+* spoof (5)
+* mafia (5)
+* investigation (5)
+* robbery (4)
+* undercover (4)
+
+# Cluster 70
+**Total de filmes:** 115
+**Média de ano de lançamento:** 2006
 **Menor ano:** 1966 (Tokyo Drifter)
 **Maior ano:** 2023 (Fast X)
 
@@ -4891,31 +6673,31 @@ Versão resumida dos clusters
 
 ## 5 mais novos
 
-**Fast X** | **Kill Boksoon** | **Lost Bullet 2** | **The Killer** | **Last Looks**
+**Fast X** | **Kill Boksoon** | **Detective Knight: Independence** | **Lost Bullet 2** | **The Killer**
  -- | -- | -- | -- | -- 
-*2023* | *2023* | *2022* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/fiVW06jE7z9YnO4trhaMEdclSiC.jpg) | ![](https://image.tmdb.org/t/p/w200/7QKkvGgwMCvYrdkyNFgxfLESBtx.jpg) | ![](https://image.tmdb.org/t/p/w200/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg) | ![](https://image.tmdb.org/t/p/w200/5IQqdtTq1wH5YJynx86Ysi4sDVt.jpg) | ![](https://image.tmdb.org/t/p/w200/ud0XdA2xAghDR66j3I84DnNlC2g.jpg)
+*2023* | *2023* | *2023* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/fiVW06jE7z9YnO4trhaMEdclSiC.jpg) | ![](https://image.tmdb.org/t/p/w200/7QKkvGgwMCvYrdkyNFgxfLESBtx.jpg) | ![](https://image.tmdb.org/t/p/w200/jrPKVQGjc3YZXm07OYMriIB47HM.jpg) | ![](https://image.tmdb.org/t/p/w200/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg) | ![](https://image.tmdb.org/t/p/w200/5IQqdtTq1wH5YJynx86Ysi4sDVt.jpg)
 
-**Média da nota:** 6,49
-**Menor nota:** 5,51 (7 Seconds)
+**Média da nota:** 6,38
+**Menor nota:** 5,11 (Precious Cargo)
 **Maior nota:** 8,02 (Nobody)
 
 ## 5 mais bem avaliados
 
-**Nobody** | **Kill Bill: The Whole Bloody Affair** | **The Killer** | **Kill Bill: Vol. 2** | **The Raid 2**
+**Nobody** | **Kill Bill: The Whole Bloody Affair** | **The Killer** | **Gangs of Wasseypur - Part 2** | **Kill Bill: Vol. 2**
  -- | -- | -- | -- | -- 
-*8,02* | *7,98* | *7,90* | *7,88* | *7,63*
-![](https://image.tmdb.org/t/p/w200/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg) | ![](https://image.tmdb.org/t/p/w200/dY9UpmPuIlof7yewacccw3NVJhT.jpg) | ![](https://image.tmdb.org/t/p/w200/5IQqdtTq1wH5YJynx86Ysi4sDVt.jpg) | ![](https://image.tmdb.org/t/p/w200/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg) | ![](https://image.tmdb.org/t/p/w200/olA39iaXISiKEkACdELgr0ZRvIF.jpg)
+*8,02* | *7,98* | *7,90* | *7,90* | *7,88*
+![](https://image.tmdb.org/t/p/w200/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg) | ![](https://image.tmdb.org/t/p/w200/dY9UpmPuIlof7yewacccw3NVJhT.jpg) | ![](https://image.tmdb.org/t/p/w200/5IQqdtTq1wH5YJynx86Ysi4sDVt.jpg) | ![](https://image.tmdb.org/t/p/w200/4CVPyT10Cvw9BCgWNKXiRcXntuc.jpg) | ![](https://image.tmdb.org/t/p/w200/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg)
 
 ## 5 menos bem avaliados
 
-**7 Seconds** | **Vanquish** | **Bullet to the Head** | **Machete Kills** | **Acts of Violence**
+**Precious Cargo** | **Bangkok Dangerous** | **Renegades** | **Secret Agents** | **Rage**
  -- | -- | -- | -- | -- 
-*5,51* | *5,51* | *5,58* | *5,59* | *5,66*
-![](https://image.tmdb.org/t/p/w200/VMEpy6MrnTN8rPeIQkyOxebmlW.jpg) | ![](https://image.tmdb.org/t/p/w200/AoWY1gkcNzabh229Icboa1Ff0BM.jpg) | ![](https://image.tmdb.org/t/p/w200/arJfxShfuZPhqfBZZU6DkPZfnjn.jpg) | ![](https://image.tmdb.org/t/p/w200/3i4UgSZmAJXt6Euy5azvknmzsm9.jpg) | ![](https://image.tmdb.org/t/p/w200/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg)
+*5,11* | *5,15* | *5,20* | *5,25* | *5,26*
+![](https://image.tmdb.org/t/p/w200/dOQv2PDBu9bBCZRLeRp6QQYJDr3.jpg) | ![](https://image.tmdb.org/t/p/w200/iTRftxHW8i4H7ONaOiCIwEXjNDJ.jpg) | ![](https://image.tmdb.org/t/p/w200/x5FqQE1iWjIomIVkNwDgw1u2Xkx.jpg) | ![](https://image.tmdb.org/t/p/w200/5tzRPF8TUQ1XTz3UnABCLOhMug4.jpg) | ![](https://image.tmdb.org/t/p/w200/1pC6xTd15iLIs5De7JKQfrDmKyd.jpg)
 
-**Média de votos:** 1578,0
-**Menor votos:** 150 (No Mercy)
+**Média de votos:** 1282,0
+**Menor votos:** 75 (Gangnam Blues)
 **Maior votos:** 12916 (Kill Bill: Vol. 2)
 
 ## 5 mais avaliados
@@ -4927,1952 +6709,954 @@ Versão resumida dos clusters
 
 ## 5 menos avaliados
 
-**No Mercy** | **Crime Story** | **The Takeover** | **Stone Cold** | **Tokyo Drifter**
+**Gangnam Blues** | **Renegades** | **Gangs of Wasseypur - Part 2** | **Asura: The City of Madness** | **Sinners and Saints**
  -- | -- | -- | -- | -- 
-*150* | *154* | *154* | *160* | *163*
-![](https://image.tmdb.org/t/p/w200/e3GLsfBLy7fdM3dJKAkzQlTIqII.jpg) | ![](https://image.tmdb.org/t/p/w200/1LzBLlptRC7ogT8OPi8cb0NrDQb.jpg) | ![](https://image.tmdb.org/t/p/w200/g7rdcofib7HqdlDP1LT7Hmf1f2o.jpg) | ![](https://image.tmdb.org/t/p/w200/4nW7wZKKjzZ5zriDfIjpJcZIyZS.jpg) | ![](https://image.tmdb.org/t/p/w200/dkscSldTB6FGUMMLnInUfKYLfPR.jpg)
+*75* | *77* | *82* | *83* | *86*
+![](https://image.tmdb.org/t/p/w200/fDpiZKiaMk1Gz7y04DlnRmQBtf4.jpg) | ![](https://image.tmdb.org/t/p/w200/x5FqQE1iWjIomIVkNwDgw1u2Xkx.jpg) | ![](https://image.tmdb.org/t/p/w200/4CVPyT10Cvw9BCgWNKXiRcXntuc.jpg) | ![](https://image.tmdb.org/t/p/w200/vJmSw2QFvX5vqdGQSBGe1x7HEcJ.jpg) | ![](https://image.tmdb.org/t/p/w200/UJxJhntlNmceBCxgbXDNi4gG5e.jpg)
 
 **Gêneros mais comuns:**
-* Action (90)
-* Crime (90)
-* Thriller (90)
+* Action (115)
+* Crime (115)
+* Thriller (115)
 
 
 **Palavras-chave mais comuns:**
-* police (16)
-* martial arts (14)
-* murder (14)
-* revenge (12)
+* police (19)
+* murder (17)
+* revenge (16)
+* martial arts (15)
+* kidnapping (12)
+* gangster (12)
 * undercover (11)
-* kidnapping (10)
-* gangster (10)
+* assassin (10)
 * organized crime (9)
+* detective (9)
+* heist (9)
 * action hero (9)
-* assassin (8)
-* neo-noir (7)
-* detective (7)
-* heist (7)
-* hostage (7)
-* fbi (6)
+* neo-noir (8)
+* shootout (8)
+* fbi (7)
 
-# Cluster 58
-**Total de filmes:** 18
-**Média de ano de lançamento:** 2001
-**Menor ano:** 1944 (Laura)
-**Maior ano:** 2022 (The Wonder)
+# Cluster 71
+**Total de filmes:** 20
+**Média de ano de lançamento:** 1983
+**Menor ano:** 1936 (Camille)
+**Maior ano:** 2021 (Lost Illusions)
 
 ## 5 Mais Velhos 
 
-**Laura** | **L'Avventura** | **Picnic at Hanging Rock** | **Exotica** | **The Deep End of the Ocean**
+**Camille** | **The Little Foxes** | **The Magnificent Ambersons** | **The Heiress** | **The Earrings of Madame de...**
  -- | -- | -- | -- | -- 
-*1944* | *1960* | *1975* | *1994* | *1999*
- ![](https://image.tmdb.org/t/p/w200/j0zEiFFrdbZnMXqD3piOtZBJeNB.jpg) |  ![](https://image.tmdb.org/t/p/w200/waQPqPYLouGJXDYGqXmpyLN4PLA.jpg) |  ![](https://image.tmdb.org/t/p/w200/7BAXwmFN4pZDNb9N6kzmAAwdssi.jpg) |  ![](https://image.tmdb.org/t/p/w200/pWcJdcIHjL3P6NaEJKeV6ONfAMV.jpg) |  ![](https://image.tmdb.org/t/p/w200/4Q8g9CfW7EiwxRCpLSDpOmcaEZb.jpg)
+*1936* | *1941* | *1942* | *1949* | *1953*
+ ![](https://image.tmdb.org/t/p/w200/78p9egiU16QpJNvmSVa4Vnr0JUK.jpg) |  ![](https://image.tmdb.org/t/p/w200/mB3qcYHdZp9iuWECcV1HiXwn5Np.jpg) |  ![](https://image.tmdb.org/t/p/w200/4QvsFW2cRY20GVpMQNcG406YVxP.jpg) |  ![](https://image.tmdb.org/t/p/w200/zcut0Y6PfcjBJKIyOpc0QDFS9jK.jpg) |  ![](https://image.tmdb.org/t/p/w200/hBhpZjOA1G99FXdENq0zUwEEcR3.jpg)
 
 ## 5 mais novos
 
-**The Wonder** | **The Tale** | **An Interview with God** | **Long Day's Journey into Night** | **Antiporno**
+**Lost Illusions** | **Radioactive** | **Downton Abbey** | **Ophelia** | **An Impossible Love**
  -- | -- | -- | -- | -- 
-*2022* | *2018* | *2018* | *2018* | *2017*
-![](https://image.tmdb.org/t/p/w200/kQAFHdt3I1TpYhtzcGeBb1ogwUP.jpg) | ![](https://image.tmdb.org/t/p/w200/aguq47xq3qhN807rSyz4lJyhAkX.jpg) | ![](https://image.tmdb.org/t/p/w200/d9TeB8VLCgwSph2OSYK3lcHGf1f.jpg) | ![](https://image.tmdb.org/t/p/w200/8wUxYW7v2sahnFwipwzjRo8Z3sP.jpg) | ![](https://image.tmdb.org/t/p/w200/1hL1OlEHPuqZAK2QXR8tCHCGMZR.jpg)
+*2021* | *2020* | *2019* | *2019* | *2018*
+![](https://image.tmdb.org/t/p/w200/vLr7juofGqjOI2CyJ7hEKBXymxu.jpg) | ![](https://image.tmdb.org/t/p/w200/akHIQu8W3rOgT28r25ggXaKcQIr.jpg) | ![](https://image.tmdb.org/t/p/w200/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg) | ![](https://image.tmdb.org/t/p/w200/we449l0ZIgjJHDVFSrpnuYfp0i3.jpg) | ![](https://image.tmdb.org/t/p/w200/phFDdkD7BHrKsISBOZrj9Q4gRIL.jpg)
 
-**Média da nota:** 6,90
-**Menor nota:** 5,90 (Birth)
-**Maior nota:** 7,65 (Laura)
+**Média da nota:** 7,06
+**Menor nota:** 6,30 (Lancelot of the Lake)
+**Maior nota:** 7,74 (The Twilight Samurai)
 
 ## 5 mais bem avaliados
 
-**Laura** | **L'Avventura** | **The White Ribbon** | **The Past** | **Picnic at Hanging Rock**
+**The Twilight Samurai** | **The Heiress** | **Memoirs of a Geisha** | **The Earrings of Madame de...** | **Lost Illusions**
  -- | -- | -- | -- | -- 
-*7,65* | *7,60* | *7,50* | *7,29* | *7,20*
-![](https://image.tmdb.org/t/p/w200/j0zEiFFrdbZnMXqD3piOtZBJeNB.jpg) | ![](https://image.tmdb.org/t/p/w200/waQPqPYLouGJXDYGqXmpyLN4PLA.jpg) | ![](https://image.tmdb.org/t/p/w200/2PG3qxNZooyMvDz8YaFU8YpVe0r.jpg) | ![](https://image.tmdb.org/t/p/w200/8nff89qjYN3Hck5G33xeRPsM8TZ.jpg) | ![](https://image.tmdb.org/t/p/w200/7BAXwmFN4pZDNb9N6kzmAAwdssi.jpg)
+*7,74* | *7,70* | *7,67* | *7,64* | *7,49*
+![](https://image.tmdb.org/t/p/w200/bB2M8UF8wc9flfGWkcgkTTf8Mzr.jpg) | ![](https://image.tmdb.org/t/p/w200/zcut0Y6PfcjBJKIyOpc0QDFS9jK.jpg) | ![](https://image.tmdb.org/t/p/w200/pBwYsQaSTgnPphIy02DJjCF2cqs.jpg) | ![](https://image.tmdb.org/t/p/w200/hBhpZjOA1G99FXdENq0zUwEEcR3.jpg) | ![](https://image.tmdb.org/t/p/w200/vLr7juofGqjOI2CyJ7hEKBXymxu.jpg)
 
 ## 5 menos bem avaliados
 
-**Birth** | **Proof** | **The Deep End of the Ocean** | **Exotica** | **The Wonder**
+**Lancelot of the Lake** | **The French Lieutenant's Woman** | **An Impossible Love** | **Radioactive** | **The Other Boleyn Girl**
  -- | -- | -- | -- | -- 
-*5,90* | *6,29* | *6,43* | *6,61* | *6,64*
-![](https://image.tmdb.org/t/p/w200/6NY23F5HKQ6PrnBJmSgAK6e4et7.jpg) | ![](https://image.tmdb.org/t/p/w200/6K6P5uEBQ3a5uncF9OJSZvLKT8y.jpg) | ![](https://image.tmdb.org/t/p/w200/4Q8g9CfW7EiwxRCpLSDpOmcaEZb.jpg) | ![](https://image.tmdb.org/t/p/w200/pWcJdcIHjL3P6NaEJKeV6ONfAMV.jpg) | ![](https://image.tmdb.org/t/p/w200/kQAFHdt3I1TpYhtzcGeBb1ogwUP.jpg)
+*6,30* | *6,42* | *6,57* | *6,61* | *6,70*
+![](https://image.tmdb.org/t/p/w200/mF5BQro2PC7YG4XY6i70jwXOzbl.jpg) | ![](https://image.tmdb.org/t/p/w200/yS5FsEttHhTaCbLIc7ACGVoafGm.jpg) | ![](https://image.tmdb.org/t/p/w200/phFDdkD7BHrKsISBOZrj9Q4gRIL.jpg) | ![](https://image.tmdb.org/t/p/w200/akHIQu8W3rOgT28r25ggXaKcQIr.jpg) | ![](https://image.tmdb.org/t/p/w200/9zD3hXV24zJzYvSuakXZU8yMEY4.jpg)
 
-**Média de votos:** 704,0
-**Menor votos:** 156 (Under the Sand)
-**Maior votos:** 2675 (Nymphomaniac: Vol. II)
+**Média de votos:** 512,0
+**Menor votos:** 75 (Far from the Madding Crowd)
+**Maior votos:** 2790 (Memoirs of a Geisha)
 
 ## 5 mais avaliados
 
-**Nymphomaniac: Vol. II** | **Winter's Bone** | **Brick** | **The White Ribbon** | **Laura**
+**Memoirs of a Geisha** | **The Other Boleyn Girl** | **Downton Abbey** | **Radioactive** | **Anna and the King**
  -- | -- | -- | -- | -- 
-*2675* | *1624* | *1111* | *931* | *704*
-![](https://image.tmdb.org/t/p/w200/fYLbO4UpumgNHVnsyDQkXG87Q1k.jpg) | ![](https://image.tmdb.org/t/p/w200/a0qhPkNlxLfsf5B2jFyI1Pp04XV.jpg) | ![](https://image.tmdb.org/t/p/w200/5WVk8JpNIxepn4fpZzQeCumkOL5.jpg) | ![](https://image.tmdb.org/t/p/w200/2PG3qxNZooyMvDz8YaFU8YpVe0r.jpg) | ![](https://image.tmdb.org/t/p/w200/j0zEiFFrdbZnMXqD3piOtZBJeNB.jpg)
+*2790* | *1892* | *1027* | *734* | *700*
+![](https://image.tmdb.org/t/p/w200/pBwYsQaSTgnPphIy02DJjCF2cqs.jpg) | ![](https://image.tmdb.org/t/p/w200/9zD3hXV24zJzYvSuakXZU8yMEY4.jpg) | ![](https://image.tmdb.org/t/p/w200/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg) | ![](https://image.tmdb.org/t/p/w200/akHIQu8W3rOgT28r25ggXaKcQIr.jpg) | ![](https://image.tmdb.org/t/p/w200/PIlOkljucv7HnvATbn4JwrAvSn.jpg)
 
 ## 5 menos avaliados
 
-**Under the Sand** | **Long Day's Journey into Night** | **An Interview with God** | **Exotica** | **Antiporno**
+**Far from the Madding Crowd** | **Lancelot of the Lake** | **Lady Jane** | **Lola Montès** | **Camille**
  -- | -- | -- | -- | -- 
-*156* | *214* | *236* | *266* | *361*
-![](https://image.tmdb.org/t/p/w200/phJFN5d5qtphQoz3QzP7Z7GLAMM.jpg) | ![](https://image.tmdb.org/t/p/w200/8wUxYW7v2sahnFwipwzjRo8Z3sP.jpg) | ![](https://image.tmdb.org/t/p/w200/d9TeB8VLCgwSph2OSYK3lcHGf1f.jpg) | ![](https://image.tmdb.org/t/p/w200/pWcJdcIHjL3P6NaEJKeV6ONfAMV.jpg) | ![](https://image.tmdb.org/t/p/w200/1hL1OlEHPuqZAK2QXR8tCHCGMZR.jpg)
+*75* | *86* | *96* | *103* | *109*
+![](https://image.tmdb.org/t/p/w200/2cCHnpaf5JTRlgO07uulEdUpFkb.jpg) | ![](https://image.tmdb.org/t/p/w200/mF5BQro2PC7YG4XY6i70jwXOzbl.jpg) | ![](https://image.tmdb.org/t/p/w200/2TkWFiSSC9KD4NIZgOsCwy5GoyL.jpg) | ![](https://image.tmdb.org/t/p/w200/ycePcddfSvqaalyPxMvFYT5D8wV.jpg) | ![](https://image.tmdb.org/t/p/w200/78p9egiU16QpJNvmSVa4Vnr0JUK.jpg)
 
 **Gêneros mais comuns:**
-* Drama (18)
-* Mystery (18)
+* Drama (20)
+* Romance (20)
+* History (20)
 
 
 **Palavras-chave mais comuns:**
-* investigation (3)
-* mental illness (2)
-* murder (2)
-* disappearance (2)
-* whodunit (2)
-* murder mystery (2)
-* grief (2)
-* death (2)
-* husband wife relationship (2)
-* bondage (1)
-* whip (1)
-* sexuality (1)
-* masochism (1)
-* sex therapy (1)
-* chapter (1)
+* 19th century (6)
+* period drama (4)
+* japan (2)
+* sibling relationship (2)
+* 1920s (2)
+* royalty (2)
+* 16th century (2)
+* daughter (2)
+* teacher (2)
+* jealousy (2)
+* sword fight (2)
+* love (2)
+* money (2)
+* courtesan (2)
+* tuberculosis (2)
 
-# Cluster 59
-**Total de filmes:** 9
-**Média de ano de lançamento:** 1997
-**Menor ano:** 1941 (The Maltese Falcon)
-**Maior ano:** 2022 (Death on the Nile)
+# Cluster 72
+**Total de filmes:** 153
+**Média de ano de lançamento:** 2008
+**Menor ano:** 1959 (On the Beach)
+**Maior ano:** 2023 (War of the Worlds: The Attack)
 
 ## 5 Mais Velhos 
 
-**The Maltese Falcon** | **The Long Goodbye** | **Presumed Innocent** | **Midnight in the Garden of Good and Evil** | **Femme Fatale**
+**On the Beach** | **Seconds** | **Quatermass and the Pit** | **Bug** | **The Medusa Touch**
  -- | -- | -- | -- | -- 
-*1941* | *1973* | *1990* | *1997* | *2002*
- ![](https://image.tmdb.org/t/p/w200/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg) |  ![](https://image.tmdb.org/t/p/w200/oBhUK54yBJ0aH6u9zCzSV5iV7OP.jpg) |  ![](https://image.tmdb.org/t/p/w200/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg) |  ![](https://image.tmdb.org/t/p/w200/wjOZQfffXsNCV18vrXHLm8XUbPn.jpg) |  ![](https://image.tmdb.org/t/p/w200/i2OgxmZVbIsJxaLiYMjCSewsLty.jpg)
+*1959* | *1966* | *1967* | *1975* | *1978*
+ ![](https://image.tmdb.org/t/p/w200/lTDuj5zalrI0fpQel7UfPHTexTK.jpg) |  ![](https://image.tmdb.org/t/p/w200/5G3q3OvulFTnFdiouaZdD8wjtIc.jpg) |  ![](https://image.tmdb.org/t/p/w200/qjb5lWMJHpS7dzaf6LUVGdPe5KH.jpg) |  ![](https://image.tmdb.org/t/p/w200/fcGZcDb62IdfIKVsVIezKQy9l15.jpg) |  ![](https://image.tmdb.org/t/p/w200/sk523UMvmmiFMsGKxerGiwSQWdZ.jpg)
 
 ## 5 mais novos
 
-**Death on the Nile** | **Crooked House** | **Hangman** | **The World of Kanako** | **Femme Fatale**
+**War of the Worlds: The Attack** | **The Creator** | **The Artifice Girl** | **Last Sentinel** | **Firestarter**
  -- | -- | -- | -- | -- 
-*2022* | *2017* | *2017* | *2014* | *2002*
-![](https://image.tmdb.org/t/p/w200/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg) | ![](https://image.tmdb.org/t/p/w200/n3Nwj7WrV42osuILi4ErBCoqkQl.jpg) | ![](https://image.tmdb.org/t/p/w200/iEpxKeX7SE3aLm9dTRIuk7o2kDA.jpg) | ![](https://image.tmdb.org/t/p/w200/y7JSRcBg1Wm3ZoMI3xsRm6L6N0m.jpg) | ![](https://image.tmdb.org/t/p/w200/i2OgxmZVbIsJxaLiYMjCSewsLty.jpg)
+*2023* | *2023* | *2023* | *2023* | *2022*
+![](https://image.tmdb.org/t/p/w200/c3CUKHtQUvPvp9NSFsKwYsPLAdW.jpg) | ![](https://image.tmdb.org/t/p/w200/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg) | ![](https://image.tmdb.org/t/p/w200/A3qrVjsBd4IZ3QWHMs2x1dwRxuX.jpg) | ![](https://image.tmdb.org/t/p/w200/pD1o9B0ibENdNroYrBCQemG2jnr.jpg) | ![](https://image.tmdb.org/t/p/w200/2MTGip0nfahQ1jPQCZSfCsPBZes.jpg)
 
-**Média da nota:** 6,62
-**Menor nota:** 5,76 (Hangman)
-**Maior nota:** 7,73 (The Maltese Falcon)
+**Média da nota:** 6,26
+**Menor nota:** 4,70 (2036 Origin Unknown)
+**Maior nota:** 8,10 (Eternal Sunshine of the Spotless Mind)
 
 ## 5 mais bem avaliados
 
-**The Maltese Falcon** | **The Long Goodbye** | **Presumed Innocent** | **The World of Kanako** | **Death on the Nile**
+**Eternal Sunshine of the Spotless Mind** | **Blade Runner** | **Mr. Nobody** | **Clara** | **Twelve Monkeys**
  -- | -- | -- | -- | -- 
-*7,73* | *7,43* | *6,77* | *6,47* | *6,46*
-![](https://image.tmdb.org/t/p/w200/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg) | ![](https://image.tmdb.org/t/p/w200/oBhUK54yBJ0aH6u9zCzSV5iV7OP.jpg) | ![](https://image.tmdb.org/t/p/w200/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg) | ![](https://image.tmdb.org/t/p/w200/y7JSRcBg1Wm3ZoMI3xsRm6L6N0m.jpg) | ![](https://image.tmdb.org/t/p/w200/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg)
+*8,10* | *7,93* | *7,83* | *7,61* | *7,60*
+![](https://image.tmdb.org/t/p/w200/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg) | ![](https://image.tmdb.org/t/p/w200/fwhLegA6z40W0DIy6EGXhzDzlOP.jpg) | ![](https://image.tmdb.org/t/p/w200/qNkIONc4Rgmzo23ph7qWp9QfVnW.jpg) | ![](https://image.tmdb.org/t/p/w200/qwEsO4OB5DUpHSl54wSKVOHiu9A.jpg) | ![](https://image.tmdb.org/t/p/w200/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg)
 
 ## 5 menos bem avaliados
 
-**Hangman** | **Femme Fatale** | **Midnight in the Garden of Good and Evil** | **Crooked House** | **Death on the Nile**
+**2036 Origin Unknown** | **Attack of the 50 Ft. Woman** | **Kill Switch** | **Higher Power** | **Supernova**
  -- | -- | -- | -- | -- 
-*5,76* | *6,20* | *6,32* | *6,41* | *6,46*
-![](https://image.tmdb.org/t/p/w200/iEpxKeX7SE3aLm9dTRIuk7o2kDA.jpg) | ![](https://image.tmdb.org/t/p/w200/i2OgxmZVbIsJxaLiYMjCSewsLty.jpg) | ![](https://image.tmdb.org/t/p/w200/wjOZQfffXsNCV18vrXHLm8XUbPn.jpg) | ![](https://image.tmdb.org/t/p/w200/n3Nwj7WrV42osuILi4ErBCoqkQl.jpg) | ![](https://image.tmdb.org/t/p/w200/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg)
+*4,70* | *4,75* | *4,80* | *4,90* | *4,93*
+![](https://image.tmdb.org/t/p/w200/v3StJTYXbU3OZ26Vh1PbczqfyCD.jpg) | ![](https://image.tmdb.org/t/p/w200/xklTXjnDMYKkmWJTe5HlyQ4Mc0T.jpg) | ![](https://image.tmdb.org/t/p/w200/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg) | ![](https://image.tmdb.org/t/p/w200/cplMeBlGdkpDzypHRKZ64BrpLoL.jpg) | ![](https://image.tmdb.org/t/p/w200/AmHGUjhgXnOYRYrF2ZYMtzfwxPe.jpg)
 
-**Média de votos:** 911,0
-**Menor votos:** 153 (The World of Kanako)
-**Maior votos:** 3039 (Death on the Nile)
+**Média de votos:** 1871,0
+**Menor votos:** 75 (Attack of the 50 Ft. Woman)
+**Maior votos:** 14725 (The Hunger Games: Mockingjay - Part 1)
 
 ## 5 mais avaliados
 
-**Death on the Nile** | **The Maltese Falcon** | **Crooked House** | **Presumed Innocent** | **Femme Fatale**
+**The Hunger Games: Mockingjay - Part 1** | **Gravity** | **Eternal Sunshine of the Spotless Mind** | **Blade Runner** | **Dawn of the Planet of the Apes**
  -- | -- | -- | -- | -- 
-*3039* | *1497* | *829* | *593* | *531*
-![](https://image.tmdb.org/t/p/w200/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg) | ![](https://image.tmdb.org/t/p/w200/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg) | ![](https://image.tmdb.org/t/p/w200/n3Nwj7WrV42osuILi4ErBCoqkQl.jpg) | ![](https://image.tmdb.org/t/p/w200/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg) | ![](https://image.tmdb.org/t/p/w200/i2OgxmZVbIsJxaLiYMjCSewsLty.jpg)
+*14725* | *14463* | *13709* | *12770* | *10321*
+![](https://image.tmdb.org/t/p/w200/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg) | ![](https://image.tmdb.org/t/p/w200/kZ2nZw8D681aphje8NJi8EfbL1U.jpg) | ![](https://image.tmdb.org/t/p/w200/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg) | ![](https://image.tmdb.org/t/p/w200/fwhLegA6z40W0DIy6EGXhzDzlOP.jpg) | ![](https://image.tmdb.org/t/p/w200/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg)
 
 ## 5 menos avaliados
 
-**The World of Kanako** | **Midnight in the Garden of Good and Evil** | **Hangman** | **The Long Goodbye** | **Femme Fatale**
+**Attack of the 50 Ft. Woman** | **The Big Step** | **Beyond The Sky** | **Higher Power** | **Bug**
  -- | -- | -- | -- | -- 
-*153* | *512* | *517* | *526* | *531*
-![](https://image.tmdb.org/t/p/w200/y7JSRcBg1Wm3ZoMI3xsRm6L6N0m.jpg) | ![](https://image.tmdb.org/t/p/w200/wjOZQfffXsNCV18vrXHLm8XUbPn.jpg) | ![](https://image.tmdb.org/t/p/w200/iEpxKeX7SE3aLm9dTRIuk7o2kDA.jpg) | ![](https://image.tmdb.org/t/p/w200/oBhUK54yBJ0aH6u9zCzSV5iV7OP.jpg) | ![](https://image.tmdb.org/t/p/w200/i2OgxmZVbIsJxaLiYMjCSewsLty.jpg)
+*75* | *76* | *77* | *78* | *81*
+![](https://image.tmdb.org/t/p/w200/xklTXjnDMYKkmWJTe5HlyQ4Mc0T.jpg) | ![](https://image.tmdb.org/t/p/w200/exU8POhJJHrM5nL2zcmY8JWvltn.jpg) | ![](https://image.tmdb.org/t/p/w200/jACLTZ5Kt54CBEYOx7FSBJd8QFf.jpg) | ![](https://image.tmdb.org/t/p/w200/cplMeBlGdkpDzypHRKZ64BrpLoL.jpg) | ![](https://image.tmdb.org/t/p/w200/fcGZcDb62IdfIKVsVIezKQy9l15.jpg)
 
 **Gêneros mais comuns:**
-* Mystery (9)
-* Crime (9)
-* Thriller (7)
+* Science Fiction (153)
+* Thriller (114)
+* Drama (66)
+* Mystery (56)
+* Action (33)
+* Horror (31)
+* Comedy (19)
+* Romance (17)
+* Crime (8)
+* TV Movie (7)
+* Fantasy (6)
+* Adventure (5)
+* War (1)
+* Music (1)
 
 
 **Palavras-chave mais comuns:**
-* detective (4)
-* murder (3)
-* whodunit (3)
-* loss of loved one (2)
-* private eye (2)
-* infidelity (2)
-* egypt (1)
-* honeymoon (1)
-* nile (1)
-* remake (1)
-* murder mystery (1)
-* 1930s (1)
-* film noir (1)
-* statuette (1)
-* black and white (1)
+* dystopia (26)
+* alien (23)
+* time travel (15)
+* artificial intelligence (a.i.) (13)
+* future (11)
+* murder (11)
+* alien invasion (10)
+* android (8)
+* cyberpunk (8)
+* scientist (8)
+* apocalypse (8)
+* end of the world (7)
+* post-apocalyptic future (6)
+* robot (6)
+* virtual reality (6)
 
-# Cluster 60
-**Total de filmes:** 157
-**Média de ano de lançamento:** 1996
-**Menor ano:** 1932 (Vampyr)
-**Maior ano:** 2023 (Cobweb)
+# Cluster 73
+**Total de filmes:** 65
+**Média de ano de lançamento:** 1993
+**Menor ano:** 1922 (Dr. Mabuse, the Gambler)
+**Maior ano:** 2023 (Chor Nikal Ke Bhaga)
 
 ## 5 Mais Velhos 
 
-**Vampyr** | **White Zombie** | **Meshes of the Afternoon** | **Frankenstein Meets the Wolf Man** | **Dracula**
+**Dr. Mabuse, the Gambler** | **Double Indemnity** | **Kiss of Death** | **Key Largo** | **The Big Clock**
  -- | -- | -- | -- | -- 
-*1932* | *1932* | *1943* | *1943* | *1958*
- ![](https://image.tmdb.org/t/p/w200/yt3JS5JSoZseSohYkhs6FLU9B0O.jpg) |  ![](https://image.tmdb.org/t/p/w200/s5DnfWHGeCExlweIFF4JOHKyx3H.jpg) |  ![](https://image.tmdb.org/t/p/w200/yHjEjRU81RcxKFNU5hhiPYMzlsu.jpg) |  ![](https://image.tmdb.org/t/p/w200/eitxewmvmZXY7qoKpiVhdaFmwMz.jpg) |  ![](https://image.tmdb.org/t/p/w200/1L45hwUu1P4NRhbRRrE5d9oHamm.jpg)
+*1922* | *1944* | *1947* | *1948* | *1948*
+ ![](https://image.tmdb.org/t/p/w200/ysHJDo9do2USU1BhWxcT0WO9WTO.jpg) |  ![](https://image.tmdb.org/t/p/w200/kkfKLeOTo7RjS9TxHKpknlL7huS.jpg) |  ![](https://image.tmdb.org/t/p/w200/3xenZzofvq2rLsCp9R7bTzIHj8t.jpg) |  ![](https://image.tmdb.org/t/p/w200/9ZhQ9iMUtck9DvKm7mfB2332fRr.jpg) |  ![](https://image.tmdb.org/t/p/w200/urnKMXbvNubipGbdqmXpXoNS2OO.jpg)
 
 ## 5 mais novos
 
-**Cobweb** | **The Communion Girl** | **X** | **The Exorcism of God** | **Incantation**
+**Chor Nikal Ke Bhaga** | **Kimi** | **Silk Road** | **Arkansas** | **Domino**
  -- | -- | -- | -- | -- 
-*2023* | *2023* | *2022* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/cGXFosYUHYjjdKrOmA0bbjvzhKz.jpg) | ![](https://image.tmdb.org/t/p/w200/uYxrWr9o44yO0HvVfFFHGu01gfX.jpg) | ![](https://image.tmdb.org/t/p/w200/woTQx9Q4b8aO13jR9dsj8C9JESy.jpg) | ![](https://image.tmdb.org/t/p/w200/hangTmbxpSV4gpHG7MgSlCWSSFa.jpg) | ![](https://image.tmdb.org/t/p/w200/6zltP23zLGPogsHZUazSrrwNuKs.jpg)
+*2023* | *2022* | *2021* | *2020* | *2019*
+![](https://image.tmdb.org/t/p/w200/1MIDERaEUMw1rYDM99tGZPY80Ap.jpg) | ![](https://image.tmdb.org/t/p/w200/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg) | ![](https://image.tmdb.org/t/p/w200/6KxiEWyIDpz1ikmD7nv3GTX4Uoj.jpg) | ![](https://image.tmdb.org/t/p/w200/ieNGttYsxunAANK9LRZa4LdkEqi.jpg) | ![](https://image.tmdb.org/t/p/w200/4ExrDZRhhmZkveXMjUzywc6266q.jpg)
 
-**Média da nota:** 6,39
-**Menor nota:** 5,50 (Diary of the Dead)
-**Maior nota:** 7,72 (The Exorcist)
+**Média da nota:** 6,56
+**Menor nota:** 4,60 (Domino)
+**Maior nota:** 8,13 (Reservoir Dogs)
 
 ## 5 mais bem avaliados
 
-**The Exorcist** | **Meshes of the Afternoon** | **Night of the Living Dead** | **The Birds** | **Suspiria**
+**Reservoir Dogs** | **Double Indemnity** | **Le Samouraï** | **Nine Queens** | **The Big Heat**
  -- | -- | -- | -- | -- 
-*7,72* | *7,68* | *7,62* | *7,52* | *7,50*
-![](https://image.tmdb.org/t/p/w200/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg) | ![](https://image.tmdb.org/t/p/w200/yHjEjRU81RcxKFNU5hhiPYMzlsu.jpg) | ![](https://image.tmdb.org/t/p/w200/iLgyayS7fl6FrWDq7htq8K13WuI.jpg) | ![](https://image.tmdb.org/t/p/w200/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg) | ![](https://image.tmdb.org/t/p/w200/5ya8jTbNZTrCFUx9OwpNBjCivXY.jpg)
+*8,13* | *8,13* | *7,83* | *7,76* | *7,70*
+![](https://image.tmdb.org/t/p/w200/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg) | ![](https://image.tmdb.org/t/p/w200/kkfKLeOTo7RjS9TxHKpknlL7huS.jpg) | ![](https://image.tmdb.org/t/p/w200/p2AqoSPRPDB6QFs79MeYIU0ITNF.jpg) | ![](https://image.tmdb.org/t/p/w200/tabMRXUTTBmprGax6ON2r9yBN0D.jpg) | ![](https://image.tmdb.org/t/p/w200/n1xdAX2g6PU3aqQXmZtY9gXvvEz.jpg)
 
 ## 5 menos bem avaliados
 
-**Diary of the Dead** | **Howl** | **Don't Knock Twice** | **The Rental** | **Sadako vs. Kayako**
+**Domino** | **Anamorph** | **London Fields** | **The Trust** | **The Snowman**
  -- | -- | -- | -- | -- 
-*5,50* | *5,50* | *5,51* | *5,53* | *5,53*
-![](https://image.tmdb.org/t/p/w200/tGktSJW5dPf8QIjmcqum4KOEZPZ.jpg) | ![](https://image.tmdb.org/t/p/w200/XcwP3VGTRVHjc4doNP8w1fdOJ7.jpg) | ![](https://image.tmdb.org/t/p/w200/rxiz9zHLrqC5JfKVPbkKBboiSzI.jpg) | ![](https://image.tmdb.org/t/p/w200/3ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg) | ![](https://image.tmdb.org/t/p/w200/bRNL8q6utwEc2Vog5GwTFgm5NEQ.jpg)
+*4,60* | *5,04* | *5,07* | *5,10* | *5,20*
+![](https://image.tmdb.org/t/p/w200/4ExrDZRhhmZkveXMjUzywc6266q.jpg) | ![](https://image.tmdb.org/t/p/w200/n6cR0n2n98NM3LAisX8eWA63SD0.jpg) | ![](https://image.tmdb.org/t/p/w200/7OfQVm5GexlAREp8FoR4ILxp35T.jpg) | ![](https://image.tmdb.org/t/p/w200/q0bjJiN7CzW0qbNajGPYIRF83qr.jpg) | ![](https://image.tmdb.org/t/p/w200/mKsQ8KMOk0VBX26Ev0Lj6EmfGJu.jpg)
 
-**Média de votos:** 1023,0
-**Menor votos:** 151 (Bed Rest)
-**Maior votos:** 7247 (The Exorcist)
+**Média de votos:** 910,0
+**Menor votos:** 75 (A Violent Separation)
+**Maior votos:** 13296 (Reservoir Dogs)
 
 ## 5 mais avaliados
 
-**The Exorcist** | **Annabelle** | **Final Destination** | **Saw II** | **A Nightmare on Elm Street**
+**Reservoir Dogs** | **Ocean's Thirteen** | **Legend** | **The Call** | **Good Time**
  -- | -- | -- | -- | -- 
-*7247* | *5742* | *5080* | *4790* | *4615*
-![](https://image.tmdb.org/t/p/w200/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg) | ![](https://image.tmdb.org/t/p/w200/yLsuU2P2SpDYFwtZQ7dtfVAf6TE.jpg) | ![](https://image.tmdb.org/t/p/w200/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg) | ![](https://image.tmdb.org/t/p/w200/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg) | ![](https://image.tmdb.org/t/p/w200/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg)
+*13296* | *5859* | *3537* | *2725* | *2617*
+![](https://image.tmdb.org/t/p/w200/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg) | ![](https://image.tmdb.org/t/p/w200/3so07ghzmtbyhpFfzTucEnlfYRO.jpg) | ![](https://image.tmdb.org/t/p/w200/4shf5Alq4KWCKqrAAQe0JGJHYp5.jpg) | ![](https://image.tmdb.org/t/p/w200/bpYVSeoaQ8MURmmqnojoMJEUmQj.jpg) | ![](https://image.tmdb.org/t/p/w200/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg)
 
 ## 5 menos avaliados
 
-**Bed Rest** | **Hello Mary Lou: Prom Night II** | **Bliss** | **Clownhouse** | **Razorback**
+**A Violent Separation** | **Breaking the Girls** | **Under Suspicion** | **Almost Human** | **Suddenly**
  -- | -- | -- | -- | -- 
-*151* | *153* | *154* | *155* | *155*
-![](https://image.tmdb.org/t/p/w200/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg) | ![](https://image.tmdb.org/t/p/w200/9mBMhOieTGqnsDpAW3AKQ3M7eDe.jpg) | ![](https://image.tmdb.org/t/p/w200/ibGjSsaHDOq5YGEo2DhxW8Ycq92.jpg) | ![](https://image.tmdb.org/t/p/w200/l8D1gJCR4zxtgY52TLpzZbMbLBc.jpg) | ![](https://image.tmdb.org/t/p/w200/oTOJxKgURfnOvgsJola43ycfNs0.jpg)
+*75* | *80* | *90* | *95* | *96*
+![](https://image.tmdb.org/t/p/w200/yNlLMfrfPExwqLZSOFbqmkawIpg.jpg) | ![](https://image.tmdb.org/t/p/w200/uS5zSDRhSzdghcLP8bZOZcOURl.jpg) | ![](https://image.tmdb.org/t/p/w200/wnAcBVWvcQzHQEqS8SXXX3YyHbA.jpg) | ![](https://image.tmdb.org/t/p/w200/gEbwgT6fgKCJJWky77Q4TMErvmZ.jpg) | ![](https://image.tmdb.org/t/p/w200/xi0LY541aHVmMGeRQlh1fvnTRri.jpg)
 
 **Gêneros mais comuns:**
-* Horror (157)
+* Crime (65)
+* Thriller (65)
 
 
 **Palavras-chave mais comuns:**
-* murder (34)
-* slasher (19)
-* supernatural (17)
-* serial killer (15)
-* haunted house (15)
-* demon (14)
-* zombie (14)
-* gore (14)
-* ghost (13)
-* psychopath (13)
-* possession (12)
-* sadism (12)
-* woods (12)
-* found footage (10)
-* vampire (10)
+* murder (15)
+* film noir (11)
+* neo-noir (9)
+* heist (8)
+* gangster (8)
+* serial killer (8)
+* police (6)
+* revenge (5)
+* robbery (5)
+* hitman (5)
+* bank robbery (5)
+* psychopath (4)
+* drugs (4)
+* money (4)
+* mobster (4)
 
-# Cluster 61
-**Total de filmes:** 277
-**Média de ano de lançamento:** 2001
-**Menor ano:** 1896 (The Haunted Castle)
-**Maior ano:** 2022 (The School for Good and Evil)
+# Cluster 74
+**Total de filmes:** 53
+**Média de ano de lançamento:** 2006
+**Menor ano:** 1969 (Bob & Carol & Ted & Alice)
+**Maior ano:** 2022 (A Man Called Otto)
 
 ## 5 Mais Velhos 
 
-**The Haunted Castle** | **The Astronomer's Dream** | **Frankenstein** | **The Golem: How He Came into the World** | **The Phantom Carriage**
+**Bob & Carol & Ted & Alice** | **Husbands** | **California Split** | **The Big Chill** | **Stranger Than Paradise**
  -- | -- | -- | -- | -- 
-*1896* | *1898* | *1910* | *1920* | *1921*
- ![](https://image.tmdb.org/t/p/w200/o61cxCGlLdPxzv7BPYitmbDfaeA.jpg) |  ![](https://image.tmdb.org/t/p/w200/hSboBoIJQ2APcVQYOcMSMrbrbhn.jpg) |  ![](https://image.tmdb.org/t/p/w200/xPzF7qW6FFZEzfsnsKqNOncxJNU.jpg) |  ![](https://image.tmdb.org/t/p/w200/7zdqM0MgZBfy3tuJdNO4cWAGBtj.jpg) |  ![](https://image.tmdb.org/t/p/w200/vmhMEj2d8JnKS5jzqJf4kYypKWN.jpg)
+*1969* | *1970* | *1974* | *1983* | *1984*
+ ![](https://image.tmdb.org/t/p/w200/8fDLuB1q3JycYJPK0F65OYO3lAX.jpg) |  ![](https://image.tmdb.org/t/p/w200/482OpzSoSeAVx7KDJlWupLNIf0r.jpg) |  ![](https://image.tmdb.org/t/p/w200/gTwTozw3C7bALqBKqMkZFCwK4Bt.jpg) |  ![](https://image.tmdb.org/t/p/w200/rU8kjMEL5Mn0EWm3gOShPHBEZ4l.jpg) |  ![](https://image.tmdb.org/t/p/w200/Q9wdlNjBOti4JhAjAQXphzShw3.jpg)
 
 ## 5 mais novos
 
-**The School for Good and Evil** | **Werewolf by Night** | **Pearl** | **Men** | **Slumberland**
+**A Man Called Otto** | **Let Them All Talk** | **The Upside** | **Little White Lies 2** | **The Best Is Yet to Come**
  -- | -- | -- | -- | -- 
-*2022* | *2022* | *2022* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg) | ![](https://image.tmdb.org/t/p/w200/jmv7EbqBuEk4V1U7OoSBaxkwawO.jpg) | ![](https://image.tmdb.org/t/p/w200/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg) | ![](https://image.tmdb.org/t/p/w200/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg) | ![](https://image.tmdb.org/t/p/w200/oGd2JUEtr0BZN3pK8yakmoZlVFq.jpg)
+*2022* | *2020* | *2019* | *2019* | *2019*
+![](https://image.tmdb.org/t/p/w200/130H1gap9lFfiTF9iDrqNIkFvC9.jpg) | ![](https://image.tmdb.org/t/p/w200/4mhZqZ7nXL6Dj6PKZSseJxv1qXZ.jpg) | ![](https://image.tmdb.org/t/p/w200/hPZ2caow1PCND6qnerfgn6RTXdm.jpg) | ![](https://image.tmdb.org/t/p/w200/xS1863lQOAS3EkkEWkFENMI6bdY.jpg) | ![](https://image.tmdb.org/t/p/w200/A3aI1wH2lIeKZ5ML4AO0IevACv0.jpg)
 
-**Média da nota:** 6,68
-**Menor nota:** 5,51 (Prevenge)
-**Maior nota:** 8,65 (Macario)
+**Média da nota:** 6,60
+**Menor nota:** 5,19 (ExTerminators)
+**Maior nota:** 7,90 (Perfect Strangers)
 
 ## 5 mais bem avaliados
 
-**Macario** | **The Green Mile** | **It's a Wonderful Life** | **Be with You** | **The Seventh Seal**
+**Perfect Strangers** | **A Man Called Otto** | **Miss You Already** | **Frances Ha** | **Women on the Verge of a Nervous Breakdown**
  -- | -- | -- | -- | -- 
-*8,65* | *8,51* | *8,26* | *8,26* | *8,20*
-![](https://image.tmdb.org/t/p/w200/xX9JGtsnXQAR7e1fWkr7zBuQUHN.jpg) | ![](https://image.tmdb.org/t/p/w200/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg) | ![](https://image.tmdb.org/t/p/w200/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg) | ![](https://image.tmdb.org/t/p/w200/mvstNgM68EyCRWwpArakLhWvvtk.jpg) | ![](https://image.tmdb.org/t/p/w200/wcZ21zrOsy0b52AfAF50XpTiv75.jpg)
+*7,90* | *7,81* | *7,43* | *7,41* | *7,40*
+![](https://image.tmdb.org/t/p/w200/3wknM629Vryofb1HNo2YnLQnQyn.jpg) | ![](https://image.tmdb.org/t/p/w200/130H1gap9lFfiTF9iDrqNIkFvC9.jpg) | ![](https://image.tmdb.org/t/p/w200/cvA686C7O8MwXhFIaql4ui6eR0p.jpg) | ![](https://image.tmdb.org/t/p/w200/jrq1NoKvsxWCcffVOjegiYwloFN.jpg) | ![](https://image.tmdb.org/t/p/w200/8C5FJlUo96pj1xAs2BKnB58PYzi.jpg)
 
 ## 5 menos bem avaliados
 
-**Prevenge** | **Jem and the Holograms** | **Mirrors 2** | **Ghost Rider** | **Lady in the Water**
+**ExTerminators** | **The Dilemma** | **Let Them All Talk** | **All Nighter** | **4 latas**
  -- | -- | -- | -- | -- 
-*5,51* | *5,53* | *5,54* | *5,55* | *5,55*
-![](https://image.tmdb.org/t/p/w200/5OWrwvKscVc7Md0IvtTLZmjXbKt.jpg) | ![](https://image.tmdb.org/t/p/w200/7UiDWxXzpZSh8e3EJKYWyM88qb6.jpg) | ![](https://image.tmdb.org/t/p/w200/gDr5TaM129kUNwXkUUZ7Cha2CNn.jpg) | ![](https://image.tmdb.org/t/p/w200/8LaVQiXBsnlo7MXCPK1nXTVARUZ.jpg) | ![](https://image.tmdb.org/t/p/w200/ddNmoSy1Jd3PBF5XDZvrrBIfrja.jpg)
+*5,19* | *5,31* | *5,71* | *5,73* | *5,82*
+![](https://image.tmdb.org/t/p/w200/uRwnsVTMjUx7uWXJDW2TBIZhDme.jpg) | ![](https://image.tmdb.org/t/p/w200/a7EVBTqeh6NoCFDW24qIp11kyi9.jpg) | ![](https://image.tmdb.org/t/p/w200/4mhZqZ7nXL6Dj6PKZSseJxv1qXZ.jpg) | ![](https://image.tmdb.org/t/p/w200/ciNUrbNv871umQ3IqvIOjet4s4E.jpg) | ![](https://image.tmdb.org/t/p/w200/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg)
 
-**Média de votos:** 1752,0
-**Menor votos:** 152 (Macario)
-**Maior votos:** 18018 (It)
+**Média de votos:** 597,0
+**Menor votos:** 75 (Crazy)
+**Maior votos:** 4149 (Perfect Strangers)
 
 ## 5 mais avaliados
 
-**It** | **Spider-Man** | **The Green Mile** | **Beauty and the Beast** | **Twilight**
+**Perfect Strangers** | **The Edge of Seventeen** | **A Man Called Otto** | **Magic Mike XXL** | **The Way Way Back**
  -- | -- | -- | -- | -- 
-*18018* | *17653* | *15937* | *14871* | *12638*
-![](https://image.tmdb.org/t/p/w200/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg) | ![](https://image.tmdb.org/t/p/w200/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg) | ![](https://image.tmdb.org/t/p/w200/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg) | ![](https://image.tmdb.org/t/p/w200/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg) | ![](https://image.tmdb.org/t/p/w200/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg)
+*4149* | *3833* | *1857* | *1685* | *1625*
+![](https://image.tmdb.org/t/p/w200/3wknM629Vryofb1HNo2YnLQnQyn.jpg) | ![](https://image.tmdb.org/t/p/w200/iY5UEYuGxHfaYJ3vAUAWwFGMV7V.jpg) | ![](https://image.tmdb.org/t/p/w200/130H1gap9lFfiTF9iDrqNIkFvC9.jpg) | ![](https://image.tmdb.org/t/p/w200/ny9qi5SYefhSov0ZycCwFFX5fi3.jpg) | ![](https://image.tmdb.org/t/p/w200/4DgA0EDDVv37C8xISc3Vv0rhxlL.jpg)
 
 ## 5 menos avaliados
 
-**Macario** | **Cirque du Soleil: Worlds Away** | **Hansel & Gretel** | **Something Wicked This Way Comes** | **The Haunted Castle**
+**Crazy** | **The Trip to Spain** | **Billu** | **Bob & Carol & Ted & Alice** | **Maybe... Maybe Not**
  -- | -- | -- | -- | -- 
-*152* | *153* | *154* | *156* | *156*
-![](https://image.tmdb.org/t/p/w200/xX9JGtsnXQAR7e1fWkr7zBuQUHN.jpg) | ![](https://image.tmdb.org/t/p/w200/jAt4ugebhXKmAnirHAWe5P6gnMi.jpg) | ![](https://image.tmdb.org/t/p/w200/lgubqcerdcykeU9fNO8I1p2Nh6S.jpg) | ![](https://image.tmdb.org/t/p/w200/94dMO6kAawyFUk0sCDGIjAnchED.jpg) | ![](https://image.tmdb.org/t/p/w200/o61cxCGlLdPxzv7BPYitmbDfaeA.jpg)
+*75* | *84* | *86* | *87* | *89*
+![](https://image.tmdb.org/t/p/w200/9tZ36iWvmrzupMOvleGh57nb94Y.jpg) | ![](https://image.tmdb.org/t/p/w200/74RSdBGWdtbdClQ2NGJeTTyO7fq.jpg) | ![](https://image.tmdb.org/t/p/w200/nmWKskigmvBow3uOP4RPQOIaUux.jpg) | ![](https://image.tmdb.org/t/p/w200/8fDLuB1q3JycYJPK0F65OYO3lAX.jpg) | ![](https://image.tmdb.org/t/p/w200/2TcZBHcseRXLxNq2RXnKIsbKZwi.jpg)
 
 **Gêneros mais comuns:**
-* Fantasy (249)
-* Drama (154)
-* Horror (141)
-* Romance (53)
-* Thriller (45)
-* Action (41)
-* Mystery (26)
-* Family (21)
-* Music (8)
-* Science Fiction (7)
-* Crime (6)
+* Comedy (53)
+* Drama (53)
+
+
+**Palavras-chave mais comuns:**
+* friendship (29)
+* male friendship (10)
+* female friendship (8)
+* friends (8)
+* best friend (7)
+* love (4)
+* suicide attempt (4)
+* road trip (4)
+* remake (3)
+* neighbor (3)
+* cancer (3)
+* infidelity (3)
+* group of friends (3)
+* coming out (3)
+* lgbt (3)
+
+# Cluster 75
+**Total de filmes:** 85
+**Média de ano de lançamento:** 2005
+**Menor ano:** 1965 (Gamera, the Giant Monster)
+**Maior ano:** 2022 (Prey)
+
+## 5 Mais Velhos 
+
+**Gamera, the Giant Monster** | **The War of the Gargantuas** | **King Kong Escapes** | **Zardoz** | **Capricorn One**
+ -- | -- | -- | -- | -- 
+*1965* | *1966* | *1967* | *1974* | *1977*
+ ![](https://image.tmdb.org/t/p/w200/iwjp6qJaWNGOLDU9zzar0SMcPjl.jpg) |  ![](https://image.tmdb.org/t/p/w200/q8EH0y601mhYJmchoTRoo92Q0FS.jpg) |  ![](https://image.tmdb.org/t/p/w200/1Z2fL5ycdVGs83i4iPdliDZVeVM.jpg) |  ![](https://image.tmdb.org/t/p/w200/6qvQhJhvM7wWPB2LjVpivSNraIv.jpg) |  ![](https://image.tmdb.org/t/p/w200/bxsCARg2rxQ2PzFW5ZsADLT9e9c.jpg)
+
+## 5 mais novos
+
+**Prey** | **Outside the Wire** | **Apex** | **Tenet** | **Deep Blue Sea 3**
+ -- | -- | -- | -- | -- 
+*2022* | *2021* | *2021* | *2020* | *2020*
+![](https://image.tmdb.org/t/p/w200/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg) | ![](https://image.tmdb.org/t/p/w200/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg) | ![](https://image.tmdb.org/t/p/w200/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg) | ![](https://image.tmdb.org/t/p/w200/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg) | ![](https://image.tmdb.org/t/p/w200/bKthjUmxjHjvJK8FktFfQdmwP12.jpg)
+
+**Média da nota:** 6,10
+**Menor nota:** 4,68 (The Devil's Tomb)
+**Maior nota:** 8,10 (Terminator 2: Judgment Day)
+
+## 5 mais bem avaliados
+
+**Terminator 2: Judgment Day** | **Aliens** | **V for Vendetta** | **Prey** | **The Terminator**
+ -- | -- | -- | -- | -- 
+*8,10* | *7,93* | *7,90* | *7,76* | *7,65*
+![](https://image.tmdb.org/t/p/w200/5M0j0B18abtBI5gi2RhfjjurTqb.jpg) | ![](https://image.tmdb.org/t/p/w200/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg) | ![](https://image.tmdb.org/t/p/w200/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg) | ![](https://image.tmdb.org/t/p/w200/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg) | ![](https://image.tmdb.org/t/p/w200/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg)
+
+## 5 menos bem avaliados
+
+**The Devil's Tomb** | **The Anomaly** | **Screamers: The Hunting** | **The King of Fighters** | **Between Worlds**
+ -- | -- | -- | -- | -- 
+*4,68* | *4,89* | *5,01* | *5,01* | *5,02*
+![](https://image.tmdb.org/t/p/w200/ex0dNOuABfkWVrNFfhsC0qTviA2.jpg) | ![](https://image.tmdb.org/t/p/w200/zqeHMxO2UZmrRiRJLLxyGog3PdC.jpg) | ![](https://image.tmdb.org/t/p/w200/xOOA1BQ3gRjQPXHSKYUlAaAj6oC.jpg) | ![](https://image.tmdb.org/t/p/w200/qDI6PbIjeEdLUoPHGaZqDMV9Fdx.jpg) | ![](https://image.tmdb.org/t/p/w200/7V25KUnWkf0NP7wtGkbmPjEfYf9.jpg)
+
+**Média de votos:** 2296,0
+**Menor votos:** 81 (The War of the Gargantuas)
+**Maior votos:** 13556 (V for Vendetta)
+
+## 5 mais avaliados
+
+**V for Vendetta** | **The Terminator** | **Terminator 2: Judgment Day** | **Rise of the Planet of the Apes** | **In Time**
+ -- | -- | -- | -- | -- 
+*13556* | *11874* | *11744* | *10799* | *10556*
+![](https://image.tmdb.org/t/p/w200/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg) | ![](https://image.tmdb.org/t/p/w200/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg) | ![](https://image.tmdb.org/t/p/w200/5M0j0B18abtBI5gi2RhfjjurTqb.jpg) | ![](https://image.tmdb.org/t/p/w200/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg) | ![](https://image.tmdb.org/t/p/w200/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg)
+
+## 5 menos avaliados
+
+**The War of the Gargantuas** | **Sherlock Holmes** | **King Kong Escapes** | **Brain Drain 2** | **Stormageddon**
+ -- | -- | -- | -- | -- 
+*81* | *86* | *90* | *90* | *91*
+![](https://image.tmdb.org/t/p/w200/q8EH0y601mhYJmchoTRoo92Q0FS.jpg) | ![](https://image.tmdb.org/t/p/w200/wsJkEzktZV83DXlQItsO1ooGGq0.jpg) | ![](https://image.tmdb.org/t/p/w200/1Z2fL5ycdVGs83i4iPdliDZVeVM.jpg) | ![](https://image.tmdb.org/t/p/w200/o48rTBBlZJng9ZyWHULJm84OKWw.jpg) | ![](https://image.tmdb.org/t/p/w200/loZHFn4RoTeh4t1I4hS01DRYF7q.jpg)
+
+**Gêneros mais comuns:**
+* Science Fiction (85)
+* Action (81)
+* Thriller (55)
+* Horror (41)
+* Fantasy (9)
+* Drama (8)
 * Comedy (4)
-* War (3)
-* Western (3)
-* History (1)
+* Crime (3)
+* Mystery (2)
 * Adventure (1)
 
 
 **Palavras-chave mais comuns:**
-* vampire (26)
-* supernatural (22)
-* ghost (22)
-* murder (17)
-* witch (16)
-* werewolf (15)
-* fairy tale (14)
-* love (14)
-* demon (14)
-* black and white (13)
-* magic (12)
-* remake (12)
-* monster (12)
-* loss of loved one (11)
-* surrealism (11)
-
-# Cluster 62
-**Total de filmes:** 6
-**Média de ano de lançamento:** 2016
-**Menor ano:** 2006 (The Unknown Woman)
-**Maior ano:** 2022 (America Latina)
-
-## 5 Mais Velhos 
-
-**The Unknown Woman** | **In Fear** | **Naples in Veils** | **Dangerous Lies** | **Centigrade**
- -- | -- | -- | -- | -- 
-*2006* | *2013* | *2017* | *2020* | *2020*
- ![](https://image.tmdb.org/t/p/w200/piBn5ydvdfCHSfys6N1A7LNwQft.jpg) |  ![](https://image.tmdb.org/t/p/w200/9GpmoAAp1LTMx8byVLlpjumOzgj.jpg) |  ![](https://image.tmdb.org/t/p/w200/8fAHWAowDiG9jxTrPmLGZvadtmR.jpg) |  ![](https://image.tmdb.org/t/p/w200/m85QIC42laGfLDxW7DzIFDrWogP.jpg) |  ![](https://image.tmdb.org/t/p/w200/hTFs6T2k0kdQHFcC4gisT0UtNX8.jpg)
-
-## 5 mais novos
-
-**America Latina** | **Dangerous Lies** | **Centigrade** | **Naples in Veils** | **In Fear**
- -- | -- | -- | -- | -- 
-*2022* | *2020* | *2020* | *2017* | *2013*
-![](https://image.tmdb.org/t/p/w200/g8ylOkjXtoHQwDhqNpYmAC1YGDT.jpg) | ![](https://image.tmdb.org/t/p/w200/m85QIC42laGfLDxW7DzIFDrWogP.jpg) | ![](https://image.tmdb.org/t/p/w200/hTFs6T2k0kdQHFcC4gisT0UtNX8.jpg) | ![](https://image.tmdb.org/t/p/w200/8fAHWAowDiG9jxTrPmLGZvadtmR.jpg) | ![](https://image.tmdb.org/t/p/w200/9GpmoAAp1LTMx8byVLlpjumOzgj.jpg)
-
-**Média da nota:** 6,23
-**Menor nota:** 5,64 (In Fear)
-**Maior nota:** 7,21 (The Unknown Woman)
-
-## 5 mais bem avaliados
-
-**The Unknown Woman** | **Dangerous Lies** | **Naples in Veils** | **America Latina** | **Centigrade**
- -- | -- | -- | -- | -- 
-*7,21* | *6,27* | *6,19* | *6,12* | *5,92*
-![](https://image.tmdb.org/t/p/w200/piBn5ydvdfCHSfys6N1A7LNwQft.jpg) | ![](https://image.tmdb.org/t/p/w200/m85QIC42laGfLDxW7DzIFDrWogP.jpg) | ![](https://image.tmdb.org/t/p/w200/8fAHWAowDiG9jxTrPmLGZvadtmR.jpg) | ![](https://image.tmdb.org/t/p/w200/g8ylOkjXtoHQwDhqNpYmAC1YGDT.jpg) | ![](https://image.tmdb.org/t/p/w200/hTFs6T2k0kdQHFcC4gisT0UtNX8.jpg)
-
-## 5 menos bem avaliados
-
-**In Fear** | **Centigrade** | **America Latina** | **Naples in Veils** | **Dangerous Lies**
- -- | -- | -- | -- | -- 
-*5,64* | *5,92* | *6,12* | *6,19* | *6,27*
-![](https://image.tmdb.org/t/p/w200/9GpmoAAp1LTMx8byVLlpjumOzgj.jpg) | ![](https://image.tmdb.org/t/p/w200/hTFs6T2k0kdQHFcC4gisT0UtNX8.jpg) | ![](https://image.tmdb.org/t/p/w200/g8ylOkjXtoHQwDhqNpYmAC1YGDT.jpg) | ![](https://image.tmdb.org/t/p/w200/8fAHWAowDiG9jxTrPmLGZvadtmR.jpg) | ![](https://image.tmdb.org/t/p/w200/m85QIC42laGfLDxW7DzIFDrWogP.jpg)
-
-**Média de votos:** 364,0
-**Menor votos:** 181 (America Latina)
-**Maior votos:** 820 (Dangerous Lies)
-
-## 5 mais avaliados
-
-**Dangerous Lies** | **Naples in Veils** | **The Unknown Woman** | **Centigrade** | **In Fear**
- -- | -- | -- | -- | -- 
-*820* | *427* | *320* | *242* | *195*
-![](https://image.tmdb.org/t/p/w200/m85QIC42laGfLDxW7DzIFDrWogP.jpg) | ![](https://image.tmdb.org/t/p/w200/8fAHWAowDiG9jxTrPmLGZvadtmR.jpg) | ![](https://image.tmdb.org/t/p/w200/piBn5ydvdfCHSfys6N1A7LNwQft.jpg) | ![](https://image.tmdb.org/t/p/w200/hTFs6T2k0kdQHFcC4gisT0UtNX8.jpg) | ![](https://image.tmdb.org/t/p/w200/9GpmoAAp1LTMx8byVLlpjumOzgj.jpg)
-
-## 5 menos avaliados
-
-**America Latina** | **In Fear** | **Centigrade** | **The Unknown Woman** | **Naples in Veils**
- -- | -- | -- | -- | -- 
-*181* | *195* | *242* | *320* | *427*
-![](https://image.tmdb.org/t/p/w200/g8ylOkjXtoHQwDhqNpYmAC1YGDT.jpg) | ![](https://image.tmdb.org/t/p/w200/9GpmoAAp1LTMx8byVLlpjumOzgj.jpg) | ![](https://image.tmdb.org/t/p/w200/hTFs6T2k0kdQHFcC4gisT0UtNX8.jpg) | ![](https://image.tmdb.org/t/p/w200/piBn5ydvdfCHSfys6N1A7LNwQft.jpg) | ![](https://image.tmdb.org/t/p/w200/8fAHWAowDiG9jxTrPmLGZvadtmR.jpg)
-
-**Gêneros mais comuns:**
-* Thriller (6)
-
-
-**Palavras-chave mais comuns:**
-* italy (4)
-* nurse (1)
-* inheritance (1)
-* caregiver (1)
-* naples (1)
-* prostitute (1)
-* cleaning lady (1)
-* suppressed past (1)
-* pregnancy (1)
-* norway (1)
-* stranded (1)
-* snow (1)
-* trapped (1)
-* blizzard (1)
-* trapped in car (1)
-
-# Cluster 63
-**Total de filmes:** 17
-**Média de ano de lançamento:** 1996
-**Menor ano:** 1947 (Miracle on 34th Street)
-**Maior ano:** 2021 (Double Dad)
-
-## 5 Mais Velhos 
-
-**Miracle on 34th Street** | **Pollyanna** | **The Ugly Dachshund** | **Annie** | **Uncle Buck**
- -- | -- | -- | -- | -- 
-*1947* | *1960* | *1966* | *1982* | *1989*
- ![](https://image.tmdb.org/t/p/w200/qyAc9X9XHloIqy3oJbbZ44Cw0Hm.jpg) |  ![](https://image.tmdb.org/t/p/w200/9lWkRXg35SjUZXLr10ez8DERvRv.jpg) |  ![](https://image.tmdb.org/t/p/w200/AjSlSbcMnAlAOURwLsfQLUmEimJ.jpg) |  ![](https://image.tmdb.org/t/p/w200/pPJ1HsJh1fjAUlvSJMLCYKriDnX.jpg) |  ![](https://image.tmdb.org/t/p/w200/i0MuRxuENc9Ur3croChw0Tmrs5G.jpg)
-
-## 5 mais novos
-
-**Double Dad** | **Troop Zero** | **The Great Gilly Hopkins** | **Annie** | **English Vinglish**
- -- | -- | -- | -- | -- 
-*2021* | *2019* | *2015* | *2014* | *2012*
-![](https://image.tmdb.org/t/p/w200/hqNt5S8z2a7U48RZ0WZ5okdRjfu.jpg) | ![](https://image.tmdb.org/t/p/w200/uYVMs9wUAmA0eW2WmHaxT0BaHdg.jpg) | ![](https://image.tmdb.org/t/p/w200/jytUg1RkzYVfF4tzyXBRrAXRWII.jpg) | ![](https://image.tmdb.org/t/p/w200/33WsmnE5M2SSGrZCQW4dlr2D5WG.jpg) | ![](https://image.tmdb.org/t/p/w200/ccEVR8sf18psGH5daio9y7OGu93.jpg)
-
-**Média da nota:** 6,71
-**Menor nota:** 5,88 (The Clique)
-**Maior nota:** 7,60 (Kikujiro)
-
-## 5 mais bem avaliados
-
-**Kikujiro** | **Miracle on 34th Street** | **Mrs. Doubtfire** | **English Vinglish** | **Pollyanna**
- -- | -- | -- | -- | -- 
-*7,60* | *7,34* | *7,19* | *7,18* | *6,96*
-![](https://image.tmdb.org/t/p/w200/zTelT1xAO4Owxk1jHJM4puoei5N.jpg) | ![](https://image.tmdb.org/t/p/w200/qyAc9X9XHloIqy3oJbbZ44Cw0Hm.jpg) | ![](https://image.tmdb.org/t/p/w200/shHrSmXS5140o6sQzgzXxn3KqSm.jpg) | ![](https://image.tmdb.org/t/p/w200/ccEVR8sf18psGH5daio9y7OGu93.jpg) | ![](https://image.tmdb.org/t/p/w200/9lWkRXg35SjUZXLr10ez8DERvRv.jpg)
-
-## 5 menos bem avaliados
-
-**The Clique** | **Welcome Home Roscoe Jenkins** | **Harriet the Spy** | **Annie** | **Annie**
- -- | -- | -- | -- | -- 
-*5,88* | *6,03* | *6,03* | *6,24* | *6,49*
-![](https://image.tmdb.org/t/p/w200/f8h9WF7l5vLWI6OU5nmIRKx6QJ0.jpg) | ![](https://image.tmdb.org/t/p/w200/1VzS2bkQHVcIxSeBJifOx65oxHK.jpg) | ![](https://image.tmdb.org/t/p/w200/spTUUMgIVm4gOdWL35IoYWEuZQl.jpg) | ![](https://image.tmdb.org/t/p/w200/33WsmnE5M2SSGrZCQW4dlr2D5WG.jpg) | ![](https://image.tmdb.org/t/p/w200/pPJ1HsJh1fjAUlvSJMLCYKriDnX.jpg)
-
-**Média de votos:** 696,0
-**Menor votos:** 150 (The Ugly Dachshund)
-**Maior votos:** 5633 (Mrs. Doubtfire)
-
-## 5 mais avaliados
-
-**Mrs. Doubtfire** | **Annie** | **Uncle Buck** | **Miracle on 34th Street** | **Annie**
- -- | -- | -- | -- | -- 
-*5633* | *1216* | *1047* | *643* | *635*
-![](https://image.tmdb.org/t/p/w200/shHrSmXS5140o6sQzgzXxn3KqSm.jpg) | ![](https://image.tmdb.org/t/p/w200/33WsmnE5M2SSGrZCQW4dlr2D5WG.jpg) | ![](https://image.tmdb.org/t/p/w200/i0MuRxuENc9Ur3croChw0Tmrs5G.jpg) | ![](https://image.tmdb.org/t/p/w200/qyAc9X9XHloIqy3oJbbZ44Cw0Hm.jpg) | ![](https://image.tmdb.org/t/p/w200/pPJ1HsJh1fjAUlvSJMLCYKriDnX.jpg)
-
-## 5 menos avaliados
-
-**The Ugly Dachshund** | **The Clique** | **Double Dad** | **Pollyanna** | **Harriet the Spy**
- -- | -- | -- | -- | -- 
-*150* | *155* | *159* | *165* | *168*
-![](https://image.tmdb.org/t/p/w200/AjSlSbcMnAlAOURwLsfQLUmEimJ.jpg) | ![](https://image.tmdb.org/t/p/w200/f8h9WF7l5vLWI6OU5nmIRKx6QJ0.jpg) | ![](https://image.tmdb.org/t/p/w200/hqNt5S8z2a7U48RZ0WZ5okdRjfu.jpg) | ![](https://image.tmdb.org/t/p/w200/9lWkRXg35SjUZXLr10ez8DERvRv.jpg) | ![](https://image.tmdb.org/t/p/w200/spTUUMgIVm4gOdWL35IoYWEuZQl.jpg)
-
-**Gêneros mais comuns:**
-* Comedy (17)
-* Drama (17)
-* Family (17)
-
-
-**Palavras-chave mais comuns:**
-* parent child relationship (3)
-* orphan (3)
-* nanny (2)
-* child abuse (2)
-* musical (2)
-* billionaire (2)
-* foster child (2)
-* female child abuser (2)
-* little girl (2)
-* mask (1)
-* social worker (1)
-* transvestite (1)
-* restaurant (1)
-* fake identity (1)
-* custody battle (1)
-
-# Cluster 64
-**Total de filmes:** 5
-**Média de ano de lançamento:** 1993
-**Menor ano:** 1949 (Kind Hearts and Coronets)
-**Maior ano:** 2014 (Veronica Mars)
-
-## 5 Mais Velhos 
-
-**Kind Hearts and Coronets** | **Cadillac Man** | **Party Monster** | **In Bruges** | **Veronica Mars**
- -- | -- | -- | -- | -- 
-*1949* | *1990* | *2003* | *2008* | *2014*
- ![](https://image.tmdb.org/t/p/w200/eBvpyRjD3DcCsWgdV6Y9oqPS7dO.jpg) |  ![](https://image.tmdb.org/t/p/w200/fRwrbKVyFEZEPFmeTDea5PlUO77.jpg) |  ![](https://image.tmdb.org/t/p/w200/fAkq4jzFttRaxpIt7HhpsiFGhxI.jpg) |  ![](https://image.tmdb.org/t/p/w200/jMiBBqk72VRo1Y39x2ZbbenEU3a.jpg) |  ![](https://image.tmdb.org/t/p/w200/1qUhPDaNalxl7CpVqcbjm09fZz0.jpg)
-
-## 5 mais novos
-
-**Veronica Mars** | **In Bruges** | **Party Monster** | **Cadillac Man** | **Kind Hearts and Coronets**
- -- | -- | -- | -- | -- 
-*2014* | *2008* | *2003* | *1990* | *1949*
-![](https://image.tmdb.org/t/p/w200/1qUhPDaNalxl7CpVqcbjm09fZz0.jpg) | ![](https://image.tmdb.org/t/p/w200/jMiBBqk72VRo1Y39x2ZbbenEU3a.jpg) | ![](https://image.tmdb.org/t/p/w200/fAkq4jzFttRaxpIt7HhpsiFGhxI.jpg) | ![](https://image.tmdb.org/t/p/w200/fRwrbKVyFEZEPFmeTDea5PlUO77.jpg) | ![](https://image.tmdb.org/t/p/w200/eBvpyRjD3DcCsWgdV6Y9oqPS7dO.jpg)
-
-**Média da nota:** 6,65
-**Menor nota:** 5,63 (Cadillac Man)
-**Maior nota:** 7,69 (Kind Hearts and Coronets)
-
-## 5 mais bem avaliados
-
-**Kind Hearts and Coronets** | **In Bruges** | **Veronica Mars** | **Party Monster** | **Cadillac Man**
- -- | -- | -- | -- | -- 
-*7,69* | *7,48* | *6,61* | *5,82* | *5,63*
-![](https://image.tmdb.org/t/p/w200/eBvpyRjD3DcCsWgdV6Y9oqPS7dO.jpg) | ![](https://image.tmdb.org/t/p/w200/jMiBBqk72VRo1Y39x2ZbbenEU3a.jpg) | ![](https://image.tmdb.org/t/p/w200/1qUhPDaNalxl7CpVqcbjm09fZz0.jpg) | ![](https://image.tmdb.org/t/p/w200/fAkq4jzFttRaxpIt7HhpsiFGhxI.jpg) | ![](https://image.tmdb.org/t/p/w200/fRwrbKVyFEZEPFmeTDea5PlUO77.jpg)
-
-## 5 menos bem avaliados
-
-**Cadillac Man** | **Party Monster** | **Veronica Mars** | **In Bruges** | **Kind Hearts and Coronets**
- -- | -- | -- | -- | -- 
-*5,63* | *5,82* | *6,61* | *7,48* | *7,69*
-![](https://image.tmdb.org/t/p/w200/fRwrbKVyFEZEPFmeTDea5PlUO77.jpg) | ![](https://image.tmdb.org/t/p/w200/fAkq4jzFttRaxpIt7HhpsiFGhxI.jpg) | ![](https://image.tmdb.org/t/p/w200/1qUhPDaNalxl7CpVqcbjm09fZz0.jpg) | ![](https://image.tmdb.org/t/p/w200/jMiBBqk72VRo1Y39x2ZbbenEU3a.jpg) | ![](https://image.tmdb.org/t/p/w200/eBvpyRjD3DcCsWgdV6Y9oqPS7dO.jpg)
-
-**Média de votos:** 1297,0
-**Menor votos:** 161 (Party Monster)
-**Maior votos:** 4644 (In Bruges)
-
-## 5 mais avaliados
-
-**In Bruges** | **Veronica Mars** | **Kind Hearts and Coronets** | **Cadillac Man** | **Party Monster**
- -- | -- | -- | -- | -- 
-*4644* | *1000* | *474* | *207* | *161*
-![](https://image.tmdb.org/t/p/w200/jMiBBqk72VRo1Y39x2ZbbenEU3a.jpg) | ![](https://image.tmdb.org/t/p/w200/1qUhPDaNalxl7CpVqcbjm09fZz0.jpg) | ![](https://image.tmdb.org/t/p/w200/eBvpyRjD3DcCsWgdV6Y9oqPS7dO.jpg) | ![](https://image.tmdb.org/t/p/w200/fRwrbKVyFEZEPFmeTDea5PlUO77.jpg) | ![](https://image.tmdb.org/t/p/w200/fAkq4jzFttRaxpIt7HhpsiFGhxI.jpg)
-
-## 5 menos avaliados
-
-**Party Monster** | **Cadillac Man** | **Kind Hearts and Coronets** | **Veronica Mars** | **In Bruges**
- -- | -- | -- | -- | -- 
-*161* | *207* | *474* | *1000* | *4644*
-![](https://image.tmdb.org/t/p/w200/fAkq4jzFttRaxpIt7HhpsiFGhxI.jpg) | ![](https://image.tmdb.org/t/p/w200/fRwrbKVyFEZEPFmeTDea5PlUO77.jpg) | ![](https://image.tmdb.org/t/p/w200/eBvpyRjD3DcCsWgdV6Y9oqPS7dO.jpg) | ![](https://image.tmdb.org/t/p/w200/1qUhPDaNalxl7CpVqcbjm09fZz0.jpg) | ![](https://image.tmdb.org/t/p/w200/jMiBBqk72VRo1Y39x2ZbbenEU3a.jpg)
-
-**Gêneros mais comuns:**
-* Comedy (5)
-* Drama (5)
-* Crime (5)
-
-
-**Palavras-chave mais comuns:**
-* dark comedy (2)
-* jealousy (2)
-* drug dealer (1)
-* hitman (1)
-* tourist (1)
-* bruges (1)
-* belgium (1)
-* church (1)
-* guilt (1)
-* death (1)
-* town square (1)
-* vietnamese (1)
-* canadian stereotype (1)
-* neo-noir (1)
-* christmas (1)
-
-# Cluster 65
-**Total de filmes:** 107
-**Média de ano de lançamento:** 2005
-**Menor ano:** 1950 (All About Eve)
-**Maior ano:** 2022 (The Whale)
-
-## 5 Mais Velhos 
-
-**All About Eve** | **A Streetcar Named Desire** | **East of Eden** | **The Long, Hot Summer** | **The Children's Hour**
- -- | -- | -- | -- | -- 
-*1950* | *1951* | *1955* | *1958* | *1961*
- ![](https://image.tmdb.org/t/p/w200/6numIZH6uR3NlJgY9m7nGH0jhs.jpg) |  ![](https://image.tmdb.org/t/p/w200/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg) |  ![](https://image.tmdb.org/t/p/w200/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg) |  ![](https://image.tmdb.org/t/p/w200/pp3FGLvPqvcWeXK718NQVctPRSH.jpg) |  ![](https://image.tmdb.org/t/p/w200/goyEWixvULM2IRN4KsKibyrJE4J.jpg)
-
-## 5 mais novos
-
-**The Whale** | **The Fabelmans** | **Blonde** | **Aftersun** | **Causeway**
- -- | -- | -- | -- | -- 
-*2022* | *2022* | *2022* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg) | ![](https://image.tmdb.org/t/p/w200/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg) | ![](https://image.tmdb.org/t/p/w200/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg) | ![](https://image.tmdb.org/t/p/w200/jeXmhP2zbUkREMRqFOYIwQOk49T.jpg) | ![](https://image.tmdb.org/t/p/w200/bUzKIqFIS05Ss31zRTfZfHJIgDP.jpg)
-
-**Média da nota:** 7,05
-**Menor nota:** 5,90 (The Babysitters)
-**Maior nota:** 8,35 (American History X)
-
-## 5 mais bem avaliados
-
-**American History X** | **All About Eve** | **Black Beauty** | **Paris, Texas** | **Autumn Sonata**
- -- | -- | -- | -- | -- 
-*8,35* | *8,10* | *8,10* | *8,09* | *8,00*
-![](https://image.tmdb.org/t/p/w200/euypWkaYFOLW3e5rLIcTAjWnhhT.jpg) | ![](https://image.tmdb.org/t/p/w200/6numIZH6uR3NlJgY9m7nGH0jhs.jpg) | ![](https://image.tmdb.org/t/p/w200/5ZjMNJJabwBEnGVQoR2yoMEL9um.jpg) | ![](https://image.tmdb.org/t/p/w200/7G6ea5djDvCxfqfoMAX8479T4UB.jpg) | ![](https://image.tmdb.org/t/p/w200/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg)
-
-## 5 menos bem avaliados
-
-**The Babysitters** | **Breathe In** | **Certain Women** | **Somewhere** | **The Truth**
- -- | -- | -- | -- | -- 
-*5,90* | *5,96* | *5,96* | *6,06* | *6,07*
-![](https://image.tmdb.org/t/p/w200/nsrNUqGXI95unRKZEu8BJ584xWn.jpg) | ![](https://image.tmdb.org/t/p/w200/iunsn1F4jeWcVPMauVkRmqYZPjr.jpg) | ![](https://image.tmdb.org/t/p/w200/1A5cWPvPnw7vY1Dfg3DSyLG0k96.jpg) | ![](https://image.tmdb.org/t/p/w200/zOf1sdfF4eH3CVRCpmRO5ugVGdo.jpg) | ![](https://image.tmdb.org/t/p/w200/ek5EWMRFIHXPB43axZcyJr2NBrJ.jpg)
-
-**Média de votos:** 960,0
-**Menor votos:** 157 (Military Wives)
-**Maior votos:** 10729 (American History X)
-
-## 5 mais avaliados
-
-**American History X** | **Marriage Story** | **Manchester by the Sea** | **Roma** | **Big Eyes**
- -- | -- | -- | -- | -- 
-*10729* | *6478* | *5396* | *3697* | *3294*
-![](https://image.tmdb.org/t/p/w200/euypWkaYFOLW3e5rLIcTAjWnhhT.jpg) | ![](https://image.tmdb.org/t/p/w200/91osxUqsq1JC0zJzB1CpAavlWu7.jpg) | ![](https://image.tmdb.org/t/p/w200/e8daDzP0vFOnGyKmve95Yv0D0io.jpg) | ![](https://image.tmdb.org/t/p/w200/kxZUWtJGbGqaUdXCYg2CTs8wyEc.jpg) | ![](https://image.tmdb.org/t/p/w200/203HAjJcLMl7xThcTqZx4zmEGcV.jpg)
-
-## 5 menos avaliados
-
-**Military Wives** | **The Human Voice** | **Paradise: Love** | **Four Good Days** | **The Bow**
- -- | -- | -- | -- | -- 
-*157* | *158* | *162* | *162* | *165*
-![](https://image.tmdb.org/t/p/w200/gKwXP1VvKNxrc1400yksKA4D9Qc.jpg) | ![](https://image.tmdb.org/t/p/w200/9YWYbBAQ1keap6P5K2Yq1LK70KV.jpg) | ![](https://image.tmdb.org/t/p/w200/nah6G8dNvjL6L8k3wumcR3DH3KC.jpg) | ![](https://image.tmdb.org/t/p/w200/uaJmqZxwAsdFLLjPGH5DzIEnbpj.jpg) | ![](https://image.tmdb.org/t/p/w200/jC2zJJd3vbEhlj5OketLs97oIuN.jpg)
-
-**Gêneros mais comuns:**
-* Drama (107)
-
-
-**Palavras-chave mais comuns:**
-* husband wife relationship (19)
-* family relationships (18)
-* mother daughter relationship (18)
-* sibling relationship (15)
-* father daughter relationship (11)
-* family (10)
-* teacher (7)
-* infidelity (6)
-* black and white (6)
-* lgbt (6)
-* depression (6)
-* parent child relationship (5)
-* lawyer (5)
-* 1970s (5)
-* 1960s (5)
-
-# Cluster 66
-**Total de filmes:** 53
-**Média de ano de lançamento:** 1969
-**Menor ano:** 1948 (Red River)
-**Maior ano:** 2021 (The Harder They Fall)
-
-## 5 Mais Velhos 
-
-**Red River** | **Fort Apache** | **3 Godfathers** | **She Wore a Yellow Ribbon** | **Winchester '73**
- -- | -- | -- | -- | -- 
-*1948* | *1948* | *1948* | *1949* | *1950*
- ![](https://image.tmdb.org/t/p/w200/jyNTsAzrIWB441OtvfbgKtx1kFS.jpg) |  ![](https://image.tmdb.org/t/p/w200/5PqKsWVlyIFuMeV1UkK6Q9Q8y9k.jpg) |  ![](https://image.tmdb.org/t/p/w200/dsVrYIpK2Rcgsr5QrfjBQWee5JE.jpg) |  ![](https://image.tmdb.org/t/p/w200/u6vBfRXAUfoNfQ7RT2vDBP71XUe.jpg) |  ![](https://image.tmdb.org/t/p/w200/rqRgjWqSmK9oI6duvigPmn49aVG.jpg)
-
-## 5 mais novos
-
-**The Harder They Fall** | **Never Grow Old** | **The Ballad of Lefty Brown** | **Forsaken** | **3:10 to Yuma**
- -- | -- | -- | -- | -- 
-*2021* | *2019* | *2017* | *2015* | *2007*
-![](https://image.tmdb.org/t/p/w200/su9WzL7lwUZPhjH6eZByAYFx2US.jpg) | ![](https://image.tmdb.org/t/p/w200/3WGh8RtXOCG6Onrju1SBO67fCGb.jpg) | ![](https://image.tmdb.org/t/p/w200/p4L5DM3ZeEuAawFxd2ftgISQMZQ.jpg) | ![](https://image.tmdb.org/t/p/w200/fbTpSiqGn6ImqSAyawHlLf7goat.jpg) | ![](https://image.tmdb.org/t/p/w200/voMB69AsLnPNmtfbrBl0lbeFKDH.jpg)
-
-**Média da nota:** 7,05
-**Menor nota:** 6,05 (Never Grow Old)
-**Maior nota:** 8,47 (The Good, the Bad and the Ugly)
-
-## 5 mais bem avaliados
-
-**The Good, the Bad and the Ugly** | **For a Few Dollars More** | **Unforgiven** | **A Fistful of Dollars** | **Rio Bravo**
- -- | -- | -- | -- | -- 
-*8,47* | *8,02* | *7,91* | *7,85* | *7,85*
-![](https://image.tmdb.org/t/p/w200/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg) | ![](https://image.tmdb.org/t/p/w200/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg) | ![](https://image.tmdb.org/t/p/w200/54roTwbX9fltg85zjsmrooXAs12.jpg) | ![](https://image.tmdb.org/t/p/w200/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg) | ![](https://image.tmdb.org/t/p/w200/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg)
-
-## 5 menos bem avaliados
-
-**Never Grow Old** | **Forsaken** | **Return of the Seven** | **The Ballad of Lefty Brown** | **Joe Kidd**
- -- | -- | -- | -- | -- 
-*6,05* | *6,07* | *6,14* | *6,20* | *6,40*
-![](https://image.tmdb.org/t/p/w200/3WGh8RtXOCG6Onrju1SBO67fCGb.jpg) | ![](https://image.tmdb.org/t/p/w200/fbTpSiqGn6ImqSAyawHlLf7goat.jpg) | ![](https://image.tmdb.org/t/p/w200/xO3cPFFzXa7zZ704dOwgws5duFK.jpg) | ![](https://image.tmdb.org/t/p/w200/p4L5DM3ZeEuAawFxd2ftgISQMZQ.jpg) | ![](https://image.tmdb.org/t/p/w200/tnXDeoHlv3q9qoqjKe5iHO8LKvM.jpg)
-
-**Média de votos:** 833,0
-**Menor votos:** 157 (3 Godfathers)
-**Maior votos:** 7751 (The Good, the Bad and the Ugly)
-
-## 5 mais avaliados
-
-**The Good, the Bad and the Ugly** | **Unforgiven** | **A Fistful of Dollars** | **For a Few Dollars More** | **3:10 to Yuma**
- -- | -- | -- | -- | -- 
-*7751* | *3960* | *3769* | *3555* | *3247*
-![](https://image.tmdb.org/t/p/w200/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg) | ![](https://image.tmdb.org/t/p/w200/54roTwbX9fltg85zjsmrooXAs12.jpg) | ![](https://image.tmdb.org/t/p/w200/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg) | ![](https://image.tmdb.org/t/p/w200/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg) | ![](https://image.tmdb.org/t/p/w200/voMB69AsLnPNmtfbrBl0lbeFKDH.jpg)
-
-## 5 menos avaliados
-
-**3 Godfathers** | **The Gunfighter** | **The Ballad of Lefty Brown** | **Chisum** | **Man of the West**
- -- | -- | -- | -- | -- 
-*157* | *157* | *161* | *166* | *167*
-![](https://image.tmdb.org/t/p/w200/dsVrYIpK2Rcgsr5QrfjBQWee5JE.jpg) | ![](https://image.tmdb.org/t/p/w200/5696EpyH0tB8DtKvwNGABMRWknX.jpg) | ![](https://image.tmdb.org/t/p/w200/p4L5DM3ZeEuAawFxd2ftgISQMZQ.jpg) | ![](https://image.tmdb.org/t/p/w200/t7GnHtvMslkBQFA8rgotzpGfm0A.jpg) | ![](https://image.tmdb.org/t/p/w200/fh9vTJ5mOkKK5nZ1LRhfvP5JrD7.jpg)
-
-**Gêneros mais comuns:**
-* Western (53)
-
-
-**Palavras-chave mais comuns:**
-* 19th century (8)
-* shootout (7)
-* outlaw (6)
-* sheriff (6)
-* revenge (6)
-* cowboy (6)
-* settler (6)
-* marshal (6)
-* spaghetti western (5)
-* bounty hunter (4)
-* gunslinger (4)
-* murder (4)
-* gang (4)
-* train robbery (4)
-* native american (4)
-
-# Cluster 67
-**Total de filmes:** 63
-**Média de ano de lançamento:** 2004
-**Menor ano:** 1940 (Pinocchio)
-**Maior ano:** 2022 (Fireheart)
-
-## 5 Mais Velhos 
-
-**Pinocchio** | **Fantasia** | **Dumbo** | **The Sword in the Stone** | **Robin Hood**
- -- | -- | -- | -- | -- 
-*1940* | *1940* | *1941* | *1963* | *1973*
- ![](https://image.tmdb.org/t/p/w200/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg) |  ![](https://image.tmdb.org/t/p/w200/5m9njnidjR0syG2gpVPVgcEMB2X.jpg) |  ![](https://image.tmdb.org/t/p/w200/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg) |  ![](https://image.tmdb.org/t/p/w200/dYQhKThGXl3xQv71Ysw0RSmVmBA.jpg) |  ![](https://image.tmdb.org/t/p/w200/alcY9jZBgKw9OB7hiPYVNvh03Sb.jpg)
-
-## 5 mais novos
-
-**Fireheart** | **Sing 2** | **Rumble** | **Far from the Tree** | **Seal Team**
- -- | -- | -- | -- | -- 
-*2022* | *2021* | *2021* | *2021* | *2021*
-![](https://image.tmdb.org/t/p/w200/nmD0vZk8jQg1Suhs0iv9cj0xdtZ.jpg) | ![](https://image.tmdb.org/t/p/w200/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg) | ![](https://image.tmdb.org/t/p/w200/fL7rh6Mzx87MbVl2aI4sYtxfhO5.jpg) | ![](https://image.tmdb.org/t/p/w200/39oaQUS0KxyXL6KYJ2o2u03PpHz.jpg) | ![](https://image.tmdb.org/t/p/w200/yPZ3I27oeSm4zVesgMxXlhW8GDe.jpg)
-
-**Média da nota:** 6,98
-**Menor nota:** 5,85 (Gnomeo & Juliet)
-**Maior nota:** 8,10 (Far from the Tree)
-
-## 5 mais bem avaliados
-
-**Far from the Tree** | **Sing 2** | **La luna** | **Finding Nemo** | **Azur & Asmar: The Princes' Quest**
- -- | -- | -- | -- | -- 
-*8,10* | *7,92* | *7,84* | *7,82* | *7,71*
-![](https://image.tmdb.org/t/p/w200/39oaQUS0KxyXL6KYJ2o2u03PpHz.jpg) | ![](https://image.tmdb.org/t/p/w200/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg) | ![](https://image.tmdb.org/t/p/w200/Boua5LFL3Xyn2ldIV6Dw7E5qCZ.jpg) | ![](https://image.tmdb.org/t/p/w200/ggQ6o8X5984OCh3kZi2UIJQJY5y.jpg) | ![](https://image.tmdb.org/t/p/w200/ezkzULav0JxvLS5JOnQcjbUmfWO.jpg)
-
-## 5 menos bem avaliados
-
-**Gnomeo & Juliet** | **Ozzy** | **Tarzan & Jane** | **A Turtle's Tale: Sammy's Adventures** | **Home on the Range**
- -- | -- | -- | -- | -- 
-*5,85* | *5,90* | *5,99* | *5,99* | *6,03*
-![](https://image.tmdb.org/t/p/w200/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg) | ![](https://image.tmdb.org/t/p/w200/gJUpiTydLOZ3Gd8ja4x5Mzp7q5s.jpg) | ![](https://image.tmdb.org/t/p/w200/esRxshmD2BY1UPkiUHt7Gn2mksl.jpg) | ![](https://image.tmdb.org/t/p/w200/n2lKNUSAgeZDDPcWHGUnRU89YkF.jpg) | ![](https://image.tmdb.org/t/p/w200/9xIIo4FMquy5SRqn8hppyr2QadR.jpg)
-
-**Média de votos:** 1721,0
-**Menor votos:** 150 (Barbie & Her Sisters in A Pony Tale)
-**Maior votos:** 18061 (Finding Nemo)
-
-## 5 mais avaliados
-
-**Finding Nemo** | **Tangled** | **Monsters University** | **Kung Fu Panda 2** | **Lilo & Stitch**
- -- | -- | -- | -- | -- 
-*18061* | *10539* | *9903* | *6365* | *5665*
-![](https://image.tmdb.org/t/p/w200/ggQ6o8X5984OCh3kZi2UIJQJY5y.jpg) | ![](https://image.tmdb.org/t/p/w200/ym7Kst6a4uodryxqbGOxmewF235.jpg) | ![](https://image.tmdb.org/t/p/w200/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg) | ![](https://image.tmdb.org/t/p/w200/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg) | ![](https://image.tmdb.org/t/p/w200/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg)
-
-## 5 menos avaliados
-
-**Barbie & Her Sisters in A Pony Tale** | **Ozzy** | **Luis and the Aliens** | **The Year Without a Santa Claus** | **Loop**
- -- | -- | -- | -- | -- 
-*150* | *153* | *153* | *158* | *162*
-![](https://image.tmdb.org/t/p/w200/ijs7rC9WvE2wYOxab8x1QSiQiJc.jpg) | ![](https://image.tmdb.org/t/p/w200/gJUpiTydLOZ3Gd8ja4x5Mzp7q5s.jpg) | ![](https://image.tmdb.org/t/p/w200/5oq7s5ru4hjp83mi4fWSJ0L7yUA.jpg) | ![](https://image.tmdb.org/t/p/w200/gc5vz1sZXk1DilIzkQLZ2ujuiWQ.jpg) | ![](https://image.tmdb.org/t/p/w200/pUA0cnrZnm8IRx1NMcr9FiOsAI7.jpg)
-
-**Gêneros mais comuns:**
-* Animation (63)
-* Family (63)
-
-
-**Palavras-chave mais comuns:**
-* based on toy (15)
-* short film (12)
-* musical (10)
-* christmas (6)
-* princess (5)
-* fairy (5)
-* anthropomorphism (4)
-* magic (4)
-* friendship (4)
-* cartoon mouse (4)
-* ballet (4)
-* fairy tale (3)
-* best friend (3)
-* sibling relationship (3)
-* dog (3)
-
-# Cluster 68
-**Total de filmes:** 244
-**Média de ano de lançamento:** 1998
-**Menor ano:** 1922 (Cops)
-**Maior ano:** 2023 (Dungeons & Dragons: Honor Among Thieves)
-
-## 5 Mais Velhos 
-
-**Cops** | **Shanghai Express** | **The Adventures of Robin Hood** | **Sullivan's Travels** | **To Have and Have Not**
- -- | -- | -- | -- | -- 
-*1922* | *1932* | *1938* | *1941* | *1945*
- ![](https://image.tmdb.org/t/p/w200/6CX4AcuxBjVjXxthVilYtU942Ad.jpg) |  ![](https://image.tmdb.org/t/p/w200/l59j7Mdfry4Mbxvpo68qTG8Y4GY.jpg) |  ![](https://image.tmdb.org/t/p/w200/c7LX3GMf9uXQTgVm3uxpm7E6Woc.jpg) |  ![](https://image.tmdb.org/t/p/w200/z5cqIM0ysVjkCmaDfyTQnlozdIp.jpg) |  ![](https://image.tmdb.org/t/p/w200/jLOmQ6yHWSKZDrJ2CMuSrXE3t3J.jpg)
-
-## 5 mais novos
-
-**Dungeons & Dragons: Honor Among Thieves** | **We Have a Ghost** | **Strays** | **Happiness for Beginners** | **The Wonderful Story of Henry Sugar**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2023* | *2023*
-![](https://image.tmdb.org/t/p/w200/gkiHVcE4ae3BSl1x0K3qaJzpybz.jpg) | ![](https://image.tmdb.org/t/p/w200/xo0fgAUoEeVQ7KsKeMWypyglvnf.jpg) | ![](https://image.tmdb.org/t/p/w200/n1hqbSCtyBAxaXEl1Dj3ipXJAJG.jpg) | ![](https://image.tmdb.org/t/p/w200/rK4jb2t3J98IXjY9O3nc8bX9yqt.jpg) | ![](https://image.tmdb.org/t/p/w200/A4LTXT8MMZIr4aIwhE4qbGFivBo.jpg)
-
-**Média da nota:** 6,67
-**Menor nota:** 5,51 (Mortdecai)
-**Maior nota:** 8,18 (Togo)
-
-## 5 mais bem avaliados
-
-**Togo** | **A Dog's Journey** | **The Treasure of the Sierra Madre** | **The Diamond Arm** | **Dances with Wolves**
- -- | -- | -- | -- | -- 
-*8,18* | *8,04* | *7,98* | *7,87* | *7,85*
-![](https://image.tmdb.org/t/p/w200/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg) | ![](https://image.tmdb.org/t/p/w200/wquJChp0NpoqthYdE3YjXNNxvVC.jpg) | ![](https://image.tmdb.org/t/p/w200/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg) | ![](https://image.tmdb.org/t/p/w200/iwVRDsZAuJmulnPKeYxhezzpr9A.jpg) | ![](https://image.tmdb.org/t/p/w200/cvaBVpS0GzKqBd63pFT8f1E8OKv.jpg)
-
-## 5 menos bem avaliados
-
-**Mortdecai** | **Flipper** | **Almost Heroes** | **Agent Cody Banks 2: Destination London** | **Babe: Pig in the City**
- -- | -- | -- | -- | -- 
-*5,51* | *5,51* | *5,51* | *5,53* | *5,55*
-![](https://image.tmdb.org/t/p/w200/j7eKGD0n1zRVfKMX6M1kpfavby7.jpg) | ![](https://image.tmdb.org/t/p/w200/kbsePEyGVpbf3R3vn7yLVnB2lTO.jpg) | ![](https://image.tmdb.org/t/p/w200/qO1cfr4UxcwQ858Nxp470QNS3v8.jpg) | ![](https://image.tmdb.org/t/p/w200/l5CCDJV0VojPJedNcucPWBnrGaC.jpg) | ![](https://image.tmdb.org/t/p/w200/glO6LcTWUZcbxWT2SB4eRDnFSsP.jpg)
-
-**Média de votos:** 1395,0
-**Menor votos:** 150 (Ivanhoe)
-**Maior votos:** 17114 (The Revenant)
-
-## 5 mais avaliados
-
-**The Revenant** | **Charlie and the Chocolate Factory** | **The Lion King** | **Home Alone 2: Lost in New York** | **Jumanji: The Next Level**
- -- | -- | -- | -- | -- 
-*17114* | *13967* | *9325* | *8671* | *7932*
-![](https://image.tmdb.org/t/p/w200/ji3ecJphATlVgWNY0B0RVXZizdf.jpg) | ![](https://image.tmdb.org/t/p/w200/wfGfxtBkhBzQfOZw4S8IQZgrH0a.jpg) | ![](https://image.tmdb.org/t/p/w200/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg) | ![](https://image.tmdb.org/t/p/w200/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg) | ![](https://image.tmdb.org/t/p/w200/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg)
-
-## 5 menos avaliados
-
-**Ivanhoe** | **Father Goose** | **Amazonia: The Catherine Miles Story** | **Angelique** | **Brothers of the Wind**
- -- | -- | -- | -- | -- 
-*150* | *152* | *153* | *153* | *156*
-![](https://image.tmdb.org/t/p/w200/vQAs9zc5tMOSg2wNPHAVPkx51B7.jpg) | ![](https://image.tmdb.org/t/p/w200/Tp4vSQef0qsI78M90SsZZLJzPE.jpg) | ![](https://image.tmdb.org/t/p/w200/bvRjoKZkHgZxP7I9QY45Gw8M5hE.jpg) | ![](https://image.tmdb.org/t/p/w200/lBPpq9f5FNa1fgbcguVh9cOzfg0.jpg) | ![](https://image.tmdb.org/t/p/w200/n7ghzx9azfBho8WNB02jqOlAm5P.jpg)
-
-**Gêneros mais comuns:**
-* Adventure (244)
-* Comedy (155)
-* Family (114)
-* Drama (81)
-* Romance (49)
-* Fantasy (46)
-* Crime (16)
-* Western (12)
-* Horror (12)
-* Mystery (11)
-* War (7)
-* Action (7)
-* History (6)
-* Music (5)
-* TV Movie (2)
-* Thriller (1)
-
-
-**Palavras-chave mais comuns:**
-* dog (24)
-* pets (17)
-* 19th century (13)
-* road trip (12)
-* parent child relationship (9)
-* survival (9)
-* family (9)
-* friendship (9)
-* sports (9)
-* holiday (8)
-* christmas (8)
-* human animal relationship (8)
-* snow (7)
-* africa (7)
-* slapstick comedy (7)
-
-# Cluster 69
-**Total de filmes:** 240
-**Média de ano de lançamento:** 2006
-**Menor ano:** 1926 (The Adventures of Prince Achmed)
-**Maior ano:** 2023 (Barbie)
-
-## 5 Mais Velhos 
-
-**The Adventures of Prince Achmed** | **King Kong** | **Lost Horizon** | **The Wizard of Oz** | **The Thief of Bagdad**
- -- | -- | -- | -- | -- 
-*1926* | *1933* | *1937* | *1939* | *1940*
- ![](https://image.tmdb.org/t/p/w200/c3OKMlt9QxpPeSfpyViqYkYFvUz.jpg) |  ![](https://image.tmdb.org/t/p/w200/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg) |  ![](https://image.tmdb.org/t/p/w200/jCY8uJ80xlO2ApfrsB8s2gzyiBX.jpg) |  ![](https://image.tmdb.org/t/p/w200/bSA6DbAC5gdkaooU164lQUX6rVs.jpg) |  ![](https://image.tmdb.org/t/p/w200/8Fs29JYTOkDluTXgbvLRIaps6PO.jpg)
-
-## 5 mais novos
-
-**Barbie** | **The Little Mermaid** | **Knights of the Zodiac** | **Peter Pan & Wendy** | **Beau Is Afraid**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2023* | *2023*
-![](https://image.tmdb.org/t/p/w200/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg) | ![](https://image.tmdb.org/t/p/w200/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg) | ![](https://image.tmdb.org/t/p/w200/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg) | ![](https://image.tmdb.org/t/p/w200/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg) | ![](https://image.tmdb.org/t/p/w200/wgVkkjigF31r1nZV80uV0xNIoun.jpg)
-
-**Média da nota:** 6,68
-**Menor nota:** 5,50 (Aladdin)
-**Maior nota:** 8,47 (The Lord of the Rings: The Return of the King)
-
-## 5 mais bem avaliados
-
-**The Lord of the Rings: The Return of the King** | **The Lord of the Rings: The Fellowship of the Ring** | **The Lord of the Rings: The Two Towers** | **Princess Mononoke** | **Zack Snyder's Justice League**
- -- | -- | -- | -- | -- 
-*8,47* | *8,40* | *8,39* | *8,34* | *8,19*
-![](https://image.tmdb.org/t/p/w200/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg) | ![](https://image.tmdb.org/t/p/w200/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg) | ![](https://image.tmdb.org/t/p/w200/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg) | ![](https://image.tmdb.org/t/p/w200/cMYCDADoLKLbB83g4WnJegaZimC.jpg) | ![](https://image.tmdb.org/t/p/w200/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg)
-
-## 5 menos bem avaliados
-
-**Aladdin** | **The Mummy** | **Five Children and It** | **Fistful of Vengeance** | **The Covenant**
- -- | -- | -- | -- | -- 
-*5,50* | *5,51* | *5,52* | *5,52* | *5,53*
-![](https://image.tmdb.org/t/p/w200/zlnzJd4v8XyW4usXGoKkzRH1n2M.jpg) | ![](https://image.tmdb.org/t/p/w200/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg) | ![](https://image.tmdb.org/t/p/w200/qjRlksMO0bDgWVMXqViSj1SNY2r.jpg) | ![](https://image.tmdb.org/t/p/w200/3cccEF9QZgV9bLWyupJO41HSrOV.jpg) | ![](https://image.tmdb.org/t/p/w200/4jwVlbGt3BeLr8HCbCTVa72IcWe.jpg)
-
-**Média de votos:** 4577,0
-**Menor votos:** 160 (Versus)
-**Maior votos:** 25379 (Harry Potter and the Philosopher's Stone)
-
-## 5 mais avaliados
-
-**Harry Potter and the Philosopher's Stone** | **The Lord of the Rings: The Fellowship of the Ring** | **The Lord of the Rings: The Return of the King** | **Doctor Strange** | **Harry Potter and the Chamber of Secrets**
- -- | -- | -- | -- | -- 
-*25379* | *23323* | *22334* | *20935* | *20390*
-![](https://image.tmdb.org/t/p/w200/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg) | ![](https://image.tmdb.org/t/p/w200/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg) | ![](https://image.tmdb.org/t/p/w200/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg) | ![](https://image.tmdb.org/t/p/w200/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg) | ![](https://image.tmdb.org/t/p/w200/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg)
-
-## 5 menos avaliados
-
-**Versus** | **Journey to the Christmas Star** | **A Touch of Zen** | **Fullmetal Alchemist: The Final Alchemy** | **Detective Dee: The Four Heavenly Kings**
- -- | -- | -- | -- | -- 
-*160* | *162* | *166* | *167* | *169*
-![](https://image.tmdb.org/t/p/w200/dEk6Fpm4lkEBQBVpzTOLau7qgR9.jpg) | ![](https://image.tmdb.org/t/p/w200/ysqFnW2TrlD6W9H9dn1FLgVhpsq.jpg) | ![](https://image.tmdb.org/t/p/w200/pgveqayMFUIZbFqN87ghiKmmxt3.jpg) | ![](https://image.tmdb.org/t/p/w200/AeyiuQUUs78bPkz18FY3AzNFF8b.jpg) | ![](https://image.tmdb.org/t/p/w200/k7jIYt37BnON8NmncfpN2uRTXSX.jpg)
-
-**Gêneros mais comuns:**
-* Fantasy (240)
-* Adventure (232)
-* Action (130)
-* Family (67)
-* Drama (29)
-* Comedy (26)
-* Romance (18)
-* Thriller (14)
-* Animation (10)
-* Science Fiction (10)
-* Horror (9)
-* Mystery (7)
-* History (4)
-* Music (3)
-* Crime (3)
-* TV Movie (2)
-* War (2)
-* Western (1)
-
-
-**Palavras-chave mais comuns:**
-* magic (52)
-* wizard (25)
-* witch (24)
-* superhero (20)
-* good versus evil (19)
-* fantasy world (17)
-* sword and sorcery (17)
-* christmas (16)
-* live action remake (16)
-* dragon (14)
-* monster (14)
-* live action and animation (12)
-* sword (12)
-* martial arts (12)
-* mythology (12)
-
-# Cluster 70
-**Total de filmes:** 60
-**Média de ano de lançamento:** 2001
-**Menor ano:** 1974 (Watch Out, We're Mad)
-**Maior ano:** 2021 (The Last Mercenary)
-
-## 5 Mais Velhos 
-
-**Watch Out, We're Mad** | **Crime Busters** | **Drunken Master** | **Convoy** | **They Called Him Bulldozer**
- -- | -- | -- | -- | -- 
-*1974* | *1977* | *1978* | *1978* | *1978*
- ![](https://image.tmdb.org/t/p/w200/nsnVnZDqlpe6CHENnapq19RGRzC.jpg) |  ![](https://image.tmdb.org/t/p/w200/z35E0qY8wkkSPIBT5ptQAyWvr8k.jpg) |  ![](https://image.tmdb.org/t/p/w200/cf43J2SH8tECZVl9N5n0Q6Ckche.jpg) |  ![](https://image.tmdb.org/t/p/w200/fhjLa7wysN5kII0AaWmbM6SbUpL.jpg) |  ![](https://image.tmdb.org/t/p/w200/qVaw72xh9ViQ5GHoegAbzcmBQb.jpg)
-
-## 5 mais novos
-
-**The Last Mercenary** | **Guns Akimbo** | **Chick Fight** | **Stuber** | **EXIT**
- -- | -- | -- | -- | -- 
-*2021* | *2020* | *2020* | *2019* | *2019*
-![](https://image.tmdb.org/t/p/w200/ttpKJ7XQxDZV252KNEHXtykYT41.jpg) | ![](https://image.tmdb.org/t/p/w200/2kNnf7BwRCEm4bcFkdiE0T4U25s.jpg) | ![](https://image.tmdb.org/t/p/w200/4ZocdxnOO6q2UbdKye2wgofLFhB.jpg) | ![](https://image.tmdb.org/t/p/w200/gqk7ndiGn9WUT5UDTm6KHwGTv3m.jpg) | ![](https://image.tmdb.org/t/p/w200/zf16eomhCB13cwMb4iFEbBT0Tsr.jpg)
-
-**Média da nota:** 6,39
-**Menor nota:** 5,51 (Trapped in Paradise)
-**Maior nota:** 7,68 (Let the Bullets Fly)
-
-## 5 mais bem avaliados
-
-**Let the Bullets Fly** | **EXIT** | **Watch Out, We're Mad** | **I Can Quit Whenever I Want 3: Ad Honorem** | **The Legend of Drunken Master**
- -- | -- | -- | -- | -- 
-*7,68* | *7,60* | *7,41* | *7,40* | *7,40*
-![](https://image.tmdb.org/t/p/w200/pkwBO3XkQLhgb31vl5ZwmGC5meT.jpg) | ![](https://image.tmdb.org/t/p/w200/zf16eomhCB13cwMb4iFEbBT0Tsr.jpg) | ![](https://image.tmdb.org/t/p/w200/nsnVnZDqlpe6CHENnapq19RGRzC.jpg) | ![](https://image.tmdb.org/t/p/w200/n4uLV4vdMltzUoxeHQJNoDKoiOY.jpg) | ![](https://image.tmdb.org/t/p/w200/xqUBrSBtPYLvCtfqHF5sapU6Div.jpg)
-
-## 5 menos bem avaliados
-
-**Trapped in Paradise** | **Showtime** | **Taxi 4** | **Smokey and the Bandit II** | **Torrente 5**
- -- | -- | -- | -- | -- 
-*5,51* | *5,51* | *5,58* | *5,58* | *5,59*
-![](https://image.tmdb.org/t/p/w200/rmNvub1SO6BwGFlAkaLee2BJ1rt.jpg) | ![](https://image.tmdb.org/t/p/w200/7eo7pxiSH0qvp8GKHclhrdxowlC.jpg) | ![](https://image.tmdb.org/t/p/w200/8OoVXQo23kgMw4ooLfi2mDGVfUE.jpg) | ![](https://image.tmdb.org/t/p/w200/5PWojpyIuPBIKPcqtTC6R3FpmMz.jpg) | ![](https://image.tmdb.org/t/p/w200/dfd0rTS4g6J7EqJDxWZm8KJjGKT.jpg)
-
-**Média de votos:** 1039,0
-**Menor votos:** 152 (New Kids Nitro)
-**Maior votos:** 5941 (This Is the End)
-
-## 5 mais avaliados
-
-**This Is the End** | **The Hitman's Bodyguard** | **The Interview** | **Knight and Day** | **Tower Heist**
- -- | -- | -- | -- | -- 
-*5941* | *5732* | *5370* | *4141* | *2720*
-![](https://image.tmdb.org/t/p/w200/7Wdc3etyBJA4432TYtz6n9GQd1c.jpg) | ![](https://image.tmdb.org/t/p/w200/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg) | ![](https://image.tmdb.org/t/p/w200/tIDC4xT65l7a8qbgg8GvwD5g8c5.jpg) | ![](https://image.tmdb.org/t/p/w200/phhp52CZZJiGYmiOTp9ZBDkGHB3.jpg) | ![](https://image.tmdb.org/t/p/w200/1HcOyMODYZXnncMikfhYkw3x2ss.jpg)
-
-## 5 menos avaliados
-
-**New Kids Nitro** | **The Big Brawl** | **Delhi Belly** | **HK: Forbidden Super Hero** | **My Lucky Stars**
- -- | -- | -- | -- | -- 
-*152* | *155* | *157* | *160* | *160*
-![](https://image.tmdb.org/t/p/w200/2NyrICtZIlDvJjzcau2tUkqdhGw.jpg) | ![](https://image.tmdb.org/t/p/w200/jFl2hmGWFX9mw0NvOOn08Zr8bn5.jpg) | ![](https://image.tmdb.org/t/p/w200/hGmjlOFPaqwxAxR3XDvalExTlXd.jpg) | ![](https://image.tmdb.org/t/p/w200/o5ENtNf4uNACilr90RNTIhd2CtU.jpg) | ![](https://image.tmdb.org/t/p/w200/dZzHBIcJsld2XMvwR75OZGf4NM2.jpg)
-
-**Gêneros mais comuns:**
-* Action (60)
-* Comedy (60)
-
-
-**Palavras-chave mais comuns:**
-* martial arts (8)
-* police (7)
-* kung fu (6)
-* spy (5)
-* fbi (5)
-* friendship (3)
-* satire (3)
-* cia (3)
-* chase (3)
-* secret agent (3)
-* police operation (3)
-* police officer (3)
-* robbery (3)
-* undercover (3)
-* china (3)
-
-# Cluster 71
-**Total de filmes:** 44
-**Média de ano de lançamento:** 2005
-**Menor ano:** 1955 (This Island Earth)
-**Maior ano:** 2023 (Blue Beetle)
-
-## 5 Mais Velhos 
-
-**This Island Earth** | **Forbidden Planet** | **Barbarella** | **Battlestar Galactica** | **Dune**
- -- | -- | -- | -- | -- 
-*1955* | *1956* | *1968* | *1978* | *1984*
- ![](https://image.tmdb.org/t/p/w200/2viRDpHmhzQoreZok2auLjkVbSE.jpg) |  ![](https://image.tmdb.org/t/p/w200/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg) |  ![](https://image.tmdb.org/t/p/w200/kfaRSR3geV3I65icyHWBBEsE9u.jpg) |  ![](https://image.tmdb.org/t/p/w200/96ETJEnHoVuptkCNMtxcEZ5iWzN.jpg) |  ![](https://image.tmdb.org/t/p/w200/ngUaHgSZGkKy1Izwjk7qwZLOC5A.jpg)
-
-## 5 mais novos
-
-**Blue Beetle** | **Justice League: Warworld** | **The Guardians of the Galaxy Holiday Special** | **The Witch: Part 2. The Other One** | **Dune**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2022* | *2022* | *2021*
-![](https://image.tmdb.org/t/p/w200/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg) | ![](https://image.tmdb.org/t/p/w200/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg) | ![](https://image.tmdb.org/t/p/w200/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg) | ![](https://image.tmdb.org/t/p/w200/icQM4lMTEUVYPrSOV3BH9LZjvmY.jpg) | ![](https://image.tmdb.org/t/p/w200/d5NXSklXo0qyIYkgV94XAgMIckC.jpg)
-
-**Média da nota:** 6,77
-**Menor nota:** 5,68 (Minutemen)
-**Maior nota:** 8,36 (Inception)
-
-## 5 mais bem avaliados
-
-**Inception** | **Doctor Who: The Day of the Doctor** | **Guardians of the Galaxy** | **Dune** | **Iron Man**
- -- | -- | -- | -- | -- 
-*8,36* | *8,17* | *7,91* | *7,79* | *7,64*
-![](https://image.tmdb.org/t/p/w200/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg) | ![](https://image.tmdb.org/t/p/w200/yxLra5R61s5J4M5L3mqOY42K5md.jpg) | ![](https://image.tmdb.org/t/p/w200/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg) | ![](https://image.tmdb.org/t/p/w200/d5NXSklXo0qyIYkgV94XAgMIckC.jpg) | ![](https://image.tmdb.org/t/p/w200/78lPtwv72eTNqFW9COBYI0dWDJa.jpg)
-
-## 5 menos bem avaliados
-
-**Minutemen** | **Planet 51** | **Sky Captain and the World of Tomorrow** | **Bill & Ted Face the Music** | **Barbarella**
- -- | -- | -- | -- | -- 
-*5,68* | *5,85* | *5,86* | *5,91* | *5,96*
-![](https://image.tmdb.org/t/p/w200/2y00QZiT3XUGwIxQxY5WLvvd1Y6.jpg) | ![](https://image.tmdb.org/t/p/w200/x7Itcg3ZdExKwdKguy73WPEqosW.jpg) | ![](https://image.tmdb.org/t/p/w200/cO73CS7XKRPfGYh6G36StnhswQc.jpg) | ![](https://image.tmdb.org/t/p/w200/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg) | ![](https://image.tmdb.org/t/p/w200/kfaRSR3geV3I65icyHWBBEsE9u.jpg)
-
-**Média de votos:** 4804,0
-**Menor votos:** 160 (Battlestar Galactica)
-**Maior votos:** 34495 (Inception)
-
-## 5 mais avaliados
-
-**Inception** | **Guardians of the Galaxy** | **Iron Man** | **X-Men: First Class** | **Pacific Rim**
- -- | -- | -- | -- | -- 
-*34495* | *26638* | *24874* | *11986* | *11567*
-![](https://image.tmdb.org/t/p/w200/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg) | ![](https://image.tmdb.org/t/p/w200/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg) | ![](https://image.tmdb.org/t/p/w200/78lPtwv72eTNqFW9COBYI0dWDJa.jpg) | ![](https://image.tmdb.org/t/p/w200/vUvlOY575rztBuJV3a0dbHW5MQR.jpg) | ![](https://image.tmdb.org/t/p/w200/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg)
-
-## 5 menos avaliados
-
-**Battlestar Galactica** | **Justice League: Warworld** | **Until the End of the World** | **The Witch: Part 2. The Other One** | **This Island Earth**
- -- | -- | -- | -- | -- 
-*160* | *166* | *173* | *188* | *199*
-![](https://image.tmdb.org/t/p/w200/96ETJEnHoVuptkCNMtxcEZ5iWzN.jpg) | ![](https://image.tmdb.org/t/p/w200/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg) | ![](https://image.tmdb.org/t/p/w200/sDpYWgYkBlrVnpySXQNsxVvDAAG.jpg) | ![](https://image.tmdb.org/t/p/w200/icQM4lMTEUVYPrSOV3BH9LZjvmY.jpg) | ![](https://image.tmdb.org/t/p/w200/2viRDpHmhzQoreZok2auLjkVbSE.jpg)
-
-**Gêneros mais comuns:**
-* Science Fiction (44)
-* Adventure (44)
-* Action (22)
-* Comedy (8)
-* Thriller (6)
-* Family (5)
-* Drama (4)
-* Animation (4)
-* Mystery (3)
-* Fantasy (3)
-* Romance (2)
-* TV Movie (1)
-
-
-**Palavras-chave mais comuns:**
-* dystopia (9)
-* alien (9)
-* space (8)
-* spacecraft (7)
-* superhero (7)
-* time travel (7)
-* robot (5)
-* army (4)
-* alien planet (4)
-* extraterrestrial technology (4)
-* flying saucer (4)
-* marvel cinematic universe (mcu) (3)
-* monster (3)
-* giant robot (3)
-* future (3)
-
-# Cluster 72
-**Total de filmes:** 255
-**Média de ano de lançamento:** 2005
-**Menor ano:** 1928 (Steamboat Willie)
+* dystopia (28)
+* zombie (11)
+* future (10)
+* post-apocalyptic future (9)
+* action hero (8)
+* cyborg (7)
+* creature (7)
+* conspiracy (7)
+* martial arts (7)
+* time travel (6)
+* monster (6)
+* death game (6)
+* alien (5)
+* 2030s (5)
+* mutant (5)
+
+# Cluster 76
+**Total de filmes:** 496
+**Média de ano de lançamento:** 2000
+**Menor ano:** 1892 (Poor Pierrot)
 **Maior ano:** 2023 (Elemental)
 
 ## 5 Mais Velhos 
 
-**Steamboat Willie** | **The Skeleton Dance** | **Flowers and Trees** | **Three Little Pigs** | **The Tortoise and the Hare**
+**Poor Pierrot** | **Alice in Wonderland** | **The Cameraman's Revenge** | **Gertie the Dinosaur** | **Steamboat Willie**
  -- | -- | -- | -- | -- 
-*1928* | *1929* | *1932* | *1933* | *1935*
- ![](https://image.tmdb.org/t/p/w200/beb0az1ktyUj5ZljGOY9YOFfkSS.jpg) |  ![](https://image.tmdb.org/t/p/w200/mVqE5oefscQemNFojie8CvDzB6Y.jpg) |  ![](https://image.tmdb.org/t/p/w200/7qV8IuQll3DxZWYtCpj8HtwwGiL.jpg) |  ![](https://image.tmdb.org/t/p/w200/aPmSY3y4A2xMSkF24tdIfDQNKJy.jpg) |  ![](https://image.tmdb.org/t/p/w200/5vigKmZnR5hXTC6X2wXXsjGhYWc.jpg)
+*1892* | *1903* | *1912* | *1914* | *1928*
+ ![](https://image.tmdb.org/t/p/w200/1e2ytD2cSxAz1r0SItxDmZUPb4i.jpg) |  ![](https://image.tmdb.org/t/p/w200/gEgsAWaOC1Emw8eCd2ckKS23uZg.jpg) |  ![](https://image.tmdb.org/t/p/w200/eJ8IQrSWc8wNWSySa3WoMs6np2Z.jpg) |  ![](https://image.tmdb.org/t/p/w200/dpKnNDqkvfxe0MQNPyIbBs7AEI5.jpg) |  ![](https://image.tmdb.org/t/p/w200/beb0az1ktyUj5ZljGOY9YOFfkSS.jpg)
 
 ## 5 mais novos
 
-**Elemental** | **Ruby Gillman, Teenage Kraken** | **Miraculous: Ladybug & Cat Noir, The Movie** | **Guillermo del Toro's Pinocchio** | **The House**
+**Elemental** | **Ruby Gillman, Teenage Kraken** | **Marcel the Shell with Shoes On** | **Scrooge: A Christmas Carol** | **Wendell & Wild**
  -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg) | ![](https://image.tmdb.org/t/p/w200/kgrLpJcLBbyhWIkK7fx1fM4iSvf.jpg) | ![](https://image.tmdb.org/t/p/w200/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg) | ![](https://image.tmdb.org/t/p/w200/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg) | ![](https://image.tmdb.org/t/p/w200/iZjMFSKCrleKolC1gYcz5Rs8bk1.jpg)
+*2023* | *2023* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg) | ![](https://image.tmdb.org/t/p/w200/kgrLpJcLBbyhWIkK7fx1fM4iSvf.jpg) | ![](https://image.tmdb.org/t/p/w200/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg) | ![](https://image.tmdb.org/t/p/w200/oyGb5JpEYMEqDDjfJKLEvPTVSjK.jpg) | ![](https://image.tmdb.org/t/p/w200/s7XxXJ7ponaLAkxiySRxox2Ssc4.jpg)
 
-**Média da nota:** 7,21
-**Menor nota:** 5,53 (Six Men Getting Sick)
-**Maior nota:** 8,54 (Spirited Away)
+**Média da nota:** 6,92
+**Menor nota:** 4,92 (Garfield Gets Real)
+**Maior nota:** 8,69 (Shooom's Odyssey)
 
 ## 5 mais bem avaliados
 
-**Spirited Away** | **Grave of the Fireflies** | **Dou kyu sei – Classmates** | **A Silent Voice: The Movie** | **Hotarubi no Mori e**
+**Shooom's Odyssey** | **Spirited Away** | **Scooby-Doo! and the Spooky Scarecrow** | **Scooby-Doo! Adventures: The Mystery Map** | **The Lion King**
  -- | -- | -- | -- | -- 
-*8,54* | *8,45* | *8,42* | *8,40* | *8,36*
-![](https://image.tmdb.org/t/p/w200/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg) | ![](https://image.tmdb.org/t/p/w200/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg) | ![](https://image.tmdb.org/t/p/w200/cIfRCA5wEvj9tApca4UDUagQEiM.jpg) | ![](https://image.tmdb.org/t/p/w200/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg) | ![](https://image.tmdb.org/t/p/w200/mDqzHV8UXWWNpZkoAbKmKX1ZxEE.jpg)
+*8,69* | *8,54* | *8,53* | *8,40* | *8,26*
+![](https://image.tmdb.org/t/p/w200/fOoNsclGvm3RSMLKbEgPIcRkxRJ.jpg) | ![](https://image.tmdb.org/t/p/w200/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg) | ![](https://image.tmdb.org/t/p/w200/tq2Xc3fp47F0nQsFGsnxmX8H2NS.jpg) | ![](https://image.tmdb.org/t/p/w200/pulFY8KAuF6BiySNkVHgAN7cI0H.jpg) | ![](https://image.tmdb.org/t/p/w200/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg)
 
 ## 5 menos bem avaliados
 
-**Six Men Getting Sick** | **Cool World** | **Alvin and the Chipmunks: The Squeakquel** | **Alvin and the Chipmunks: Chipwrecked** | **The Smurfs 2**
+**Garfield Gets Real** | **Shark Bait** | **Eight Crazy Nights** | **Hoodwinked Too! Hood VS. Evil** | **Free Jimmy**
  -- | -- | -- | -- | -- 
-*5,53* | *5,53* | *5,63* | *5,70* | *5,77*
-![](https://image.tmdb.org/t/p/w200/szC45SOFeOnYja364TZrQB7Tdo6.jpg) | ![](https://image.tmdb.org/t/p/w200/mqzRUHNtFwmgJCmSnvq3JnX0xgZ.jpg) | ![](https://image.tmdb.org/t/p/w200/8mdPqOga5fty15nXmaNcK1fsNMa.jpg) | ![](https://image.tmdb.org/t/p/w200/npOXWVoZyl8UrF2wtByHtfmsWSX.jpg) | ![](https://image.tmdb.org/t/p/w200/8cfGugUrTThWdrNRqpCTz2mXPBD.jpg)
+*4,92* | *4,99* | *5,10* | *5,14* | *5,22*
+![](https://image.tmdb.org/t/p/w200/cRlJEevXbt183BYBhUw3cvldp7C.jpg) | ![](https://image.tmdb.org/t/p/w200/xmFSuoUfA1t4xsGKFR6i4kFvmWM.jpg) | ![](https://image.tmdb.org/t/p/w200/pfQrbZxTv4BVf1XRQnCngZ3wQg8.jpg) | ![](https://image.tmdb.org/t/p/w200/rp3oWYCiiOKddzsObLlgSGWz37.jpg) | ![](https://image.tmdb.org/t/p/w200/AmDtL2KYezl1Pvuz6dEQcHGpcwv.jpg)
 
-**Média de votos:** 1423,0
-**Menor votos:** 150 (The Tortoise and the Hare)
-**Maior votos:** 16991 (The Lion King)
+**Média de votos:** 990,0
+**Menor votos:** 75 (The Smurfs and the Magic Flute)
+**Maior votos:** 18061 (Finding Nemo)
 
 ## 5 mais avaliados
 
-**The Lion King** | **Ratatouille** | **Spirited Away** | **Soul** | **Beauty and the Beast**
+**Finding Nemo** | **The Lion King** | **Ratatouille** | **Spirited Away** | **Despicable Me**
  -- | -- | -- | -- | -- 
-*16991* | *15728* | *14913* | *9473* | *9256*
-![](https://image.tmdb.org/t/p/w200/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg) | ![](https://image.tmdb.org/t/p/w200/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg) | ![](https://image.tmdb.org/t/p/w200/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg) | ![](https://image.tmdb.org/t/p/w200/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg) | ![](https://image.tmdb.org/t/p/w200/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg)
+*18061* | *16991* | *15728* | *14913* | *14147*
+![](https://image.tmdb.org/t/p/w200/ggQ6o8X5984OCh3kZi2UIJQJY5y.jpg) | ![](https://image.tmdb.org/t/p/w200/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg) | ![](https://image.tmdb.org/t/p/w200/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg) | ![](https://image.tmdb.org/t/p/w200/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg) | ![](https://image.tmdb.org/t/p/w200/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg)
 
 ## 5 menos avaliados
 
-**The Tortoise and the Hare** | **One Froggy Evening** | **Father and Daughter** | **Flowers and Trees** | **LEGO® Scooby-Doo! Blowout Beach Bash**
+**The Smurfs and the Magic Flute** | **The Haunted House** | **Scooby-Doo! and the Spooky Scarecrow** | **It's Christmastime Again, Charlie Brown** | **Jack Frost**
  -- | -- | -- | -- | -- 
-*150* | *153* | *153* | *153* | *153*
-![](https://image.tmdb.org/t/p/w200/5vigKmZnR5hXTC6X2wXXsjGhYWc.jpg) | ![](https://image.tmdb.org/t/p/w200/k56XBWKTBQJ5qx3Pod6tQPI9arE.jpg) | ![](https://image.tmdb.org/t/p/w200/ubbjdHHMklvSJ1OtKruiA2otF4t.jpg) | ![](https://image.tmdb.org/t/p/w200/7qV8IuQll3DxZWYtCpj8HtwwGiL.jpg) | ![](https://image.tmdb.org/t/p/w200/oryn9TbZE1vmlFkcFLYfZkx8CyB.jpg)
+*75* | *75* | *75* | *76* | *76*
+![](https://image.tmdb.org/t/p/w200/raI16q3bC3DOEbHclu9KX4QyJov.jpg) | ![](https://image.tmdb.org/t/p/w200/hiGHNP86sz4otnFIQxRC2ADjUmv.jpg) | ![](https://image.tmdb.org/t/p/w200/tq2Xc3fp47F0nQsFGsnxmX8H2NS.jpg) | ![](https://image.tmdb.org/t/p/w200/cgS0NsSVOgNtauOYooS4KzLd6oZ.jpg) | ![](https://image.tmdb.org/t/p/w200/lIuudXPo9vF1Sxsgdv6KXhqae50.jpg)
 
 **Gêneros mais comuns:**
-* Animation (251)
-* Family (171)
-* Fantasy (132)
-* Comedy (117)
-* Drama (71)
-* Romance (42)
-* Music (33)
+* Animation (495)
+* Family (383)
+* Comedy (240)
+* Fantasy (129)
+* Music (47)
+* Drama (36)
+* TV Movie (28)
+* Romance (24)
 * Mystery (23)
-* Action (16)
-* Horror (13)
-* Science Fiction (5)
-* War (4)
-* Thriller (4)
-* Crime (2)
-* TV Movie (2)
+* Action (17)
+* Horror (11)
+* Crime (4)
+* Adventure (4)
+* Thriller (2)
 * Western (2)
+* War (2)
 * History (1)
 
 
 **Palavras-chave mais comuns:**
-* anime (50)
-* short film (48)
-* musical (33)
-* adult animation (28)
-* princess (20)
-* magic (19)
-* friendship (19)
-* stop motion (16)
-* cartoon (14)
-* based on toy (12)
-* christmas (11)
-* vampire (11)
-* anthropomorphism (11)
-* live action and animation (11)
-* dog (11)
-
-# Cluster 73
-**Total de filmes:** 179
-**Média de ano de lançamento:** 2003
-**Menor ano:** 1903 (The Great Train Robbery)
-**Maior ano:** 2023 (Transfusion)
-
-## 5 Mais Velhos 
-
-**The Great Train Robbery** | **Bob le Flambeur** | **Crooks in Clover** | **Batman** | **Le Deuxième Souffle**
- -- | -- | -- | -- | -- 
-*1903* | *1956* | *1963* | *1966* | *1966*
- ![](https://image.tmdb.org/t/p/w200/vEYr1sJR1dOFGXwXawpBN6hDRGF.jpg) |  ![](https://image.tmdb.org/t/p/w200/j6dZ99cnlABusiMV9Rn8quWfFG5.jpg) |  ![](https://image.tmdb.org/t/p/w200/1uYCIsMpX7FtWu2xO1YMIAQYvLR.jpg) |  ![](https://image.tmdb.org/t/p/w200/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg) |  ![](https://image.tmdb.org/t/p/w200/fyNR3Vo4cdUBqDDqAbQQ3GR4HrF.jpg)
-
-## 5 mais novos
-
-**Transfusion** | **Infiesto** | **The Unbearable Weight of Massive Talent** | **The Outfit** | **Diabolik - Ginko Attacks**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2022* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/bxh5xCCW9Ynfg6EZJWUkc1zqTnr.jpg) | ![](https://image.tmdb.org/t/p/w200/dmO2U0ckWkE6T5hyYY3rUtSH9X4.jpg) | ![](https://image.tmdb.org/t/p/w200/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg) | ![](https://image.tmdb.org/t/p/w200/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg) | ![](https://image.tmdb.org/t/p/w200/8QVbWBv94BAT9u1q9uJccwOxMzt.jpg)
-
-**Média da nota:** 6,59
-**Menor nota:** 5,54 (Rendel)
-**Maior nota:** 8,32 (Léon: The Professional)
-
-## 5 mais bem avaliados
-
-**Léon: The Professional** | **Scarface** | **Elite Squad** | **Kill Bill: Vol. 1** | **Tokyo Revengers**
- -- | -- | -- | -- | -- 
-*8,32* | *8,17* | *8,06* | *7,97* | *7,93*
-![](https://image.tmdb.org/t/p/w200/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg) | ![](https://image.tmdb.org/t/p/w200/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg) | ![](https://image.tmdb.org/t/p/w200/lwIXz785N2fXi8hsBr1IXciFlkM.jpg) | ![](https://image.tmdb.org/t/p/w200/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg) | ![](https://image.tmdb.org/t/p/w200/q8Q2VBt3rP0cSG3hNerIQuogLAH.jpg)
-
-## 5 menos bem avaliados
-
-**Rendel** | **One for the Money** | **Cop Out** | **Death Wish V: The Face of Death** | **Bad Country**
- -- | -- | -- | -- | -- 
-*5,54* | *5,55* | *5,55* | *5,58* | *5,58*
-![](https://image.tmdb.org/t/p/w200/9TTRFp7OpMEv3xDuUAU4m5d6tHq.jpg) | ![](https://image.tmdb.org/t/p/w200/eeltLl5jLUl9d96tpKkCAWu4JWu.jpg) | ![](https://image.tmdb.org/t/p/w200/qA31i7FPVDHezuoevx3497CvZd4.jpg) | ![](https://image.tmdb.org/t/p/w200/8Xa9unAVdyktjonPQpMVcvEZhye.jpg) | ![](https://image.tmdb.org/t/p/w200/557r9wTsHdf0ae3MJYihepIZWs3.jpg)
-
-**Média de votos:** 1571,0
-**Menor votos:** 151 (Don't Tell a Soul)
-**Maior votos:** 19561 (Batman Begins)
-
-## 5 mais avaliados
-
-**Batman Begins** | **Kill Bill: Vol. 1** | **Baby Driver** | **Léon: The Professional** | **Kick-Ass**
- -- | -- | -- | -- | -- 
-*19561* | *16188* | *14634* | *13652* | *10997*
-![](https://image.tmdb.org/t/p/w200/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg) | ![](https://image.tmdb.org/t/p/w200/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg) | ![](https://image.tmdb.org/t/p/w200/rmnQ9jKW72bHu8uKlMjPIb2VLMI.jpg) | ![](https://image.tmdb.org/t/p/w200/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg) | ![](https://image.tmdb.org/t/p/w200/8citjdBmjddZjlPsAHEyCKwGVvD.jpg)
-
-## 5 menos avaliados
-
-**Don't Tell a Soul** | **Shock Wave** | **Romeo Is Bleeding** | **Paradox** | **The Newton Boys**
- -- | -- | -- | -- | -- 
-*151* | *151* | *151* | *152* | *154*
-![](https://image.tmdb.org/t/p/w200/2lla8pP0wNlDAFgV83nZpYMWkeT.jpg) | ![](https://image.tmdb.org/t/p/w200/l4G4M6V9UrNRdbcsbnMmEZUyBGw.jpg) | ![](https://image.tmdb.org/t/p/w200/mgCwAZBG0PCkZflC6nzsxwvG2vu.jpg) | ![](https://image.tmdb.org/t/p/w200/ge1URsKVUyeONg0nJQyPczxkNNM.jpg) | ![](https://image.tmdb.org/t/p/w200/dyDO45OuOOKtOttUcAb6D3MgU5.jpg)
-
-**Gêneros mais comuns:**
-* Crime (179)
-* Action (161)
-* Drama (65)
-* Comedy (52)
-* Mystery (4)
-* Western (3)
-* Romance (3)
-* Horror (3)
-* Fantasy (2)
-
-
-**Palavras-chave mais comuns:**
-* police (33)
-* revenge (25)
-* gangster (23)
-* buddy cop (22)
-* murder (20)
-* martial arts (16)
-* robbery (16)
-* action hero (15)
-* drugs (13)
-* undercover (12)
-* detective (12)
-* vigilante (11)
-* heist (11)
-* shootout (11)
-* organized crime (10)
-
-# Cluster 74
-**Total de filmes:** 174
-**Média de ano de lançamento:** 2004
-**Menor ano:** 1917 (Easy Street)
-**Maior ano:** 2023 (Shazam! Fury of the Gods)
-
-## 5 Mais Velhos 
-
-**Easy Street** | **Sherlock Jr.** | **Way Out West** | **Sanjuro** | **Cartouche**
- -- | -- | -- | -- | -- 
-*1917* | *1924* | *1937* | *1962* | *1962*
- ![](https://image.tmdb.org/t/p/w200/aGnx73mmAFP6ssWYpMIV7yekg7g.jpg) |  ![](https://image.tmdb.org/t/p/w200/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg) |  ![](https://image.tmdb.org/t/p/w200/s5ncA1dSdJU6ksLMydexwWduyhQ.jpg) |  ![](https://image.tmdb.org/t/p/w200/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg) |  ![](https://image.tmdb.org/t/p/w200/5j6hcUIXzG8ltLk2yQeFdhJx6jA.jpg)
-
-## 5 mais novos
-
-**Shazam! Fury of the Gods** | **Ghosted** | **Operation Fortune: Ruse de Guerre** | **The Out-Laws** | **Zom 100: Bucket List of the Dead**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2023* | *2023*
-![](https://image.tmdb.org/t/p/w200/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg) | ![](https://image.tmdb.org/t/p/w200/liLN69YgoovHVgmlHJ876PKi5Yi.jpg) | ![](https://image.tmdb.org/t/p/w200/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg) | ![](https://image.tmdb.org/t/p/w200/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg) | ![](https://image.tmdb.org/t/p/w200/kD35dB3KOHrLo1Y3RU5xXJ1hI7.jpg)
-
-**Média da nota:** 6,50
-**Menor nota:** 5,50 (The Dukes of Hazzard)
-**Maior nota:** 8,09 (Sherlock Jr.)
-
-## 5 mais bem avaliados
-
-**Sherlock Jr.** | **Love Exposure** | **Sanjuro** | **Dangal** | **Bajrangi Bhaijaan**
- -- | -- | -- | -- | -- 
-*8,09* | *8,00* | *7,94* | *7,93* | *7,81*
-![](https://image.tmdb.org/t/p/w200/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg) | ![](https://image.tmdb.org/t/p/w200/plOE700tNSs3PjDrmoyVmzFb0oZ.jpg) | ![](https://image.tmdb.org/t/p/w200/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg) | ![](https://image.tmdb.org/t/p/w200/1xoavuB5bO92wo3eFQjZN2I9ptV.jpg) | ![](https://image.tmdb.org/t/p/w200/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg)
-
-## 5 menos bem avaliados
-
-**The Dukes of Hazzard** | **City Heat** | **Another Stakeout** | **Big Mommas: Like Father, Like Son** | **Taxi**
- -- | -- | -- | -- | -- 
-*5,50* | *5,50* | *5,51* | *5,53* | *5,56*
-![](https://image.tmdb.org/t/p/w200/o5pKtw26jEk7zX2446gPVbTNrFb.jpg) | ![](https://image.tmdb.org/t/p/w200/167MOszimyqPEbEXVVhh3WvrslG.jpg) | ![](https://image.tmdb.org/t/p/w200/hBItFUmCrRS1mel0TM69ymBD79k.jpg) | ![](https://image.tmdb.org/t/p/w200/n1GSxFcDaZ6lMVf21M0KloPfuhu.jpg) | ![](https://image.tmdb.org/t/p/w200/eLDoNLJHZPcavTT1vJqZoGydoWB.jpg)
-
-**Média de votos:** 1679,0
-**Menor votos:** 154 (City Heat)
-**Maior votos:** 16324 (Deadpool 2)
-
-## 5 mais avaliados
-
-**Deadpool 2** | **Kingsman: The Secret Service** | **Sonic the Hedgehog** | **Ocean's Eight** | **The Suicide Squad**
- -- | -- | -- | -- | -- 
-*16324* | *15664* | *8901* | *7780* | *7692*
-![](https://image.tmdb.org/t/p/w200/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg) | ![](https://image.tmdb.org/t/p/w200/ay7xwXn1G9fzX9TUBlkGA584rGi.jpg) | ![](https://image.tmdb.org/t/p/w200/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg) | ![](https://image.tmdb.org/t/p/w200/MvYpKlpFukTivnlBhizGbkAe3v.jpg) | ![](https://image.tmdb.org/t/p/w200/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg)
-
-## 5 menos avaliados
-
-**City Heat** | **Cartouche** | **Easy Street** | **I'm Gonna Git You Sucka** | **The Legend of Billie Jean**
- -- | -- | -- | -- | -- 
-*154* | *155* | *157* | *161* | *162*
-![](https://image.tmdb.org/t/p/w200/167MOszimyqPEbEXVVhh3WvrslG.jpg) | ![](https://image.tmdb.org/t/p/w200/5j6hcUIXzG8ltLk2yQeFdhJx6jA.jpg) | ![](https://image.tmdb.org/t/p/w200/aGnx73mmAFP6ssWYpMIV7yekg7g.jpg) | ![](https://image.tmdb.org/t/p/w200/gL7g9gPrzeq7HpZTlnc6k1kHx1y.jpg) | ![](https://image.tmdb.org/t/p/w200/x2u2YtbJ9XySs3MdaIly8Gfp66.jpg)
-
-**Gêneros mais comuns:**
-* Action (174)
-* Comedy (173)
-* Crime (66)
-* Thriller (34)
-* Romance (25)
-* Adventure (23)
-* Drama (20)
-* Family (14)
-* Horror (11)
-* Fantasy (9)
-* Western (7)
-* War (4)
-* Mystery (3)
-* Science Fiction (1)
-* Music (1)
-* Animation (1)
-
-
-**Palavras-chave mais comuns:**
-* martial arts (16)
-* police (14)
-* buddy cop (11)
-* action hero (10)
-* gangster (10)
-* superhero (9)
-* spy (9)
-* kidnapping (9)
-* revenge (9)
-* chase (8)
-* hitman (7)
-* drugs (7)
-* secret agent (6)
-* parody (6)
-* murder (6)
-
-# Cluster 75
-**Total de filmes:** 165
-**Média de ano de lançamento:** 2008
-**Menor ano:** 1888 (Roundhay Garden Scene)
-**Maior ano:** 2023 (Money Shot: The Pornhub Story)
-
-## 5 Mais Velhos 
-
-**Roundhay Garden Scene** | **Workers Leaving the Lumière Factory** | **The Arrival of a Train at La Ciotat** | **Nanook of the North** | **Man with a Movie Camera**
- -- | -- | -- | -- | -- 
-*1888* | *1895* | *1897* | *1922* | *1929*
- ![](https://image.tmdb.org/t/p/w200/qI9eTP3NpJlxTk3oMBvfz8Awwkw.jpg) |  ![](https://image.tmdb.org/t/p/w200/cT2sefAXgEoICJUCEM6UfxXfuDM.jpg) |  ![](https://image.tmdb.org/t/p/w200/m5HSlaNCzwV95rAriDmT19el5h1.jpg) |  ![](https://image.tmdb.org/t/p/w200/9WAboi1QbKu41WkyGxQVNpXwwxx.jpg) |  ![](https://image.tmdb.org/t/p/w200/vJgAdgJWX54v0oXfIvhwjlZnmgn.jpg)
-
-## 5 mais novos
-
-**Money Shot: The Pornhub Story** | **Pamela, A Love Story** | **Harry Potter 20th Anniversary: Return to Hogwarts** | **Obi-Wan Kenobi: A Jedi's Return** | **Return to Space**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2022* | *2022* | *2022*
-![](https://image.tmdb.org/t/p/w200/kpTqWqLYcf1uErnx5VXLah4EWJZ.jpg) | ![](https://image.tmdb.org/t/p/w200/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg) | ![](https://image.tmdb.org/t/p/w200/jntLBq0MLR3hrwKaTQswxACRPMs.jpg) | ![](https://image.tmdb.org/t/p/w200/wn6LkWQst96dPGEkn8Cl2TnNnLp.jpg) | ![](https://image.tmdb.org/t/p/w200/uyatxKGACzSNqDzTe5sv5YHAY30.jpg)
-
-**Média da nota:** 7,28
-**Menor nota:** 5,59 (Rocco)
-**Maior nota:** 8,55 (David Attenborough: A Life on Our Planet)
-
-## 5 mais bem avaliados
-
-**David Attenborough: A Life on Our Planet** | **Human** | **Love Meetings** | **Baraka** | **The Salt of the Earth**
- -- | -- | -- | -- | -- 
-*8,55* | *8,48* | *8,30* | *8,25* | *8,10*
-![](https://image.tmdb.org/t/p/w200/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg) | ![](https://image.tmdb.org/t/p/w200/vdZgH8cr73DJTLwvyzFpmm9l3xV.jpg) | ![](https://image.tmdb.org/t/p/w200/olOuK4gkrYzgo7xJWR1EugZ2vdS.jpg) | ![](https://image.tmdb.org/t/p/w200/ldEuJQ4z7zEvL7iXraESWBUfQcz.jpg) | ![](https://image.tmdb.org/t/p/w200/jRmQNj8NacAHJnzwfvFvglKSGB6.jpg)
-
-## 5 menos bem avaliados
-
-**Rocco** | **After Porn Ends** | **Money Shot: The Pornhub Story** | **Hot Girls Wanted** | **X-Rated: The Greatest Adult Movies of All Time**
- -- | -- | -- | -- | -- 
-*5,59* | *5,68* | *5,75* | *6,01* | *6,21*
-![](https://image.tmdb.org/t/p/w200/wGVnyKJm37uXqL1wAeLfnGuYw0m.jpg) | ![](https://image.tmdb.org/t/p/w200/aPerSjt4viv7Ik8OEHL83AbrH6R.jpg) | ![](https://image.tmdb.org/t/p/w200/kpTqWqLYcf1uErnx5VXLah4EWJZ.jpg) | ![](https://image.tmdb.org/t/p/w200/75ot83QOkc02vujyzmIbumQCU6Y.jpg) | ![](https://image.tmdb.org/t/p/w200/uYzHkzZPp84B7nHOKaJZWjyGFUL.jpg)
-
-**Média de votos:** 373,0
-**Menor votos:** 150 (Born in China)
-**Maior votos:** 3084 (Harry Potter 20th Anniversary: Return to Hogwarts)
-
-## 5 mais avaliados
-
-**Harry Potter 20th Anniversary: Return to Hogwarts** | **Super Size Me** | **Fahrenheit 9/11** | **Citizenfour** | **Friends: The Reunion**
- -- | -- | -- | -- | -- 
-*3084* | *1515* | *1301* | *1186* | *1082*
-![](https://image.tmdb.org/t/p/w200/jntLBq0MLR3hrwKaTQswxACRPMs.jpg) | ![](https://image.tmdb.org/t/p/w200/zYkbqQaCuIHBxqBDGgnQCwJ9jIG.jpg) | ![](https://image.tmdb.org/t/p/w200/fqYHw4cCgEbbWqhA4MIuWKZZ4RA.jpg) | ![](https://image.tmdb.org/t/p/w200/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg) | ![](https://image.tmdb.org/t/p/w200/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg)
-
-## 5 menos avaliados
-
-**Born in China** | **Woody Allen: A Documentary** | **Knock Down the House** | **What is a Woman?** | **Fyre Fraud**
- -- | -- | -- | -- | -- 
-*150* | *151* | *155* | *155* | *155*
-![](https://image.tmdb.org/t/p/w200/7oOHmp6SwuLmVEpdDInm14OmlzL.jpg) | ![](https://image.tmdb.org/t/p/w200/s7IA3Ng2mLer8lt8j1BhsVulLqQ.jpg) | ![](https://image.tmdb.org/t/p/w200/uAfixuZIFVbWIsWytzROJDY85D7.jpg) | ![](https://image.tmdb.org/t/p/w200/iiP8Sq7yWoYsKx9EVfyRPno8Un9.jpg) | ![](https://image.tmdb.org/t/p/w200/jeeHE4gDErwulQ9UJjHeLAzV1TG.jpg)
-
-**Gêneros mais comuns:**
-* Documentary (165)
-
-
-**Palavras-chave mais comuns:**
-* politics (10)
-* sports (10)
-* sports documentary (9)
-* behind the scenes (8)
-* filmmaking (8)
-* interview (8)
-* nature (7)
-* art (6)
-* nature documentary (6)
-* short film (6)
-* capitalism (5)
-* economics (5)
-* climate change (5)
-* environment (5)
-* political documentary (5)
-
-# Cluster 76
-**Total de filmes:** 18
-**Média de ano de lançamento:** 2002
-**Menor ano:** 1986 (Hoosiers)
-**Maior ano:** 2017 (Wonder)
-
-## 5 Mais Velhos 
-
-**Hoosiers** | **Where Is My Friend's House?** | **Little Man Tate** | **A River Runs Through It** | **The Cure**
- -- | -- | -- | -- | -- 
-*1986* | *1987* | *1991* | *1992* | *1995*
- ![](https://image.tmdb.org/t/p/w200/dHpjZQXEdoi1xNLubM1rPmTHJYz.jpg) |  ![](https://image.tmdb.org/t/p/w200/aU9WdjwfKTiBsiIh9Vgjr4onhnD.jpg) |  ![](https://image.tmdb.org/t/p/w200/eXf4xhJEc9c2NElBrExmiWFe4Pz.jpg) |  ![](https://image.tmdb.org/t/p/w200/rL4odYIaO0xcksUQ9qzRFfU6lH2.jpg) |  ![](https://image.tmdb.org/t/p/w200/3WN1H5NzLOjhY9AP848v8WPc9uu.jpg)
-
-## 5 mais novos
-
-**Wonder** | **McFarland, USA** | **Our Little Sister** | **Dolphin Tale** | **Hachi: A Dog's Tale**
- -- | -- | -- | -- | -- 
-*2017* | *2015* | *2015* | *2011* | *2009*
-![](https://image.tmdb.org/t/p/w200/ouYgAatYH4JzIThj6FI3UYf31RI.jpg) | ![](https://image.tmdb.org/t/p/w200/oJ65tTWMYQiP6Ryv5KmVW86xhE7.jpg) | ![](https://image.tmdb.org/t/p/w200/9f9IEEMRBsW46jeWOpY4Mx07Hv7.jpg) | ![](https://image.tmdb.org/t/p/w200/92P8cAORDMW4Z8qxYpKz3iFdnYk.jpg) | ![](https://image.tmdb.org/t/p/w200/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg)
-
-**Média da nota:** 7,41
-**Menor nota:** 6,51 (Little Man Tate)
-**Maior nota:** 8,15 (Wonder)
-
-## 5 mais bem avaliados
-
-**Wonder** | **Hachi: A Dog's Tale** | **Children of Heaven** | **The Cure** | **Where Is My Friend's House?**
- -- | -- | -- | -- | -- 
-*8,15* | *8,01* | *7,96* | *7,95* | *7,92*
-![](https://image.tmdb.org/t/p/w200/ouYgAatYH4JzIThj6FI3UYf31RI.jpg) | ![](https://image.tmdb.org/t/p/w200/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg) | ![](https://image.tmdb.org/t/p/w200/jWqh1CJWAEcxckMRrf6ARhIEh0R.jpg) | ![](https://image.tmdb.org/t/p/w200/3WN1H5NzLOjhY9AP848v8WPc9uu.jpg) | ![](https://image.tmdb.org/t/p/w200/aU9WdjwfKTiBsiIh9Vgjr4onhnD.jpg)
-
-## 5 menos bem avaliados
-
-**Little Man Tate** | **The Rookie** | **Dolphin Tale** | **Dreamer: Inspired By a True Story** | **Dear Frankie**
- -- | -- | -- | -- | -- 
-*6,51* | *6,75* | *6,90* | *6,99* | *7,01*
-![](https://image.tmdb.org/t/p/w200/eXf4xhJEc9c2NElBrExmiWFe4Pz.jpg) | ![](https://image.tmdb.org/t/p/w200/sQ2TLmcYxuWNWn5QDNUc2UDQBW1.jpg) | ![](https://image.tmdb.org/t/p/w200/92P8cAORDMW4Z8qxYpKz3iFdnYk.jpg) | ![](https://image.tmdb.org/t/p/w200/7Z5FuLTrP5myJ2Dl9VzDRa6q0CG.jpg) | ![](https://image.tmdb.org/t/p/w200/5YRDvaBWBbhTKBYYc7BoOWdW01N.jpg)
-
-**Média de votos:** 1163,0
-**Menor votos:** 154 (The Way Home)
-**Maior votos:** 7421 (Wonder)
-
-## 5 mais avaliados
-
-**Wonder** | **Hachi: A Dog's Tale** | **October Sky** | **A River Runs Through It** | **McFarland, USA**
- -- | -- | -- | -- | -- 
-*7421* | *6235* | *1114* | *933* | *686*
-![](https://image.tmdb.org/t/p/w200/ouYgAatYH4JzIThj6FI3UYf31RI.jpg) | ![](https://image.tmdb.org/t/p/w200/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg) | ![](https://image.tmdb.org/t/p/w200/iZiHYgDjt1A03QJwCnQsDvmZtCR.jpg) | ![](https://image.tmdb.org/t/p/w200/rL4odYIaO0xcksUQ9qzRFfU6lH2.jpg) | ![](https://image.tmdb.org/t/p/w200/oJ65tTWMYQiP6Ryv5KmVW86xhE7.jpg)
-
-## 5 menos avaliados
-
-**The Way Home** | **Dear Frankie** | **Little Man Tate** | **The Cure** | **Where Is My Friend's House?**
- -- | -- | -- | -- | -- 
-*154* | *177* | *249* | *280* | *288*
-![](https://image.tmdb.org/t/p/w200/z2NTGih179RkIN7EQntiFy5RZiF.jpg) | ![](https://image.tmdb.org/t/p/w200/5YRDvaBWBbhTKBYYc7BoOWdW01N.jpg) | ![](https://image.tmdb.org/t/p/w200/eXf4xhJEc9c2NElBrExmiWFe4Pz.jpg) | ![](https://image.tmdb.org/t/p/w200/3WN1H5NzLOjhY9AP848v8WPc9uu.jpg) | ![](https://image.tmdb.org/t/p/w200/aU9WdjwfKTiBsiIh9Vgjr4onhnD.jpg)
-
-**Gêneros mais comuns:**
-* Drama (18)
-* Family (18)
-
-
-**Palavras-chave mais comuns:**
-* family relationships (5)
-* parent child relationship (5)
-* sports (3)
-* small town (2)
-* 1950s (2)
-* sibling relationship (2)
-* coach (2)
-* grandparent grandchild relationship (2)
-* loss of loved one (2)
-* single parent (2)
-* exclusion (1)
-* bullying (1)
-* coney island (1)
-* prejudice (1)
-* school (1)
+* short film (143)
+* musical (51)
+* christmas (45)
+* cartoon (42)
+* based on toy (36)
+* holiday (35)
+* stop motion (28)
+* princess (27)
+* dog (26)
+* magic (25)
+* friendship (25)
+* adult animation (23)
+* anime (22)
+* animal (21)
+* anthropomorphism (20)
 
 # Cluster 77
-**Total de filmes:** 28
-**Média de ano de lançamento:** 1991
-**Menor ano:** 1962 (Dr. No)
-**Maior ano:** 2018 (Robin Hood)
+**Total de filmes:** 91
+**Média de ano de lançamento:** 1999
+**Menor ano:** 1936 (Secret Agent)
+**Maior ano:** 2023 (Missing)
 
 ## 5 Mais Velhos 
 
-**Dr. No** | **Goldfinger** | **Thunderball** | **On Her Majesty's Secret Service** | **Diamonds Are Forever**
+**Secret Agent** | **Young and Innocent** | **Gaslight** | **Saboteur** | **The Lodger**
  -- | -- | -- | -- | -- 
-*1962* | *1964* | *1965* | *1969* | *1971*
- ![](https://image.tmdb.org/t/p/w200/fIaLLZKrSNmqcZNErk5ihBFutNH.jpg) |  ![](https://image.tmdb.org/t/p/w200/6fTzum7gSpLWww26WvWjETNqfD9.jpg) |  ![](https://image.tmdb.org/t/p/w200/kQdyq96yvqrPCkLdaiucsE92neO.jpg) |  ![](https://image.tmdb.org/t/p/w200/yVzJLLhBwuWJBR9BYEMurShu2WT.jpg) |  ![](https://image.tmdb.org/t/p/w200/tOrCHtj4uUOt5p57F3SUwWbsQiE.jpg)
+*1936* | *1937* | *1940* | *1942* | *1944*
+ ![](https://image.tmdb.org/t/p/w200/vHfEuqttHs2fXLGgkSxC5nh7AHz.jpg) |  ![](https://image.tmdb.org/t/p/w200/knc0wcxarPM6Qy3uOm1RV38JGzS.jpg) |  ![](https://image.tmdb.org/t/p/w200/h3xaVryGKjvXjomHaqmqjjbasUC.jpg) |  ![](https://image.tmdb.org/t/p/w200/iDKOOTymUZg0WAWPcbdP6nPZEFF.jpg) |  ![](https://image.tmdb.org/t/p/w200/k3uprSyzMdDwV4vh1NT24cb4RLl.jpg)
 
 ## 5 mais novos
 
-**Robin Hood** | **Assassination** | **Chronicles of the Ghostly Tribe** | **The Three Musketeers** | **Ong Bak 2**
+**Missing** | **Unlocked** | **Don't Worry Darling** | **No Exit** | **Decision to Leave**
  -- | -- | -- | -- | -- 
-*2018* | *2015* | *2015* | *2011* | *2008*
-![](https://image.tmdb.org/t/p/w200/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg) | ![](https://image.tmdb.org/t/p/w200/h4waWHgfIaqcFfMQ38aKDs6Pkw3.jpg) | ![](https://image.tmdb.org/t/p/w200/paMpCe1sapr0dWMZtu3Pgl6UlVu.jpg) | ![](https://image.tmdb.org/t/p/w200/woCADkkDIIKrOMEokbFOEsAYtUa.jpg) | ![](https://image.tmdb.org/t/p/w200/sGyB8kVPQsofyQV1T0jE2d6k4q4.jpg)
+*2023* | *2023* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg) | ![](https://image.tmdb.org/t/p/w200/s9DOGlKfXWlnxAdOJHQzP3aRqt0.jpg) | ![](https://image.tmdb.org/t/p/w200/wjAJWfuE5OQm5zerlOAbTxdHFMV.jpg) | ![](https://image.tmdb.org/t/p/w200/5cnLoWq9o5tuLe1Zq4BTX4LwZ2B.jpg) | ![](https://image.tmdb.org/t/p/w200/N0rskx91Eh6aWjvBybeY6epNic.jpg)
 
-**Média da nota:** 6,51
-**Menor nota:** 5,80 (The Three Musketeers)
-**Maior nota:** 7,54 (Casino Royale)
+**Média da nota:** 6,50
+**Menor nota:** 4,72 (Looking Glass)
+**Maior nota:** 8,36 (Rear Window)
 
 ## 5 mais bem avaliados
 
-**Casino Royale** | **Assassination** | **Goldfinger** | **Dr. No** | **Mission: Impossible**
+**Rear Window** | **Forgotten** | **The Third Man** | **Mulholland Drive** | **Notorious**
  -- | -- | -- | -- | -- 
-*7,54* | *7,40* | *7,34* | *6,99* | *6,97*
-![](https://image.tmdb.org/t/p/w200/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg) | ![](https://image.tmdb.org/t/p/w200/h4waWHgfIaqcFfMQ38aKDs6Pkw3.jpg) | ![](https://image.tmdb.org/t/p/w200/6fTzum7gSpLWww26WvWjETNqfD9.jpg) | ![](https://image.tmdb.org/t/p/w200/fIaLLZKrSNmqcZNErk5ihBFutNH.jpg) | ![](https://image.tmdb.org/t/p/w200/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg)
+*8,36* | *7,98* | *7,95* | *7,83* | *7,76*
+![](https://image.tmdb.org/t/p/w200/qitnZcLP7C9DLRuPpmvZ7GiEjJN.jpg) | ![](https://image.tmdb.org/t/p/w200/cBgj41y1RvmW1zJCEX0uNWL0UjW.jpg) | ![](https://image.tmdb.org/t/p/w200/oIF3l7Dxp7Eyye10BNyM611wtKa.jpg) | ![](https://image.tmdb.org/t/p/w200/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg) | ![](https://image.tmdb.org/t/p/w200/yUjKnpColooH88BFQJwwgNOQ56N.jpg)
 
 ## 5 menos bem avaliados
 
-**The Three Musketeers** | **Robin Hood** | **Die Another Day** | **Vertical Limit** | **Chronicles of the Ghostly Tribe**
+**Looking Glass** | **8MM 2** | **The Truth About Charlie** | **Brazen** | **The River Murders**
  -- | -- | -- | -- | -- 
-*5,80* | *5,89* | *5,96* | *6,00* | *6,00*
-![](https://image.tmdb.org/t/p/w200/woCADkkDIIKrOMEokbFOEsAYtUa.jpg) | ![](https://image.tmdb.org/t/p/w200/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg) | ![](https://image.tmdb.org/t/p/w200/bZmGqOhMhaLn8AoFMvFDct4tbrL.jpg) | ![](https://image.tmdb.org/t/p/w200/kpqQUEi8eAyYHMDFACf6YlnPIu7.jpg) | ![](https://image.tmdb.org/t/p/w200/paMpCe1sapr0dWMZtu3Pgl6UlVu.jpg)
+*4,72* | *4,78* | *4,90* | *4,91* | *5,16*
+![](https://image.tmdb.org/t/p/w200/6zSzaUmoUCwII2pGTqX1jaX8F0p.jpg) | ![](https://image.tmdb.org/t/p/w200/sXvzftHNQMJ4lBEfJB6N6D892BQ.jpg) | ![](https://image.tmdb.org/t/p/w200/gW8Yw3J6FLHfRqTYNdgucf5c1ed.jpg) | ![](https://image.tmdb.org/t/p/w200/7e4n1GfC9iky9VQzH3cDQz9wYpO.jpg) | ![](https://image.tmdb.org/t/p/w200/8aRJ1ZrSK2OLkSPsKRoI1k1LnvW.jpg)
 
-**Média de votos:** 2727,0
-**Menor votos:** 152 (Chronicles of the Ghostly Tribe)
-**Maior votos:** 9959 (Casino Royale)
+**Média de votos:** 1202,0
+**Menor votos:** 75 (The Neighbors)
+**Maior votos:** 8646 (The Da Vinci Code)
 
 ## 5 mais avaliados
 
-**Casino Royale** | **Mission: Impossible** | **Mission: Impossible III** | **Mission: Impossible II** | **GoldenEye**
+**The Da Vinci Code** | **Unbreakable** | **Angels & Demons** | **Rear Window** | **Mulholland Drive**
  -- | -- | -- | -- | -- 
-*9959* | *8089* | *6186* | *6122* | *3530*
-![](https://image.tmdb.org/t/p/w200/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg) | ![](https://image.tmdb.org/t/p/w200/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg) | ![](https://image.tmdb.org/t/p/w200/3VianLpu8hhmq4TTItKPaCtA5su.jpg) | ![](https://image.tmdb.org/t/p/w200/7us8nE3ldE0gX2cziUz4tKg0Go0.jpg) | ![](https://image.tmdb.org/t/p/w200/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg)
+*8646* | *8607* | *6351* | *5893* | *5664*
+![](https://image.tmdb.org/t/p/w200/tYXOOkDxJ7jSvUX5j1Hbks1GjBZ.jpg) | ![](https://image.tmdb.org/t/p/w200/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg) | ![](https://image.tmdb.org/t/p/w200/hrvNVd0GDeytbDhduWa3SFKmg4A.jpg) | ![](https://image.tmdb.org/t/p/w200/qitnZcLP7C9DLRuPpmvZ7GiEjJN.jpg) | ![](https://image.tmdb.org/t/p/w200/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg)
 
 ## 5 menos avaliados
 
-**Chronicles of the Ghostly Tribe** | **Assassination** | **Ong Bak 2** | **The Ghost and the Darkness** | **Vertical Limit**
+**The Neighbors** | **Gaslight** | **The Lodger** | **Disappearance at Clifton Hill** | **Hide and Seek**
  -- | -- | -- | -- | -- 
-*152* | *207* | *583* | *907* | *939*
-![](https://image.tmdb.org/t/p/w200/paMpCe1sapr0dWMZtu3Pgl6UlVu.jpg) | ![](https://image.tmdb.org/t/p/w200/h4waWHgfIaqcFfMQ38aKDs6Pkw3.jpg) | ![](https://image.tmdb.org/t/p/w200/sGyB8kVPQsofyQV1T0jE2d6k4q4.jpg) | ![](https://image.tmdb.org/t/p/w200/3KEPs6RKlin9pT9fqjtW7MSLC8H.jpg) | ![](https://image.tmdb.org/t/p/w200/kpqQUEi8eAyYHMDFACf6YlnPIu7.jpg)
+*75* | *78* | *79* | *85* | *85*
+![](https://image.tmdb.org/t/p/w200/iXZR26sCOHmkM8KKQvMmOk9RUDq.jpg) | ![](https://image.tmdb.org/t/p/w200/h3xaVryGKjvXjomHaqmqjjbasUC.jpg) | ![](https://image.tmdb.org/t/p/w200/k3uprSyzMdDwV4vh1NT24cb4RLl.jpg) | ![](https://image.tmdb.org/t/p/w200/8qBNpBrNrOBC0sSmB1xg3vpI9WY.jpg) | ![](https://image.tmdb.org/t/p/w200/z11Dd1r8BQhCLhLfRh1x5QuzMRw.jpg)
 
 **Gêneros mais comuns:**
-* Adventure (28)
-* Action (28)
-* Thriller (28)
+* Thriller (91)
+* Mystery (91)
+* Drama (28)
+* Romance (7)
+* Comedy (4)
+* Adventure (1)
+* Western (1)
 
 
 **Palavras-chave mais comuns:**
-* british secret service (12)
-* spy (11)
-* secret mission (8)
-* secret identity (8)
-* secret intelligence service (8)
-* secret agent (7)
-* mi6 (5)
-* secret organization (5)
-* villain (5)
-* terrorism (4)
-* kgb (4)
-* snow skiing (4)
-* mission (3)
-* cia (3)
-* computer (3)
+* murder (17)
+* conspiracy (7)
+* missing person (7)
+* voyeurism (6)
+* nightmare (5)
+* detective (5)
+* neo-noir (5)
+* spy (5)
+* infidelity (5)
+* psychological thriller (5)
+* investigation (5)
+* film noir (5)
+* remake (5)
+* cia (4)
+* hospital (4)
 
 # Cluster 78
-**Total de filmes:** 39
-**Média de ano de lançamento:** 2002
-**Menor ano:** 1955 (Diabolique)
-**Maior ano:** 2022 (Speak No Evil)
+**Total de filmes:** 496
+**Média de ano de lançamento:** 2003
+**Menor ano:** 1925 (Strike)
+**Maior ano:** 2023 (The First Day of my Life)
 
 ## 5 Mais Velhos 
 
-**Diabolique** | **Eyes Without a Face** | **What Ever Happened to Baby Jane?** | **Rosemary's Baby** | **Who Can Kill a Child?**
+**Strike** | **The Blue Angel** | **Shoeshine** | **Bicycle Thieves** | **Germany, Year Zero**
  -- | -- | -- | -- | -- 
-*1955* | *1960* | *1962* | *1968* | *1976*
- ![](https://image.tmdb.org/t/p/w200/pNcwhz3Eyfn3KQ2XykTozbARMpr.jpg) |  ![](https://image.tmdb.org/t/p/w200/8y7Z9Gvcq52uOlJlUWyn2epGGRd.jpg) |  ![](https://image.tmdb.org/t/p/w200/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg) |  ![](https://image.tmdb.org/t/p/w200/s8pdaHjxNPLXIA1WjSTWm00RJTz.jpg) |  ![](https://image.tmdb.org/t/p/w200/uLHgyZv6IRtMFFuglDFQIW31tos.jpg)
+*1925* | *1930* | *1946* | *1948* | *1948*
+ ![](https://image.tmdb.org/t/p/w200/mrDTaMxQKxWZ3uEs2G58vJWJDDL.jpg) |  ![](https://image.tmdb.org/t/p/w200/3FStCU5ipNGmwASfHVP282IO39z.jpg) |  ![](https://image.tmdb.org/t/p/w200/lsXCNNbI15hZ3ATiWMx3o4hCK76.jpg) |  ![](https://image.tmdb.org/t/p/w200/iPdVqIpmR3bRvOQJPrn4pr2KR3q.jpg) |  ![](https://image.tmdb.org/t/p/w200/sdxegsjrrvujXvv2GLPENyDlWDI.jpg)
 
 ## 5 mais novos
 
-**Speak No Evil** | **Venus** | **The Lodge** | **Don't Listen** | **Cadaver**
+**The First Day of my Life** | **Close** | **Father Stu** | **The Son** | **Living**
  -- | -- | -- | -- | -- 
-*2022* | *2022* | *2020* | *2020* | *2020*
-![](https://image.tmdb.org/t/p/w200/ng4lnPnTK43dOWT3dGvOuIiLJKT.jpg) | ![](https://image.tmdb.org/t/p/w200/qKPCbZKjrCqR7PSBhgp48Omvhgq.jpg) | ![](https://image.tmdb.org/t/p/w200/yake2myhbW7c6dKbmwYDy1i40bm.jpg) | ![](https://image.tmdb.org/t/p/w200/lXvBgevABC9n5R6Gg76R3pN1h2M.jpg) | ![](https://image.tmdb.org/t/p/w200/bo94ZQ0SlFRHL3fGPHNBYQDlnhl.jpg)
+*2023* | *2022* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/1AY8sq3hy9ezjY1t7GekJGZXbN8.jpg) | ![](https://image.tmdb.org/t/p/w200/54FGmbm9kJselaFPLRomXDuuCGK.jpg) | ![](https://image.tmdb.org/t/p/w200/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg) | ![](https://image.tmdb.org/t/p/w200/hYR2doH3arnX0Y6WULuBPbtaLjN.jpg) | ![](https://image.tmdb.org/t/p/w200/ftUdaxguhUoPAtwTkSLNglAaqfd.jpg)
 
-**Média da nota:** 6,44
-**Menor nota:** 5,53 (White Noise)
-**Maior nota:** 7,90 (What Ever Happened to Baby Jane?)
+**Média da nota:** 6,87
+**Menor nota:** 4,54 (About Cherry)
+**Maior nota:** 8,54 (12 Angry Men)
 
 ## 5 mais bem avaliados
 
-**What Ever Happened to Baby Jane?** | **Diabolique** | **Rosemary's Baby** | **Eyes Without a Face** | **Funny Games**
+**12 Angry Men** | **Fight Club** | **Hope** | **Sunset Boulevard** | **Ikiru**
  -- | -- | -- | -- | -- 
-*7,90* | *7,88* | *7,81* | *7,61* | *7,34*
-![](https://image.tmdb.org/t/p/w200/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg) | ![](https://image.tmdb.org/t/p/w200/pNcwhz3Eyfn3KQ2XykTozbARMpr.jpg) | ![](https://image.tmdb.org/t/p/w200/s8pdaHjxNPLXIA1WjSTWm00RJTz.jpg) | ![](https://image.tmdb.org/t/p/w200/8y7Z9Gvcq52uOlJlUWyn2epGGRd.jpg) | ![](https://image.tmdb.org/t/p/w200/3s0kqDfTeaUsFUFyzYTD9nKW7Qa.jpg)
+*8,54* | *8,44* | *8,37* | *8,34* | *8,34*
+![](https://image.tmdb.org/t/p/w200/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg) | ![](https://image.tmdb.org/t/p/w200/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg) | ![](https://image.tmdb.org/t/p/w200/x9yjkm9gIz5qI5fJMUTfBnWiB2o.jpg) | ![](https://image.tmdb.org/t/p/w200/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg) | ![](https://image.tmdb.org/t/p/w200/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg)
 
 ## 5 menos bem avaliados
 
-**White Noise** | **Wake Wood** | **Cadaver** | **Flatliners** | **The Reef**
+**About Cherry** | **The Informers** | **The Benefactor** | **The Girlfriend Experience** | **Bang Gang (A Modern Love Story)**
  -- | -- | -- | -- | -- 
-*5,53* | *5,56* | *5,61* | *5,70* | *5,71*
-![](https://image.tmdb.org/t/p/w200/8G5OKXjO5iQkuHAgysWRV1bUs1R.jpg) | ![](https://image.tmdb.org/t/p/w200/7MyqqrjE8MmjPoHEs93apxhSsBe.jpg) | ![](https://image.tmdb.org/t/p/w200/bo94ZQ0SlFRHL3fGPHNBYQDlnhl.jpg) | ![](https://image.tmdb.org/t/p/w200/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg) | ![](https://image.tmdb.org/t/p/w200/s5JGAqmdv1cHlDjMqsmQUkVo2lW.jpg)
+*4,54* | *4,73* | *4,91* | *5,00* | *5,00*
+![](https://image.tmdb.org/t/p/w200/gl6Q7GwDnwHDNd1emmQBoyUKiwB.jpg) | ![](https://image.tmdb.org/t/p/w200/yiXkvghbkYMQ3iMyhiI08GgtonC.jpg) | ![](https://image.tmdb.org/t/p/w200/rvUazZEuj1UBK58TIxXEsla2Phy.jpg) | ![](https://image.tmdb.org/t/p/w200/rDxSasCAEdXpaeEo3GsBt8i9wkr.jpg) | ![](https://image.tmdb.org/t/p/w200/1F2SDyc8eZVqbZZo6kORJsfGcyT.jpg)
 
-**Média de votos:** 852,0
-**Menor votos:** 150 (Painless)
-**Maior votos:** 3536 (Rosemary's Baby)
+**Média de votos:** 479,0
+**Menor votos:** 75 (Kandahar)
+**Maior votos:** 27238 (Fight Club)
 
 ## 5 mais avaliados
 
-**Rosemary's Baby** | **The Woman in Black** | **Antichrist** | **Flatliners** | **The Ring Two**
+**Fight Club** | **12 Angry Men** | **Seven Pounds** | **Rain Man** | **Moneyball**
  -- | -- | -- | -- | -- 
-*3536* | *3272* | *2358* | *2147* | *2107*
-![](https://image.tmdb.org/t/p/w200/s8pdaHjxNPLXIA1WjSTWm00RJTz.jpg) | ![](https://image.tmdb.org/t/p/w200/aJbeDPUwDe9MLpseTFrNTBaQPzf.jpg) | ![](https://image.tmdb.org/t/p/w200/7dZolgPm00vOd7RxWOMf94pA67J.jpg) | ![](https://image.tmdb.org/t/p/w200/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg) | ![](https://image.tmdb.org/t/p/w200/8Mnthy6ymdKHVwVw5gJB7RtaO1F.jpg)
+*27238* | *7658* | *6362* | *5814* | *4652*
+![](https://image.tmdb.org/t/p/w200/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg) | ![](https://image.tmdb.org/t/p/w200/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg) | ![](https://image.tmdb.org/t/p/w200/pCVpsCEYtvtlg1I9h3rtglKgThu.jpg) | ![](https://image.tmdb.org/t/p/w200/iTNHwO896WKkaoPtpMMS74d8VNi.jpg) | ![](https://image.tmdb.org/t/p/w200/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg)
 
 ## 5 menos avaliados
 
-**Painless** | **Venus** | **The Boy** | **Wake Wood** | **Seven Days**
+**Kandahar** | **Cradle Will Rock** | **Tony Manero** | **Don't Tell** | **Nothing Personal**
  -- | -- | -- | -- | -- 
-*150* | *155* | *176* | *178* | *195*
-![](https://image.tmdb.org/t/p/w200/2UVw0Z1mLcTTnvMmx3EbR18mzZc.jpg) | ![](https://image.tmdb.org/t/p/w200/qKPCbZKjrCqR7PSBhgp48Omvhgq.jpg) | ![](https://image.tmdb.org/t/p/w200/vqHJ7mV2EmVSO7cxb4SN49vRWgu.jpg) | ![](https://image.tmdb.org/t/p/w200/7MyqqrjE8MmjPoHEs93apxhSsBe.jpg) | ![](https://image.tmdb.org/t/p/w200/kLIkuZCUZylnzdJQAUHVycBxo1a.jpg)
+*75* | *75* | *75* | *75* | *76*
+![](https://image.tmdb.org/t/p/w200/uTeYg3RPKlGYbyvEYKq5Ht5QGch.jpg) | ![](https://image.tmdb.org/t/p/w200/d8LJWY8kaAIlfMiQLOGglL8VqVT.jpg) | ![](https://image.tmdb.org/t/p/w200/donvVEgFpxo0YKEaowEa96jscEp.jpg) | ![](https://image.tmdb.org/t/p/w200/axdD8P7tBUp5cal0wZ1GemfQRBi.jpg) | ![](https://image.tmdb.org/t/p/w200/4GavXEdItxmP51soWRPPMVRQweV.jpg)
 
 **Gêneros mais comuns:**
-* Drama (39)
-* Horror (39)
-* Thriller (39)
+* Drama (496)
 
 
 **Palavras-chave mais comuns:**
-* murder (7)
-* remake (6)
-* husband wife relationship (3)
-* torture (3)
-* death (3)
-* funeral (3)
-* suicide (3)
-* sibling relationship (3)
-* supernatural (3)
-* madness (3)
-* spain (3)
-* pregnant wife (2)
-* revenge (2)
-* photograph (2)
-* cabin (2)
+*  (36)
+* gay theme (34)
+* lgbt (33)
+* loss of loved one (26)
+* coming of age (22)
+* italy (21)
+* male homosexuality (19)
+* japan (15)
+* suicide (15)
+* dying and death (11)
+* poverty (11)
+* grief (11)
+* small town (11)
+* 1970s (10)
+* 1980s (10)
 
 # Cluster 79
-**Total de filmes:** 25
-**Média de ano de lançamento:** 2004
-**Menor ano:** 1944 (The Woman in the Window)
-**Maior ano:** 2023 (Sharper)
+**Total de filmes:** 326
+**Média de ano de lançamento:** 1996
+**Menor ano:** 1899 (The Kiss in the Tunnel)
+**Maior ano:** 2022 (A Perfect Pairing)
 
 ## 5 Mais Velhos 
 
-**The Woman in the Window** | **Rope** | **The Killing of a Chinese Bookie** | **Gorky Park** | **New Jack City**
+**The Kiss in the Tunnel** | **Behind the Screen** | **The Immigrant** | **Sunnyside** | **Neighbors**
  -- | -- | -- | -- | -- 
-*1944* | *1948* | *1976* | *1983* | *1991*
- ![](https://image.tmdb.org/t/p/w200/i8jDpAWByVYaQZJXbsg8XqDOF5y.jpg) |  ![](https://image.tmdb.org/t/p/w200/gr2HoDd05E5F0b8KDXf0hGbYvUr.jpg) |  ![](https://image.tmdb.org/t/p/w200/clQgmbmBOxvA2NepvijoL7YUCvr.jpg) |  ![](https://image.tmdb.org/t/p/w200/jRUUE2ehADlwMhb33s8UskYhTXS.jpg) |  ![](https://image.tmdb.org/t/p/w200/k9VjzXyGElRAxXyXgPvtRRSznyL.jpg)
+*1899* | *1916* | *1917* | *1919* | *1920*
+ ![](https://image.tmdb.org/t/p/w200/lwdF4ih4E88Icfdk2nKTDMdUd3K.jpg) |  ![](https://image.tmdb.org/t/p/w200/u1AYvWE0JYjGjg7XCNAevkJZrMR.jpg) |  ![](https://image.tmdb.org/t/p/w200/f4xP9DvXKqpYKo0Fth5tKyZY8ej.jpg) |  ![](https://image.tmdb.org/t/p/w200/6qcSey0jmMZyEeKUeDD7ZdmnPRA.jpg) |  ![](https://image.tmdb.org/t/p/w200/k1UjHdeHAIS3vlgmdiwP5ITKVu5.jpg)
 
 ## 5 mais novos
 
-**Sharper** | **The Stranger** | **Nightmare Alley** | **My Son** | **Crisis**
+**A Perfect Pairing** | **The Valet** | **Crush** | **Tall Girl 2** | **Without Saying Goodbye**
  -- | -- | -- | -- | -- 
-*2023* | *2022* | *2021* | *2021* | *2021*
-![](https://image.tmdb.org/t/p/w200/tq8x5F17q95T1j0up5rpzXFAylN.jpg) | ![](https://image.tmdb.org/t/p/w200/ydbm5Ad1nyZq7eywWsw82Wxdsgg.jpg) | ![](https://image.tmdb.org/t/p/w200/680klE0dIreQQOyWKFgNnCAJtws.jpg) | ![](https://image.tmdb.org/t/p/w200/8d4q6bf1PS6OX6F3syWnfBzFZg9.jpg) | ![](https://image.tmdb.org/t/p/w200/15e2VcMTtk3pqgGlHWxisvygFAw.jpg)
+*2022* | *2022* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/h65lLhYEfRGOWVZzwX9n7vYOixf.jpg) | ![](https://image.tmdb.org/t/p/w200/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg) | ![](https://image.tmdb.org/t/p/w200/hayr56csDzCSADaejgrRMVPHyDy.jpg) | ![](https://image.tmdb.org/t/p/w200/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg) | ![](https://image.tmdb.org/t/p/w200/11SOeFmUEHahuyMOxxT1wdJ3iJs.jpg)
 
-**Média da nota:** 6,61
-**Menor nota:** 5,80 (The Forger)
-**Maior nota:** 7,97 (Rope)
+**Média da nota:** 6,25
+**Menor nota:** 4,53 (Blonde Ambition)
+**Maior nota:** 8,17 (Singin' in the Rain)
 
 ## 5 mais bem avaliados
 
-**Rope** | **Promising Young Woman** | **New World** | **The Woman in the Window** | **The Talented Mr. Ripley**
+**Singin' in the Rain** | **Misfit** | **It Happened One Night** | **A Little Thing Called Love** | **Lisbela and the Prisoner**
  -- | -- | -- | -- | -- 
-*7,97* | *7,50* | *7,40* | *7,40* | *7,18*
-![](https://image.tmdb.org/t/p/w200/gr2HoDd05E5F0b8KDXf0hGbYvUr.jpg) | ![](https://image.tmdb.org/t/p/w200/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg) | ![](https://image.tmdb.org/t/p/w200/5Ai3BMJlDGOlZXbcDv3vnOM1CSp.jpg) | ![](https://image.tmdb.org/t/p/w200/i8jDpAWByVYaQZJXbsg8XqDOF5y.jpg) | ![](https://image.tmdb.org/t/p/w200/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg)
+*8,17* | *8,07* | *7,87* | *7,82* | *7,80*
+![](https://image.tmdb.org/t/p/w200/w03EiJVHP8Un77boQeE7hg9DVdU.jpg) | ![](https://image.tmdb.org/t/p/w200/yDwDiovi6qLcluB4EI3bJp1zOwa.jpg) | ![](https://image.tmdb.org/t/p/w200/2PNUGWAflH6UUumas0POMmokHlc.jpg) | ![](https://image.tmdb.org/t/p/w200/mdm2vTbBuUo8lWcizGW48FzIelb.jpg) | ![](https://image.tmdb.org/t/p/w200/nUM3SPRziINfGbh576EnGV1mWqz.jpg)
 
 ## 5 menos bem avaliados
 
-**The Forger** | **The Gambler** | **Broken City** | **Criminal Activities** | **Under Suspicion**
+**Blonde Ambition** | **Christmas in Love** | **Say It Isn't So** | **Swept Away** | **Two If by Sea**
  -- | -- | -- | -- | -- 
-*5,80* | *5,91* | *5,92* | *5,94* | *6,09*
-![](https://image.tmdb.org/t/p/w200/x6wsmaVgIhtOwbMyIzOyfmZZSqf.jpg) | ![](https://image.tmdb.org/t/p/w200/kL7DfJIje1srf8yliRiMjFEqLtM.jpg) | ![](https://image.tmdb.org/t/p/w200/hqa5FwNZC55zqSpdeGFtBDqw55y.jpg) | ![](https://image.tmdb.org/t/p/w200/tMygAfhHPUtvAADosZDH9XMQxuN.jpg) | ![](https://image.tmdb.org/t/p/w200/2snkCKKthT5S8Ua0aMZkeaXkmBi.jpg)
+*4,53* | *4,70* | *4,75* | *4,79* | *4,80*
+![](https://image.tmdb.org/t/p/w200/tK6PUDipBmX9ips6n1tUzzB67eQ.jpg) | ![](https://image.tmdb.org/t/p/w200/fDoIhxy7Llz7M4mkAsgehO2h50s.jpg) | ![](https://image.tmdb.org/t/p/w200/xM4MtxtkBTqCFztjEnUcE6ZRZQ.jpg) | ![](https://image.tmdb.org/t/p/w200/rAa3nTeDpwgLX6XxnT3wR86C5WE.jpg) | ![](https://image.tmdb.org/t/p/w200/xSfqAMYqrTtDeAjPtYo0S8nc5Zz.jpg)
 
-**Média de votos:** 1027,0
-**Menor votos:** 224 (The Killing of a Chinese Bookie)
-**Maior votos:** 3228 (The Talented Mr. Ripley)
+**Média de votos:** 709,0
+**Menor votos:** 75 (The Balloonatic)
+**Maior votos:** 7371 (Pretty Woman)
 
 ## 5 mais avaliados
 
-**The Talented Mr. Ripley** | **Side Effects** | **Promising Young Woman** | **Nightmare Alley** | **Rope**
+**Pretty Woman** | **American Pie** | **50 First Dates** | **Yes Man** | **Meet the Parents**
  -- | -- | -- | -- | -- 
-*3228* | *2878* | *2784* | *2530* | *2389*
-![](https://image.tmdb.org/t/p/w200/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg) | ![](https://image.tmdb.org/t/p/w200/k7l1ZDWxfLcd4mMOLprq9t9H46Y.jpg) | ![](https://image.tmdb.org/t/p/w200/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg) | ![](https://image.tmdb.org/t/p/w200/680klE0dIreQQOyWKFgNnCAJtws.jpg) | ![](https://image.tmdb.org/t/p/w200/gr2HoDd05E5F0b8KDXf0hGbYvUr.jpg)
+*7371* | *7125* | *6705* | *6336* | *5512*
+![](https://image.tmdb.org/t/p/w200/hVHUfT801LQATGd26VPzhorIYza.jpg) | ![](https://image.tmdb.org/t/p/w200/5P68by2Thn8wHAziyWGEw2O7hco.jpg) | ![](https://image.tmdb.org/t/p/w200/lzUI2Cg7OMfcUNv3f7MywYNBjs6.jpg) | ![](https://image.tmdb.org/t/p/w200/16zVbgFLTUaUTG1wQHuGjfWNuDM.jpg) | ![](https://image.tmdb.org/t/p/w200/5tXJ9ctuyEOMUFLaeqRisbXowWs.jpg)
 
 ## 5 menos avaliados
 
-**The Killing of a Chinese Bookie** | **Paradise Now** | **The Stranger** | **Gorky Park** | **Crisis**
+**The Balloonatic** | **Two If by Sea** | **Lemon Popsicle** | **Qualquer Gato Vira-Lata** | **Group Sex**
  -- | -- | -- | -- | -- 
-*224* | *232* | *241* | *255* | *269*
-![](https://image.tmdb.org/t/p/w200/clQgmbmBOxvA2NepvijoL7YUCvr.jpg) | ![](https://image.tmdb.org/t/p/w200/qWZkYa8VdcDZk8uzRB2PfhpM9IL.jpg) | ![](https://image.tmdb.org/t/p/w200/ydbm5Ad1nyZq7eywWsw82Wxdsgg.jpg) | ![](https://image.tmdb.org/t/p/w200/jRUUE2ehADlwMhb33s8UskYhTXS.jpg) | ![](https://image.tmdb.org/t/p/w200/15e2VcMTtk3pqgGlHWxisvygFAw.jpg)
+*75* | *75* | *76* | *76* | *77*
+![](https://image.tmdb.org/t/p/w200/pWh7ZA9e6R9QZFJQYXjVE79i3Ym.jpg) | ![](https://image.tmdb.org/t/p/w200/xSfqAMYqrTtDeAjPtYo0S8nc5Zz.jpg) | ![](https://image.tmdb.org/t/p/w200/14tlbgXfd3Q3bGIdAPdBfSAyTM0.jpg) | ![](https://image.tmdb.org/t/p/w200/pza45sya47vgwKWbaQy6cpGBCQR.jpg) | ![](https://image.tmdb.org/t/p/w200/Z56D4VHQ9youJz2W5VMgp0SLZV.jpg)
 
 **Gêneros mais comuns:**
-* Thriller (25)
-* Crime (25)
-* Drama (25)
+* Comedy (326)
+* Romance (326)
 
 
 **Palavras-chave mais comuns:**
-* murder (4)
-* friendship (3)
-* gay theme (3)
-* neo-noir (3)
-* italy (2)
-* lawyer (2)
-* drugs (2)
-* psychopath (2)
-* revenge (2)
-* infidelity (2)
-* strip club (2)
-* investigation (2)
-* professor (2)
-* serial killer (2)
-* mobster (2)
+* romantic comedy (42)
+* love (35)
+* romance (21)
+* wedding (18)
+* screwball comedy (16)
+* sex comedy (15)
+* high school (14)
+* falling in love (14)
+* love triangle (12)
+* christmas (11)
+* infidelity (11)
+* marriage (11)
+*  (11)
+* musical (10)
+* lawyer (10)
 
 # Cluster 80
-**Total de filmes:** 47
-**Média de ano de lançamento:** 2009
-**Menor ano:** 1980 (Little Lord Fauntleroy)
-**Maior ano:** 2020 (The Thing About Harry)
+**Total de filmes:** 29
+**Média de ano de lançamento:** 2006
+**Menor ano:** 1942 (Bambi)
+**Maior ano:** 2021 (Us Again)
 
 ## 5 Mais Velhos 
 
-**Little Lord Fauntleroy** | **A Christmas Carol** | **Body Bags** | **Sabrina the Teenage Witch** | **Wish Upon a Star**
+**Bambi** | **Animal Farm** | **Whisper of the Heart** | **The King and I** | **John Henry**
  -- | -- | -- | -- | -- 
-*1980* | *1984* | *1993* | *1996* | *1996*
- ![](https://image.tmdb.org/t/p/w200/bU48UrBOoAbfzke2XRWdbxQ07aE.jpg) |  ![](https://image.tmdb.org/t/p/w200/kGmpIkjVRWHQ97AiEXC0pLt5VtY.jpg) |  ![](https://image.tmdb.org/t/p/w200/xRwna1sWDByZs9hsnlabt16INHl.jpg) |  ![](https://image.tmdb.org/t/p/w200/mpWf9g1B1PGhoatOBcC5r9RglEM.jpg) |  ![](https://image.tmdb.org/t/p/w200/k1cS1msVDyyUI581ICj0m0iVHK6.jpg)
+*1942* | *1954* | *1995* | *1999* | *2000*
+ ![](https://image.tmdb.org/t/p/w200/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg) |  ![](https://image.tmdb.org/t/p/w200/lhLp9a0jBIPLMAdUFNlYjCuS72Q.jpg) |  ![](https://image.tmdb.org/t/p/w200/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg) |  ![](https://image.tmdb.org/t/p/w200/kbEA2LEFh1MX9EraNQSiq9ajs24.jpg) |  ![](https://image.tmdb.org/t/p/w200/ujkju3UpYknKvSAdwAYp1fmnmTm.jpg)
 
 ## 5 mais novos
 
-**The Thing About Harry** | **Tutti per 1 - 1 per tutti** | **Deadwood: The Movie** | **Christmas Made to Order** | **Christmas Wonderland**
+**Us Again** | **Save Ralph** | **Float** | **Negative Space** | **Happiness**
  -- | -- | -- | -- | -- 
-*2020* | *2020* | *2019* | *2018* | *2018*
-![](https://image.tmdb.org/t/p/w200/sdn5NdFMcsub3QUwlovOA9fPJoW.jpg) | ![](https://image.tmdb.org/t/p/w200/8PBmNXkiSskH6VzJ4FcmMH06QxK.jpg) | ![](https://image.tmdb.org/t/p/w200/fCQ13cqd02dop7Chkov0fPl4r3t.jpg) | ![](https://image.tmdb.org/t/p/w200/wNs1pd1EBQKxJqnQaIkbpCw5gd8.jpg) | ![](https://image.tmdb.org/t/p/w200/3QwvhdOZSNJdHbHcL9aIwp3l9mD.jpg)
+*2021* | *2021* | *2019* | *2017* | *2017*
+![](https://image.tmdb.org/t/p/w200/zKnenwvQB6xA4mxc8zxL2S8qVbR.jpg) | ![](https://image.tmdb.org/t/p/w200/en5laoGVoVJxUAGU5UkVeJNb9VS.jpg) | ![](https://image.tmdb.org/t/p/w200/mgwObpU1NCXfPqF7ZaTpi80mxsF.jpg) | ![](https://image.tmdb.org/t/p/w200/bfT4yskqLrd13Cix4OMwiQX9Wax.jpg) | ![](https://image.tmdb.org/t/p/w200/y3Xv1IEZd46sMQSDRnXyBMwPqsB.jpg)
 
-**Média da nota:** 6,56
-**Menor nota:** 5,71 (Call Me Claus)
-**Maior nota:** 8,04 (Death Note Relight 1: Visions of a God)
+**Média da nota:** 7,32
+**Menor nota:** 5,42 (The King and I)
+**Maior nota:** 8,40 (A Silent Voice: The Movie)
 
 ## 5 mais bem avaliados
 
-**Death Note Relight 1: Visions of a God** | **Something the Lord Made** | **A Christmas Carol** | **Adventures in Babysitting** | **Little Lord Fauntleroy**
+**A Silent Voice: The Movie** | **The Art of Happiness** | **Strings** | **Save Ralph** | **When Marnie Was There**
  -- | -- | -- | -- | -- 
-*8,04* | *7,70* | *7,39* | *7,32* | *7,30*
-![](https://image.tmdb.org/t/p/w200/bB22CJM8arCCRvjFedmH5qtsbHb.jpg) | ![](https://image.tmdb.org/t/p/w200/AtI5X2UkM08XjGGjB3okULwxpRw.jpg) | ![](https://image.tmdb.org/t/p/w200/kGmpIkjVRWHQ97AiEXC0pLt5VtY.jpg) | ![](https://image.tmdb.org/t/p/w200/xuCPo0krpAcK2s1uMCZs93turdk.jpg) | ![](https://image.tmdb.org/t/p/w200/bU48UrBOoAbfzke2XRWdbxQ07aE.jpg)
+*8,40* | *8,14* | *8,10* | *8,05* | *8,00*
+![](https://image.tmdb.org/t/p/w200/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg) | ![](https://image.tmdb.org/t/p/w200/yr0VKEmS4SR7sF3dDQ0cwKU7VMH.jpg) | ![](https://image.tmdb.org/t/p/w200/bhjhZw1h9Mp9jW2otLfByfts1Jm.jpg) | ![](https://image.tmdb.org/t/p/w200/en5laoGVoVJxUAGU5UkVeJNb9VS.jpg) | ![](https://image.tmdb.org/t/p/w200/at7lShVfMdohEzC1VZYTZXY0hzP.jpg)
 
 ## 5 menos bem avaliados
 
-**Call Me Claus** | **Tutti per 1 - 1 per tutti** | **Mutant Pumpkins from Outer Space** | **Christmas Under Wraps** | **Christmas Cupid**
+**The King and I** | **$9.99** | **Qwerty** | **Bambi II** | **The Lost Thing**
  -- | -- | -- | -- | -- 
-*5,71* | *5,80* | *5,80* | *5,80* | *5,81*
-![](https://image.tmdb.org/t/p/w200/crP1L0S7F5RwrfZ6t25dJSsbzNy.jpg) | ![](https://image.tmdb.org/t/p/w200/8PBmNXkiSskH6VzJ4FcmMH06QxK.jpg) | ![](https://image.tmdb.org/t/p/w200/w3R9G8rqrrbMSOufl0QBaNAZPDC.jpg) | ![](https://image.tmdb.org/t/p/w200/uBPISDQB1FRhJHQMID7H9DlRon6.jpg) | ![](https://image.tmdb.org/t/p/w200/ldW5GWiktjjakPa8yZWnCK8Z0Dz.jpg)
+*5,42* | *5,87* | *6,06* | *6,47* | *6,89*
+![](https://image.tmdb.org/t/p/w200/kbEA2LEFh1MX9EraNQSiq9ajs24.jpg) | ![](https://image.tmdb.org/t/p/w200/nX4pmuluKq4MqgrmgfIpOr8Orgo.jpg) | ![](https://image.tmdb.org/t/p/w200/uOz6h7rkDIjuIiTOYiNsQdwjfq7.jpg) | ![](https://image.tmdb.org/t/p/w200/sIhTXgZjBSvW0B0BtTz0hvCrrH.jpg) | ![](https://image.tmdb.org/t/p/w200/w272Z6vRaC1H6WZU5pIffaU04MR.jpg)
 
-**Média de votos:** 369,0
-**Menor votos:** 154 (Tutti per 1 - 1 per tutti)
-**Maior votos:** 2002 (Camp Rock)
+**Média de votos:** 699,0
+**Menor votos:** 76 (The Lost Thing)
+**Maior votos:** 5236 (Bambi)
 
 ## 5 mais avaliados
 
-**Camp Rock** | **Princess Protection Program** | **Starstruck** | **Teen Beach Movie** | **Zapped**
+**Bambi** | **A Silent Voice: The Movie** | **Persepolis** | **Whisper of the Heart** | **When Marnie Was There**
  -- | -- | -- | -- | -- 
-*2002* | *1609* | *1132* | *870* | *578*
-![](https://image.tmdb.org/t/p/w200/7IXMqZnwccogptThay3togKIFWw.jpg) | ![](https://image.tmdb.org/t/p/w200/aKs0ufPp0agLptnhEutDOlfwfdH.jpg) | ![](https://image.tmdb.org/t/p/w200/kuyJuNiiZvu5iNr8Dgv5y75v1uc.jpg) | ![](https://image.tmdb.org/t/p/w200/ywX8INXLshhf94pyxc8wE2MO4aT.jpg) | ![](https://image.tmdb.org/t/p/w200/u33QFfbvChD5LNcuZD0LsSVnoa1.jpg)
+*5236* | *3566* | *1763* | *1738* | *1617*
+![](https://image.tmdb.org/t/p/w200/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg) | ![](https://image.tmdb.org/t/p/w200/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg) | ![](https://image.tmdb.org/t/p/w200/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg) | ![](https://image.tmdb.org/t/p/w200/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg) | ![](https://image.tmdb.org/t/p/w200/at7lShVfMdohEzC1VZYTZXY0hzP.jpg)
 
 ## 5 menos avaliados
 
-**Tutti per 1 - 1 per tutti** | **Wish Upon a Star** | **Cinderella** | **Christmas Cupid** | **Call Me Claus**
+**The Lost Thing** | **John Henry** | **$9.99** | **Qwerty** | **Bear Story**
  -- | -- | -- | -- | -- 
-*154* | *165* | *165* | *165* | *166*
-![](https://image.tmdb.org/t/p/w200/8PBmNXkiSskH6VzJ4FcmMH06QxK.jpg) | ![](https://image.tmdb.org/t/p/w200/k1cS1msVDyyUI581ICj0m0iVHK6.jpg) | ![](https://image.tmdb.org/t/p/w200/54awQrtekrsI11bKg2NwQrBHLIe.jpg) | ![](https://image.tmdb.org/t/p/w200/ldW5GWiktjjakPa8yZWnCK8Z0Dz.jpg) | ![](https://image.tmdb.org/t/p/w200/crP1L0S7F5RwrfZ6t25dJSsbzNy.jpg)
+*76* | *80* | *82* | *91* | *94*
+![](https://image.tmdb.org/t/p/w200/w272Z6vRaC1H6WZU5pIffaU04MR.jpg) | ![](https://image.tmdb.org/t/p/w200/ujkju3UpYknKvSAdwAYp1fmnmTm.jpg) | ![](https://image.tmdb.org/t/p/w200/nX4pmuluKq4MqgrmgfIpOr8Orgo.jpg) | ![](https://image.tmdb.org/t/p/w200/uOz6h7rkDIjuIiTOYiNsQdwjfq7.jpg) | ![](https://image.tmdb.org/t/p/w200/e1jOg4lKOfWmOhfX2hjHpVkGlau.jpg)
 
 **Gêneros mais comuns:**
-* TV Movie (47)
-* Comedy (32)
-* Family (27)
-* Romance (19)
-* Drama (12)
-* Fantasy (11)
-* Music (5)
-* Adventure (3)
-* Thriller (2)
-* Animation (2)
-* Western (1)
-* Horror (1)
-* Crime (1)
+* Animation (29)
+* Drama (29)
+* Family (12)
 
 
 **Palavras-chave mais comuns:**
-* christmas (13)
-* holiday (7)
-* high school (6)
-* romantic comedy (4)
-* teenager (4)
-* love (3)
-* musical (3)
-* teen movie (3)
-* teen comedy (3)
-* royalty (3)
-* tv movie (3)
-* summer (2)
-* princess (2)
-* friendship (2)
-* parent child relationship (2)
+* short film (10)
+* anime (7)
+* adult animation (6)
+* loss of loved one (4)
+* coming of age (4)
+* friendship (4)
+* parent child relationship (4)
+* fawn (2)
+* cartoon deer (2)
+* high school (2)
+* suicide (2)
+* bullying (2)
+* based on manga (2)
+* musical (2)
+* slice of life (2)
 
 # Cluster 81
-**Total de filmes:** 45
-**Média de ano de lançamento:** 1995
+**Total de filmes:** 90
+**Média de ano de lançamento:** 1994
+**Menor ano:** 1932 (Vampyr)
+**Maior ano:** 2023 (The Communion Girl)
+
+## 5 Mais Velhos 
+
+**Vampyr** | **Dracula** | **Black Sunday** | **The Brides of Dracula** | **Night of the Eagle**
+ -- | -- | -- | -- | -- 
+*1932* | *1958* | *1960* | *1960* | *1962*
+ ![](https://image.tmdb.org/t/p/w200/yt3JS5JSoZseSohYkhs6FLU9B0O.jpg) |  ![](https://image.tmdb.org/t/p/w200/1L45hwUu1P4NRhbRRrE5d9oHamm.jpg) |  ![](https://image.tmdb.org/t/p/w200/x41Zx8GeZhducquhOq9nE7z1GBG.jpg) |  ![](https://image.tmdb.org/t/p/w200/yJYJmxZZIAkrn0BaMcYnvEB8wVk.jpg) |  ![](https://image.tmdb.org/t/p/w200/zhsE6gYKJjgRCaV7MF0fCsErHzm.jpg)
+
+## 5 mais novos
+
+**The Communion Girl** | **Grimcutty** | **V/H/S/99** | **V/H/S/94** | **Seance**
+ -- | -- | -- | -- | -- 
+*2023* | *2022* | *2022* | *2021* | *2021*
+![](https://image.tmdb.org/t/p/w200/uYxrWr9o44yO0HvVfFFHGu01gfX.jpg) | ![](https://image.tmdb.org/t/p/w200/qvg75YJMfbHeDNirUrrgBMQImRn.jpg) | ![](https://image.tmdb.org/t/p/w200/1bOMmFtnykBmvhFcx8zdXO6bCAa.jpg) | ![](https://image.tmdb.org/t/p/w200/9fSogEkqDfJQTuGHsTFloQz3Tw8.jpg) | ![](https://image.tmdb.org/t/p/w200/7gnWZMWPBFBLraWj8L5WcG1eI1u.jpg)
+
+**Média da nota:** 5,95
+**Menor nota:** 4,53 (Jason Goes to Hell: The Final Friday)
+**Maior nota:** 7,72 (The Exorcist)
+
+## 5 mais bem avaliados
+
+**The Exorcist** | **Black Sunday** | **Eraserhead** | **A Nightmare on Elm Street** | **Vampyr**
+ -- | -- | -- | -- | -- 
+*7,72* | *7,50* | *7,40* | *7,32* | *7,30*
+![](https://image.tmdb.org/t/p/w200/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg) | ![](https://image.tmdb.org/t/p/w200/x41Zx8GeZhducquhOq9nE7z1GBG.jpg) | ![](https://image.tmdb.org/t/p/w200/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg) | ![](https://image.tmdb.org/t/p/w200/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg) | ![](https://image.tmdb.org/t/p/w200/yt3JS5JSoZseSohYkhs6FLU9B0O.jpg)
+
+## 5 menos bem avaliados
+
+**Jason Goes to Hell: The Final Friday** | **Guinea Pig 2: Flower of Flesh and Blood** | **From a House on Willow Street** | **All Hallows' Eve 2** | **Dracula III: Legacy**
+ -- | -- | -- | -- | -- 
+*4,53* | *4,68* | *4,74* | *4,80* | *4,85*
+![](https://image.tmdb.org/t/p/w200/uZNsMWE5o1PaBEUjfRYaeZga08q.jpg) | ![](https://image.tmdb.org/t/p/w200/hV4KI3AyknlfGIaVyMq7p66Tc3X.jpg) | ![](https://image.tmdb.org/t/p/w200/d3aHtMxYUmGAyYrTNk52BqXeOQl.jpg) | ![](https://image.tmdb.org/t/p/w200/w1dKe1xL7ZyMDMx4d12A0Z0Ny3m.jpg) | ![](https://image.tmdb.org/t/p/w200/tWMrTjCin08Ir6bQIW05d8Lw9Wl.jpg)
+
+**Média de votos:** 666,0
+**Menor votos:** 78 (At Midnight I'll Take Your Soul)
+**Maior votos:** 7247 (The Exorcist)
+
+## 5 mais avaliados
+
+**The Exorcist** | **Saw II** | **A Nightmare on Elm Street** | **Evil Dead** | **Ouija**
+ -- | -- | -- | -- | -- 
+*7247* | *4790* | *4615* | *4226* | *2511*
+![](https://image.tmdb.org/t/p/w200/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg) | ![](https://image.tmdb.org/t/p/w200/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg) | ![](https://image.tmdb.org/t/p/w200/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg) | ![](https://image.tmdb.org/t/p/w200/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg) | ![](https://image.tmdb.org/t/p/w200/gwjHlGjK2xXKpjd65BWyAMwzTWC.jpg)
+
+## 5 menos avaliados
+
+**At Midnight I'll Take Your Soul** | **Night of the Eagle** | **The Kiss of the Vampire** | **Castle of Blood** | **Boar**
+ -- | -- | -- | -- | -- 
+*78* | *79* | *84* | *85* | *85*
+![](https://image.tmdb.org/t/p/w200/w1iB5wB4XExYe8999DHqCnBiZu0.jpg) | ![](https://image.tmdb.org/t/p/w200/zhsE6gYKJjgRCaV7MF0fCsErHzm.jpg) | ![](https://image.tmdb.org/t/p/w200/4RHWz6frLuTxuRW3Kh0YosOhdir.jpg) | ![](https://image.tmdb.org/t/p/w200/A17gEQk617FsLhtPyalRN885KM3.jpg) | ![](https://image.tmdb.org/t/p/w200/8wxEPJzfgO0jiaZVz2pFQvYoXqm.jpg)
+
+**Gêneros mais comuns:**
+* Horror (90)
+
+
+**Palavras-chave mais comuns:**
+* supernatural (24)
+* vampire (22)
+* anthology (13)
+* supernatural horror (10)
+* sadism (10)
+* gothic horror (10)
+* psychopath (9)
+* possession (8)
+* serial killer (8)
+* murder (8)
+* slasher (8)
+* demon (7)
+* woods (7)
+* slaughter (7)
+* castle (7)
+
+# Cluster 82
+**Total de filmes:** 79
+**Média de ano de lançamento:** 1989
 **Menor ano:** 1930 (All Quiet on the Western Front)
 **Maior ano:** 2022 (All Quiet on the Western Front)
 
 ## 5 Mais Velhos 
 
-**All Quiet on the Western Front** | **Paisan** | **The Caine Mutiny** | **Paths of Glory** | **Two Women**
+**All Quiet on the Western Front** | **Cavalcade** | **In Which We Serve** | **They Were Expendable** | **Paisan**
  -- | -- | -- | -- | -- 
-*1930* | *1946* | *1954* | *1957* | *1960*
- ![](https://image.tmdb.org/t/p/w200/1wZUB08igw8iLUgF1r4T6aJD65b.jpg) |  ![](https://image.tmdb.org/t/p/w200/r5IGAFASCXmp8m51vUbER3WwVcB.jpg) |  ![](https://image.tmdb.org/t/p/w200/vuO4Z3wOWVlhq35MS9asZeT9rVp.jpg) |  ![](https://image.tmdb.org/t/p/w200/l2IY0gOHHmCWM90LjteFssxIV1G.jpg) |  ![](https://image.tmdb.org/t/p/w200/biWDAUQD58enMEcyO2BqIVSycF4.jpg)
+*1930* | *1933* | *1942* | *1945* | *1946*
+ ![](https://image.tmdb.org/t/p/w200/1wZUB08igw8iLUgF1r4T6aJD65b.jpg) |  ![](https://image.tmdb.org/t/p/w200/a6yld4HmB49b9CP9wmv3wcwk65K.jpg) |  ![](https://image.tmdb.org/t/p/w200/i4SkM1rzBROLt9d33u0KGr2SVVm.jpg) |  ![](https://image.tmdb.org/t/p/w200/ejzJHdvEtUVbiLrDE55DRQskYyf.jpg) |  ![](https://image.tmdb.org/t/p/w200/r5IGAFASCXmp8m51vUbER3WwVcB.jpg)
 
 ## 5 mais novos
 
-**All Quiet on the Western Front** | **The Tragedy of Macbeth** | **Beanpole** | **A Private War** | **Megan Leavey**
+**All Quiet on the Western Front** | **The Tragedy of Macbeth** | **Beanpole** | **A Private War** | **Donbass**
  -- | -- | -- | -- | -- 
-*2022* | *2021* | *2019* | *2018* | *2017*
-![](https://image.tmdb.org/t/p/w200/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg) | ![](https://image.tmdb.org/t/p/w200/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg) | ![](https://image.tmdb.org/t/p/w200/nKVrJm1dOwALdr2KHxNFhkbTSZc.jpg) | ![](https://image.tmdb.org/t/p/w200/pAh6uDR9bBznybiJCVYZNJmjg63.jpg) | ![](https://image.tmdb.org/t/p/w200/ajZUEsDpo3EgiHZ8HX9yQJIRnFf.jpg)
+*2022* | *2021* | *2019* | *2018* | *2018*
+![](https://image.tmdb.org/t/p/w200/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg) | ![](https://image.tmdb.org/t/p/w200/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg) | ![](https://image.tmdb.org/t/p/w200/nKVrJm1dOwALdr2KHxNFhkbTSZc.jpg) | ![](https://image.tmdb.org/t/p/w200/pAh6uDR9bBznybiJCVYZNJmjg63.jpg) | ![](https://image.tmdb.org/t/p/w200/egjOYURjYL1VzwOCgm9cUjWX6FF.jpg)
 
-**Média da nota:** 7,21
-**Menor nota:** 5,99 (Billy Lynn's Long Halftime Walk)
+**Média da nota:** 7,08
+**Menor nota:** 5,45 (Fear and Desire)
 **Maior nota:** 8,30 (Come and See)
 
 ## 5 mais bem avaliados
@@ -6884,13 +7668,13 @@ Versão resumida dos clusters
 
 ## 5 menos bem avaliados
 
-**Billy Lynn's Long Halftime Walk** | **Stop-Loss** | **Miracle at St. Anna** | **Hart's War** | **Macbeth**
+**Fear and Desire** | **Cavalcade** | **Salon Kitty** | **Billy Lynn's Long Halftime Walk** | **Stop-Loss**
  -- | -- | -- | -- | -- 
-*5,99* | *6,06* | *6,15* | *6,37* | *6,47*
-![](https://image.tmdb.org/t/p/w200/vblJ5cTqZKg3DSyN1z8JxTUyf2Y.jpg) | ![](https://image.tmdb.org/t/p/w200/hsmZcNzPGnZwRgCKAfIr1JngYu5.jpg) | ![](https://image.tmdb.org/t/p/w200/7PqmgaQBuD0Zp9pDIkkEjkhCJUj.jpg) | ![](https://image.tmdb.org/t/p/w200/yRUhSU7vzs5ePa72LNPcKKCCMZ5.jpg) | ![](https://image.tmdb.org/t/p/w200/a5NEpil29Uns1wEYF8k99qVgj1T.jpg)
+*5,45* | *5,52* | *5,60* | *5,99* | *6,06*
+![](https://image.tmdb.org/t/p/w200/4mD3LNkXayoI0q0qxNH5cXtc0em.jpg) | ![](https://image.tmdb.org/t/p/w200/a6yld4HmB49b9CP9wmv3wcwk65K.jpg) | ![](https://image.tmdb.org/t/p/w200/pAcHGO840kU3TtYWjv3pvFl3Vm1.jpg) | ![](https://image.tmdb.org/t/p/w200/vblJ5cTqZKg3DSyN1z8JxTUyf2Y.jpg) | ![](https://image.tmdb.org/t/p/w200/hsmZcNzPGnZwRgCKAfIr1JngYu5.jpg)
 
-**Média de votos:** 1169,0
-**Menor votos:** 155 (The Dawns Here Are Quiet)
+**Média de votos:** 718,0
+**Menor votos:** 75 (Captain Conan)
 **Maior votos:** 9665 (Full Metal Jacket)
 
 ## 5 mais avaliados
@@ -6902,817 +7686,654 @@ Versão resumida dos clusters
 
 ## 5 menos avaliados
 
-**The Dawns Here Are Quiet** | **Richard III** | **In Darkness** | **The Ascent** | **Run Boy Run**
+**Captain Conan** | **In Which We Serve** | **Pretty Village, Pretty Flame** | **Adam Resurrected** | **Donbass**
  -- | -- | -- | -- | -- 
-*155* | *155* | *164* | *168* | *179*
-![](https://image.tmdb.org/t/p/w200/hPeYCHutYtsHibDiSDAfJ4SYedk.jpg) | ![](https://image.tmdb.org/t/p/w200/cJYgc7UYfQE4EaKzR6Qwy3PF478.jpg) | ![](https://image.tmdb.org/t/p/w200/cRm30D0tBvMLXjtoKuaUteBZ4nv.jpg) | ![](https://image.tmdb.org/t/p/w200/hJOju5XZfmq4Lg5dPa8IPVY3mDt.jpg) | ![](https://image.tmdb.org/t/p/w200/nmrLlmQbuPNlqurK5T7UXDLStkU.jpg)
+*75* | *77* | *85* | *86* | *90*
+![](https://image.tmdb.org/t/p/w200/5prF2brzZEFSqBC5v8d7AemMIQE.jpg) | ![](https://image.tmdb.org/t/p/w200/i4SkM1rzBROLt9d33u0KGr2SVVm.jpg) | ![](https://image.tmdb.org/t/p/w200/kh4VuXrgAmQCSKFsQHXdZ03l0rC.jpg) | ![](https://image.tmdb.org/t/p/w200/k0Di5lSe0oIzpJle2O9T5di4w3M.jpg) | ![](https://image.tmdb.org/t/p/w200/egjOYURjYL1VzwOCgm9cUjWX6FF.jpg)
 
 **Gêneros mais comuns:**
-* Drama (45)
-* War (45)
+* Drama (79)
+* War (79)
 
 
 **Palavras-chave mais comuns:**
-* world war ii (12)
+* world war ii (25)
+* soldier (11)
+* nazi (9)
 * anti war (8)
-* soldier (8)
 * italy (8)
 * post-traumatic stress disorder (ptsd) (7)
-* children in wartime (5)
-* 1940s (5)
+* world war i (7)
+* children in wartime (7)
+* 1940s (7)
+* holocaust (shoah) (6)
+* pacific war (5)
+* vietnam war (4)
 * military (4)
 * army (4)
-* nazi (4)
-* vietnam war (3)
-* vietnam (3)
-* u.s. marine (3)
-* guerrilla warfare (3)
-* germany (3)
-
-# Cluster 82
-**Total de filmes:** 465
-**Média de ano de lançamento:** 2002
-**Menor ano:** 1915 (The Birth of a Nation)
-**Maior ano:** 2023 (Creed III)
-
-## 5 Mais Velhos 
-
-**The Birth of a Nation** | **Battleship Potemkin** | **Mutiny on the Bounty** | **Grand Illusion** | **Alexander Nevsky**
- -- | -- | -- | -- | -- 
-*1915* | *1925* | *1935* | *1937* | *1938*
- ![](https://image.tmdb.org/t/p/w200/pNpOXpQI5GSUfiWypubYtMh9928.jpg) |  ![](https://image.tmdb.org/t/p/w200/tjnaRiHUsxBADaOwrQpnTnjHVwi.jpg) |  ![](https://image.tmdb.org/t/p/w200/GD98ozz6F6tSu8BWGulpseEKhv.jpg) |  ![](https://image.tmdb.org/t/p/w200/lWg41zE0FVixkNsFgxnlRyvDYv9.jpg) |  ![](https://image.tmdb.org/t/p/w200/lsTJYStIsnddwioD1L4FEmwj4Cx.jpg)
-
-## 5 mais novos
-
-**Creed III** | **Tetris** | **Blood & Gold** | **Warhorse One** | **BlackBerry**
- -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2023* | *2023*
-![](https://image.tmdb.org/t/p/w200/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg) | ![](https://image.tmdb.org/t/p/w200/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg) | ![](https://image.tmdb.org/t/p/w200/xayG1dbIjJkmvimekx6TNrMOXmA.jpg) | ![](https://image.tmdb.org/t/p/w200/jP2ik17jvKiV5sGEknMFbZv7WAe.jpg) | ![](https://image.tmdb.org/t/p/w200/neV35lK7em4rIY9QIoH1cruErPA.jpg)
-
-**Média da nota:** 7,03
-**Menor nota:** 5,59 (5 Days of War)
-**Maior nota:** 8,57 (Schindler's List)
-
-## 5 mais bem avaliados
-
-**Schindler's List** | **Harakiri** | **The Human Condition III: A Soldier's Prayer** | **Once Upon a Time in the West** | **Hamilton**
- -- | -- | -- | -- | -- 
-*8,57* | *8,40* | *8,40* | *8,29* | *8,22*
-![](https://image.tmdb.org/t/p/w200/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg) | ![](https://image.tmdb.org/t/p/w200/w7pWcLaYQkbtRUn99K6ome0DblL.jpg) | ![](https://image.tmdb.org/t/p/w200/wZG5gTZj6YKOcm653v6BHK8FWXs.jpg) | ![](https://image.tmdb.org/t/p/w200/qbYgqOczabWNn2XKwgMtVrntD6P.jpg) | ![](https://image.tmdb.org/t/p/w200/h1B7tW0t399VDjAcWJh8m87469b.jpg)
-
-## 5 menos bem avaliados
-
-**5 Days of War** | **Pasolini** | **Kama Sutra: A Tale of Love** | **Last Days in the Desert** | **The Keeping Room**
- -- | -- | -- | -- | -- 
-*5,59* | *5,65* | *5,69* | *5,71* | *5,73*
-![](https://image.tmdb.org/t/p/w200/hnMThO1o6zyKAY0C3LUmccVg7SU.jpg) | ![](https://image.tmdb.org/t/p/w200/fTtlV5ZRKkncPzr7tQyadYKZGcP.jpg) | ![](https://image.tmdb.org/t/p/w200/dwbLcEPIjVISly6DW8GLX8vsZlE.jpg) | ![](https://image.tmdb.org/t/p/w200/7vbP28axycrpchnGSIydUseNkh6.jpg) | ![](https://image.tmdb.org/t/p/w200/5hj2RoLiD31AuUfnYKA2HBlIb6n.jpg)
-
-**Média de votos:** 1260,0
-**Menor votos:** 150 (The Green Berets)
-**Maior votos:** 24672 (Django Unchained)
-
-## 5 mais avaliados
-
-**Django Unchained** | **The Imitation Game** | **Bohemian Rhapsody** | **Dunkirk** | **Saving Private Ryan**
- -- | -- | -- | -- | -- 
-*24672* | *15973* | *15965* | *15464* | *14658*
-![](https://image.tmdb.org/t/p/w200/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg) | ![](https://image.tmdb.org/t/p/w200/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg) | ![](https://image.tmdb.org/t/p/w200/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg) | ![](https://image.tmdb.org/t/p/w200/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg) | ![](https://image.tmdb.org/t/p/w200/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg)
-
-## 5 menos avaliados
-
-**The Green Berets** | **Last Days in the Desert** | **Hurricane** | **Redacted** | **The Lucky Ones**
- -- | -- | -- | -- | -- 
-*150* | *151* | *151* | *152* | *152*
-![](https://image.tmdb.org/t/p/w200/c5WG23iqf3RakGOTjZnBATbYM1f.jpg) | ![](https://image.tmdb.org/t/p/w200/7vbP28axycrpchnGSIydUseNkh6.jpg) | ![](https://image.tmdb.org/t/p/w200/mTpmZORhYswd9YinB23wV9QE2cx.jpg) | ![](https://image.tmdb.org/t/p/w200/vtQHJynrYM4TF0ti96YsyIhox2H.jpg) | ![](https://image.tmdb.org/t/p/w200/zZv0mXxd7kfyKuCLMyS0DFCk0JC.jpg)
-
-**Gêneros mais comuns:**
-* Drama (450)
-* History (370)
-* War (184)
-* Action (124)
-* Romance (60)
-* Thriller (43)
-* Adventure (34)
-* Western (29)
-* Comedy (28)
-* Music (26)
-* Crime (19)
-* Family (9)
-* Mystery (5)
-* Horror (5)
-* Animation (2)
-* Fantasy (2)
-* TV Movie (1)
-
-
-**Palavras-chave mais comuns:**
-* world war ii (80)
-* 1940s (40)
-* 19th century (36)
-* soldier (25)
-* 1960s (25)
-* nazi (22)
-* 1970s (18)
-* japan (18)
-* husband wife relationship (18)
-* sports (17)
-* period drama (17)
-* 1980s (16)
-* battle (16)
-* army (15)
-* historical fiction (15)
+* germany (4)
 
 # Cluster 83
-**Total de filmes:** 34
-**Média de ano de lançamento:** 2000
-**Menor ano:** 1928 (The Jazz Singer)
-**Maior ano:** 2022 (TÁR)
+**Total de filmes:** 65
+**Média de ano de lançamento:** 2001
+**Menor ano:** 1960 (La Dolce Vita)
+**Maior ano:** 2022 (Jerry & Marge Go Large)
 
 ## 5 Mais Velhos 
 
-**The Jazz Singer** | **Yankee Doodle Dandy** | **Jailhouse Rock** | **Quadrophenia** | **Fame**
+**La Dolce Vita** | **Daisies** | **The Firemen's Ball** | **La Chinoise** | **American Graffiti**
  -- | -- | -- | -- | -- 
-*1928* | *1942* | *1957* | *1979* | *1980*
- ![](https://image.tmdb.org/t/p/w200/ruQGTDWt6aVzLPfr0uPm3KjQK3b.jpg) |  ![](https://image.tmdb.org/t/p/w200/cqLLIyJFjLr6jGOxWVEHG11WGzB.jpg) |  ![](https://image.tmdb.org/t/p/w200/8wb4IYiEO03shWEwbakOwzw1Ap7.jpg) |  ![](https://image.tmdb.org/t/p/w200/4sRR3pvrAZMG7GEvnR9XzqyHHfD.jpg) |  ![](https://image.tmdb.org/t/p/w200/oDUTjQ2HUKh6iBYE99PUStyoRDv.jpg)
+*1960* | *1966* | *1967* | *1967* | *1973*
+ ![](https://image.tmdb.org/t/p/w200/11hMHhThUb53fHoDDyn5LUsw0Z.jpg) |  ![](https://image.tmdb.org/t/p/w200/8sxMhdn3i1Pn8OlGCBBjr9rjP1y.jpg) |  ![](https://image.tmdb.org/t/p/w200/ML9xNDLctLERAw34FYM9jf4W2h.jpg) |  ![](https://image.tmdb.org/t/p/w200/aQacTbz1S0EwTmrx4CxobALHlEr.jpg) |  ![](https://image.tmdb.org/t/p/w200/1yFdtOV0b9UBUoBNbw0ZcyLbadk.jpg)
 
 ## 5 mais novos
 
-**TÁR** | **tick, tick... BOOM!** | **All Too Well: The Short Film** | **Sound of Metal** | **Ma Rainey's Black Bottom**
+**Jerry & Marge Go Large** | **BARDO, False Chronicle of a Handful of Truths** | **All Hail** | **Shiva Baby** | **Irresistible**
  -- | -- | -- | -- | -- 
-*2022* | *2021* | *2021* | *2020* | *2020*
-![](https://image.tmdb.org/t/p/w200/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg) | ![](https://image.tmdb.org/t/p/w200/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg) | ![](https://image.tmdb.org/t/p/w200/zfgHyodGNdtBxO8R7d0qmR2JSEz.jpg) | ![](https://image.tmdb.org/t/p/w200/3178oOJKKPDeQ2legWQvMPpllv.jpg) | ![](https://image.tmdb.org/t/p/w200/pvtyxijaBrCSbByXLcUIDDSvc40.jpg)
+*2022* | *2022* | *2022* | *2021* | *2020*
+![](https://image.tmdb.org/t/p/w200/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg) | ![](https://image.tmdb.org/t/p/w200/3e6RA0CzFDC0pz5TqiRlbHcsc2n.jpg) | ![](https://image.tmdb.org/t/p/w200/9zVyqx5WKb0iCkk46wDUxuwAiMR.jpg) | ![](https://image.tmdb.org/t/p/w200/5IBJwMPSCS5XdRT7BO1ZMreFOis.jpg) | ![](https://image.tmdb.org/t/p/w200/hUpYDriYa5YkwwxeafUsowTweBg.jpg)
 
-**Média da nota:** 6,88
-**Menor nota:** 5,74 (Staying Alive)
-**Maior nota:** 8,30 (All Too Well: The Short Film)
+**Média da nota:** 6,70
+**Menor nota:** 4,60 (Sex, Party and Lies)
+**Maior nota:** 8,45 (Life Is Beautiful)
 
 ## 5 mais bem avaliados
 
-**All Too Well: The Short Film** | **Whiplash** | **Sound of Metal** | **tick, tick... BOOM!** | **Ray**
+**Life Is Beautiful** | **La Dolce Vita** | **An Average Little Man** | **Amarcord** | **The Breakfast Club**
  -- | -- | -- | -- | -- 
-*8,30* | *7,81* | *7,74* | *7,71* | *7,44*
-![](https://image.tmdb.org/t/p/w200/zfgHyodGNdtBxO8R7d0qmR2JSEz.jpg) | ![](https://image.tmdb.org/t/p/w200/dd0MyXqrgIi6s3CqFBMURXjUCEQ.jpg) | ![](https://image.tmdb.org/t/p/w200/3178oOJKKPDeQ2legWQvMPpllv.jpg) | ![](https://image.tmdb.org/t/p/w200/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg) | ![](https://image.tmdb.org/t/p/w200/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg)
+*8,45* | *8,14* | *7,94* | *7,91* | *7,75*
+![](https://image.tmdb.org/t/p/w200/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg) | ![](https://image.tmdb.org/t/p/w200/11hMHhThUb53fHoDDyn5LUsw0Z.jpg) | ![](https://image.tmdb.org/t/p/w200/kXaY6crK5zFh0W77FuQNeTBgJsU.jpg) | ![](https://image.tmdb.org/t/p/w200/s6e5B6ty6xjLUjCgephOVjnpFnR.jpg) | ![](https://image.tmdb.org/t/p/w200/9nai8pRm4Ja0O265Qp6UyqXlLQ8.jpg)
 
 ## 5 menos bem avaliados
 
-**Staying Alive** | **54** | **Vox Lux** | **The Jazz Singer** | **Jailhouse Rock**
+**Sex, Party and Lies** | **The Bonfire of the Vanities** | **Exploits of a Young Don Juan** | **C.O.G.** | **But Forever in My Mind**
  -- | -- | -- | -- | -- 
-*5,74* | *5,82* | *5,88* | *6,10* | *6,10*
-![](https://image.tmdb.org/t/p/w200/m9Bt1QUsXJnHlio3o7YdREfUf86.jpg) | ![](https://image.tmdb.org/t/p/w200/7OLxcpW44LMpdDmbotchhfFOeGf.jpg) | ![](https://image.tmdb.org/t/p/w200/xmFOjB5bGvFqNzsX5TbIWzdvpGd.jpg) | ![](https://image.tmdb.org/t/p/w200/ruQGTDWt6aVzLPfr0uPm3KjQK3b.jpg) | ![](https://image.tmdb.org/t/p/w200/8wb4IYiEO03shWEwbakOwzw1Ap7.jpg)
+*4,60* | *5,54* | *5,61* | *5,72* | *5,80*
+![](https://image.tmdb.org/t/p/w200/uOJEJFrb2DX4odPfvaTwS7edpbq.jpg) | ![](https://image.tmdb.org/t/p/w200/pdrPrygZ5dVKi8UxrUXMmq1k2iO.jpg) | ![](https://image.tmdb.org/t/p/w200/xvtRgQIRegLjsjaIkKQbh0hk3Qy.jpg) | ![](https://image.tmdb.org/t/p/w200/sa0iJ5XAPZzxsZWo0fEoMjrujaZ.jpg) | ![](https://image.tmdb.org/t/p/w200/lTPFfSURJ7bQ1MByxldaHc6R9pJ.jpg)
 
-**Média de votos:** 779,0
-**Menor votos:** 151 (Jailhouse Rock)
-**Maior votos:** 6692 (8 Mile)
+**Média de votos:** 794,0
+**Menor votos:** 77 (Reclaim Your Brain)
+**Maior votos:** 12218 (Life Is Beautiful)
 
 ## 5 mais avaliados
 
-**8 Mile** | **Inside Llewyn Davis** | **Sound of Metal** | **tick, tick... BOOM!** | **Ray**
+**Life Is Beautiful** | **The Breakfast Club** | **Big Daddy** | **Rushmore** | **It's Kind of a Funny Story**
  -- | -- | -- | -- | -- 
-*6692* | *2482* | *2260* | *1825* | *1780*
-![](https://image.tmdb.org/t/p/w200/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg) | ![](https://image.tmdb.org/t/p/w200/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg) | ![](https://image.tmdb.org/t/p/w200/3178oOJKKPDeQ2legWQvMPpllv.jpg) | ![](https://image.tmdb.org/t/p/w200/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg) | ![](https://image.tmdb.org/t/p/w200/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg)
+*12218* | *7478* | *3007* | *2253* | *2205*
+![](https://image.tmdb.org/t/p/w200/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg) | ![](https://image.tmdb.org/t/p/w200/9nai8pRm4Ja0O265Qp6UyqXlLQ8.jpg) | ![](https://image.tmdb.org/t/p/w200/m0KrgL5uGJRGyGG7LBkyKrqxB8q.jpg) | ![](https://image.tmdb.org/t/p/w200/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg) | ![](https://image.tmdb.org/t/p/w200/hQE4q8Szeaae4davgB7o8MTLmwr.jpg)
 
 ## 5 menos avaliados
 
-**Jailhouse Rock** | **We Are the Best!** | **Gully Boy** | **A Chorus Line** | **The Jazz Singer**
+**Reclaim Your Brain** | **The Man Who Challenged the Devil** | **The Marathon Family** | **C.O.G.** | **Welcome Home, Roxy Carmichael**
  -- | -- | -- | -- | -- 
-*151* | *155* | *157* | *161* | *183*
-![](https://image.tmdb.org/t/p/w200/8wb4IYiEO03shWEwbakOwzw1Ap7.jpg) | ![](https://image.tmdb.org/t/p/w200/8KzhURCHxpVtpMk4oMerB4vn48b.jpg) | ![](https://image.tmdb.org/t/p/w200/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg) | ![](https://image.tmdb.org/t/p/w200/eCyWdrWp6uTmXq0ZeFFxzWPNByN.jpg) | ![](https://image.tmdb.org/t/p/w200/ruQGTDWt6aVzLPfr0uPm3KjQK3b.jpg)
+*77* | *82* | *83* | *86* | *89*
+![](https://image.tmdb.org/t/p/w200/15zoYqclJF6bcHHL0wZ4nsNJ1Qi.jpg) | ![](https://image.tmdb.org/t/p/w200/ie5sQLxoOzga7YdVHFm8dL5nKgQ.jpg) | ![](https://image.tmdb.org/t/p/w200/uyxIzuITcHHFFa4hqwsdjbDrOJy.jpg) | ![](https://image.tmdb.org/t/p/w200/sa0iJ5XAPZzxsZWo0fEoMjrujaZ.jpg) | ![](https://image.tmdb.org/t/p/w200/774bDgRxf7TfNu6E55xBEcw0lME.jpg)
 
 **Gêneros mais comuns:**
-* Drama (34)
-* Music (34)
+* Comedy (65)
+* Drama (65)
 
 
 **Palavras-chave mais comuns:**
-* musical (5)
-* singer (4)
-* 1990s (3)
-* jazz (3)
-* lgbt (3)
-* 1950s (3)
-* 1970s (3)
-* 1980s (3)
-* dance (3)
-* dancer (3)
-* rap music (2)
-* hip-hop (2)
-* rapper (2)
-* ghetto (2)
-* single (2)
+* coming of age (17)
+* small town (12)
+* loss of loved one (6)
+* suicide (6)
+* italy (5)
+* high school (5)
+* lgbt (5)
+* teenage girl (5)
+* dark comedy (4)
+* male homosexuality (4)
+* surrealism (4)
+* political satire (4)
+* sexuality (4)
+* teenager (3)
+* teen movie (3)
 
 # Cluster 84
-**Total de filmes:** 9
-**Média de ano de lançamento:** 2002
-**Menor ano:** 1925 (The Gold Rush)
-**Maior ano:** 2019 (The Peanut Butter Falcon)
+**Total de filmes:** 21
+**Média de ano de lançamento:** 1993
+**Menor ano:** 1921 (The High Sign)
+**Maior ano:** 2020 (Ludo)
 
 ## 5 Mais Velhos 
 
-**The Gold Rush** | **The Life Aquatic with Steve Zissou** | **Last Holiday** | **The Sisterhood of the Traveling Pants 2** | **The Way**
+**The High Sign** | **The Counterfeiters of Paris** | **The Brain** | **Multiple Maniacs** | **The Hot Rock**
  -- | -- | -- | -- | -- 
-*1925* | *2004* | *2006* | *2008* | *2010*
- ![](https://image.tmdb.org/t/p/w200/eQRFo1qwRREYwj47Yoe1PisgOle.jpg) |  ![](https://image.tmdb.org/t/p/w200/qZoFLNBC78jzboWeDH6Ha0qavF2.jpg) |  ![](https://image.tmdb.org/t/p/w200/khcU8msd2NooJwmcvwbWguvkCzU.jpg) |  ![](https://image.tmdb.org/t/p/w200/bAdkVOD91jCHos4163qyVu1TFua.jpg) |  ![](https://image.tmdb.org/t/p/w200/4wJb8HLMWaJXrYznXNf7eqFUJKL.jpg)
+*1921* | *1961* | *1969* | *1970* | *1972*
+ ![](https://image.tmdb.org/t/p/w200/6lRFZ3AAu23f6qsnbcSWPFpi8LW.jpg) |  ![](https://image.tmdb.org/t/p/w200/kJpgH6Imign3i2qSqCb862bWYj4.jpg) |  ![](https://image.tmdb.org/t/p/w200/wCtaWDaOiGPVEoo7tiPBSH7sQx9.jpg) |  ![](https://image.tmdb.org/t/p/w200/8OACx5E8tscR3xAEKA9iYGIbwGY.jpg) |  ![](https://image.tmdb.org/t/p/w200/th34YQpg13oWP5n7vw2S06wUMuF.jpg)
 
 ## 5 mais novos
 
-**The Peanut Butter Falcon** | **Hunt for the Wilderpeople** | **A Walk in the Woods** | **The 100 Year-Old Man Who Climbed Out the Window and Disappeared** | **The Way**
+**Ludo** | **Stockholm** | **Going in Style** | **A Violent Prosecutor** | **Paulette**
  -- | -- | -- | -- | -- 
-*2019* | *2016* | *2015* | *2013* | *2010*
-![](https://image.tmdb.org/t/p/w200/qyQcRGvdW3VtxHR4fSDgPOePEip.jpg) | ![](https://image.tmdb.org/t/p/w200/hkmz9rxgcweizXNElozGeKwmAJE.jpg) | ![](https://image.tmdb.org/t/p/w200/2TiaYwYeGRsYsfqH8dNjlYbIu1Z.jpg) | ![](https://image.tmdb.org/t/p/w200/eexokDJNgyfpdTH30s102lSuc9A.jpg) | ![](https://image.tmdb.org/t/p/w200/4wJb8HLMWaJXrYznXNf7eqFUJKL.jpg)
+*2020* | *2019* | *2017* | *2016* | *2012*
+![](https://image.tmdb.org/t/p/w200/fA21PhxZm2GU2x8lmH7Ty2fIiPx.jpg) | ![](https://image.tmdb.org/t/p/w200/ko3AS33BLNEBcp1CO4FvdRltTxr.jpg) | ![](https://image.tmdb.org/t/p/w200/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg) | ![](https://image.tmdb.org/t/p/w200/pA4MoUac4jlCbASIvkzB0YZ2RWu.jpg) | ![](https://image.tmdb.org/t/p/w200/vrOmk9UVy5MW1fMpwVAMMlmCdWk.jpg)
 
-**Média da nota:** 7,06
-**Menor nota:** 6,05 (A Walk in the Woods)
-**Maior nota:** 8,02 (The Gold Rush)
+**Média da nota:** 6,50
+**Menor nota:** 5,27 (Burglar)
+**Maior nota:** 7,80 (Snatch)
 
 ## 5 mais bem avaliados
 
-**The Gold Rush** | **Hunt for the Wilderpeople** | **The Peanut Butter Falcon** | **The Way** | **The Life Aquatic with Steve Zissou**
+**Snatch** | **The Brain** | **Ludo** | **The High Sign** | **Dirty Rotten Scoundrels**
  -- | -- | -- | -- | -- 
-*8,02* | *7,69* | *7,40* | *7,11* | *7,11*
-![](https://image.tmdb.org/t/p/w200/eQRFo1qwRREYwj47Yoe1PisgOle.jpg) | ![](https://image.tmdb.org/t/p/w200/hkmz9rxgcweizXNElozGeKwmAJE.jpg) | ![](https://image.tmdb.org/t/p/w200/qyQcRGvdW3VtxHR4fSDgPOePEip.jpg) | ![](https://image.tmdb.org/t/p/w200/4wJb8HLMWaJXrYznXNf7eqFUJKL.jpg) | ![](https://image.tmdb.org/t/p/w200/qZoFLNBC78jzboWeDH6Ha0qavF2.jpg)
+*7,80* | *7,34* | *7,30* | *7,10* | *7,10*
+![](https://image.tmdb.org/t/p/w200/56mOJth6DJ6JhgoE2jtpilVqJO.jpg) | ![](https://image.tmdb.org/t/p/w200/wCtaWDaOiGPVEoo7tiPBSH7sQx9.jpg) | ![](https://image.tmdb.org/t/p/w200/fA21PhxZm2GU2x8lmH7Ty2fIiPx.jpg) | ![](https://image.tmdb.org/t/p/w200/6lRFZ3AAu23f6qsnbcSWPFpi8LW.jpg) | ![](https://image.tmdb.org/t/p/w200/3176xH21fSetstKpEtAD1giHbyT.jpg)
 
 ## 5 menos bem avaliados
 
-**A Walk in the Woods** | **The Sisterhood of the Traveling Pants 2** | **The 100 Year-Old Man Who Climbed Out the Window and Disappeared** | **Last Holiday** | **The Life Aquatic with Steve Zissou**
+**Burglar** | **Henry's Crime** | **The Parole Officer** | **Big Momma's House** | **Stockholm**
  -- | -- | -- | -- | -- 
-*6,05* | *6,25* | *6,79* | *7,08* | *7,11*
-![](https://image.tmdb.org/t/p/w200/2TiaYwYeGRsYsfqH8dNjlYbIu1Z.jpg) | ![](https://image.tmdb.org/t/p/w200/bAdkVOD91jCHos4163qyVu1TFua.jpg) | ![](https://image.tmdb.org/t/p/w200/eexokDJNgyfpdTH30s102lSuc9A.jpg) | ![](https://image.tmdb.org/t/p/w200/khcU8msd2NooJwmcvwbWguvkCzU.jpg) | ![](https://image.tmdb.org/t/p/w200/qZoFLNBC78jzboWeDH6Ha0qavF2.jpg)
+*5,27* | *5,70* | *5,76* | *5,80* | *5,84*
+![](https://image.tmdb.org/t/p/w200/dSsLyJefsfn4SncqUA0WhXt7S2j.jpg) | ![](https://image.tmdb.org/t/p/w200/1i1sDWOZecbUZ4Yp9DG5UiTBBRl.jpg) | ![](https://image.tmdb.org/t/p/w200/tTiBD7kCwIpjOXZ0L2JDMNo4su5.jpg) | ![](https://image.tmdb.org/t/p/w200/5YoSFqpTz5qIxsX61CPMGKONQIY.jpg) | ![](https://image.tmdb.org/t/p/w200/ko3AS33BLNEBcp1CO4FvdRltTxr.jpg)
 
-**Média de votos:** 1168,0
-**Menor votos:** 523 (The Way)
-**Maior votos:** 2621 (The Life Aquatic with Steve Zissou)
+**Média de votos:** 804,0
+**Menor votos:** 81 (Burglar)
+**Maior votos:** 8309 (Snatch)
 
 ## 5 mais avaliados
 
-**The Life Aquatic with Steve Zissou** | **Hunt for the Wilderpeople** | **The Gold Rush** | **The Peanut Butter Falcon** | **The 100 Year-Old Man Who Climbed Out the Window and Disappeared**
+**Snatch** | **Going in Style** | **Big Momma's House** | **Dirty Rotten Scoundrels** | **Saving Grace**
  -- | -- | -- | -- | -- 
-*2621* | *1854* | *1430* | *1213* | *858*
-![](https://image.tmdb.org/t/p/w200/qZoFLNBC78jzboWeDH6Ha0qavF2.jpg) | ![](https://image.tmdb.org/t/p/w200/hkmz9rxgcweizXNElozGeKwmAJE.jpg) | ![](https://image.tmdb.org/t/p/w200/eQRFo1qwRREYwj47Yoe1PisgOle.jpg) | ![](https://image.tmdb.org/t/p/w200/qyQcRGvdW3VtxHR4fSDgPOePEip.jpg) | ![](https://image.tmdb.org/t/p/w200/eexokDJNgyfpdTH30s102lSuc9A.jpg)
+*8309* | *2569* | *2125* | *757* | *385*
+![](https://image.tmdb.org/t/p/w200/56mOJth6DJ6JhgoE2jtpilVqJO.jpg) | ![](https://image.tmdb.org/t/p/w200/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg) | ![](https://image.tmdb.org/t/p/w200/5YoSFqpTz5qIxsX61CPMGKONQIY.jpg) | ![](https://image.tmdb.org/t/p/w200/3176xH21fSetstKpEtAD1giHbyT.jpg) | ![](https://image.tmdb.org/t/p/w200/ml8XwUomPfisNsKmluP8TIZOR89.jpg)
 
 ## 5 menos avaliados
 
-**The Way** | **Last Holiday** | **A Walk in the Woods** | **The Sisterhood of the Traveling Pants 2** | **The 100 Year-Old Man Who Climbed Out the Window and Disappeared**
+**Burglar** | **Multiple Maniacs** | **The Counterfeiters of Paris** | **Ludo** | **The Hot Rock**
  -- | -- | -- | -- | -- 
-*523* | *633* | *643* | *733* | *858*
-![](https://image.tmdb.org/t/p/w200/4wJb8HLMWaJXrYznXNf7eqFUJKL.jpg) | ![](https://image.tmdb.org/t/p/w200/khcU8msd2NooJwmcvwbWguvkCzU.jpg) | ![](https://image.tmdb.org/t/p/w200/2TiaYwYeGRsYsfqH8dNjlYbIu1Z.jpg) | ![](https://image.tmdb.org/t/p/w200/bAdkVOD91jCHos4163qyVu1TFua.jpg) | ![](https://image.tmdb.org/t/p/w200/eexokDJNgyfpdTH30s102lSuc9A.jpg)
+*81* | *84* | *86* | *88* | *91*
+![](https://image.tmdb.org/t/p/w200/dSsLyJefsfn4SncqUA0WhXt7S2j.jpg) | ![](https://image.tmdb.org/t/p/w200/8OACx5E8tscR3xAEKA9iYGIbwGY.jpg) | ![](https://image.tmdb.org/t/p/w200/kJpgH6Imign3i2qSqCb862bWYj4.jpg) | ![](https://image.tmdb.org/t/p/w200/fA21PhxZm2GU2x8lmH7Ty2fIiPx.jpg) | ![](https://image.tmdb.org/t/p/w200/th34YQpg13oWP5n7vw2S06wUMuF.jpg)
 
 **Gêneros mais comuns:**
-* Adventure (9)
-* Comedy (9)
-* Drama (9)
+* Crime (21)
+* Comedy (21)
 
 
 **Palavras-chave mais comuns:**
-* parent child relationship (2)
-* escape (2)
-* red cap (1)
-* dysfunctional family (1)
-* rivalry (1)
-* pirate (1)
-* magic realism (1)
-* estranged father (1)
-* oceanography (1)
-* scientific expedition (1)
-* father son relationship (1)
-* diorama (1)
-* research turtles (1)
-* acoustic guitar (1)
-* countryside (1)
+* murder (4)
+* gangster (3)
+* dark comedy (3)
+* robbery (2)
+* diamond heist (2)
+* fbi (2)
+* money (2)
+* drug dealer (2)
+* police (2)
+* widow (2)
+* marijuana (2)
+* kidnapping (2)
+* train (2)
+* jealousy (2)
+* trailer park (1)
 
 # Cluster 85
-**Total de filmes:** 277
-**Média de ano de lançamento:** 2005
-**Menor ano:** 1951 (When Worlds Collide)
-**Maior ano:** 2023 (65)
+**Total de filmes:** 215
+**Média de ano de lançamento:** 2009
+**Menor ano:** 1945 (Dead of Night)
+**Maior ano:** 2023 (The Pope's Exorcist)
 
 ## 5 Mais Velhos 
 
-**When Worlds Collide** | **The War of the Worlds** | **Invaders from Mars** | **Them!** | **Godzilla Raids Again**
+**Dead of Night** | **The Body Snatcher** | **The Skull** | **Ben** | **The Omen**
  -- | -- | -- | -- | -- 
-*1951* | *1953* | *1953* | *1954* | *1955*
- ![](https://image.tmdb.org/t/p/w200/xUd6NOABGlU3TSNP42toxWhmMQ3.jpg) |  ![](https://image.tmdb.org/t/p/w200/gzc75Za4ArqfXIIr7STNnIE5rnA.jpg) |  ![](https://image.tmdb.org/t/p/w200/bJjikydpyhfFbFWyCagpGeomomH.jpg) |  ![](https://image.tmdb.org/t/p/w200/tP352STF6BvSROi8K3CMM799TVo.jpg) |  ![](https://image.tmdb.org/t/p/w200/bBYdh9tDCyLaArBOzE38QCA7C3y.jpg)
+*1945* | *1945* | *1965* | *1972* | *1976*
+ ![](https://image.tmdb.org/t/p/w200/oVAlugIkLCkyyXufNDhtr5kl3yB.jpg) |  ![](https://image.tmdb.org/t/p/w200/1dOCP2ahMVlA95SivxhEdVvcXZE.jpg) |  ![](https://image.tmdb.org/t/p/w200/AiX1E8Jed47ONDYakbXX3QaRwyI.jpg) |  ![](https://image.tmdb.org/t/p/w200/LvTapjbjdg9bGzt79hZAp2idcn.jpg) |  ![](https://image.tmdb.org/t/p/w200/p0LcWxOIoBx0MEZMn8tFcrvDXR1.jpg)
 
 ## 5 mais novos
 
-**65** | **JUNG_E** | **The Wandering Earth II** | **Crater** | **Avatar: The Way of Water**
+**The Pope's Exorcist** | **Talk to Me** | **The Black Demon** | **Run Rabbit Run** | **Clock**
  -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2023* | *2022*
-![](https://image.tmdb.org/t/p/w200/rzRb63TldOKdKydCvWJM8B6EkPM.jpg) | ![](https://image.tmdb.org/t/p/w200/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg) | ![](https://image.tmdb.org/t/p/w200/pR858ihc6Ls9xohpdRJVjV787ml.jpg) | ![](https://image.tmdb.org/t/p/w200/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg) | ![](https://image.tmdb.org/t/p/w200/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg)
+*2023* | *2023* | *2023* | *2023* | *2023*
+![](https://image.tmdb.org/t/p/w200/jFC4LS5qTAT3PinzdEzINfu1CV9.jpg) | ![](https://image.tmdb.org/t/p/w200/kdPMUMJzyYAc4roD52qavX0nLIC.jpg) | ![](https://image.tmdb.org/t/p/w200/6ecSjKSjgIULyHfrfyyg9vgAI33.jpg) | ![](https://image.tmdb.org/t/p/w200/cgetiYyTqJ4CMmPmvDw30nnYj1f.jpg) | ![](https://image.tmdb.org/t/p/w200/m6Yt77C9u7Aume9dTJMCSRzWDED.jpg)
 
-**Média da nota:** 6,48
-**Menor nota:** 5,50 (Hulk)
-**Maior nota:** 8,20 (A Clockwork Orange)
+**Média da nota:** 5,78
+**Menor nota:** 4,53 (Amityville 3-D)
+**Maior nota:** 8,22 (The Shining)
 
 ## 5 mais bem avaliados
 
-**A Clockwork Orange** | **Stalker** | **Eternal Sunshine of the Spotless Mind** | **2001: A Space Odyssey** | **Finch**
+**The Shining** | **The Conjuring** | **The Omen** | **Split** | **The Conjuring 2**
  -- | -- | -- | -- | -- 
-*8,20* | *8,18* | *8,10* | *8,08* | *7,94*
-![](https://image.tmdb.org/t/p/w200/4sHeTAp65WrSSuc05nRBKddhBxO.jpg) | ![](https://image.tmdb.org/t/p/w200/rem87AyEochEuhn9VvAGoMQpigz.jpg) | ![](https://image.tmdb.org/t/p/w200/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg) | ![](https://image.tmdb.org/t/p/w200/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg) | ![](https://image.tmdb.org/t/p/w200/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg)
+*8,22* | *7,54* | *7,40* | *7,34* | *7,29*
+![](https://image.tmdb.org/t/p/w200/xazWoLealQwEgqZ89MLZklLZD3k.jpg) | ![](https://image.tmdb.org/t/p/w200/wVYREutTvI2tmxr6ujrHT704wGF.jpg) | ![](https://image.tmdb.org/t/p/w200/p0LcWxOIoBx0MEZMn8tFcrvDXR1.jpg) | ![](https://image.tmdb.org/t/p/w200/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg) | ![](https://image.tmdb.org/t/p/w200/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg)
 
 ## 5 menos bem avaliados
 
-**Hulk** | **Runaway** | **The Beyond** | **Arctic Blast** | **Invaders from Mars**
+**Amityville 3-D** | **The Disappointments Room** | **The Haunting of Sharon Tate** | **Antisocial** | **Family Blood**
  -- | -- | -- | -- | -- 
-*5,50* | *5,50* | *5,50* | *5,50* | *5,51*
-![](https://image.tmdb.org/t/p/w200/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg) | ![](https://image.tmdb.org/t/p/w200/8xMeKeXGHY2KbiMjSpEGqlIjAEp.jpg) | ![](https://image.tmdb.org/t/p/w200/wuezKxgZReQmqIrI9QOJZ23Z0y4.jpg) | ![](https://image.tmdb.org/t/p/w200/54JrDQq3ISxwTAHz0yfbFNhBC7f.jpg) | ![](https://image.tmdb.org/t/p/w200/rs3cOVZtrXD27XQQdut1FWFYrUG.jpg)
+*4,53* | *4,54* | *4,57* | *4,58* | *4,58*
+![](https://image.tmdb.org/t/p/w200/ghJ1kEJv7KYpG3h5OraFhsDvOCF.jpg) | ![](https://image.tmdb.org/t/p/w200/4zHfitHwW1XDaJo9IF8LOsUbnif.jpg) | ![](https://image.tmdb.org/t/p/w200/qzIQjfKmrTKf25y3N3VU88bFn8H.jpg) | ![](https://image.tmdb.org/t/p/w200/8DjJo3yErc6lbWchtrOezNPe0xw.jpg) | ![](https://image.tmdb.org/t/p/w200/uQ8SC6wCARc0pOTrHMCr8cFoHms.jpg)
 
-**Média de votos:** 2258,0
-**Menor votos:** 150 (Code 8)
-**Maior votos:** 20636 (The Hunger Games)
+**Média de votos:** 758,0
+**Menor votos:** 75 (The Tag-Along)
+**Maior votos:** 16345 (Split)
 
 ## 5 mais avaliados
 
-**The Hunger Games** | **The Hunger Games: Mockingjay - Part 1** | **Venom** | **Gravity** | **Eternal Sunshine of the Spotless Mind**
+**Split** | **The Shining** | **The Conjuring** | **The Conjuring 2** | **Insidious**
  -- | -- | -- | -- | -- 
-*20636* | *14725* | *14724* | *14463* | *13709*
-![](https://image.tmdb.org/t/p/w200/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg) | ![](https://image.tmdb.org/t/p/w200/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg) | ![](https://image.tmdb.org/t/p/w200/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg) | ![](https://image.tmdb.org/t/p/w200/kZ2nZw8D681aphje8NJi8EfbL1U.jpg) | ![](https://image.tmdb.org/t/p/w200/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg)
+*16345* | *16205* | *10683* | *7769* | *6298*
+![](https://image.tmdb.org/t/p/w200/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg) | ![](https://image.tmdb.org/t/p/w200/xazWoLealQwEgqZ89MLZklLZD3k.jpg) | ![](https://image.tmdb.org/t/p/w200/wVYREutTvI2tmxr6ujrHT704wGF.jpg) | ![](https://image.tmdb.org/t/p/w200/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg) | ![](https://image.tmdb.org/t/p/w200/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg)
 
 ## 5 menos avaliados
 
-**Code 8** | **The Untamed** | **Battlestar Galactica: Blood & Chrome** | **Uncanny** | **Ebirah, Horror of the Deep**
+**The Tag-Along** | **Alive** | **Recovery** | **5ive Girls** | **Shiver**
  -- | -- | -- | -- | -- 
-*150* | *150* | *151* | *155* | *155*
-![](https://image.tmdb.org/t/p/w200/z1fXSh5rIrzBCOJt72MvxmSvrAn.jpg) | ![](https://image.tmdb.org/t/p/w200/bpTNGIJkdYL8IJvvCmKmjtDpXn1.jpg) | ![](https://image.tmdb.org/t/p/w200/fuHuvxnfcPXZauX1Pm7qwmc9k5L.jpg) | ![](https://image.tmdb.org/t/p/w200/w9bUDD6uT3Fhs8L34nfMj18uqcR.jpg) | ![](https://image.tmdb.org/t/p/w200/cASEI87nfAODzuZlGazeYynkWhe.jpg)
+*75* | *77* | *79* | *80* | *80*
+![](https://image.tmdb.org/t/p/w200/2AaeSBHS8EhbcOS8cfAUqaPNGHP.jpg) | ![](https://image.tmdb.org/t/p/w200/3KqM6l45QQVDYQgYWnQnK1jDDHa.jpg) | ![](https://image.tmdb.org/t/p/w200/u9nyw9iwvTNSbhr9RUZgbFb1mD.jpg) | ![](https://image.tmdb.org/t/p/w200/9EKL1Ta42cj9rSqopfu3QJFE3G1.jpg) | ![](https://image.tmdb.org/t/p/w200/mDwh6cUbDMN0jIBmyHpmMag1g5a.jpg)
 
 **Gêneros mais comuns:**
-* Science Fiction (277)
-* Thriller (121)
-* Action (108)
-* Drama (76)
-* Adventure (66)
-* Horror (51)
-* Mystery (37)
-* Comedy (25)
-* Fantasy (13)
-* Romance (13)
-* Crime (12)
-* TV Movie (7)
-* Family (6)
-* Animation (5)
-* War (1)
+* Horror (215)
+* Thriller (215)
 
 
 **Palavras-chave mais comuns:**
-* dystopia (62)
-* alien (46)
-* time travel (32)
-* alien invasion (25)
-* scientist (23)
-* spacecraft (22)
-* post-apocalyptic future (20)
-* artificial intelligence (a.i.) (20)
-* future (20)
-* cyberpunk (19)
-* android (18)
-* robot (18)
-* space travel (17)
-* murder (17)
-* space opera (16)
+* supernatural (22)
+* found footage (19)
+* ghost (16)
+* haunted house (13)
+* demon (12)
+* murder (12)
+* possession (9)
+* supernatural horror (8)
+* demonic possession (8)
+* revenge (8)
+* exorcism (7)
+* zombie (7)
+* vampire (7)
+* curse (6)
+* remake (6)
 
 # Cluster 86
-**Total de filmes:** 391
-**Média de ano de lançamento:** 2001
-**Menor ano:** 1926 (The General)
-**Maior ano:** 2023 (Plane)
+**Total de filmes:** 210
+**Média de ano de lançamento:** 2008
+**Menor ano:** 1954 (The Gold of Naples)
+**Maior ano:** 2022 (Babylon)
 
 ## 5 Mais Velhos 
 
-**The General** | **The Most Dangerous Game** | **Tarzan the Ape Man** | **Captain Blood** | **Stagecoach**
+**The Gold of Naples** | **Late Autumn** | **Il Sorpasso** | **The Organizer** | **Seduced and Abandoned**
  -- | -- | -- | -- | -- 
-*1926* | *1932* | *1932* | *1935* | *1939*
- ![](https://image.tmdb.org/t/p/w200/4NmV1Wei4LxT2lpjViCAScgCZLq.jpg) |  ![](https://image.tmdb.org/t/p/w200/3aNlOIFlGOnIzxqvAWpgm5Sly1H.jpg) |  ![](https://image.tmdb.org/t/p/w200/sqtdNAktAI3p1iXmaEooaHjMmWd.jpg) |  ![](https://image.tmdb.org/t/p/w200/Ae0ltppMl66pAH1odgDU1C4H1iq.jpg) |  ![](https://image.tmdb.org/t/p/w200/b4RUzWOalyPbUu66TT147b5iR0M.jpg)
+*1954* | *1960* | *1962* | *1963* | *1964*
+ ![](https://image.tmdb.org/t/p/w200/dfl8977GCIlKw71zlsTuKBRGu10.jpg) |  ![](https://image.tmdb.org/t/p/w200/zdcS3UvySOsQ1tZURtQi9ghueuG.jpg) |  ![](https://image.tmdb.org/t/p/w200/4h1ckrJQVcQYjeOkqS8i9BqZ9MI.jpg) |  ![](https://image.tmdb.org/t/p/w200/3SphEkc40PVHjOGSx8bWFKEDH4X.jpg) |  ![](https://image.tmdb.org/t/p/w200/qexsWOAxpuwGgzhnIoNPSwD8pa7.jpg)
 
 ## 5 mais novos
 
-**Plane** | **Indiana Jones and the Dial of Destiny** | **Sisu** | **Hidden Strike** | **Gran Turismo**
+**Babylon** | **Hustle** | **Dog** | **Broker** | **Mrs. Harris Goes to Paris**
  -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2023* | *2023*
-![](https://image.tmdb.org/t/p/w200/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg) | ![](https://image.tmdb.org/t/p/w200/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg) | ![](https://image.tmdb.org/t/p/w200/ygO9lowFMXWymATCrhoQXd6gCEh.jpg) | ![](https://image.tmdb.org/t/p/w200/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg) | ![](https://image.tmdb.org/t/p/w200/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg)
+*2022* | *2022* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg) | ![](https://image.tmdb.org/t/p/w200/xWic7kPq13oRxYjbGLApXCnc7pz.jpg) | ![](https://image.tmdb.org/t/p/w200/zHQy4h36WwuCetKS7C3wcT1hkgA.jpg) | ![](https://image.tmdb.org/t/p/w200/ulGCgWnidH9LJTRL9rMV23cLtQb.jpg) | ![](https://image.tmdb.org/t/p/w200/2SV7RYEqiPr3LpTaI33eUtYn09c.jpg)
 
-**Média da nota:** 6,61
-**Menor nota:** 5,50 (Bad Company)
-**Maior nota:** 8,45 (Seven Samurai)
+**Média da nota:** 6,77
+**Menor nota:** 4,82 (The D Train)
+**Maior nota:** 8,32 (Dedicated to my ex)
 
 ## 5 mais bem avaliados
 
-**Seven Samurai** | **Fire** | **Top Gun: Maverick** | **Gladiator** | **Gran Turismo**
+**Dedicated to my ex** | **The Intouchables** | **Green Book** | **Il Sorpasso** | **My Annoying Brother**
  -- | -- | -- | -- | -- 
-*8,45* | *8,32* | *8,26* | *8,21* | *8,07*
-![](https://image.tmdb.org/t/p/w200/8OKmBV5BUFzmozIC3pPWKHy17kx.jpg) | ![](https://image.tmdb.org/t/p/w200/7uyxpJ0R2UINPpqZGbPk92DhJuT.jpg) | ![](https://image.tmdb.org/t/p/w200/62HCnUTziyWcpDaBO2i1DX17ljH.jpg) | ![](https://image.tmdb.org/t/p/w200/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg) | ![](https://image.tmdb.org/t/p/w200/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg)
+*8,32* | *8,28* | *8,24* | *8,20* | *8,10*
+![](https://image.tmdb.org/t/p/w200/xc4bTXVwYNXi10jG9dwcaYt5IpU.jpg) | ![](https://image.tmdb.org/t/p/w200/323BP0itpxTsO0skTwdnVmf7YC9.jpg) | ![](https://image.tmdb.org/t/p/w200/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg) | ![](https://image.tmdb.org/t/p/w200/4h1ckrJQVcQYjeOkqS8i9BqZ9MI.jpg) | ![](https://image.tmdb.org/t/p/w200/7Cxrt3gSH9VAKDvsuk6Tx1IShJy.jpg)
 
 ## 5 menos bem avaliados
 
-**Bad Company** | **War, Inc.** | **Pompeii** | **12 Rounds 2: Reloaded** | **Without a Paddle**
+**The D Train** | **Literally, Right Before Aaron** | **Marseille** | **The Humbling** | **How to Plan an Orgy in a Small Town**
  -- | -- | -- | -- | -- 
-*5,50* | *5,51* | *5,53* | *5,53* | *5,54*
-![](https://image.tmdb.org/t/p/w200/umu141mcfIEhRLgyQp7TWlGJFW.jpg) | ![](https://image.tmdb.org/t/p/w200/nlGsWWYC9n4lkbIoTXmI42dkJqb.jpg) | ![](https://image.tmdb.org/t/p/w200/dxxM3lLDjGRC50i5rhvfQziskAN.jpg) | ![](https://image.tmdb.org/t/p/w200/btThjvVC4lOqE95F9iVK118kpj2.jpg) | ![](https://image.tmdb.org/t/p/w200/xKzeJSBOMfPLtE5fzviroW4qIPo.jpg)
+*4,82* | *4,90* | *4,91* | *5,10* | *5,15*
+![](https://image.tmdb.org/t/p/w200/p3X4ea0xirJRiHGRtk47fSrmH9I.jpg) | ![](https://image.tmdb.org/t/p/w200/4fdjQ5lFbkSWlAUv7px6KSEOdxP.jpg) | ![](https://image.tmdb.org/t/p/w200/2yhQXCZt5oO2XgS6O32U4e6fb1F.jpg) | ![](https://image.tmdb.org/t/p/w200/8x8NUmtcuNqlIH1JDAoxUjoDX7P.jpg) | ![](https://image.tmdb.org/t/p/w200/f7poipkBYz3cBF0rMdzYtzVWtdO.jpg)
 
-**Média de votos:** 1795,0
-**Menor votos:** 150 (Fire)
-**Maior votos:** 28894 (Deadpool)
+**Média de votos:** 758,0
+**Menor votos:** 75 (Gigantic)
+**Maior votos:** 16083 (The Intouchables)
 
 ## 5 mais avaliados
 
-**Deadpool** | **Gladiator** | **Skyfall** | **Sherlock Holmes** | **300**
+**The Intouchables** | **Birdman or (The Unexpected Virtue of Ignorance)** | **Green Book** | **Lady Bird** | **I, Tonya**
  -- | -- | -- | -- | -- 
-*28894* | *16962* | *14466* | *13170* | *12812*
-![](https://image.tmdb.org/t/p/w200/zq8Cl3PNIDGU3iWNRoc5nEZ6pCe.jpg) | ![](https://image.tmdb.org/t/p/w200/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg) | ![](https://image.tmdb.org/t/p/w200/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg) | ![](https://image.tmdb.org/t/p/w200/momkKuWburNTqKBF6ez7rvhYVhE.jpg) | ![](https://image.tmdb.org/t/p/w200/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg)
+*16083* | *12157* | *10542* | *7861* | *5405*
+![](https://image.tmdb.org/t/p/w200/323BP0itpxTsO0skTwdnVmf7YC9.jpg) | ![](https://image.tmdb.org/t/p/w200/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg) | ![](https://image.tmdb.org/t/p/w200/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg) | ![](https://image.tmdb.org/t/p/w200/iySFtKLrWvVzXzlFj7x1zalxi5G.jpg) | ![](https://image.tmdb.org/t/p/w200/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg)
 
 ## 5 menos avaliados
 
-**Fire** | **The Pirates: The Last Royal Treasure** | **Ride On** | **The Lost Viking** | **Death Hunt**
+**Gigantic** | **Literally, Right Before Aaron** | **Chevalier** | **Dog Days** | **Mimino**
  -- | -- | -- | -- | -- 
-*150* | *151* | *151* | *151* | *151*
-![](https://image.tmdb.org/t/p/w200/7uyxpJ0R2UINPpqZGbPk92DhJuT.jpg) | ![](https://image.tmdb.org/t/p/w200/d5oMUBCuDntOJBOertQ7aTSAGmP.jpg) | ![](https://image.tmdb.org/t/p/w200/ukFo9pwVJ5mzTgmFCanYsYC4roF.jpg) | ![](https://image.tmdb.org/t/p/w200/9gFHSGKV5EZxJe6d6qsROpAiBgQ.jpg) | ![](https://image.tmdb.org/t/p/w200/j9nVLvOv2Sz3KekD7elwGZII8F9.jpg)
+*75* | *76* | *78* | *78* | *79*
+![](https://image.tmdb.org/t/p/w200/bfIyk9Tlc4u5NdpWvtSD2jQEqOE.jpg) | ![](https://image.tmdb.org/t/p/w200/4fdjQ5lFbkSWlAUv7px6KSEOdxP.jpg) | ![](https://image.tmdb.org/t/p/w200/zETmf9LMuZxUYXvHS4iaakjN3LG.jpg) | ![](https://image.tmdb.org/t/p/w200/tAuco7XO8muGT90i7lFsrIe6GW5.jpg) | ![](https://image.tmdb.org/t/p/w200/61reasUU2uxRFQhxfKdvVHHMOsl.jpg)
 
 **Gêneros mais comuns:**
-* Action (356)
-* Adventure (344)
-* Drama (159)
-* Thriller (148)
-* Comedy (61)
-* Crime (55)
-* War (37)
-* Western (36)
-* History (34)
-* Romance (26)
-* Horror (20)
-* Mystery (8)
-* Family (5)
-* Science Fiction (4)
-* Documentary (2)
-* Fantasy (2)
-* Music (1)
+* Drama (210)
+* Comedy (210)
 
 
 **Palavras-chave mais comuns:**
-* martial arts (47)
-* revenge (27)
-* spy (21)
-* action hero (21)
-* survival (20)
-* sword fight (19)
-* assassin (17)
-* 19th century (16)
-* secret agent (15)
-* rescue (15)
-* shootout (15)
-* disaster (15)
-* epic (14)
-* treasure hunt (14)
-* murder (13)
+* coming of age (20)
+* friendship (15)
+* dark comedy (12)
+* parent child relationship (11)
+* sports (10)
+* road trip (9)
+* lgbt (8)
+* love (8)
+* gay theme (8)
+* male friendship (7)
+* road movie (7)
+* husband wife relationship (7)
+* friends (7)
+* 1970s (7)
+* mother daughter relationship (6)
 
 # Cluster 87
-**Total de filmes:** 357
-**Média de ano de lançamento:** 2007
-**Menor ano:** 1942 (Saludos Amigos)
-**Maior ano:** 2023 (The Super Mario Bros. Movie)
+**Total de filmes:** 24
+**Média de ano de lançamento:** 1987
+**Menor ano:** 1934 (The Thin Man)
+**Maior ano:** 2022 (Glass Onion: A Knives Out Mystery)
 
 ## 5 Mais Velhos 
 
-**Saludos Amigos** | **Mickey and the Beanstalk** | **Alice in Wonderland** | **Peter Pan** | **One Hundred and One Dalmatians**
+**The Thin Man** | **After the Thin Man** | **Shadow of the Thin Man** | **Song of the Thin Man** | **A Shot in the Dark**
  -- | -- | -- | -- | -- 
-*1942* | *1947* | *1951* | *1953* | *1961*
- ![](https://image.tmdb.org/t/p/w200/kdZyHjsSHYBO53o59ZMz4fOXcmk.jpg) |  ![](https://image.tmdb.org/t/p/w200/yJ5vx5U4Dj8iU3IcyyLzonNnmJT.jpg) |  ![](https://image.tmdb.org/t/p/w200/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg) |  ![](https://image.tmdb.org/t/p/w200/6UTZmeQcxbtW32MyR5nKIx7ID4f.jpg) |  ![](https://image.tmdb.org/t/p/w200/mRY84MJeWKnp9joev82QtslJFvk.jpg)
+*1934* | *1936* | *1941* | *1947* | *1964*
+ ![](https://image.tmdb.org/t/p/w200/6cL89ok9t8xEKboOjOVga2W66jj.jpg) |  ![](https://image.tmdb.org/t/p/w200/1fkCHOffEkPOY0UwSrvzG6YKDVp.jpg) |  ![](https://image.tmdb.org/t/p/w200/sYiasULoMJj84A5zheNyChGuhHY.jpg) |  ![](https://image.tmdb.org/t/p/w200/wlj6IQrYRtHAQdIY08gicGOBp49.jpg) |  ![](https://image.tmdb.org/t/p/w200/pR6tNqNLYIbRRYC5TFKWVWaVvvK.jpg)
 
 ## 5 mais novos
 
-**The Super Mario Bros. Movie** | **Nimona** | **Mavka: The Forest Song** | **Mummies** | **Carl's Date**
+**Glass Onion: A Knives Out Mystery** | **Knives Out** | **Super Troopers 2** | **WHAT DID JACK DO?** | **Burn Notice: The Fall of Sam Axe**
  -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2023* | *2023*
-![](https://image.tmdb.org/t/p/w200/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg) | ![](https://image.tmdb.org/t/p/w200/2NQljeavtfl22207D1kxLpa4LS3.jpg) | ![](https://image.tmdb.org/t/p/w200/eeJjd9JU2Mdj9d7nWRFLWlrcExi.jpg) | ![](https://image.tmdb.org/t/p/w200/qVdrYN8qu7xUtsdEFeGiIVIaYd.jpg) | ![](https://image.tmdb.org/t/p/w200/y8NtM6q3PzntqyNRNw6wgicwRYl.jpg)
+*2022* | *2019* | *2018* | *2017* | *2011*
+![](https://image.tmdb.org/t/p/w200/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg) | ![](https://image.tmdb.org/t/p/w200/pThyQovXQrw2m0s9x82twj48Jq4.jpg) | ![](https://image.tmdb.org/t/p/w200/57SZgdugVClIy22rfnANeBJ5KsN.jpg) | ![](https://image.tmdb.org/t/p/w200/68FofMgclH1qCNXoL6foBqPfNFD.jpg) | ![](https://image.tmdb.org/t/p/w200/wgQuP4qrsjw4kNgR3sYQeaCNllm.jpg)
 
-**Média da nota:** 6,91
-**Menor nota:** 5,53 (3 Ninjas Kick Back)
-**Maior nota:** 8,40 (Howl's Moving Castle)
+**Média da nota:** 6,53
+**Menor nota:** 4,72 (Curse of the Pink Panther)
+**Maior nota:** 7,93 (Herod's Law)
 
 ## 5 mais bem avaliados
 
-**Howl's Moving Castle** | **The Boy, the Mole, the Fox and the Horse** | **Puss in Boots: The Last Wish** | **Klaus** | **Wolfwalkers**
+**Herod's Law** | **Knives Out** | **The Thin Man** | **After the Thin Man** | **A Shot in the Dark**
  -- | -- | -- | -- | -- 
-*8,40* | *8,39* | *8,27* | *8,25* | *8,25*
-![](https://image.tmdb.org/t/p/w200/6pZgH10jhpToPcf0uvyTCPFhWpI.jpg) | ![](https://image.tmdb.org/t/p/w200/oQRgyQCzcyZvE6w5heM9ktVY0LT.jpg) | ![](https://image.tmdb.org/t/p/w200/kuf6dutpsT0vSVehic3EZIqkOBt.jpg) | ![](https://image.tmdb.org/t/p/w200/q125RHUDgR4gjwh1QkfYuJLYkL.jpg) | ![](https://image.tmdb.org/t/p/w200/ehAKuE48okTuonq6TpsNQj8vFTC.jpg)
+*7,93* | *7,85* | *7,53* | *7,30* | *7,26*
+![](https://image.tmdb.org/t/p/w200/ObPUGfmoT6W2j2AeqQm0Mw0eC0.jpg) | ![](https://image.tmdb.org/t/p/w200/pThyQovXQrw2m0s9x82twj48Jq4.jpg) | ![](https://image.tmdb.org/t/p/w200/6cL89ok9t8xEKboOjOVga2W66jj.jpg) | ![](https://image.tmdb.org/t/p/w200/1fkCHOffEkPOY0UwSrvzG6YKDVp.jpg) | ![](https://image.tmdb.org/t/p/w200/pR6tNqNLYIbRRYC5TFKWVWaVvvK.jpg)
 
 ## 5 menos bem avaliados
 
-**3 Ninjas Kick Back** | **College Road Trip** | **Garfield: A Tail of Two Kitties** | **Yogi Bear** | **Open Season 3**
+**Curse of the Pink Panther** | **Trail of the Pink Panther** | **Drowning Mona** | **Super Troopers 2** | **Who's Harry Crumb?**
  -- | -- | -- | -- | -- 
-*5,53* | *5,55* | *5,55* | *5,60* | *5,62*
-![](https://image.tmdb.org/t/p/w200/kXuh3c0DyvqSGo0DBatoemBwEtz.jpg) | ![](https://image.tmdb.org/t/p/w200/322poolColDysdWIA6XCCZQy9B6.jpg) | ![](https://image.tmdb.org/t/p/w200/osfMaHucgLtHtsMa6TQLTooE3G7.jpg) | ![](https://image.tmdb.org/t/p/w200/3Rs4BTP1wHA2Ll1FeuCRbhFgXWM.jpg) | ![](https://image.tmdb.org/t/p/w200/qEr9fkGLQUWcAnVfDV46L79bdFs.jpg)
+*4,72* | *5,20* | *5,50* | *5,85* | *5,93*
+![](https://image.tmdb.org/t/p/w200/vd4bjWY1wJrjjl0c0ar2wccGT96.jpg) | ![](https://image.tmdb.org/t/p/w200/l2Gv4I8CN28aflcqecPgb0NKh63.jpg) | ![](https://image.tmdb.org/t/p/w200/iuN2SXCGPIlC7pAPCOzqAdeaDji.jpg) | ![](https://image.tmdb.org/t/p/w200/57SZgdugVClIy22rfnANeBJ5KsN.jpg) | ![](https://image.tmdb.org/t/p/w200/6cLX9c12I6X1Fmg8y7fN3AFwDWF.jpg)
 
-**Média de votos:** 2468,0
-**Menor votos:** 150 (Pokémon the Movie: Black - Victini and Reshiram)
-**Maior votos:** 19463 (Inside Out)
+**Média de votos:** 897,0
+**Menor votos:** 76 (Nobody Else But You)
+**Maior votos:** 11156 (Knives Out)
 
 ## 5 mais avaliados
 
-**Inside Out** | **Up** | **Coco** | **Toy Story** | **Shrek**
+**Knives Out** | **Glass Onion: A Knives Out Mystery** | **Super Troopers** | **Fletch** | **A Shot in the Dark**
  -- | -- | -- | -- | -- 
-*19463* | *18857* | *17742* | *17152* | *15765*
-![](https://image.tmdb.org/t/p/w200/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg) | ![](https://image.tmdb.org/t/p/w200/vpbaStTMt8qqXaEgnOR2EE4DNJk.jpg) | ![](https://image.tmdb.org/t/p/w200/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg) | ![](https://image.tmdb.org/t/p/w200/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg) | ![](https://image.tmdb.org/t/p/w200/dyhaB19AICF7TO7CK2aD6KfymnQ.jpg)
+*11156* | *4530* | *983* | *596* | *467*
+![](https://image.tmdb.org/t/p/w200/pThyQovXQrw2m0s9x82twj48Jq4.jpg) | ![](https://image.tmdb.org/t/p/w200/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg) | ![](https://image.tmdb.org/t/p/w200/7aatn3TWAVo9a2OJyQTuYpoB48G.jpg) | ![](https://image.tmdb.org/t/p/w200/zYYWgIIY1YPuABQgGw6mOdQsQ4g.jpg) | ![](https://image.tmdb.org/t/p/w200/pR6tNqNLYIbRRYC5TFKWVWaVvvK.jpg)
 
 ## 5 menos avaliados
 
-**Pokémon the Movie: Black - Victini and Reshiram** | **Mortadelo and Filemon: Mission Implausible** | **Killer Bean Forever** | **Despicable Me Presents: Minion Madness** | **Robin Robin**
+**Nobody Else But You** | **Song of the Thin Man** | **The Mystery of the Yellow Room** | **Crime Is Our Business** | **Shadow of the Thin Man**
  -- | -- | -- | -- | -- 
-*150* | *155* | *157* | *157* | *160*
-![](https://image.tmdb.org/t/p/w200/qPfo5ooRJWUczk3KXv8CnUmNkTl.jpg) | ![](https://image.tmdb.org/t/p/w200/sPe5NAeegRoRTkngYfZgANppNN.jpg) | ![](https://image.tmdb.org/t/p/w200/6qzFNzWtgc7nH4j4I6odnoJP66H.jpg) | ![](https://image.tmdb.org/t/p/w200/smQcYI4DiF15HKt9RRpLywoWhnK.jpg) | ![](https://image.tmdb.org/t/p/w200/bKIdlJbd17rrIm4oZzhXTbmqpon.jpg)
+*76* | *77* | *81* | *81* | *90*
+![](https://image.tmdb.org/t/p/w200/wgsDeQoKzZgJU3TGpslhnhDqGkq.jpg) | ![](https://image.tmdb.org/t/p/w200/wlj6IQrYRtHAQdIY08gicGOBp49.jpg) | ![](https://image.tmdb.org/t/p/w200/dbKJted6TJE6wdW1ZDXvtfrDMiR.jpg) | ![](https://image.tmdb.org/t/p/w200/w1RfhaiRN9TjEaQ5wAoHQm0YuPr.jpg) | ![](https://image.tmdb.org/t/p/w200/sYiasULoMJj84A5zheNyChGuhHY.jpg)
 
 **Gêneros mais comuns:**
-* Adventure (357)
-* Animation (351)
-* Family (317)
-* Comedy (216)
-* Fantasy (151)
-* Action (38)
+* Comedy (24)
+* Crime (24)
 * Mystery (24)
-* Drama (19)
-* Romance (12)
-* Music (11)
-* Western (4)
-* Crime (3)
-* Horror (3)
-* TV Movie (3)
-* Science Fiction (1)
-* History (1)
-* War (1)
-* Thriller (1)
 
 
 **Palavras-chave mais comuns:**
-* anthropomorphism (37)
-* friendship (33)
-* musical (33)
-* cartoon (32)
-* anime (32)
-* magic (31)
-* animal (26)
-* dog (23)
-* family (17)
-* short film (17)
-* dragon (16)
-* live action and animation (16)
-* pets (13)
-* princess (13)
-* fairy tale (13)
+* detective (7)
+* black and white (5)
+* investigation (4)
+* murder (4)
+* thin man (4)
+* whodunit (3)
+* disguise (3)
+* police (3)
+* private detective (3)
+* murder mystery (2)
+* cop (2)
+* police corruption (2)
+* shenanigans (2)
+* journalist (2)
+* husband wife relationship (2)
 
 # Cluster 88
-**Total de filmes:** 73
-**Média de ano de lançamento:** 2010
-**Menor ano:** 1922 (Häxan)
-**Maior ano:** 2022 (The Tinder Swindler)
+**Total de filmes:** 200
+**Média de ano de lançamento:** 1998
+**Menor ano:** 1909 (A Corner in Wheat)
+**Maior ano:** 2023 (A Good Person)
 
 ## 5 Mais Velhos 
 
-**Häxan** | **Night and Fog** | **Shoah** | **The Thin Blue Line** | **Roger & Me**
+**A Corner in Wheat** | **October (Ten Days that Shook the World)** | **Diary of a Lost Girl** | **People on Sunday** | **Baby Face**
  -- | -- | -- | -- | -- 
-*1922* | *1956* | *1985* | *1988* | *1989*
- ![](https://image.tmdb.org/t/p/w200/6uke82EziPVJuzm7NQvQj5f9uy7.jpg) |  ![](https://image.tmdb.org/t/p/w200/2iWYQia8enOai7QEO3TvenleD7r.jpg) |  ![](https://image.tmdb.org/t/p/w200/yvwF7dfSCybFcBOklUzKpE46bHM.jpg) |  ![](https://image.tmdb.org/t/p/w200/4w4BJk3l8y9gYwPPLRs6uPHOmGL.jpg) |  ![](https://image.tmdb.org/t/p/w200/m5XzsqhbLg8eHqcSNHo6gt4QU6H.jpg)
+*1909* | *1928* | *1929* | *1930* | *1933*
+ ![](https://image.tmdb.org/t/p/w200/yLn8e9tMMsJxzIelfXsIjesB60s.jpg) |  ![](https://image.tmdb.org/t/p/w200/tsfz9Ak1slSnxr6mSmRD3Wj7YZS.jpg) |  ![](https://image.tmdb.org/t/p/w200/uDR1Tt2pFR0M3gUFCJ1w2oiVYlM.jpg) |  ![](https://image.tmdb.org/t/p/w200/gWIkCmYaRDlA78WMIfRUlURuLCZ.jpg) |  ![](https://image.tmdb.org/t/p/w200/ul4BLZAXepOQRwUtORmvEpZ4KW4.jpg)
 
 ## 5 mais novos
 
-**The Tinder Swindler** | **Jackass Forever** | **Jackass 4.5** | **Our Father** | **Flee**
+**A Good Person** | **Noise** | **EO** | **Return to Seoul** | **To Leslie**
  -- | -- | -- | -- | -- 
-*2022* | *2022* | *2022* | *2022* | *2021*
-![](https://image.tmdb.org/t/p/w200/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg) | ![](https://image.tmdb.org/t/p/w200/ugIdyvtAzHWOguD91UjHKoAvfum.jpg) | ![](https://image.tmdb.org/t/p/w200/bl686OSeMQOvs90IQAgt8QipCsB.jpg) | ![](https://image.tmdb.org/t/p/w200/maG75HDZbOwywDFd1h195CA8I36.jpg) | ![](https://image.tmdb.org/t/p/w200/vlMIbqOpYG553J1kOJXA7mwQvE6.jpg)
+*2023* | *2023* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/6toz74j1OgbQrsZUjgr2Ohs1AsE.jpg) | ![](https://image.tmdb.org/t/p/w200/xODBcJ504eJ59V6yVbHGs2nsQuf.jpg) | ![](https://image.tmdb.org/t/p/w200/1MK86Vr2nf1GSYOtRd8pFvA5RM8.jpg) | ![](https://image.tmdb.org/t/p/w200/x0bOXCGMxHc4RHeeZQFFLIM6fZJ.jpg) | ![](https://image.tmdb.org/t/p/w200/bFTgfsw4cnNjIZZ2r6P363X2Uk3.jpg)
 
-**Média da nota:** 7,20
-**Menor nota:** 5,54 (The Nightmare)
-**Maior nota:** 8,42 (O.J.: Made in America)
+**Média da nota:** 6,92
+**Menor nota:** 4,71 (Cruel Intentions 3)
+**Maior nota:** 8,42 (One Flew Over the Cuckoo's Nest)
 
 ## 5 mais bem avaliados
 
-**O.J.: Made in America** | **Shoah** | **For Sama** | **Night and Fog** | **Dear Zachary: A Letter to a Son About His Father**
+**One Flew Over the Cuckoo's Nest** | **Persona** | **The Help** | **Good Will Hunting** | **Sansho the Bailiff**
  -- | -- | -- | -- | -- 
-*8,42* | *8,30* | *8,26* | *8,20* | *8,11*
-![](https://image.tmdb.org/t/p/w200/nFmg2G4IJ0x9mALXkYFN8Gw0Dw5.jpg) | ![](https://image.tmdb.org/t/p/w200/yvwF7dfSCybFcBOklUzKpE46bHM.jpg) | ![](https://image.tmdb.org/t/p/w200/mDna51F8QfrJFZOgPGQUz3VKqsB.jpg) | ![](https://image.tmdb.org/t/p/w200/2iWYQia8enOai7QEO3TvenleD7r.jpg) | ![](https://image.tmdb.org/t/p/w200/bVJCQfIfNC01CYOVkvBOtrY1cxy.jpg)
+*8,42* | *8,23* | *8,20* | *8,15* | *8,14*
+![](https://image.tmdb.org/t/p/w200/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg) | ![](https://image.tmdb.org/t/p/w200/bdXbfUir63TQHA5NTNcXPICZCW8.jpg) | ![](https://image.tmdb.org/t/p/w200/3kmfoWWEc9Vtyuaf9v5VipRgdjx.jpg) | ![](https://image.tmdb.org/t/p/w200/bABCBKYBK7A5G1x0FzoeoNfuj2.jpg) | ![](https://image.tmdb.org/t/p/w200/rSlZ8iM4vRM0sZrrJNmjln4kZir.jpg)
 
 ## 5 menos bem avaliados
 
-**The Nightmare** | **Casting JonBenet** | **Super High Me** | **Video Games: The Movie** | **Cropsey**
+**Cruel Intentions 3** | **Noise** | **The Amputee** | **Lie with Me** | **Reach Me**
  -- | -- | -- | -- | -- 
-*5,54* | *5,71* | *5,74* | *5,79* | *6,01*
-![](https://image.tmdb.org/t/p/w200/ldof0L20WKBt4H6GKQ6aSHSmsk5.jpg) | ![](https://image.tmdb.org/t/p/w200/aHDr48Zq4IojCHRMxzGaS1EMaDB.jpg) | ![](https://image.tmdb.org/t/p/w200/80Y1Te0aZwBoImgFo7D2PgUzQna.jpg) | ![](https://image.tmdb.org/t/p/w200/l5lIK1sM5UeCE2IozXdgv1oOSlA.jpg) | ![](https://image.tmdb.org/t/p/w200/mcmJj11lX8v518rvzYb22LlCjAz.jpg)
+*4,71* | *4,80* | *5,09* | *5,18* | *5,40*
+![](https://image.tmdb.org/t/p/w200/pnXAP64pI30UZGiXb228F4opUWt.jpg) | ![](https://image.tmdb.org/t/p/w200/xODBcJ504eJ59V6yVbHGs2nsQuf.jpg) | ![](https://image.tmdb.org/t/p/w200/zcq4A7lqzqhU4Hbj9QPqiCdQUb.jpg) | ![](https://image.tmdb.org/t/p/w200/qG2KYlTxTZbKcXJHMe1OG7aI4un.jpg) | ![](https://image.tmdb.org/t/p/w200/smo6jpw1pMeutlnyg8AkfIt399B.jpg)
 
-**Média de votos:** 424,0
-**Menor votos:** 152 (Cocaine Cowboys)
-**Maior votos:** 1435 (Jackass: The Movie)
+**Média de votos:** 696,0
+**Menor votos:** 76 (Parched)
+**Maior votos:** 11190 (The Social Network)
 
 ## 5 mais avaliados
 
-**Jackass: The Movie** | **The Social Dilemma** | **Bowling for Columbine** | **Jackass 3D** | **Free Solo**
+**The Social Network** | **Good Will Hunting** | **One Flew Over the Cuckoo's Nest** | **The Help** | **Flight**
  -- | -- | -- | -- | -- 
-*1435* | *1432* | *1404* | *1264* | *1186*
-![](https://image.tmdb.org/t/p/w200/9Rb659hvGfmef1xm0mMvDHEBqmf.jpg) | ![](https://image.tmdb.org/t/p/w200/jcaM6V2tCtu6iMHDsGLBUbaYgYp.jpg) | ![](https://image.tmdb.org/t/p/w200/5AlgeysilsfLdEwlTlYO7fqgsLn.jpg) | ![](https://image.tmdb.org/t/p/w200/rqK0MkfpWT2DpFjNzkvjHf0vxZ4.jpg) | ![](https://image.tmdb.org/t/p/w200/v4QfYZMACODlWul9doN9RxE99ag.jpg)
+*11190* | *11111* | *9650* | *7538* | *5572*
+![](https://image.tmdb.org/t/p/w200/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg) | ![](https://image.tmdb.org/t/p/w200/bABCBKYBK7A5G1x0FzoeoNfuj2.jpg) | ![](https://image.tmdb.org/t/p/w200/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg) | ![](https://image.tmdb.org/t/p/w200/3kmfoWWEc9Vtyuaf9v5VipRgdjx.jpg) | ![](https://image.tmdb.org/t/p/w200/1AjXgBM2lkpG3FLQO0f6AK3Bi1e.jpg)
 
 ## 5 menos avaliados
 
-**Cocaine Cowboys** | **Cropsey** | **Super High Me** | **Mia Martini - I Am Mia** | **Voyage of Time: Life's Journey**
+**Parched** | **The Cousins** | **Jesus of Montreal** | **The White Balloon** | **Yes, God, Yes**
  -- | -- | -- | -- | -- 
-*152* | *152* | *153* | *156* | *157*
-![](https://image.tmdb.org/t/p/w200/gxGis0HgcLJv2MS3l01a0wuhCAI.jpg) | ![](https://image.tmdb.org/t/p/w200/mcmJj11lX8v518rvzYb22LlCjAz.jpg) | ![](https://image.tmdb.org/t/p/w200/80Y1Te0aZwBoImgFo7D2PgUzQna.jpg) | ![](https://image.tmdb.org/t/p/w200/uAZMY2je5PSoLrjvMLBZanKGXca.jpg) | ![](https://image.tmdb.org/t/p/w200/by2hTbppbkyhQ2ddALHzXlUq8LM.jpg)
+*76* | *76* | *77* | *77* | *80*
+![](https://image.tmdb.org/t/p/w200/cpuW4xGdUVZep3Otwo97xnEzdWi.jpg) | ![](https://image.tmdb.org/t/p/w200/c0p1ps8j2l8pVRw3GModHPdCIBV.jpg) | ![](https://image.tmdb.org/t/p/w200/evtfMmuJyCQch2JIdWO2SdGWgJA.jpg) | ![](https://image.tmdb.org/t/p/w200/u6jrlgZZx3zSFPDPTVOYpueljgH.jpg) | ![](https://image.tmdb.org/t/p/w200/ftR7yM9zfPooU9qnlxvhivesvP6.jpg)
 
 **Gêneros mais comuns:**
-* Documentary (73)
-* Crime (19)
-* Comedy (17)
-* Drama (14)
-* History (14)
-* War (8)
-* Adventure (5)
-* Action (4)
-* Animation (4)
-* Mystery (4)
-* Family (3)
-* Horror (3)
-* Music (3)
+* Drama (200)
 
 
 **Palavras-chave mais comuns:**
-* stunt (5)
-* stuntman (5)
-* stupidity (5)
-* murder (5)
-* pain (4)
-* disgust (3)
-* shocking (3)
-* social media (3)
-* mass murder (3)
-* rock climbing (3)
-* parent child relationship (3)
-* kidnapping (3)
-* corruption (3)
-* true crime (3)
-* world war ii (3)
+* religion (20)
+* prostitution (17)
+* depression (12)
+* prostitute (11)
+* christianity (10)
+* drugs (9)
+* drug addiction (8)
+* lgbt (8)
+* short film (8)
+* gay theme (7)
+* rape (7)
+* suicide (7)
+* pregnancy (7)
+* eroticism (7)
+* 1960s (6)
 
 # Cluster 89
-**Total de filmes:** 535
-**Média de ano de lançamento:** 2002
-**Menor ano:** 1928 (The Man Who Laughs)
-**Maior ano:** 2023 (Knock at the Cabin)
+**Total de filmes:** 90
+**Média de ano de lançamento:** 2012
+**Menor ano:** 1981 (Butcher, Baker, Nightmare Maker)
+**Maior ano:** 2023 (Evil Dead Rise)
 
 ## 5 Mais Velhos 
 
-**The Man Who Laughs** | **The 39 Steps** | **Young and Innocent** | **The Lady Vanishes** | **The Hound of the Baskervilles**
+**Butcher, Baker, Nightmare Maker** | **Cat People** | **Silent Night, Deadly Night** | **Howling II: Stirba - Werewolf Bitch** | **Dead Ringers**
  -- | -- | -- | -- | -- 
-*1928* | *1935* | *1937* | *1938* | *1939*
- ![](https://image.tmdb.org/t/p/w200/iQXBMr4NzQst4X0rDU6MII6ZUOM.jpg) |  ![](https://image.tmdb.org/t/p/w200/paI9Tmqm2cZG6xy4Tnjw3Ydjuw5.jpg) |  ![](https://image.tmdb.org/t/p/w200/knc0wcxarPM6Qy3uOm1RV38JGzS.jpg) |  ![](https://image.tmdb.org/t/p/w200/c1t9LB76LvEARPanfEzXmkm7fwY.jpg) |  ![](https://image.tmdb.org/t/p/w200/61XD1LxA3kXLRrBXat3jN84MtPR.jpg)
+*1981* | *1982* | *1984* | *1985* | *1988*
+ ![](https://image.tmdb.org/t/p/w200/a1EpGJRGSxsM8HKOSFpSJYbbZOI.jpg) |  ![](https://image.tmdb.org/t/p/w200/nYcQnkbTD4LDmp11HCReQuUoMKD.jpg) |  ![](https://image.tmdb.org/t/p/w200/ypj2JwAN4vWcc4zSqFCTgUwMbJV.jpg) |  ![](https://image.tmdb.org/t/p/w200/tDbhuq0HueljuSo8XIEJbenFEhL.jpg) |  ![](https://image.tmdb.org/t/p/w200/ofXwDfM8uYAaftD7cBPcIWdCpMn.jpg)
 
 ## 5 mais novos
 
-**Knock at the Cabin** | **Missing** | **To Catch a Killer** | **A Haunting in Venice** | **The Boogeyman**
+**Evil Dead Rise** | **The Last Voyage of the Demeter** | **The Requin** | **The Reef: Stalked** | **Old Man**
  -- | -- | -- | -- | -- 
-*2023* | *2023* | *2023* | *2023* | *2023*
-![](https://image.tmdb.org/t/p/w200/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg) | ![](https://image.tmdb.org/t/p/w200/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg) | ![](https://image.tmdb.org/t/p/w200/mFp3l4lZg1NSEsyxKrdi0rNK8r1.jpg) | ![](https://image.tmdb.org/t/p/w200/1Xgjl22MkAZQUavvOeBqRehrvqO.jpg) | ![](https://image.tmdb.org/t/p/w200/pYwZdnXVnVxAr7dx4MEK7tTK9gI.jpg)
+*2023* | *2023* | *2022* | *2022* | *2022*
+![](https://image.tmdb.org/t/p/w200/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg) | ![](https://image.tmdb.org/t/p/w200/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg) | ![](https://image.tmdb.org/t/p/w200/i0z8g2VRZP3dhVvvSMilbOZMKqR.jpg) | ![](https://image.tmdb.org/t/p/w200/zDyoonhhDBGCWCkE5EZt6yqIp4M.jpg) | ![](https://image.tmdb.org/t/p/w200/hBkTcM3xhNCDaSn08RxvcFAejUJ.jpg)
 
-**Média da nota:** 6,58
-**Menor nota:** 5,50 (Down a Dark Hall)
-**Maior nota:** 8,36 (Rear Window)
+**Média da nota:** 5,79
+**Menor nota:** 4,67 (Exeter)
+**Maior nota:** 7,80 (I Saw the Devil)
 
 ## 5 mais bem avaliados
 
-**Rear Window** | **Oldboy** | **Witness for the Prosecution** | **Memento** | **Vertigo**
+**I Saw the Devil** | **The Last Voyage of the Demeter** | **Don't Breathe 2** | **Dead Ringers** | **Sleep Tight**
  -- | -- | -- | -- | -- 
-*8,36* | *8,27* | *8,22* | *8,19* | *8,18*
-![](https://image.tmdb.org/t/p/w200/qitnZcLP7C9DLRuPpmvZ7GiEjJN.jpg) | ![](https://image.tmdb.org/t/p/w200/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg) | ![](https://image.tmdb.org/t/p/w200/mM5Cad2ESBprh6ucPnMzMfI34Cu.jpg) | ![](https://image.tmdb.org/t/p/w200/yuNs09hvpHVU1cBTCAk9zxsL2oW.jpg) | ![](https://image.tmdb.org/t/p/w200/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg)
+*7,80* | *7,32* | *7,12* | *7,10* | *7,07*
+![](https://image.tmdb.org/t/p/w200/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg) | ![](https://image.tmdb.org/t/p/w200/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg) | ![](https://image.tmdb.org/t/p/w200/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg) | ![](https://image.tmdb.org/t/p/w200/ofXwDfM8uYAaftD7cBPcIWdCpMn.jpg) | ![](https://image.tmdb.org/t/p/w200/i44Mr6t3reXt7z28OMCPZTllRfr.jpg)
 
 ## 5 menos bem avaliados
 
-**Down a Dark Hall** | **Diabolique** | **Cube 2: Hypercube** | **My Bloody Valentine** | **After**
+**Exeter** | **Torment** | **The Devil Inside** | **Manhunt** | **Bingo Hell**
  -- | -- | -- | -- | -- 
-*5,50* | *5,50* | *5,50* | *5,52* | *5,53*
-![](https://image.tmdb.org/t/p/w200/wErHaJrD1QZ2FEVneH6w0GZUz2L.jpg) | ![](https://image.tmdb.org/t/p/w200/zSW4A35r7Vpz0ainYJGb2QVwCh0.jpg) | ![](https://image.tmdb.org/t/p/w200/bEqqwtwUP7lm56VyeVONhv9JtYu.jpg) | ![](https://image.tmdb.org/t/p/w200/9biIVOMTdvv4aj4a5HClmrK5EHB.jpg) | ![](https://image.tmdb.org/t/p/w200/5AKcsJYztbcX2KsyCXtKucyUUMA.jpg)
+*4,67* | *4,69* | *4,70* | *4,78* | *4,83*
+![](https://image.tmdb.org/t/p/w200/AwhFI88HW2BE62E6kEsTGPliZKB.jpg) | ![](https://image.tmdb.org/t/p/w200/hlJIBWmLsyxyNTsCgNReGmOK2xZ.jpg) | ![](https://image.tmdb.org/t/p/w200/mtyFRIRBmrCE2XKU5EnEK8dtu2X.jpg) | ![](https://image.tmdb.org/t/p/w200/lldkGJ70mspipKkhiS2GV8tvYmI.jpg) | ![](https://image.tmdb.org/t/p/w200/86VKuiaox9eVJTETel0ld7XZtiO.jpg)
 
-**Média de votos:** 1368,0
-**Menor votos:** 150 (Mr. Arkadin)
-**Maior votos:** 17381 (Gone Girl)
+**Média de votos:** 603,0
+**Menor votos:** 76 (Room for Rent)
+**Maior votos:** 6922 (Don't Breathe)
 
 ## 5 mais avaliados
 
-**Gone Girl** | **Get Out** | **Memento** | **The Hateful Eight** | **The Sixth Sense**
+**Don't Breathe** | **Truth or Dare** | **The Neon Demon** | **The Invitation** | **Evil Dead Rise**
  -- | -- | -- | -- | -- 
-*17381* | *16081* | *13723* | *13291* | *10754*
-![](https://image.tmdb.org/t/p/w200/qymaJhucquUwjpb8oiqynMeXnID.jpg) | ![](https://image.tmdb.org/t/p/w200/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg) | ![](https://image.tmdb.org/t/p/w200/yuNs09hvpHVU1cBTCAk9zxsL2oW.jpg) | ![](https://image.tmdb.org/t/p/w200/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg) | ![](https://image.tmdb.org/t/p/w200/4AfSDjjCy6T5LA1TMz0Lh2HlpRh.jpg)
+*6922* | *3763* | *3522* | *2375* | *2292*
+![](https://image.tmdb.org/t/p/w200/8fIgsHFQtg47xxN7SBwZkg0tZJn.jpg) | ![](https://image.tmdb.org/t/p/w200/ei2waWQAG8NP244WShIFgGu9IOu.jpg) | ![](https://image.tmdb.org/t/p/w200/3rBo2AfWSlvsPmYFdJsNUMfkNIo.jpg) | ![](https://image.tmdb.org/t/p/w200/4gxZW8AHg9kIOh5BgaSrq5gO1KB.jpg) | ![](https://image.tmdb.org/t/p/w200/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg)
 
 ## 5 menos avaliados
 
-**Mr. Arkadin** | **The Nameless** | **Resurrection** | **The 4th Man** | **I Remember You**
+**Room for Rent** | **Old Man** | **Cucuy: The Boogeyman** | **Nightlight** | **Manhunt**
  -- | -- | -- | -- | -- 
-*150* | *150* | *150* | *151* | *151*
-![](https://image.tmdb.org/t/p/w200/hoBfh3jmA3XDDx9tGgMwdGd37GE.jpg) | ![](https://image.tmdb.org/t/p/w200/eZRtWQU6EnqBtPc9xKgQ9SM6ICg.jpg) | ![](https://image.tmdb.org/t/p/w200/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg) | ![](https://image.tmdb.org/t/p/w200/iO7pYvGHcxekOqmQKsY4qeSygAi.jpg) | ![](https://image.tmdb.org/t/p/w200/eJncIaKkn0in8QxZySGZuGU68RA.jpg)
+*76* | *81* | *82* | *82* | *83*
+![](https://image.tmdb.org/t/p/w200/eEy7C8k1f4sMulW1Ca9s8EtFAhb.jpg) | ![](https://image.tmdb.org/t/p/w200/hBkTcM3xhNCDaSn08RxvcFAejUJ.jpg) | ![](https://image.tmdb.org/t/p/w200/fi7yCzIPFek5tLY4coe4178SANJ.jpg) | ![](https://image.tmdb.org/t/p/w200/t4CXIaMBdFtwjI6PGdLBgFxYI1c.jpg) | ![](https://image.tmdb.org/t/p/w200/lldkGJ70mspipKkhiS2GV8tvYmI.jpg)
 
 **Gêneros mais comuns:**
-* Mystery (532)
-* Thriller (468)
-* Drama (246)
-* Horror (182)
-* Crime (155)
-* Action (52)
-* Romance (34)
-* Comedy (31)
-* Science Fiction (21)
-* Fantasy (19)
-* Western (10)
-* War (7)
-* History (7)
-* Adventure (4)
-* TV Movie (3)
-* Music (2)
+* Thriller (90)
+* Horror (90)
 
 
 **Palavras-chave mais comuns:**
-* murder (104)
-* serial killer (51)
-* investigation (44)
-* detective (40)
-* whodunit (28)
-* conspiracy (28)
-* neo-noir (27)
-* police (27)
-* missing person (23)
-* remake (23)
-* psychological thriller (22)
-* paranoia (22)
-* kidnapping (21)
-* flashback (21)
-* fbi (21)
+* murder (21)
+* found footage (10)
+* gore (7)
+* kidnapping (6)
+* demon (6)
+* revenge (6)
+* serial killer (6)
+* forest (6)
+* suicide (5)
+* exorcism (5)
+* psychopath (4)
+* cannibal (4)
+* demonic possession (4)
+* supernatural (4)
+* haunted house (4)
 
 # Cluster 90
-**Total de filmes:** 48
-**Média de ano de lançamento:** 2003
-**Menor ano:** 1927 (The Lodger: A Story of the London Fog)
-**Maior ano:** 2023 (Inside)
+**Total de filmes:** 117
+**Média de ano de lançamento:** 1988
+**Menor ano:** 1912 (The Musketeers of Pig Alley)
+**Maior ano:** 2022 (End of the Road)
 
 ## 5 Mais Velhos 
 
-**The Lodger: A Story of the London Fog** | **The Spy Who Came in from the Cold** | **Straw Dogs** | **Play Misty for Me** | **The Odessa File**
+**The Musketeers of Pig Alley** | **The Public Enemy** | **Scarface** | **Fury** | **Angels with Dirty Faces**
  -- | -- | -- | -- | -- 
-*1927* | *1965* | *1971* | *1971* | *1974*
- ![](https://image.tmdb.org/t/p/w200/tD84zwFeFRf3zG98x558N3PBMV.jpg) |  ![](https://image.tmdb.org/t/p/w200/xroW2SrAAHwnel6yazC99xRW9R2.jpg) |  ![](https://image.tmdb.org/t/p/w200/yigkfHE1OhkxPPrjrV78Y9ibGEk.jpg) |  ![](https://image.tmdb.org/t/p/w200/riP8FcKh8VK2kJ6u25IhnQnGsnI.jpg) |  ![](https://image.tmdb.org/t/p/w200/j8uFsP2PxDMN3bdo5Ve6fYj0ebN.jpg)
+*1912* | *1931* | *1932* | *1936* | *1938*
+ ![](https://image.tmdb.org/t/p/w200/vkDqYXjgIVNlLJud4ILTrRfQVXZ.jpg) |  ![](https://image.tmdb.org/t/p/w200/vVxdaRMprQO2DM4AFyJ6C4qZSFO.jpg) |  ![](https://image.tmdb.org/t/p/w200/y4E5oRiHMTFkEB12IIcpbKbKzDW.jpg) |  ![](https://image.tmdb.org/t/p/w200/u1kjLTUqmqjDMlRxcwCqWagjf6r.jpg) |  ![](https://image.tmdb.org/t/p/w200/k23E4UAcow8eczLRmVCMdukL4Mx.jpg)
 
 ## 5 mais novos
 
-**Inside** | **Pig** | **The Card Counter** | **Luce** | **Dreamland**
+**End of the Road** | **How I Fell in Love with a Gangster** | **Capone** | **Golden Men** | **Crown Vic**
  -- | -- | -- | -- | -- 
-*2023* | *2021* | *2021* | *2019* | *2019*
-![](https://image.tmdb.org/t/p/w200/dXsiWJWwGwYwOQ6DfYFt5pPBMwT.jpg) | ![](https://image.tmdb.org/t/p/w200/1InMm4Mbjx8wCKvIy5gglo5i3HN.jpg) | ![](https://image.tmdb.org/t/p/w200/y5DNLVg0gPiGSkuK4yFc4fjQ42Q.jpg) | ![](https://image.tmdb.org/t/p/w200/uxig1ZvVddzXVRYNOAQ6hKtea80.jpg) | ![](https://image.tmdb.org/t/p/w200/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg)
+*2022* | *2022* | *2020* | *2019* | *2019*
+![](https://image.tmdb.org/t/p/w200/2mxnDbKCoR1M9e5szzc6Ku3Nfmv.jpg) | ![](https://image.tmdb.org/t/p/w200/e8VV1S1dcFiUBzrbwEZ26uyL40U.jpg) | ![](https://image.tmdb.org/t/p/w200/75gDv38UgRtAukSxNXcjatyQmEa.jpg) | ![](https://image.tmdb.org/t/p/w200/kqqJh2mL0woJdUFYXNmVrgcPhVp.jpg) | ![](https://image.tmdb.org/t/p/w200/aUFuuUMd4nMbt3pdzulnFRxbY6e.jpg)
 
-**Média da nota:** 6,58
-**Menor nota:** 5,64 (Billionaire Boys Club)
-**Maior nota:** 7,75 (Misery)
+**Média da nota:** 6,86
+**Menor nota:** 4,96 (Capone)
+**Maior nota:** 8,92 (The Godfather Trilogy: 1901-1980)
 
 ## 5 mais bem avaliados
 
-**Misery** | **Amores Perros** | **We Need to Talk About Kevin** | **The Wave** | **Magical Girl**
+**The Godfather Trilogy: 1901-1980** | **Taxi Driver** | **The Young and the Damned** | **Casino** | **On the Waterfront**
  -- | -- | -- | -- | -- 
-*7,75* | *7,63* | *7,56* | *7,50* | *7,41*
-![](https://image.tmdb.org/t/p/w200/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg) | ![](https://image.tmdb.org/t/p/w200/vV4vlD4ool5JSsS1rB82qjCF6z8.jpg) | ![](https://image.tmdb.org/t/p/w200/auAmiRmbBQ5QIYGpWgcGBoBQY3b.jpg) | ![](https://image.tmdb.org/t/p/w200/vtJ4u0fpTZhibxAJHzXtcdCxhsL.jpg) | ![](https://image.tmdb.org/t/p/w200/zrTIsngoDR5ekQJBtpSfJtnnxu4.jpg)
+*8,92* | *8,20* | *8,07* | *8,00* | *7,94*
+![](https://image.tmdb.org/t/p/w200/rwEP0RwpF2mKGRbs7jerdC4aeMB.jpg) | ![](https://image.tmdb.org/t/p/w200/ekstpH614fwDX8DUln1a2Opz0N8.jpg) | ![](https://image.tmdb.org/t/p/w200/3bdfN2gosYSxpHBAXPkAhxkUJFr.jpg) | ![](https://image.tmdb.org/t/p/w200/6zEZY1htzRos2w0W3T7o7W1WJhp.jpg) | ![](https://image.tmdb.org/t/p/w200/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg)
 
 ## 5 menos bem avaliados
 
-**Billionaire Boys Club** | **Pressure** | **Inside** | **Sweet Virginia** | **The Glass House**
+**Capone** | **Officer Down** | **Two Men in Town** | **King of Thieves** | **Boxcar Bertha**
  -- | -- | -- | -- | -- 
-*5,64* | *5,69* | *5,79* | *5,80* | *5,85*
-![](https://image.tmdb.org/t/p/w200/7EpC1etIcUQxqPnBz0CpHLp3evv.jpg) | ![](https://image.tmdb.org/t/p/w200/6vVL8WmU4WC39hHg44CBVE5Wv6h.jpg) | ![](https://image.tmdb.org/t/p/w200/dXsiWJWwGwYwOQ6DfYFt5pPBMwT.jpg) | ![](https://image.tmdb.org/t/p/w200/qTch1l0ZMU4MiOBDEJ14jVmANVC.jpg) | ![](https://image.tmdb.org/t/p/w200/6z52uWRcOHte8NFte2gXK0ApBPM.jpg)
+*4,96* | *5,34* | *5,43* | *5,50* | *5,87*
+![](https://image.tmdb.org/t/p/w200/75gDv38UgRtAukSxNXcjatyQmEa.jpg) | ![](https://image.tmdb.org/t/p/w200/wfkjerAp6Q4Sb05ZyDKkTabx2l2.jpg) | ![](https://image.tmdb.org/t/p/w200/df8tTDXxd4wgDgaldnph2I0R2UB.jpg) | ![](https://image.tmdb.org/t/p/w200/rtfS7y2XQ0vjTrm6khq508N0Ehk.jpg) | ![](https://image.tmdb.org/t/p/w200/gF5VslUB2xpWbboc735VVnO7DXh.jpg)
 
-**Média de votos:** 768,0
-**Menor votos:** 164 (The Odessa File)
-**Maior votos:** 4175 (Misery)
+**Média de votos:** 554,0
+**Menor votos:** 75 (Tazza: The Hidden Card)
+**Maior votos:** 11081 (Taxi Driver)
 
 ## 5 mais avaliados
 
-**Misery** | **The Wave** | **We Need to Talk About Kevin** | **Amores Perros** | **A Dangerous Method**
+**Taxi Driver** | **Stand by Me** | **Casino** | **Monster** | **Freedom Writers**
  -- | -- | -- | -- | -- 
-*4175* | *3071* | *2581* | *2335* | *1901*
-![](https://image.tmdb.org/t/p/w200/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg) | ![](https://image.tmdb.org/t/p/w200/vtJ4u0fpTZhibxAJHzXtcdCxhsL.jpg) | ![](https://image.tmdb.org/t/p/w200/auAmiRmbBQ5QIYGpWgcGBoBQY3b.jpg) | ![](https://image.tmdb.org/t/p/w200/vV4vlD4ool5JSsS1rB82qjCF6z8.jpg) | ![](https://image.tmdb.org/t/p/w200/7aU2xjjFhZzQzYXa0UM5JW01N4m.jpg)
+*11081* | *5317* | *5240* | *2110* | *2007*
+![](https://image.tmdb.org/t/p/w200/ekstpH614fwDX8DUln1a2Opz0N8.jpg) | ![](https://image.tmdb.org/t/p/w200/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg) | ![](https://image.tmdb.org/t/p/w200/6zEZY1htzRos2w0W3T7o7W1WJhp.jpg) | ![](https://image.tmdb.org/t/p/w200/aevmNtJCNG4ZlfEeEGZ79frMUes.jpg) | ![](https://image.tmdb.org/t/p/w200/81AdeUQT99N0xPg3j6RVh0YGOTk.jpg)
 
 ## 5 menos avaliados
 
-**The Odessa File** | **Red Road** | **Scenic Route** | **The Aura** | **Magical Girl**
+**Tazza: The Hidden Card** | **Black Friday** | **The Killers** | **Two Men in Town** | **Man on the Train**
  -- | -- | -- | -- | -- 
-*164* | *173* | *175* | *177* | *177*
-![](https://image.tmdb.org/t/p/w200/j8uFsP2PxDMN3bdo5Ve6fYj0ebN.jpg) | ![](https://image.tmdb.org/t/p/w200/wWqjKQkcKhhxHlCjfNURe6mfuqf.jpg) | ![](https://image.tmdb.org/t/p/w200/fLR1XII83u0zMPcW5sSR3XBxwYC.jpg) | ![](https://image.tmdb.org/t/p/w200/9ZK7XCkbL0wDgoQk4C2d7T9C8Sy.jpg) | ![](https://image.tmdb.org/t/p/w200/zrTIsngoDR5ekQJBtpSfJtnnxu4.jpg)
+*75* | *76* | *79* | *80* | *80*
+![](https://image.tmdb.org/t/p/w200/lx5HsMSE8A6bPy3Vuaj5O0rGk2S.jpg) | ![](https://image.tmdb.org/t/p/w200/jzqsxRSmaYBwbXVMvqQ54fOljTD.jpg) | ![](https://image.tmdb.org/t/p/w200/4oOz7UIQpz9d7rshhEEnukPgsw2.jpg) | ![](https://image.tmdb.org/t/p/w200/df8tTDXxd4wgDgaldnph2I0R2UB.jpg) | ![](https://image.tmdb.org/t/p/w200/RVPULCXUjssqgu8hWTf9liKhVW.jpg)
 
 **Gêneros mais comuns:**
-* Drama (48)
-* Thriller (48)
+* Crime (117)
+* Drama (117)
 
 
 **Palavras-chave mais comuns:**
-* murder (11)
-* revenge (7)
-* loss of loved one (6)
-* psychological thriller (4)
-* high school (4)
-* rape (4)
-* neo-noir (4)
-* psychopath (3)
-* torture (3)
-* suburb (3)
-* casino (3)
-* 1980s (3)
-* robbery (3)
-* obsessed fan (2)
-* violence in schools (2)
+* murder (17)
+* gangster (14)
+* film noir (12)
+* neo-noir (8)
+* mafia (7)
+* rape (7)
+* drugs (7)
+* police (7)
+* love (6)
+* drug dealer (5)
+* money (5)
+* 1980s (5)
+* black and white (5)
+* heroin (5)
+* juvenile delinquent (5)
 

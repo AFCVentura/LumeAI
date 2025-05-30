@@ -141,8 +141,8 @@ namespace LumeAI.Services
 
             // Filtra o enumerable com todos os filmes
             IEnumerable<MovieData> filteredMovies = allMovies
-                .Where(m => m.VoteAverage >= 5.5f && // Tem que ter a nota acima de 5.5
-                            m.VoteCount >= 150 && // Tem que ter pelo menos 150 avaliações
+                .Where(m => m.VoteAverage >= 4.5f && // Tem que ter a nota acima de 5.5
+                            m.VoteCount >= 75 && // Tem que ter pelo menos 150 avaliações
                             m.Adult == false && // Não pode ser filme adulto
                             m.Status == "Released" && // Tem que ter sido lançado
                             m.PosterPath is not null && // Tem que ter um poster
