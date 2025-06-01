@@ -118,7 +118,7 @@ namespace LumeAI.Services
                             if (genre.Id == 0) _context.Genres.Add(genre);
                             genresCache[genreName] = genre;
                         }
-                        if (!movieEntity.MovieGenres.Any(mk => mk.Genre.Id == genre.Id))
+                        if (!movieEntity.MovieGenres.Any(mk => mk.Genre.Name == genre.Name))
                         {
                             movieEntity.MovieGenres.Add(new MovieGenre { Genre = genre });
                         }
@@ -135,7 +135,7 @@ namespace LumeAI.Services
                             if (keyword.Id == 0) _context.Keywords.Add(keyword);
                             keywordsCache[keywordName] = keyword;
                         }
-                        if (!movieEntity.MovieKeywords.Any(mk => mk.Keyword.Id == keyword.Id))
+                        if (!movieEntity.MovieKeywords.Any(mk => mk.Keyword.Name == keyword.Name))
                         {
                             movieEntity.MovieKeywords.Add(new MovieKeyword { Keyword = keyword });
                         }
@@ -152,7 +152,7 @@ namespace LumeAI.Services
                             if (company.Id == 0) _context.ProductionCompanies.Add(company);
                             companiesCache[companyName] = company;
                         }
-                        if (!movieEntity.MovieProductionCompanies.Any(mk => mk.ProductionCompany.Id == company.Id))
+                        if (!movieEntity.MovieProductionCompanies.Any(mk => mk.ProductionCompany.Name == company.Name))
                         {
                             movieEntity.MovieProductionCompanies.Add(new MovieProductionCompany { ProductionCompany = company });
                         }
@@ -169,7 +169,7 @@ namespace LumeAI.Services
                             if (country.Id == 0) _context.ProductionCountries.Add(country);
                             countriesCache[countryName] = country;
                         }
-                        if (!movieEntity.MovieProductionCountries.Any(mk => mk.ProductionCountry.Id == country.Id))
+                        if (!movieEntity.MovieProductionCountries.Any(mk => mk.ProductionCountry.Name == country.Name))
                         {
                             movieEntity.MovieProductionCountries.Add(new MovieProductionCountry { ProductionCountry = country });
                         }
@@ -186,7 +186,7 @@ namespace LumeAI.Services
                             if (language.Id == 0) _context.SpokenLanguages.Add(language);
                             languagesCache[languageName] = language;
                         }
-                        if (!movieEntity.MovieSpokenLanguages.Any(mk => mk.SpokenLanguage.Id == language.Id))
+                        if (!movieEntity.MovieSpokenLanguages.Any(mk => mk.SpokenLanguage.Name == language.Name))
                         {
                             movieEntity.MovieSpokenLanguages.Add(new MovieSpokenLanguage { SpokenLanguage = language });
                         }
