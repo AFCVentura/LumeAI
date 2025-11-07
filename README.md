@@ -1,11 +1,8 @@
-# LumeTreinamentoIA
+# LumeIA
+This is the repository with the code needed to train Lume's AI.
 
-# Instruções para o uso do Dataset
+## What is Lume
+Lume is a mobile movie recommendation app project. The application was built using .NET MAUI, the server with ASP.NET Core, the database with MySQL, and the AI ​​with ML.NET.
 
-## Link do Dataset
-https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies
+The app recommends movies based on user responses about their current movie preferences. The movies are pre-grouped into clusters in the database, and filters are applied to the clusters closest to the user's preferences to select a few movies that fit their desires.
 
-É preciso baixar o dataset, descompactá-lo e colocar na raiz do projeto com o nome dataset.csv.
-
-## Outros arquivos
-Para funcionamento do projeto completo, são necessários alguns arquivos na pasta Resources, o primeiro passo é ajustar os caminhos no método Main para o caminho do projeto, o segundo passo é baixar os JSONs necessários no ClickUp e colocar na pasta Resources.
